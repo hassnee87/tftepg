@@ -3,39 +3,7 @@
   <channel id="Real-Disaster-Channel-US">
     <display-name>Real Disaster Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Disaster-Channel-US.png" />
-  </channel><programme channel="Real-Disaster-Channel-US" start="20260416162333 +0500" stop="20260416172333 +0500">
-    <title>Mayday : Air Disaster</title>
-    <sub-title>Mayday: Air Disaster</sub-title>
-    <desc>One of the most horrifying mid-air collisions in history happened over India in 1996.</desc>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <date>20230123</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/h13bpqckzb3v1l7q8wql4kc68/w1920_h1080/h13bpqckzb3v1l7q8wql4kc68.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416172333 +0500" stop="20260416181815 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 4</sub-title>
-    <desc>When an aircraft loses total engine power, a pilot's training can make all the difference in the world.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <date>20230504</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/tkpa2bsnjuia1cds2ovdngaff/w1920_h1080/tkpa2bsnjuia1cds2ovdngaff.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416181815 +0500" stop="20260416191258 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>Facing deadly tragedies that could have been avoided</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <date>20230504</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/13suxnaioh8dj1thojnycbvno/w1920_h1080/13suxnaioh8dj1thojnycbvno.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416191258 +0500" stop="20260416200732 +0500">
-    <title>Mayday: Air Disaster</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>John F. Kennedy Jr. is piloting his brand new Piper Saratoga when the aircraft mysteriously disappears.</desc>
-    <episode-num system="onscreen">S14E06</episode-num>
-    <date>20230725</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1sobqsyy4ywfc18zkx42xzd6m/w1920_h1080/1sobqsyy4ywfc18zkx42xzd6m.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416200732 +0500" stop="20260416210214 +0500">
+  </channel><programme channel="Real-Disaster-Channel-US" start="20260416200732 +0500" stop="20260416210214 +0500">
     <title>Mayday: The Accident Files</title>
     <sub-title>Episode 2</sub-title>
     <desc>The simplest mistakes are at the heart of some of the worst airline accidents.</desc>
@@ -219,5 +187,37 @@
     <date>20230504</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/2jy2rutd6v6c1g0odv3jibyzq/w1920_h1080/2jy2rutd6v6c1g0odv3jibyzq.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417171857 +0500" stop="20260417181357 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>In 1956, a mid-air collision sends two planes crashing into the Grand Canyon.</desc>
+    <episode-num system="onscreen">S12E06</episode-num>
+    <date>20120101</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/xp9c030wi7em16bnle4us7a4s/w1920_h1080/xp9c030wi7em16bnle4us7a4s.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417181357 +0500" stop="20260417190839 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>An African airliner mysteriously disappears from radar and crashes in Namibia.</desc>
+    <episode-num system="onscreen">S20E09</episode-num>
+    <date>20230915</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/cxwgydi9f3rf17d26r3o241wl/w1920_h1080/cxwgydi9f3rf17d26r3o241wl.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417190839 +0500" stop="20260417200322 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>Basketball legend Kobe Bryant is killed in a helicopter crash in Los Angeles.</desc>
+    <episode-num system="onscreen">S22E10</episode-num>
+    <date>20230619</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/3geu6swlldr19wjezyvembjf/w1920_h1080/3geu6swlldr19wjezyvembjf.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417200322 +0500" stop="20260417205755 +0500">
+    <title>Mayday: Air Disaster</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>A plane crash that killed UN Secretary General Dag Hammarskjold.</desc>
+    <episode-num system="onscreen">S15E05</episode-num>
+    <date>20230508</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/1ktv1ml7a9d6917t6v1dxqowq/w1920_h1080/1ktv1ml7a9d6917t6v1dxqowq.jpg" />
   </programme>
 </tv>

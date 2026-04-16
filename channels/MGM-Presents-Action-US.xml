@@ -3,23 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260416145956 +0500" stop="20260416173400 +0500">
-    <title>The Man In The Iron Mask</title>
-    <sub-title />
-    <desc>Leonardo DiCaprio leads a phenomenal cast in this thrilling tale of majesty and Musketeers. When the excesses of France's arrogant King Louis XIV begin to threaten his subjects' very lives, the legendary Musketeers reunite to save their country!</desc>
-    <date>19980101</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7103030673587919849/Texted/rectangle/shbd9rvsr40m18seplev0wsax.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260416173400 +0500" stop="20260416200656 +0500">
-    <title>The Bounty</title>
-    <sub-title />
-    <desc>Anthony Hopkins delivers a brilliant portrayal as William Bligh, the sea captain who, in 1787, steered The Bounty on a 27,000-mile voyage into danger, chaos and madness, and whose first mate (Mel Gibson) lead a legendary mutiny against him..</desc>
-    <date>20230228</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7036172404379099625/Unspecified/rectangle/1xy0nrqlijtwd1vikv265nc1hu.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260416200656 +0500" stop="20260416232730 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260416200656 +0500" stop="20260416232730 +0500">
     <title>The Great Escape</title>
     <sub-title />
     <desc>Steve McQueen, James Garner and Richard Attenborough headline a stellar cast in one of the most ingenious and suspenseful adventure films of all time as a team of Allied soldiers mount a daring escape from an "inescapable" Nazi POW camp.</desc>
@@ -99,5 +83,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7102966128222580573/Unspecified/rectangle/1eh333tfvvsda1medrlph38ome.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260417183112 +0500" stop="20260417202737 +0500">
+    <title>White Lightning</title>
+    <sub-title />
+    <desc>Burt Reynolds stars as a moonshiner who wages war against corrupt police officials in this action extravaganza full of epic car chases, bone-crunching brawls and terrific acting by a stellar cast that includes Ned Beatty, Diane Ladd and Bo Hopkins.</desc>
+    <date>20230512</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7064366951831139764/Unspecified/rectangle/a73gu9ao3sqn1m016lfs2juhw.jpg" />
   </programme>
 </tv>

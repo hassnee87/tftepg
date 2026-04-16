@@ -3,55 +3,7 @@
   <channel id="BBC-Comedy-US">
     <display-name>BBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
-  </channel><programme channel="BBC-Comedy-US" start="20260416164308 +0500" stop="20260416171637 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Samsara</sub-title>
-    <desc>Lister and Cat get trapped when investigating a shipwreck at the bottom of an ocean moon.</desc>
-    <episode-num system="onscreen">S11E02</episode-num>
-    <date>20160929</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/7cWGngshizgRMdHV6VpR1hEwS8D.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416171637 +0500" stop="20260416175004 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Give and Take</sub-title>
-    <desc>After an altercation with a deranged droid, Lister has his kidneys organ-napped.</desc>
-    <episode-num system="onscreen">S11E03</episode-num>
-    <date>20161006</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/jUFT4AT0nMLiZVPjAlilbIwl9XH.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416175004 +0500" stop="20260416182219 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Officer Rimmer</sub-title>
-    <desc>After a scandalous piece of good fortune, Rimmer is promoted to being an Officer.</desc>
-    <episode-num system="onscreen">S11E04</episode-num>
-    <date>20161013</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/qo707uoukuu78xPBEpvJK085npX.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416182219 +0500" stop="20260416185306 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Krysis</sub-title>
-    <desc>Kryten has a mid-life crisis and changes his body cover from grey to Ferrari red.</desc>
-    <episode-num system="onscreen">S11E05</episode-num>
-    <date>20161020</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/bTG4E9cTZTJczdwEG8YIOCr9okD.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416185306 +0500" stop="20260416192559 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Can of Worms</sub-title>
-    <desc>Cat takes time off from being in love with himself to fall for a lady Cat.</desc>
-    <episode-num system="onscreen">S11E06</episode-num>
-    <date>20161027</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/9una0o0cU1wB331TmmyqLb1EYHz.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416192559 +0500" stop="20260416195916 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Cured</sub-title>
-    <desc>The crew stumble on a science centre where vile historical figures have been 'cured' of evil.</desc>
-    <episode-num system="onscreen">S12E01</episode-num>
-    <date>20171012</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/qBQfbAymnhG9UXRaHgOOWEf89My.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416195916 +0500" stop="20260416203032 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260416195916 +0500" stop="20260416203032 +0500">
     <title>Red Dwarf</title>
     <sub-title>Siliconia</sub-title>
     <desc>Lister, Cat and Rimmer are uploaded into mechanoid bodies and forced into slavery.</desc>
@@ -371,5 +323,45 @@
     <date>19880906</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/slVo0l5huLEAv22Wx9BET4bsBbs.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417174719 +0500" stop="20260417182049 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Better Than Life</sub-title>
+    <desc>The boys become immersed in the Better than Life reality game.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>19880913</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/3ADrvCnCQ16PCu29pXRSoPM8mro.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417182049 +0500" stop="20260417185513 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Thanks for the Memory</sub-title>
+    <desc>Lister and Cat wake up with their legs in plaster. What's going on?</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>19880920</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/AqTRIlyHNefTIPphkZP3xUu2SeE.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417185513 +0500" stop="20260417192906 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Stasis Leak</sub-title>
+    <desc>The crew of Red Dwarf have found a way to go back in time three million years.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>19880927</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/g9ZX04f2WgE2j9a6Wg1pbB54TZD.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417192906 +0500" stop="20260417200243 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Queeg</sub-title>
+    <desc>Holly has been deposed and the back-up computer Queeg 500 is in control of Red Dwarf.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>19881004</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/reTPmU2TTEao9bANwVg36UzdbLV.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417200243 +0500" stop="20260417203506 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Parallel Universe</sub-title>
+    <desc>Holly's latest invention takes the crew into a bizarre parallel universe.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>19881011</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/bhs2aZt3XZxugPiwDck9i65EuEf.jpg" />
   </programme>
 </tv>

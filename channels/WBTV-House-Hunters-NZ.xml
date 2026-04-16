@@ -3,52 +3,7 @@
   <channel id="WBTV-House-Hunters-NZ">
     <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260416185000 +0500" stop="20260416191500 +0500">
-    <title>House Hunters</title>
-    <sub-title>A Second Home In Palm Springs</sub-title>
-    <desc />
-    <episode-num system="onscreen">S192E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260416191500 +0500" stop="20260416194000 +0500">
-    <title>House Hunters</title>
-    <sub-title>California Dreaming In Redlands</sub-title>
-    <desc />
-    <episode-num system="onscreen">S193E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260416194000 +0500" stop="20260416200500 +0500">
-    <title>House Hunters</title>
-    <sub-title>New vs. Old In Florida</sub-title>
-    <desc />
-    <episode-num system="onscreen">S194E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260416200500 +0500" stop="20260416202500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Room For mum In Tucson</sub-title>
-    <desc />
-    <episode-num system="onscreen">S195E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260416202500 +0500" stop="20260416205000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Jersey Shore Waterfront</sub-title>
-    <desc />
-    <episode-num system="onscreen">S196E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260416205000 +0500" stop="20260416211500 +0500">
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260416205000 +0500" stop="20260416211500 +0500">
     <title>House Hunters International</title>
     <sub-title>A Backpacker's Dream Down Under</sub-title>
     <desc />
@@ -629,6 +584,24 @@
     <sub-title>Vannin' To Sayulita, Mexico</sub-title>
     <desc />
     <episode-num system="onscreen">S179E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417231500 +0500" stop="20260417233500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Teen Trouble In Germany</sub-title>
+    <desc />
+    <episode-num system="onscreen">S168E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417233500 +0500" stop="20260418000000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>French Rivera, Family-Style</sub-title>
+    <desc />
+    <episode-num system="onscreen">S169E12</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>

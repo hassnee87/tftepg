@@ -3,33 +3,7 @@
   <channel id="Love-Nature-US">
     <display-name>Love Nature</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
-  </channel><programme channel="Love-Nature-US" start="20260416160400 +0500" stop="20260416170600 +0500">
-    <title>Deep In The Heart</title>
-    <sub-title />
-    <desc>Join Matthew McConaughey for a unique look at the Lone Star State’s wild places.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/22df2f34ddc6a5cda9dd00168b0a17d9/rokuFeed/assets/9133f6bd6bca54e1a8eec4717d204ac4.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416170600 +0500" stop="20260416181300 +0500">
-    <title>Slovenia - Where Nature Comes First</title>
-    <sub-title />
-    <desc>Trek from sea to summit and see why Slovenia is a leader in sustainable living.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ddc6dfe27f88fcd34635cf4e6f006cdd/rokuFeed/assets/a289b5f0e53154be9534ff9c8963f457.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416181300 +0500" stop="20260416191300 +0500">
-    <title>Hotspots</title>
-    <desc>The many habitats of one of Australia's most diverse areas plays home to an array of bird species.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/374457523826511b90844d4cf7cb3a21/images/gracenote/assets/p16651801_b_h8_ai.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416191300 +0500" stop="20260416201300 +0500">
-    <title>Inside The Pack</title>
-    <sub-title />
-    <desc>Navigate the minefields of pack life and see how animals learn to co-operate.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4c0c5d2d152e574d81dc67057114c289/rokuFeed/assets/1bc08b5d87885750a71dae846222307a.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416201300 +0500" stop="20260416211700 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260416201300 +0500" stop="20260416211700 +0500">
     <title>A Cheetah's Pride</title>
     <desc>Chilli and Inara's families confront each other, followed by their respective cubs.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -150,12 +124,6 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9aa844cac934587697cedd8ae7d1d335/images/gracenote/assets/p27351351_b_h8_aa.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417160700 +0500" stop="20260417170300 +0500">
-    <title>Ireland's Wild Islands</title>
-    <desc>Explore a 1,500-year-old monastery among the dizzying crags of the world-famous Skellig Islands.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9aa844cac934587697cedd8ae7d1d335/images/gracenote/assets/p27351351_b_h8_aa.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260417170300 +0500" stop="20260417180500 +0500">
     <title>Dawn to Dusk</title>
     <desc>Mother's Day means the beginning of the dry season in Sri Lanka and the end of it in India.</desc>
@@ -169,17 +137,23 @@
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260417190800 +0500" stop="20260417200600 +0500">
-    <title>Horizontes Salvajes de África</title>
-    <desc>Experimenta un delta exuberante, hermoso y vital en el Desierto del Kalahari.</desc>
+    <title>Africa's Wild Horizons</title>
+    <desc>The Okavango delta is home to diverse wildlife.</desc>
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/06ed49888e5dcea669ad4d8bf03ec54a/rokuFeed/assets/ba45c87cd74e55809efa1eef1e7857a0.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260417200600 +0500" stop="20260417210500 +0500">
-    <title>Horizontes Salvajes de África</title>
-    <desc>Aprende sobre las especies clave que viven en un reino de bosques y sabana.</desc>
+    <title>Africa's Wild Horizons</title>
+    <desc>Swaziland is home to a massive amount of wildlife.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/06ed49888e5dcea669ad4d8bf03ec54a/rokuFeed/assets/ba45c87cd74e55809efa1eef1e7857a0.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260417200600 +0500" stop="20260417210500 +0500">
+    <title>Africa's Wild Horizons</title>
+    <desc>Swaziland is home to a massive amount of wildlife.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260417210500 +0500" stop="20260417220400 +0500">
     <title>Undiscovered Vistas</title>
     <desc>Lake Superior has the longest undeveloped shoreline of Canada's Great lakes.</desc>

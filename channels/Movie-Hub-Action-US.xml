@@ -3,19 +3,7 @@
   <channel id="Movie-Hub-Action-US">
     <display-name>Movie Hub Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-Action-US.png" />
-  </channel><programme channel="Movie-Hub-Action-US" start="20260416164200 +0500" stop="20260416183900 +0500">
-    <title>The Crow: Salvation</title>
-    <sub-title />
-    <desc>A mystical crow revives an innocent executed man (Eric Mabius) and helps him find a killer.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fe69190ec3b55aba8ccccfb37350f4dd/rokuFeed/assets/8558c624a86850ab8386497bbbe28cb6.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260416183900 +0500" stop="20260416203000 +0500">
-    <title>The Contract</title>
-    <sub-title />
-    <desc>A man (John Cusack) and his son encounter an assassin (Morgan Freeman) in a forest.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e9e6eac94a7f5087a26a68eb8c894ff9/images/gracenote/assets/p171933_v_h8_ai.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260416203000 +0500" stop="20260416221400 +0500">
+  </channel><programme channel="Movie-Hub-Action-US" start="20260416203000 +0500" stop="20260416221400 +0500">
     <title>Prey</title>
     <sub-title />
     <desc>Hungry lions trap a woman (Bridget Moynahan) and her stepchildren inside a car.</desc>
@@ -81,12 +69,6 @@
     <desc>Two Japan-obsessed teenagers are transformed into super-powered characters by a magical anime.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34bebf0e06c856338d0ff7ec24cba050/images/gracenote/assets/p20673134_v_h10_ab.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417151700 +0500" stop="20260417170300 +0500">
-    <title>Iké Boys</title>
-    <sub-title />
-    <desc>Two Japan-obsessed teenagers are transformed into super-powered characters by a magical anime.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34bebf0e06c856338d0ff7ec24cba050/images/gracenote/assets/p20673134_v_h10_ab.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260417170300 +0500" stop="20260417184000 +0500">
     <title>The Tank</title>
     <sub-title />
@@ -99,6 +81,12 @@
     <desc>A vampire hematologist joins forces with humans to find a cure for his problem.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3da24d0532f15c958126e0fcb21ab1dc/images/gracenote/assets/p193983_v_h10_aj.jpg" />
+  </programme><programme channel="Movie-Hub-Action-US" start="20260417203300 +0500" stop="20260417221700 +0500">
+    <title>The Darkest Hour</title>
+    <sub-title />
+    <desc>In Moscow, five survivors of an alien attack try to figure out how to fight back.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b07699d0ec055b496ff6e1812fafced/images/gracenote/assets/p8554321_v_h11_ao.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260417203300 +0500" stop="20260417221700 +0500">
     <title>The Darkest Hour</title>
     <sub-title />

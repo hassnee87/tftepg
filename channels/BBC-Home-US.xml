@@ -3,32 +3,7 @@
   <channel id="BBC-Home-US">
     <display-name>BBC Home &amp;amp; Garden</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Home-US.png" />
-  </channel><programme channel="BBC-Home-US" start="20260416162219 +0500" stop="20260416172615 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Monty Don and Arit Anderson celebrate the power of gardening to bring people together.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416172615 +0500" stop="20260416182835 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>A team of experts have top tips to help you make the most of nature in your garden.</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416182835 +0500" stop="20260416193734 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>Monty Don, Rachel de Thame and the team celebrate the ways gardening can be good for you.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416193734 +0500" stop="20260416204206 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>The Chelsea experts reveal how to make the most of your garden this summer.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416204206 +0500" stop="20260416211456 +0500">
+  </channel><programme channel="BBC-Home-US" start="20260416204206 +0500" stop="20260416211456 +0500">
     <title>Chelsea Flower Show: 2025</title>
     <sub-title />
     <desc>Sophie Raworth and Adam Frost are joined by special guest Dame Mary Berry.</desc>
@@ -163,12 +138,6 @@
     <episode-num system="onscreen">S2015E00</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417160812 +0500" stop="20260417170242 +0500">
-    <title>Phil Spencer: Secret Agent</title>
-    <desc>Phil Spencer is in Yorkshire trying to shift a stubborn semi that's turning buyers off.</desc>
-    <episode-num system="onscreen">S2015E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417170242 +0500" stop="20260417175745 +0500">
     <title>Phil Spencer: Secret Agent</title>
     <desc>Phil Spencer is helping a family whose house has been on the market for an incredible five years.</desc>
@@ -191,6 +160,12 @@
     <title>Phil Spencer: Secret Agent</title>
     <desc>"Phil takes on a Sicilian style home in Bath. With sellers who don't seem to be listening, can he get a sale?"</desc>
     <episode-num system="onscreen">S04E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
+  </programme><programme channel="BBC-Home-US" start="20260417204050 +0500" stop="20260417213537 +0500">
+    <title>Phil Spencer: Secret Agent</title>
+    <desc>"Phil Spencer is tackling a home stuck in the last century and on the market, but with no front door."</desc>
+    <episode-num system="onscreen">S04E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417204050 +0500" stop="20260417213537 +0500">

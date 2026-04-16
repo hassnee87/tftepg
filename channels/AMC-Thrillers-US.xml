@@ -3,25 +3,7 @@
   <channel id="AMC-Thrillers-US">
     <display-name>AMC Thrillers</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AMC-Thrillers-US.png" />
-  </channel><programme channel="AMC-Thrillers-US" start="20260416153747 +0500" stop="20260416172859 +0500">
-    <title>Haunter</title>
-    <sub-title />
-    <desc>A ghost tries to protect a girl and her family from a dead serial killer who can possess the living.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b77edcc8ba115a51870b01a94a4168f9/images/gracenote/assets/p9864548_v_h8_af.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260416172859 +0500" stop="20260416190505 +0500">
-    <title>Phobia</title>
-    <sub-title />
-    <desc>Jonathan is haunted by twisted visions that tear away his sanity.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/98e2c144fd4f5b1795bc7d9d3a49b76f/images/gracenote/assets/p11210344_v_h10_ab.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260416190505 +0500" stop="20260416203728 +0500">
-    <title>The Invoking</title>
-    <sub-title />
-    <desc>Samantha inherits a house and experiences horrific visions when she visits the property.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f4ea95ea81f7530fb3e2ae5b8d5dd93b/rokuFeed/assets/9523e923dac05c09ad9d8145421dad47.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260416203728 +0500" stop="20260416221249 +0500">
+  </channel><programme channel="AMC-Thrillers-US" start="20260416203728 +0500" stop="20260416221249 +0500">
     <title>The Invoking 2</title>
     <sub-title />
     <desc>An anthology of hapless victims, demonic forces and vengeful spirits.</desc>
@@ -87,12 +69,6 @@
     <desc>When a game is interrupted, the staff investigates the disappearance of the game's mastermind.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d813650234145c2f9d482e307ab2f60a/rokuFeed/assets/327711ef72d759ce881f11ec7fabd229.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260417153223 +0500" stop="20260417172207 +0500">
-    <title>The Bunker Game</title>
-    <sub-title />
-    <desc>When a game is interrupted, the staff investigates the disappearance of the game's mastermind.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d813650234145c2f9d482e307ab2f60a/rokuFeed/assets/327711ef72d759ce881f11ec7fabd229.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260417172207 +0500" stop="20260417185430 +0500">
     <title>The Invoking</title>
     <sub-title />
@@ -105,6 +81,12 @@
     <desc>A woman confronts the malicious forces that are trying to take hold of her son.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f3058685123757fe9e9466818d427711/rokuFeed/assets/75877189434c5e39a65df54851cd8056.jpg" />
+  </programme><programme channel="AMC-Thrillers-US" start="20260417205910 +0500" stop="20260417225511 +0500">
+    <title>A Dark Song</title>
+    <sub-title />
+    <desc>A young woman and a damaged occultist risk their souls to perform a ritual.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fa769f165d9a58be9649ade2a5b1715f/images/gracenote/assets/p13286457_v_h8_aa.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260417205910 +0500" stop="20260417225511 +0500">
     <title>A Dark Song</title>
     <sub-title />

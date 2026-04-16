@@ -3,31 +3,7 @@
   <channel id="BBC-Food-US">
     <display-name>BBC Food</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Food-US.png" />
-  </channel><programme channel="BBC-Food-US" start="20260416155818 +0500" stop="20260416170517 +0500">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <desc>Rick explores the multi-faceted cuisines of Penang.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad24e18f4135bd91ad1e9912eee9f064/rokuFeed/assets/0258279649ff540b905a02f141372537.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260416170517 +0500" stop="20260416180932 +0500">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <desc>Rick visits Sri Lanka and discovers a wealth of hot and spicy vegetable curries.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad24e18f4135bd91ad1e9912eee9f064/rokuFeed/assets/0258279649ff540b905a02f141372537.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260416180932 +0500" stop="20260416191639 +0500">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <desc>Rick ends his culinary tour in Bangladesh.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad24e18f4135bd91ad1e9912eee9f064/rokuFeed/assets/0258279649ff540b905a02f141372537.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260416191639 +0500" stop="20260416202337 +0500">
-    <title>Rick Stein's India</title>
-    <desc>Rick explores Bengal and Tamil Nadu, the regions that began Britain's love affair with curry.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d9269df9a65d5d569e81a158a88b9c5e/images/gracenote/assets/p10019991_b_h8_ai.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260416202337 +0500" stop="20260416213040 +0500">
+  </channel><programme channel="BBC-Food-US" start="20260416202337 +0500" stop="20260416213040 +0500">
     <title>Rick Stein's India</title>
     <sub-title />
     <desc>Rick explores Mumbai in search of the bombil, the fish that immortalized Bombay Duck.</desc>
@@ -240,12 +216,6 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417165957 +0500" stop="20260417173307 +0500">
-    <title>Nigel Slater's Simple Cooking</title>
-    <desc>Nigel continues to explore successful food marriages in the kitchen.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260417173307 +0500" stop="20260417180617 +0500">
     <title>Nigel Slater's Simple Cooking</title>
     <desc>Nigel Slater shows us how to mix spicy flavors with something cooling.</desc>
@@ -280,6 +250,12 @@
     <title>Nigel Slater's Simple Cooking</title>
     <desc>The spotlight is on the classic culinary pairing of fish and meat.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
+  </programme><programme channel="BBC-Food-US" start="20260417205139 +0500" stop="20260417212449 +0500">
+    <title>Nigel Slater's Simple Cooking</title>
+    <desc>Why do spicy flavors work so well with something cooling? Nigel shares some of his favorite dishes.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260417205139 +0500" stop="20260417212449 +0500">

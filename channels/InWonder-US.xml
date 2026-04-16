@@ -3,47 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260416161333 +0500" stop="20260416171650 +0500">
-    <title>Ancient Engineering S1 - "History’s Greatest Ships"</title>
-    <sub-title>History’s Greatest Ships</sub-title>
-    <desc>As far back as the Bronze Age, humans were building ships capable of crossing oceans and trading between continents.</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <date>20200101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d36fd6ec059cb95f/IN00007430_01_0008_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416171650 +0500" stop="20260416175227 +0500">
-    <title>The Age of Robots S1 - "The Humanoid Robots"</title>
-    <sub-title>The Humanoid Robots</sub-title>
-    <desc>They look, they move like us and soon they will live among us. They are humanoid robots.Meet an astonishing group of humanoids,among them: iCub,the world's first baby robot and REEM,the Service Robot,ready to be launched as a guide in public spaces.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20150101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/486ae896218bb25d/IN00008455_01_0001_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416175227 +0500" stop="20260416182815 +0500">
-    <title>The Age of Robots S1 - "Bioinspired Robots"</title>
-    <sub-title>Bioinspired Robots</sub-title>
-    <desc>In this episode we look at a robotic plant that mimics the mechanics of plant roots, and dive underwater to see robots inspired by fish.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20150101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c439b21cc683b049/IN00008455_01_0002_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416182815 +0500" stop="20260416190416 +0500">
-    <title>The Age of Robots S1 - "City of the Future"</title>
-    <sub-title>City of the Future</sub-title>
-    <desc>By the year 2050, three qarters of the world's population will live in urban areas. Looking at robotic systems being developed worlwide we can take a glimpse at the city life of the future.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20150101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/fc0c76aff109af90/IN00008455_01_0003_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416190416 +0500" stop="20260416194137 +0500">
-    <title>The Age of Robots S1 - "Robot Explorers"</title>
-    <sub-title>Robot Explorers</sub-title>
-    <desc>Inhospitable environments that would normally be unreacheble become accessible thanks to Robot Explorers. Robots can help us in difficult tasks but is there any danger in letting machines handle so many tasks that used to belong to us?</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20150101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/2d94a65f17c695a7/IN00008455_01_0004_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416194137 +0500" stop="20260416205108 +0500">
+  </channel><programme channel="InWonder-US" start="20260416194137 +0500" stop="20260416205108 +0500">
     <title>Journey to Planet Earth S2 - "Hot Zones"</title>
     <sub-title>Hot Zones</sub-title>
     <desc>Examines how recent trends in globalization and the altering of ecosystems have led to dramatic increases in the spread of infectious diseases.</desc>
@@ -308,5 +268,53 @@
     <date>20160101</date>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/a0698e5083c8953a/IN00006350_03_0000_Logo_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417173122 +0500" stop="20260417180130 +0500">
+    <title>The New Frontier S2 - "Emissaries"</title>
+    <sub-title>Emissaries</sub-title>
+    <desc>Our solar system is vast, from our own star the Sun to Earth is nearly 150 million kilometers or 1 Astronomical Unit. Jupiter is 5.2 AU distant and Pluto up to 48AU, the solar system extends far beyond this into interstellar space.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c5d8aa7b70aab7a2/IN00006350_01_0000_Title_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417180130 +0500" stop="20260417183208 +0500">
+    <title>The New Frontier S2 - "Danger Asteroids Ahead"</title>
+    <sub-title>Danger Asteroids Ahead</sub-title>
+    <desc>The question often rises is the cost of space exploration really worth it? Could the money be better spent elsewhere. If so one space program would have to remain. The planetary defence program, to locate identify and deflect a wayward asteroid.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/bee92f7e4c27a6a1/IN00006350_03_0000_Clean_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417183208 +0500" stop="20260417185901 +0500">
+    <title>Survival Science S1 - "Surviving Nature’s Fury – Storms"</title>
+    <sub-title>Surviving Nature’s Fury – Storms</sub-title>
+    <desc>Nick and Laura experience Nature’s fury through storm amazing generating gear that simulates terrible hurricanes, ice cold winds and even tornados. For these experiments they’ll use remarkable technology that creates massive storms on Hollywood sets.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20170101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/b10161cd84e52250/IN00006319_01_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417185901 +0500" stop="20260417192436 +0500">
+    <title>Survival Science S1 - "Surviving a Mountain Lion Attack"</title>
+    <sub-title>Surviving a Mountain Lion Attack</sub-title>
+    <desc>Laura and Nick explore the techniques to deal with these apex predators when they are the most dangerous. We’ll scientifically breakdown the behaviors, strength, eyesight and speed of mountain lions through outrageous experiments, in day and night.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20170101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/acb785aabe5e8eb0/IN00006319_01_0006_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417192436 +0500" stop="20260417195320 +0500">
+    <title>Nigel Latta Blows Stuff Up S1 - "Fire"</title>
+    <sub-title>Fire</sub-title>
+    <desc>What really happens in a house fire ? Nigel sets out to get the answer by setting a house on fire. The results are surprising.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20150101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/12879bb9d2eced06/IN00008123_01_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417195320 +0500" stop="20260417202221 +0500">
+    <title>Nigel Latta Blows Stuff Up S1 - "Space"</title>
+    <sub-title>Space</sub-title>
+    <desc>Nigel wants to be the first New Zealander to make it into space. To do so he explores the fundamental physics of rocket science, and demonstrates the sometimes wayward nature of science.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20150101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/53f258e035fb591b/IN00008123_01_0006_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

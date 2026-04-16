@@ -3,47 +3,7 @@
   <channel id="BBC-Sci-Fi-US">
     <display-name>BBC Sci-Fi</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Sci-Fi-US.png" />
-  </channel><programme channel="BBC-Sci-Fi-US" start="20260416170413 +0500" stop="20260416173718 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Time Wave</sub-title>
-    <desc>The Dwarfers run into a ship where criticism is illegal.</desc>
-    <episode-num system="onscreen">S12E03</episode-num>
-    <date>20171026</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/zwVAHA7b1PxL4esQLvPL7P2jJJo.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416173718 +0500" stop="20260416181105 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Mechocracy</sub-title>
-    <desc>When the machines on Red Dwarf go on strike, a presidential election is held.</desc>
-    <episode-num system="onscreen">S12E04</episode-num>
-    <date>20171102</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/cjaUQEICVx8jCxXGk4r586Y8seo.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416181105 +0500" stop="20260416184356 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>M-Corp</sub-title>
-    <desc>The Dwarfers discover that the owners of Red Dwarf have been bought out.</desc>
-    <episode-num system="onscreen">S12E05</episode-num>
-    <date>20171109</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/AqXMfB4l5owE8Dpkx0M2q1jn46c.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416184356 +0500" stop="20260416191753 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Skipper</sub-title>
-    <desc>Rimmer looks for another dimension where he is not such a giant loser.</desc>
-    <episode-num system="onscreen">S12E06</episode-num>
-    <date>20171116</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/6Q0EdanIYYzoUSDpdmcXESHn4OJ.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416191753 +0500" stop="20260416195159 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>The End</sub-title>
-    <desc>A radiation leak wipes out the crew of the ship Red Dwarf, leaving only one survivor.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>19880215</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/lDG6K3C98D8VvYMzbsdrSGCBPvp.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416195159 +0500" stop="20260416202454 +0500">
+  </channel><programme channel="BBC-Sci-Fi-US" start="20260416195159 +0500" stop="20260416202454 +0500">
     <title>Red Dwarf</title>
     <sub-title>Future Echoes</sub-title>
     <desc>Lister is presented with a disappointing vision of his future, but Rimmer is delighted.</desc>
@@ -363,5 +323,53 @@
     <date>19970214</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/3Q1cQMH5a9XvLS7988kM2Cxpu0O.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417172616 +0500" stop="20260417175908 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Beyond a Joke</sub-title>
+    <desc>In a hope to educate the crew Kochansky transports them to Pride and Prejudice World.</desc>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <date>19970221</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/2opndGs6hr0ug4UWxHYIt0nlNR.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417175908 +0500" stop="20260417183213 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Epideme</sub-title>
+    <desc>Lister is impregnated with a virus and he tries to talk his way out of the problem.</desc>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <date>19970228</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/gxVg1lpR6n01mMYvm4M8HFGpNu4.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417183213 +0500" stop="20260417190514 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Nanarchy</sub-title>
+    <desc>The crew finally discover who stole Red Dwarf and why.</desc>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <date>19970307</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/ej5lfF58aEGHzMMTCociUiSugnj.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417190514 +0500" stop="20260417193743 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Back in the Red, Part 1</sub-title>
+    <desc>The nanobots have not only re-created Red Dwarf, they have also brought back the old crew.</desc>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <date>19990218</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/8M8WIWNYpQTlIA8VUAVXqI16Jyz.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417193743 +0500" stop="20260417201000 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Back in the Red, Part 2</sub-title>
+    <desc>Rimmer plans to move up the career ladder with help from a 'sexual magnetism virus'.</desc>
+    <episode-num system="onscreen">S08E02</episode-num>
+    <date>19990225</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/ljie39QdlJq9jMUJ8rSv2WQSPt5.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417201000 +0500" stop="20260417204234 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Back in the Red, Part 3</sub-title>
+    <desc>The Dwarfers face two years in the brig for crimes against the Space Corps.</desc>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <date>19990304</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/em3ISyZOjviQM6ZL7YQTNwJ2f5D.jpg" />
   </programme>
 </tv>

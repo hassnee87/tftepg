@@ -3,39 +3,7 @@
   <channel id="Stories-by-AMC-US">
     <display-name>Stories by AMC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Stories-by-AMC-US.png" />
-  </channel><programme channel="Stories-by-AMC-US" start="20260416163300 +0500" stop="20260416172000 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>PalmBerry</sub-title>
-    <desc>BlackBerry hits the market; Mike and Jim try to avoid a hostile takeover; Jim strategizes to increase sales.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20231114</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/88bd3abcf2abc677aa706d2f2331ebbe.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416172000 +0500" stop="20260416181100 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>Storm</sub-title>
-    <desc>Apple announces the iPhone; Mike scrambles to please Verizon; Jim is unreachable trying to make a personal business deal; the Securities and Exchange Commission investigates the company.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20231115</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3a9f01fad2a7cd019fbf435b68bffad6.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416181100 +0500" stop="20260416190400 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>Pilot</sub-title>
-    <desc>Hank rants against Railton College, calling it "Mediocrity's Capitol," and the administration is pressured to fire him; Hank and Lily contemplate a future outside of Railton.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20230319</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fd7e9753af16034b65fe55f96d95313d.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416190400 +0500" stop="20260416195800 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>George Saunders</sub-title>
-    <desc>When George Saunders visits Railton College, the professors scramble to impress the celebrated writer, while Hank is reminded of his own failed writing career; Hank and Lily anticipate an announcement from their daughter Julie.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20230326</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6e4a4e9b90f378ecfc20d053b390721c.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416195800 +0500" stop="20260416204900 +0500">
+  </channel><programme channel="Stories-by-AMC-US" start="20260416195800 +0500" stop="20260416204900 +0500">
     <title>Lucky Hank</title>
     <sub-title>Escape</sub-title>
     <desc>Hank spirals when a storage pod full of his father's belongings is dropped in his front yard; the professors spiral when rumors of budget cuts threaten their tenured jobs.</desc>
@@ -225,5 +193,37 @@
     <date>20230402</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/0/gracenote/0630c23f52f52432cfe830f5d93fafbe.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417173200 +0500" stop="20260417181900 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>The Goose Boxer</sub-title>
+    <desc>Amid firing rumors, the professors look to the union to protect their jobs, while Hank tries a different approach; Lily interviews for a job at a prestigious New York prep school.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20230409</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3804662fd41025872614d9c83d91d0a5.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417181900 +0500" stop="20260417191300 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>The Clock</sub-title>
+    <desc>Hank and Lily host the annual English department dinner; Lily has a decision to make; Hank's past involving his troubled relationship with his father catches up to him.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20230416</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f4129ce646460b5682b35c9e4db1e365.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417191300 +0500" stop="20260417200300 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>The Arrival</sub-title>
+    <desc>Hank and Tony travel to an academic conference, where their differing philosophies on work and life cause friction; Lily mediates trouble in Julie and Russell's marriage.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20230423</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c8a8cce6bafcd902216cc4adfe908d83.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417200300 +0500" stop="20260417205300 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>The Count of Monte Cristo</sub-title>
+    <desc>Hank contends with the return of his father to Railton; Lily hunts for apartments in New York; Julie looks to Hank for help in Lily's absence.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20230430</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c58cf47b48f221bb4fdc641fa3c2487e.jpg" />
   </programme>
 </tv>

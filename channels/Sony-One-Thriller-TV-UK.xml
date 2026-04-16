@@ -3,39 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260416162914 +0500" stop="20260416172138 +0500">
-    <title>Missing</title>
-    <sub-title>Sea Of Love</sub-title>
-    <desc>A teenaged girl's disappearance moves Jess from the Academy to partnering with Special Agent Nicole Scott.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375969948471880016/solid/rectangle/w1920_h1080/uymm0920r9f91e3laanq7rusd.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416172138 +0500" stop="20260416181253 +0500">
-    <title>Missing</title>
-    <sub-title>Victoria</sub-title>
-    <desc>A depressed schizophrenic's disappearance puts an innocent boy in danger as it threatens to expose a psychiatrist's role in a patient's death.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7371999459161825346/solid/rectangle/w1920_h1080/b98hd1mhv5sv1y0y3bpj92jbt.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416181253 +0500" stop="20260416190409 +0500">
-    <title>Missing</title>
-    <sub-title>White Whale</sub-title>
-    <desc>A brilliant serial killer returns to seek revenge against Brooke for being sent to prison.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7371999677431356024/solid/rectangle/w1920_h1080/suy1g5hrl6bv1amj7qjhgzyi3.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416190409 +0500" stop="20260416195524 +0500">
-    <title>Missing</title>
-    <sub-title>Basic Training</sub-title>
-    <desc>Jess goes undercover at a prestigious military academy to investigate the disappearance of a new cadet.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7372010011014455868/solid/rectangle/w1920_h1080/o712gkrw28261fg1pfbui94hr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416195524 +0500" stop="20260416204710 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260416195524 +0500" stop="20260416204710 +0500">
     <title>Missing</title>
     <sub-title>Father Figure</sub-title>
     <desc>The disappearance of a prominent biochemist who holds the key to a valuable weight loss drug brings Brooke face-to-face with her estranged father.</desc>
@@ -235,5 +203,37 @@
     <date>20250922</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7375970074117292469/solid/rectangle/w1920_h1080/1kduq12n4kmmf17a92dqymdwn9.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417172830 +0500" stop="20260417182104 +0500">
+    <title>Missing</title>
+    <sub-title>Judgement Day</sub-title>
+    <desc>A noted Russian mobster's pre-trial hearing leads to the kidnapping of an innocent girl.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970286749634187/solid/rectangle/w1920_h1080/1rkru2zd9xr7w134amj43sg69b.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417182104 +0500" stop="20260417191338 +0500">
+    <title>Missing</title>
+    <sub-title>Resurrection</sub-title>
+    <desc>A mother claims she saw her son, who she thought died in a car accident ten years ago.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970682874942865/solid/rectangle/w1920_h1080/edaoysri3e7e1i7ly98p1bne6.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417191338 +0500" stop="20260417200643 +0500">
+    <title>Missing</title>
+    <sub-title>Last Stop</sub-title>
+    <desc>A missing casino tour bus leads Jess and Nicole to investigate an armored car robbery.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970147286804118/solid/rectangle/w1920_h1080/cb3mcem3g1ms16ds1hyfjjoyt.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417200643 +0500" stop="20260417205837 +0500">
+    <title>Missing</title>
+    <sub-title>Domestic Bliss</sub-title>
+    <desc>A family's disappearance exposes a drug turf war and draws Jess and Nicole into a battle with the DEA.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970501589285698/solid/rectangle/w1920_h1080/1dyxqev6r93l61hbtstucc8us9.jpg" />
   </programme>
 </tv>

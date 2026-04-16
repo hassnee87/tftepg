@@ -3,23 +3,7 @@
   <channel id="Miramax-Movie-Channel-US">
     <display-name>Miramax Movie Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Miramax-Movie-Channel-US.png" />
-  </channel><programme channel="Miramax-Movie-Channel-US" start="20260416163708 +0500" stop="20260416182645 +0500">
-    <title>The Warriors</title>
-    <sub-title />
-    <desc>The armies of the night number 100,000; they outnumber the police 5 to 1; tonight they’re after the Warriors.</desc>
-    <date>20250601</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a87dfcd4-21d3-4cf1-b1fb-5739adbcd3f3/MIRAMAX_VERTICAL_DEFAULT_ARTWORK__1__-_Gabe_Evans.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260416182645 +0500" stop="20260416201228 +0500">
-    <title>The Mechanic</title>
-    <sub-title />
-    <desc>Jason Statham is a mechanic—an elite assassin with a strict code and a talent for cleanly eliminating targets.</desc>
-    <date>20241001</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a87dfcd4-21d3-4cf1-b1fb-5739adbcd3f3/MIRAMAX_VERTICAL_DEFAULT_ARTWORK__1__-_Gabe_Evans.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260416201228 +0500" stop="20260416215847 +0500">
+  </channel><programme channel="Miramax-Movie-Channel-US" start="20260416201228 +0500" stop="20260416215847 +0500">
     <title>The Hunted</title>
     <sub-title />
     <desc>The FBI's tracker is on the trail of a villain who murders people in order to become the subject of a manhunt.</desc>
@@ -107,5 +91,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417184042 +0500" stop="20260417214857 +0500">
+    <title>Gangs of New York</title>
+    <sub-title />
+    <desc>A young Irish immigrant (Leonardo DiCaprio) seeks revenge against the rival gang leader who killed his father.</desc>
+    <date>20021220</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ea5f5f8a531206d7256edf0d31091a9e.jpg" />
   </programme>
 </tv>

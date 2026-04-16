@@ -3,16 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260416190000 +0500" stop="20260416210000 +0500">
-    <title>Bloomberg Intelligence</title>
-    <sub-title />
-    <desc>Bloomberg Intelligence Bloomberg's Alix Steel and Paul Sweeney harness the power of Bloomberg Intelligence to provide in-depth research and data on more than 2,000 companies and 130 industries.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098042795_0_20251030T185218386Z_117_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260416210000 +0500" stop="20260416230000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260416210000 +0500" stop="20260416230000 +0500">
     <title>Balance of Power</title>
     <sub-title />
     <desc>Balance of Power Focusing on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
@@ -27,6 +18,33 @@
     <desc>Bloomberg Businessweek Carol Massar and Tim Stenovec bring together the latest news from the worlds of business and finance and the interesting stories of global technology, politics, economics and more.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_545944622_1_20240812T113402666Z_64_imageprocessorclient-tvplus-linear-64ff86dd75-s2ptv.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417020000 +0500" stop="20260417021000 +0500">
+    <title>Are Bots Killing Online Poker?</title>
+    <sub-title />
+    <desc>Are Bots Killing Online Poker? Computers have outplayed humans in chess and Go for decades. But poker was long considered unhackable-until bots from Russia and elsewhere got in the game.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2743468754_5_20260403T071535072Z_25_imageprocessorclient-tvplus-linear-796646965d-v4wkg.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417021000 +0500" stop="20260417030000 +0500">
+    <title>The Circuit With Emily Chang</title>
+    <sub-title />
+    <desc>The Circuit With Emily Chang Emily Chang meets California's First Couple, Governor Gavin Newsom and Jennifer Siebel Newsom, visiting their home in Marin County and offices in Sacramento to see how they work together.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417030000 +0500" stop="20260417033000 +0500">
+    <title>The Circuit</title>
+    <sub-title />
+    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
     <rating>
       <value>TV-G</value>
     </rating>

@@ -3,63 +3,7 @@
   <channel id="CTV-Home-CA">
     <display-name>CTV @Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Home-CA.png" />
-  </channel><programme channel="CTV-Home-CA" start="20260416165359 +0500" stop="20260416172005 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Purple</sub-title>
-    <desc>From violet to amethyst and every shade in between, chef Pino Di Cerbo cooks up a feast of fresh purple vegetables.</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2472371-S1E11VegHeadz_2022_6_27_7e77e2b2-da81-4bd6-a974-a0ffff5e6c11_jpg_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416172005 +0500" stop="20260416174612 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Green</sub-title>
-    <desc>Chef Pino Di Cerbo creates vegetable-forward dishes with his favourite colour – green!</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2476163-S1E12VegHeadz_2022_7_5_42cba1ca-5f78-415b-8cdc-85e711078a29_jpg_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416174612 +0500" stop="20260416181217 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Winter</sub-title>
-    <desc>Chef Pino Di Cerbo creates a wonderland of winter vegetable recipes!</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m52456_2024_2_28_f833170b-ee07-4845-8ed0-5a5b3afa7565_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416181217 +0500" stop="20260416183824 +0500">
-    <title>Let's Brunch</title>
-    <sub-title>Healthy Start</sub-title>
-    <desc>Brunch is the most important meal of the weekend! Join host Vanessa Gianfrancesco as she whips up healthy and delicious recipes that’ll...</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20260116</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416183824 +0500" stop="20260416190430 +0500">
-    <title>Let's Brunch</title>
-    <sub-title>Pancake Brunch</sub-title>
-    <desc>Host Vanessa Gianfrancesco whips up her twist on a traditional pancake brunch with savoury, sweet and crispy recipes.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20260117</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416190430 +0500" stop="20260416193035 +0500">
-    <title>Let's Brunch</title>
-    <sub-title>Champagne Brunch</sub-title>
-    <desc>Champagne, lobster, and homemade scones, oh my! Vanessa Gianfrancesco cooks up an indulgent brunch.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20260116</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416193035 +0500" stop="20260416195558 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Cheese Please</sub-title>
-    <desc>If cheese was a food group, it would be Mary’s favourite. This week Mary pays homage to fromage with four recipes where cheese is the star.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416195558 +0500" stop="20260416202118 +0500">
+  </channel><programme channel="CTV-Home-CA" start="20260416195558 +0500" stop="20260416202118 +0500">
     <title>Mary Makes It Easy</title>
     <sub-title>Meatless Mondays</sub-title>
     <desc>Not every meal needs to have meat as the star. Mary shows how simple and delicious Meatless Mondays can be.</desc>
@@ -467,5 +411,61 @@
     <date>20260116</date>
     <language>en</language>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417173535 +0500" stop="20260417180142 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Bread for Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco shares delicious brunch  recipes featuring bread!</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <date>20260116</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417180142 +0500" stop="20260417182748 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Dim Sum Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco shares recipes for a Dim Sum feast.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>20260117</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417182748 +0500" stop="20260417185354 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Brunch Around the World</sub-title>
+    <desc>Vanessa Gianfrancesco creates an international menu with  brunch recipes from around the world.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20260116</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417185354 +0500" stop="20260417192002 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Middle Eastern Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco creates a brunch menu inspired by the Middle East.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20260117</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417192002 +0500" stop="20260417194609 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Handheld Party Foods</sub-title>
+    <desc>Chef Spencer Watts gets the party started with mouth-watering grilled recipes!</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417194609 +0500" stop="20260417201214 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Fire &amp; Spice</sub-title>
+    <desc>Chef Spencer Watts kicks things up a notch with four spicy recipes on the grill.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417201214 +0500" stop="20260417203821 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Spanish Flare</sub-title>
+    <desc>Chef Spencer Watts explores the barbeque culture of Spain with classic recipes.</desc>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
   </programme>
 </tv>

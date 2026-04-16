@@ -3,26 +3,7 @@
   <channel id="Rakuten-Viki-US">
     <display-name>Rakuten Viki</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Rakuten-Viki-US.png" />
-  </channel><programme channel="Rakuten-Viki-US" start="20260416164708 +0500" stop="20260416175407 +0500">
-    <title>The Legend of the Blue Sea</title>
-    <desc>Jun Jae helps a mermaid escape from the aquarium.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9d97bfd7b3115ddd87b964d293b8aef7/images/gracenote/assets/p13497967_b_h10_af.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260416175407 +0500" stop="20260416190103 +0500">
-    <title>The Legend Of The Blue Sea</title>
-    <sub-title />
-    <desc>Joon Jae wonders why he has a slight sense of deja vu to the mermaid, Sim Cheong.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9d97bfd7b3115ddd87b964d293b8aef7/images/gracenote/assets/p13497967_b_h10_af.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260416190103 +0500" stop="20260416200844 +0500">
-    <title>The Legend of the Blue Sea</title>
-    <desc>After seeing Cheong in the hospital, Jun Jae panics; Nam finds a tape recorder inside of Huh's car.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9d97bfd7b3115ddd87b964d293b8aef7/images/gracenote/assets/p13497967_b_h10_af.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260416200844 +0500" stop="20260416211624 +0500">
+  </channel><programme channel="Rakuten-Viki-US" start="20260416200844 +0500" stop="20260416211624 +0500">
     <title>The Legend of the Blue Sea</title>
     <desc>Having lost some memory, Jun Jae is confused; Hong encounters Ma Dae Young.</desc>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -145,12 +126,6 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260417164417 +0500" stop="20260417175222 +0500">
-    <title>Woori the Virgin</title>
-    <desc>Seoung Il reveals he is Woori's father, leaving her shocked and angry at Eun Ran's deception.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
   </programme><programme channel="Rakuten-Viki-US" start="20260417175222 +0500" stop="20260417190028 +0500">
     <title>Woori the Virgin</title>
     <sub-title />
@@ -162,6 +137,12 @@
     <title>Woori The Virgin</title>
     <sub-title />
     <desc>Woori's guilt takes a toll, affecting her eating and sleep, even leading to fainting.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
+  </programme><programme channel="Rakuten-Viki-US" start="20260417201030 +0500" stop="20260417211833 +0500">
+    <title>Woori the Virgin</title>
+    <desc>Woori's guilt affects her eating and sleeping, causing her to faint.</desc>
     <episode-num system="onscreen">S01E07</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />

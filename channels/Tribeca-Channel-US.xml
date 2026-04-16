@@ -3,19 +3,7 @@
   <channel id="Tribeca-Channel-US">
     <display-name>Tribeca Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Tribeca-Channel-US.png" />
-  </channel><programme channel="Tribeca-Channel-US" start="20260416155800 +0500" stop="20260416174700 +0500">
-    <title>Orphan Horse</title>
-    <sub-title />
-    <desc>A runaway hides out in the barn of a retired horse trainer and forms a bond with his troubled filly.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0b10666bfa04104682db39f0ddd5a237/rokuFeed/assets/724daaaead5a5fb885f62f0f3a4f98a9.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260416174700 +0500" stop="20260416193600 +0500">
-    <title>Season of the Witch</title>
-    <sub-title />
-    <desc>Two medieval knights (Nicolas Cage, Ron Perlman) escort an accused sorceress to a remote abbey.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/15b7f112d01859359ff6bcf15c567891/images/gracenote/assets/p7875975_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260416193600 +0500" stop="20260416213500 +0500">
+  </channel><programme channel="Tribeca-Channel-US" start="20260416193600 +0500" stop="20260416213500 +0500">
     <title>Eagle's Wing</title>
     <sub-title />
     <desc>Greenhorn (Martin Sheen) and Indian (Sam Waterston) vie for white stallion.</desc>
@@ -75,18 +63,18 @@
     <desc>Opera lover (Klaus Kinski) hauls riverboat overland in Amazon.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dffbfe569a0c59d68602f85a4fed200b/images/gracenote/assets/p7140_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417152200 +0500" stop="20260417181500 +0500">
-    <title>Fitzcarraldo</title>
-    <sub-title />
-    <desc>Opera lover (Klaus Kinski) hauls riverboat overland in Amazon.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dffbfe569a0c59d68602f85a4fed200b/images/gracenote/assets/p7140_v_h10_aa.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260417181500 +0500" stop="20260417200900 +0500">
     <title>Blind Dating</title>
     <sub-title />
     <desc>After a series of disastrous dates, a blind man (Chris Pine) falls in love with an Indian nurse.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/48773aaa9b1a58d8b02339f3cd482788/rokuFeed/assets/4159f437c5b9564abf389a272eed1705.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260417200900 +0500" stop="20260417220000 +0500">
+    <title>Hearts Beat Loud</title>
+    <sub-title />
+    <desc>A father and daughter become a songwriting duo during the summer before the girl leaves for college.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9ae2c63bfa405577bb55e402ca7ebb62/images/gracenote/assets/p15313678_v_h10_aa.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260417200900 +0500" stop="20260417220000 +0500">
     <title>Hearts Beat Loud</title>
     <sub-title />

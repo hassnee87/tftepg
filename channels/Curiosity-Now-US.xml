@@ -3,39 +3,7 @@
   <channel id="Curiosity-Now-US">
     <display-name>Curiosity NOW</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Curiosity-Now-US.png" />
-  </channel><programme channel="Curiosity-Now-US" start="20260416164200 +0500" stop="20260416173400 +0500">
-    <title>Myths &amp; Monsters</title>
-    <sub-title>Love and Betrayal</sub-title>
-    <desc>The medieval romance of Tristan and Isolde; how the abandonment of Dido by Aeneas paved the way for Rome; Norse attitudes of sex and marriage in "Lay of Thrym"; Medea murders her children.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20171219</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cb427dfc6383b29ff6ebfb0d12446d5c.jpg" />
-  </programme><programme channel="Curiosity-Now-US" start="20260416173400 +0500" stop="20260416182800 +0500">
-    <title>Myths &amp; Monsters</title>
-    <sub-title>Change &amp; Revolution</sub-title>
-    <desc>The role of myths and legends in the establishment of the rules of society, as well as the punishments that result from the violation of the rules.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20171220</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5040fcbf0fc12f601f6575488d646812.jpg" />
-  </programme><programme channel="Curiosity-Now-US" start="20260416182800 +0500" stop="20260416191900 +0500">
-    <title>Myths &amp; Monsters</title>
-    <sub-title>The End of all Things</sub-title>
-    <desc>The ancient Greek myth of Antigone, who defied laws to bury her dead brother; the Norse god Baldr; flood narratives found in myth; fascination with the undead; history of the vampire.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20171221</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9ab6582102009c0cd4ea6f3749c2b3e6.jpg" />
-  </programme><programme channel="Curiosity-Now-US" start="20260416191900 +0500" stop="20260416201100 +0500">
-    <title>Myths &amp; Monsters</title>
-    <sub-title>Heroes and Villains</sub-title>
-    <desc>The strange Slavic story of Ivan and Koschei the Deathless; the origins of King Arthur and the wizard Merlin; Odysseus resists the song of the Sirens; Sigurd and his battle with the dragon Fafnir.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20171214</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7abc7eae8c0fa676f88dd14d3130cf6b.jpg" />
-  </programme><programme channel="Curiosity-Now-US" start="20260416201100 +0500" stop="20260416210200 +0500">
+  </channel><programme channel="Curiosity-Now-US" start="20260416201100 +0500" stop="20260416210200 +0500">
     <title>Myths &amp; Monsters</title>
     <sub-title>The Wild Unknown</sub-title>
     <desc>The tragic Greek myth of Actaeon, who stumbled upon the goddess Artemis; the Celtic Otherworld, an idyllic place of magic and beauty; the Kraken; venturing into the woods of the Brothers Grimm.</desc>
@@ -223,5 +191,53 @@
     <date>20220823</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/7/gracenote/78a1d7583ff187aba068b5c8e2cb7aea.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417172600 +0500" stop="20260417175500 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Skyscrapers</sub-title>
+    <desc>How America's biggest city builds the country's tallest towers.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20220817</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3e4f9c0e1239af53fea24fb99abc9f68.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417175500 +0500" stop="20260417182400 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Food</sub-title>
+    <desc>How New York City feeds its 8.5 million residents.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20220818</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c821089e57482fa061592e8f05d3151b.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417182400 +0500" stop="20260417185400 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>FDNY</sub-title>
+    <desc>Inside the largest and busiest fire department in the United States.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20220821</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c0480b894e6170659b9f0406891fb726.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417185400 +0500" stop="20260417192300 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Trains and Grand Central Terminal</sub-title>
+    <desc>How New York City operates the country's largest commuter rail system.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20220822</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/be4079191ab75aba6497353a661a51f0.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417192300 +0500" stop="20260417195200 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Roads</sub-title>
+    <desc>A rare, behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <date>20220824</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3b63e241101d92207c7f66efd3e6a653.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260417195200 +0500" stop="20260417202100 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Recycling</sub-title>
+    <desc>New York City runs the largest recycling program in the United States.</desc>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <date>20220825</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e01d147dd120a1c1ee20804ca2499c95.jpg" />
   </programme>
 </tv>
