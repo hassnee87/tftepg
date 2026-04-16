@@ -48,5 +48,23 @@
     <rating>
       <value>TV-G</value>
     </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417033000 +0500" stop="20260417040000 +0500">
+    <title>The Circuit</title>
+    <sub-title />
+    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417040000 +0500" stop="20260417043000 +0500">
+    <title>The Circuit With Emily Chang</title>
+    <sub-title />
+    <desc>The Circuit With Emily Chang Emily Chang meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his consumer hardware bet.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
   </programme>
 </tv>

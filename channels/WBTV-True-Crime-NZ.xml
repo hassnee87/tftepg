@@ -3,25 +3,7 @@
   <channel id="WBTV-True-Crime-NZ">
     <display-name>WBTV True Crime NZ</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-True-Crime-NZ.png" />
-  </channel><programme channel="WBTV-True-Crime-NZ" start="20260416203000 +0500" stop="20260416212000 +0500">
-    <title>Evil Lives Here</title>
-    <sub-title>A Demon On Her Back</sub-title>
-    <desc />
-    <episode-num system="onscreen">S09E14</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011430/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260416212000 +0500" stop="20260416220500 +0500">
-    <title>Murder Chose Me</title>
-    <sub-title>Bloodbath In The Bottoms</sub-title>
-    <desc />
-    <episode-num system="onscreen">S02E06</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90012838/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260416230500 +0500" stop="20260416235500 +0500">
+  </channel><programme channel="WBTV-True-Crime-NZ" start="20260416230500 +0500" stop="20260416235500 +0500">
     <title>The Perfect Murder</title>
     <sub-title>Murder Well Done</sub-title>
     <desc />

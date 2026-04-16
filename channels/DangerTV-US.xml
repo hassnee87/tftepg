@@ -3,16 +3,7 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260416211000 +0500" stop="20260416220200 +0500">
-    <title>Coast Guard Cape Disappointment: Pacific Northwest: From the Mountains to the Ocean</title>
-    <sub-title />
-    <desc>There are reports of illegal activity on a fishing vessel  aircrews search for hikers lost in the snowy mountains  crews race to rescue an injured surfer.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819830_5_20250226T083654714Z_42_imageprocessorclient-tvplus-linear-b76dd9bbb-4fr8j.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260416220200 +0500" stop="20260416222700 +0500">
+  </channel><programme channel="DangerTV-US" start="20260416220200 +0500" stop="20260416222700 +0500">
     <title>Backcountry Rescue</title>
     <sub-title>No Short Cuts</sub-title>
     <desc>Defying posted warnings, a snowboarder ventures into high-risk avalanche territory-and pays the price  the SAR team faces a race against weather and terrain to extract him safely.</desc>
@@ -119,6 +110,24 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
     <rating>
       <value>TV-14</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417033400 +0500" stop="20260417040200 +0500">
+    <title>Border Security: Australia's Front Line</title>
+    <sub-title />
+    <desc>Indonesian Luwak coffee stopped at Customs  Cambodian woman suspected of illegal immigration  Indian student doesn't declare food.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417040200 +0500" stop="20260417045400 +0500">
+    <title>Coast Guard Alaska: Come Heck or High Water</title>
+    <sub-title />
+    <desc>The helicopter crew is faced with a tough decision when one of their own calls for help, On Coast Guard cutter Alex Haley, a small boat team faces a serious situation when they attempt to board a fishing vessel.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819884_4_20250226T083643145Z_54_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 </tv>
