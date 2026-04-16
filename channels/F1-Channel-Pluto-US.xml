@@ -3,61 +3,7 @@
   <channel id="F1-Channel-Pluto-US">
     <display-name>F1 Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/F1-Channel-US.png" />
-  </channel><programme channel="F1-Channel-Pluto-US" start="20260416175700 +0500" stop="20260416203300 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2023: Japanese Grand Prix</sub-title>
-    <desc>From Suzuka International Racing Course in Suzuka, Japan.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260416203300 +0500" stop="20260416210300 +0500">
-    <title>1988 in Review</title>
-    <sub-title>French Grand Prix</sub-title>
-    <desc>Formula 1 is a sport like no other and the Formula 1 Channel is the ultimate destination to catch up on all the action from F1, F2, F3 and F1 Academy races throughout the season, including analysis, replays and documentaries.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/66b7883e8dfe2a001376fb8b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260416210300 +0500" stop="20260416215800 +0500">
-    <title>1988 in Review</title>
-    <sub-title>Italian Grand Prix</sub-title>
-    <desc>Berger claims a sensational Monza win, defying all odds in a chaotic Italian GP filled with drama.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/66b7883e8dfe2a001376fb8b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260416215800 +0500" stop="20260416221200 +0500">
-    <title>1991 in Review</title>
-    <sub-title>British Grand Prix</sub-title>
-    <desc>Formula 1 is a sport like no other and the Formula 1 Channel is the ultimate destination to catch up on all the action from F1, F2, F3 and F1 Academy races throughout the season, including analysis, replays and documentaries.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/664eb1b8b978550013f477cc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260416221200 +0500" stop="20260416224300 +0500">
-    <title>1992 in Review</title>
-    <sub-title>Monaco Grand Prix</sub-title>
-    <desc>Senna dominates Monaco, fending off pressure in a drive to secure victory.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/669773808dfe2a0013aa6048/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260416224300 +0500" stop="20260417020000 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2023: Mexico City Grand Prix</sub-title>
-    <desc>From Autodromo Hermanos Rodriguez in Mexico City, Mexico.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260417020000 +0500" stop="20260417043400 +0500">
+  </channel><programme channel="F1-Channel-Pluto-US" start="20260417020000 +0500" stop="20260417043400 +0500">
     <title>Formula 1 Racing</title>
     <sub-title>2023: Miami Grand Prix</sub-title>
     <desc>From Miami International Autodrome in Miami, Florida.</desc>
@@ -102,5 +48,14 @@
     <category>Sports</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260417143300 +0500" stop="20260417154700 +0500">
+    <title>Formula 3</title>
+    <sub-title>Barcelona, Sprint Race</sub-title>
+    <desc>From Circuit de Barcelona-Catalunya in Barcelona, Spain.</desc>
+    <date>19700101</date>
+    <category>Series</category>
+    <category>Sports</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408cda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

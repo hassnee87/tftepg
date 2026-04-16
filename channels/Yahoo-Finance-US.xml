@@ -3,55 +3,7 @@
   <channel id="Yahoo-Finance-US">
     <display-name>Yahoo Finance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Yahoo-Finance-US.png" />
-  </channel><programme channel="Yahoo-Finance-US" start="20260416200000 +0500" stop="20260416203000 +0500">
-    <title>Morning Brief</title>
-    <sub-title />
-    <desc>Get ready for the trading day ahead with insight into the latest market-moving news.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260416203000 +0500" stop="20260416210000 +0500">
-    <title>Opening Bid</title>
-    <sub-title />
-    <desc>Get sharp, actionable insight on today's top headlines from Yahoo Finance executive editor Brian Sozzi.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260416210000 +0500" stop="20260416220125 +0500">
-    <title>Market Catalysts</title>
-    <sub-title />
-    <desc>A deeper understanding of what's driving the market action to help guide your investment decisions.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260416220125 +0500" stop="20260416223000 +0500">
-    <title>Morning Brew Daily</title>
-    <sub-title />
-    <desc>Morning Brew's daily talk show covering the latest business and economic news</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260416223000 +0500" stop="20260416230125 +0500">
-    <title>Trader Talk</title>
-    <sub-title />
-    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260416230125 +0500" stop="20260417000000 +0500">
-    <title>Opening Bid: Unfiltered</title>
-    <sub-title />
-    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260417000000 +0500" stop="20260417010000 +0500">
+  </channel><programme channel="Yahoo-Finance-US" start="20260417000000 +0500" stop="20260417010000 +0500">
     <title>Market Domination</title>
     <sub-title />
     <desc>The final trading hour brings big moves. Yahoo Finance keeps you updated on all the latest market action.</desc>
@@ -283,6 +235,46 @@
     <title>Morning Brief</title>
     <sub-title />
     <desc>Get ready for the trading day ahead with insight into the latest market-moving news.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417203000 +0500" stop="20260417210000 +0500">
+    <title>Opening Bid</title>
+    <sub-title />
+    <desc>Get sharp, actionable insight on today's top headlines from Yahoo Finance executive editor Brian Sozzi.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417210000 +0500" stop="20260417220125 +0500">
+    <title>Market Catalysts</title>
+    <sub-title />
+    <desc>A deeper understanding of what's driving the market action to help guide your investment decisions.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417220125 +0500" stop="20260417223000 +0500">
+    <title>Morning Brew Daily</title>
+    <sub-title />
+    <desc>Morning Brew's daily talk show covering the latest business and economic news</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417223000 +0500" stop="20260417230125 +0500">
+    <title>Trader Talk</title>
+    <sub-title />
+    <desc>Wall Street wisdom without the BS. Kenny Polcari keeps it real for everyday investors.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417230125 +0500" stop="20260417233000 +0500">
+    <title>Opening Bid: Unfiltered</title>
+    <sub-title />
+    <desc>Brian Sozzi decodes market moves and shares scoops to get you thinking differently about your portfolio.</desc>
     <date>20250102</date>
     <category>Movie</category>
     <language>en</language>

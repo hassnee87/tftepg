@@ -3,52 +3,7 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260416220200 +0500" stop="20260416222700 +0500">
-    <title>Backcountry Rescue</title>
-    <sub-title>No Short Cuts</sub-title>
-    <desc>Defying posted warnings, a snowboarder ventures into high-risk avalanche territory-and pays the price  the SAR team faces a race against weather and terrain to extract him safely.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909820746_6_20250226T083656925Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260416222700 +0500" stop="20260416225300 +0500">
-    <title>Backcountry Rescue</title>
-    <sub-title>Bombs Away</sub-title>
-    <desc>Avalanche risk turns deadly after a skier is caught in unstable snow  the SAR team must use helicopters and controlled detonations to prevent further slides before attempting the rescue.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909820746_6_20250226T083656925Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260416225300 +0500" stop="20260416231800 +0500">
-    <title>Backcountry Rescue</title>
-    <sub-title>Juggled Lives</sub-title>
-    <desc>Several responders race to rescue an injured snowboarder  we also see how they juggle family dinners, day jobs, and sleepless nights.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909820746_6_20250226T083656925Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260416231800 +0500" stop="20260416234600 +0500">
-    <title>Backcountry Rescue</title>
-    <sub-title>Home Safe</sub-title>
-    <desc>The team races to find two overdue snowmobilers in the remote backcountry in harsh, low-visibility conditions.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909820746_6_20250226T083656925Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260416234600 +0500" stop="20260417001500 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
-    <desc>Vietnamese man may be hiding something in his jacket  two men are suspected of working illegally  tourist may have undeclared fruit.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417001500 +0500" stop="20260417004300 +0500">
+  </channel><programme channel="DangerTV-US" start="20260417001500 +0500" stop="20260417004300 +0500">
     <title>Border Security: Australia's Front Line</title>
     <sub-title />
     <desc>Immigration investigates what a New Zealander is hiding  two Cubans create a biological crisis  something is hidden inside a parcel.</desc>
@@ -121,9 +76,18 @@
       <value>TV-14</value>
     </rating>
   </programme><programme channel="DangerTV-US" start="20260417040200 +0500" stop="20260417045400 +0500">
-    <title>Coast Guard Alaska: Come Heck or High Water</title>
-    <sub-title />
+    <title>Coast Guard Alaska</title>
+    <sub-title>Come Heck or High Water</sub-title>
     <desc>The helicopter crew is faced with a tough decision when one of their own calls for help, On Coast Guard cutter Alex Haley, a small boat team faces a serious situation when they attempt to board a fishing vessel.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819884_4_20250226T083643145Z_54_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417045400 +0500" stop="20260417054600 +0500">
+    <title>Coast Guard Alaska</title>
+    <sub-title>Survival of the Fittest</sub-title>
+    <desc>A damage vessel goes drifting across the Bering Sea  an injured man needs to be hoisted off a freighter  three hunters go stranded  how to stay alive in the Alaskan landscape.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819884_4_20250226T083643145Z_54_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
     <rating>

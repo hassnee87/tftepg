@@ -3,31 +3,7 @@
   <channel id="Love-Nature-US">
     <display-name>Love Nature</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
-  </channel><programme channel="Love-Nature-US" start="20260416201300 +0500" stop="20260416211700 +0500">
-    <title>A Cheetah's Pride</title>
-    <desc>Chilli and Inara's families confront each other, followed by their respective cubs.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b97664909a9d240b4624ebb3bfe92fb/images/gracenote/assets/p28691893_b_h10_ac.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416211700 +0500" stop="20260416221900 +0500">
-    <title>New Kids in the Wild</title>
-    <desc>A lion cub finds her place in the wild under the guidance of her devoted parents and playful sister.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e8378d6b3d9457a58d3b5545f2b49df6/rokuFeed/assets/6b536f5c1311501ca501abbed79ee9ef.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416221900 +0500" stop="20260416232300 +0500">
-    <title>Hot Life in Africa</title>
-    <desc>The prey forages for food during the hottest time of the day; hunters need to endure temperatures.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1bfc67b4785451f3bdb642b63cae4dfb/images/gracenote/assets/p25843983_b_h10_ac.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416232300 +0500" stop="20260417002500 +0500">
-    <title>New Kids in the Wild</title>
-    <desc>A cheetah cub is born with an amazing mother that will stop at nothing to keep her cubs safe.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e8378d6b3d9457a58d3b5545f2b49df6/rokuFeed/assets/6b536f5c1311501ca501abbed79ee9ef.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417002500 +0500" stop="20260417012900 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260417002500 +0500" stop="20260417012900 +0500">
     <title>A Cheetah's Pride</title>
     <desc>Discover how scent marking helps cheetahs share updates as the family reunites.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -172,5 +148,163 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418000500 +0500" stop="20260418010600 +0500">
+    <title>Hotspots</title>
+    <desc>Climbing up into the cloud forest and peeking inside a waypoint for migrating birds.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/374457523826511b90844d4cf7cb3a21/images/gracenote/assets/p16651801_b_h8_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418010600 +0500" stop="20260418020800 +0500">
+    <title>New Kids in the Wild</title>
+    <desc>A lion cub finds her place in the wild under the guidance of her devoted parents and playful sister.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e8378d6b3d9457a58d3b5545f2b49df6/rokuFeed/assets/6b536f5c1311501ca501abbed79ee9ef.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418020800 +0500" stop="20260418031100 +0500">
+    <title>Animals Like Us</title>
+    <desc>Boning up on desert eats; flirting with lions; witnessing an elephant babysitters' club.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c1f58996038c58f3a6e366c2fa6d3546/rokuFeed/assets/5fe5e0fedcaf59cca52ae3833b491705.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418031100 +0500" stop="20260418041200 +0500">
+    <title>The Games Animals Play</title>
+    <sub-title />
+    <desc>Forget everyday survival and see why, sometimes, animals just want to have fun.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e58edf403f635847b281d8a07d555661/rokuFeed/assets/943c6ef27a125f6f8ee1341045cc763c.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418041200 +0500" stop="20260418051900 +0500">
+    <title>Extreme Snakes</title>
+    <desc>Discover how Australia's snakes slithered their way to the top of every ecosystem.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8184eb40b855b0aaf83d3b07fd12b0c/images/gracenote/assets/p23387968_b_h8_ab.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418051900 +0500" stop="20260418062300 +0500">
+    <title>High Life in the Dead Mountains</title>
+    <sub-title />
+    <desc>Explore a range of mystical peaks that runs through the heart of Austria.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2bd579e0d95180b896495d0fe4138507/rokuFeed/assets/943c6ef27a125f6f8ee1341045cc763c.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418062300 +0500" stop="20260418072600 +0500">
+    <title>Deep Dive North America</title>
+    <desc>Trekking through the Canadian rainforest; looking up at dizzying redwood trees.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418072600 +0500" stop="20260418082400 +0500">
+    <title>Africa's Wild Horizons</title>
+    <desc>The Okavango delta is home to diverse wildlife.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418082400 +0500" stop="20260418092300 +0500">
+    <title>Africa's Wild Horizons</title>
+    <desc>Swaziland is home to a massive amount of wildlife.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418092300 +0500" stop="20260418102200 +0500">
+    <title>Undiscovered Vistas</title>
+    <desc>Lake Superior has the longest undeveloped shoreline of Canada's Great lakes.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b938bd0f98e35693837d1a902bb5376f/rokuFeed/assets/215c8413908850c39a46fe9c059c0c0a.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418102200 +0500" stop="20260418112100 +0500">
+    <title>Undiscovered Vistas</title>
+    <desc>The Niagara Escarpment Biosphere Reserve covers 700 kilometers.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b938bd0f98e35693837d1a902bb5376f/rokuFeed/assets/215c8413908850c39a46fe9c059c0c0a.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418112100 +0500" stop="20260418122300 +0500">
+    <title>Deep Dive North America</title>
+    <desc>Dipping into North America's southern coastal waters, where squid mate, sea turtles nest and more.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418122300 +0500" stop="20260418132400 +0500">
+    <title>Hotspots</title>
+    <desc>Climbing up into the cloud forest and peeking inside a waypoint for migrating birds.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/374457523826511b90844d4cf7cb3a21/images/gracenote/assets/p16651801_b_h8_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418132400 +0500" stop="20260418142600 +0500">
+    <title>New Kids in the Wild</title>
+    <desc>A lion cub finds her place in the wild under the guidance of her devoted parents and playful sister.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e8378d6b3d9457a58d3b5545f2b49df6/rokuFeed/assets/6b536f5c1311501ca501abbed79ee9ef.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418142600 +0500" stop="20260418150000 +0500">
+    <title>Strange Creatures</title>
+    <desc>Animals that employ trickery: stick bugs, lion fish, emperor scorpions, and chameleons.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ce95eca40f85551394d7dac57a1abd21/images/gracenote/assets/p12173373_b_h8_af.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418150000 +0500" stop="20260418160300 +0500">
+    <title>Kui Buri: Thailand's Hidden Eden</title>
+    <sub-title />
+    <desc>Visit a jungle paradise that is a model for national parks around the world.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a09dbea20247e5d97f9feaaae70500c4/rokuFeed/assets/2131ee55b4b25571be65b59ef1a93288.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418160300 +0500" stop="20260418170200 +0500">
+    <title>Galapagos</title>
+    <desc>Liz Bonnin and a team of scientific experts set off beneath the waves to explore the archipelago.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/daa8c67f770356269d5084797940e566/images/gracenote/assets/p13928927_b_h8_as.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418170200 +0500" stop="20260418180600 +0500">
+    <title>Hot Life in Africa</title>
+    <desc>The prey forages for food during the hottest time of the day; hunters need to endure temperatures.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1bfc67b4785451f3bdb642b63cae4dfb/images/gracenote/assets/p25843983_b_h10_ac.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418180600 +0500" stop="20260418190800 +0500">
+    <title>African Bambi</title>
+    <sub-title />
+    <desc>Chase three young gazelles as they navigate the perils of life in the Serengeti.</desc>
+    <episode-num system="onscreen">S00E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/18d2d5ba592038ee4fee4886d15c9b73/rokuFeed/assets/024c67e8a0d658358ecf8183013a37b9.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418190800 +0500" stop="20260418200600 +0500">
+    <title>Wonders of Nature</title>
+    <desc>The animal families in Serengeti stick together, share food, and play around in the grasslands.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/68f0f0b4693d5e50b28e5155a85054e0/images/gracenote/assets/p19978453_b_h10_ab.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418200600 +0500" stop="20260418203800 +0500">
+    <title>Volcanic Odysseys</title>
+    <sub-title />
+    <desc>The volcano's destructive power is a reminder of nature's dominance.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef1276e9b6095b668f5ccceb6faef370/rokuFeed/assets/25a0fdecbfcc58599fc16aa70577ab8a.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418203800 +0500" stop="20260418211400 +0500">
+    <title>Volcanic Odysseys</title>
+    <desc>Tom Pfeiffer hears Anak is going into a violent phase and flies to Indonesia.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef1276e9b6095b668f5ccceb6faef370/rokuFeed/assets/25a0fdecbfcc58599fc16aa70577ab8a.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418203800 +0500" stop="20260418211400 +0500">
+    <title>Volcanic Odysseys</title>
+    <desc>Tom Pfeiffer hears Anak is going into a violent phase and flies to Indonesia.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ef1276e9b6095b668f5ccceb6faef370/rokuFeed/assets/25a0fdecbfcc58599fc16aa70577ab8a.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418221300 +0500" stop="20260418231700 +0500">
+    <title>Parents In The Wild</title>
+    <desc>Exploring how the aim of all animal parents is to give their offspring a good start in life.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de553c68a187be51e6300d98188c468a/images/gracenote/assets/p28785492_b_h10_aa.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418231700 +0500" stop="20260418234700 +0500">
+    <title>Attack and Defend</title>
+    <desc>Predators evolved to hunt insects have a plentiful and easy to consume food source.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7c843683dced5c61929f8883051745f2/images/gracenote/assets/p12363195_b_h8_af.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418234700 +0500" stop="20260419002200 +0500">
+    <title>Attack and Defend</title>
+    <desc>Cold-blooded predators are brutal and cunning killers.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7c843683dced5c61929f8883051745f2/images/gracenote/assets/p12363195_b_h8_af.jpg" />
   </programme>
 </tv>

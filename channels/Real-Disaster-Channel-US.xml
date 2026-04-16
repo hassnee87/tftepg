@@ -3,47 +3,7 @@
   <channel id="Real-Disaster-Channel-US">
     <display-name>Real Disaster Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Disaster-Channel-US.png" />
-  </channel><programme channel="Real-Disaster-Channel-US" start="20260416200732 +0500" stop="20260416210214 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>The simplest mistakes are at the heart of some of the worst airline accidents.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20230504</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/nbz4qlfvptrr16o1zgy75uy3t/w1920_h1080/nbz4qlfvptrr16o1zgy75uy3t.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416210214 +0500" stop="20260416215657 +0500">
-    <title>Mayday : Air Disaster</title>
-    <sub-title>Mayday: Air Disaster</sub-title>
-    <desc>Flydubai Flight 981 enters a rapid descent and crashes nose-first at Rostov-on-Don Airport.</desc>
-    <episode-num system="onscreen">S22E01</episode-num>
-    <date>20230612</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1q92ticfzi2eb1btz6yxbsej4/w1920_h1080/1q92ticfzi2eb1btz6yxbsej4.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416215657 +0500" stop="20260416225139 +0500">
-    <title>Mayday: Air Disaster</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Southwest 1380 is rocked by a mid-air explosion and a horrifying fatality.</desc>
-    <episode-num system="onscreen">S21E05</episode-num>
-    <date>20231021</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/wn2ts81njut91r8xb5g5cn0ad/w1920_h1080/wn2ts81njut91r8xb5g5cn0ad.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416225139 +0500" stop="20260416234639 +0500">
-    <title>Mayday : Air Disaster</title>
-    <sub-title>Mayday: Air Disaster</sub-title>
-    <desc>The plane needs to get airborne before the typhoon hits. But, it spins around violently and breaks apart.</desc>
-    <episode-num system="onscreen">S12E03</episode-num>
-    <date>20120101</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1o6m6ec6w9xh21sy0pjh2gwdo/w1920_h1080/1o6m6ec6w9xh21sy0pjh2gwdo.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416234639 +0500" stop="20260417004121 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 4</sub-title>
-    <desc>Three separate crews are pushed to the limit by the toughest landings on earth.</desc>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <date>20230504</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/e1kdj5ljft2f13lq3q8e4sm8r/w1920_h1080/e1kdj5ljft2f13lq3q8e4sm8r.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260417004121 +0500" stop="20260417013603 +0500">
+  </channel><programme channel="Real-Disaster-Channel-US" start="20260417004121 +0500" stop="20260417013603 +0500">
     <title>Mayday : Air Disaster</title>
     <sub-title>Mayday: Air Disaster</sub-title>
     <desc>A helicopter carrying offshore oil workers goes down over the open ocean.</desc>
@@ -219,5 +179,29 @@
     <date>20230508</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/1ktv1ml7a9d6917t6v1dxqowq/w1920_h1080/1ktv1ml7a9d6917t6v1dxqowq.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417205755 +0500" stop="20260417215238 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>Blanketed by confusion and heavy fog, two Northwest planes collide on a Detroit runway.</desc>
+    <episode-num system="onscreen">S20E04</episode-num>
+    <date>20230915</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/1w2j9ewjnjvli1k59lq4njjpx/w1920_h1080/1w2j9ewjnjvli1k59lq4njjpx.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417215238 +0500" stop="20260417224738 +0500">
+    <title>Mayday: Air Disaster</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>Nigeria Airways Flight #2120 erupts into a fireball, killing all 261 people on board.</desc>
+    <episode-num system="onscreen">S11E09</episode-num>
+    <date>20230503</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/n8zr704g2nas16598ee35k5mr/w1920_h1080/n8zr704g2nas16598ee35k5mr.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417224738 +0500" stop="20260417234238 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>The aircraft's engines begin emitting a series of rapid-fire booming noises.</desc>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <date>20100101</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/11tiyo25ufld01aitip0ceeyg/w1920_h1080/11tiyo25ufld01aitip0ceeyg.jpg" />
   </programme>
 </tv>

@@ -3,57 +3,7 @@
   <channel id="Smithsonian-Channel-Selects-Pluto-US">
     <display-name>Smithsonian Channel Selects</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-Selects-US.png" />
-  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416191500 +0500" stop="20260416201500 +0500">
-    <title>Aerial America</title>
-    <sub-title>Aerial America The Great Plains</sub-title>
-    <desc>An aerial tour over America's Great Plains tracks what makes this vast region the breadbasket of the nation.</desc>
-    <episode-num system="onscreen">S01E164</episode-num>
-    <date>20160522</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416201500 +0500" stop="20260416211500 +0500">
-    <title>Aerial America</title>
-    <sub-title>Aerial America Trailblazers</sub-title>
-    <desc>An aerial tour over the places made famous by America's most influential men and women.</desc>
-    <episode-num system="onscreen">S01E165</episode-num>
-    <date>20160619</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416211500 +0500" stop="20260416221500 +0500">
-    <title>Aerial America</title>
-    <sub-title>Aerial America The South</sub-title>
-    <desc>The South's famous landmarks, historical milestones, and unique culture.</desc>
-    <episode-num system="onscreen">S01E166</episode-num>
-    <date>20160612</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416221500 +0500" stop="20260416231500 +0500">
-    <title>Aerial America</title>
-    <sub-title>Aerial America The Wild West</sub-title>
-    <desc>A sweeping journey over America's western landscape, featuring stories of colorful characters and "wild" history.</desc>
-    <episode-num system="onscreen">S01E167</episode-num>
-    <date>20160703</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416231500 +0500" stop="20260417001500 +0500">
-    <title>WWIIs Most Daring Raids</title>
-    <sub-title>Easy Company's First Assault</sub-title>
-    <desc>Easy Company's mission to take out German howitzers hours before the D-Day invasion.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20160926</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/65b7ce5070ac4400136797f4/tile_1755147578011.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417001500 +0500" stop="20260417011500 +0500">
+  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417001500 +0500" stop="20260417011500 +0500">
     <title>WWIIs Most Daring Raids</title>
     <sub-title>Secret Weapon Sabotage</sub-title>
     <desc>In 1943, a squad of Norwegians attempts to destroy a power plant the Nazis may be using for nuclear weapons research.</desc>
@@ -69,9 +19,9 @@
     <desc>The history and evolution of America's most legendary spy plane.</desc>
     <episode-num system="onscreen">S05E03</episode-num>
     <date>20170529</date>
+    <category>Series</category>
     <category>History</category>
     <category>Educational</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417021500 +0500" stop="20260417033000 +0500">
@@ -80,9 +30,9 @@
     <desc>The massive AC-130 provides unparalleled close air support to U.S. and allied ground troops, but was nearly shelved because of an exposed weakness.</desc>
     <episode-num system="onscreen">S06E01</episode-num>
     <date>20180820</date>
+    <category>Series</category>
     <category>History</category>
     <category>Educational</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417033000 +0500" stop="20260417044500 +0500">
@@ -91,9 +41,9 @@
     <desc>An inside look at the brief but historic service of the Grumman F6F Hellcat and its instrumental role in winning the Pacific War.</desc>
     <episode-num system="onscreen">S06E02</episode-num>
     <date>20180827</date>
+    <category>Series</category>
     <category>History</category>
     <category>Educational</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417044500 +0500" stop="20260417060000 +0500">
@@ -102,9 +52,9 @@
     <desc>The inside story of the U.S. military's go-to fighter for over four decades: the F-4 Phantom</desc>
     <episode-num system="onscreen">S06E03</episode-num>
     <date>20180903</date>
+    <category>Series</category>
     <category>History</category>
     <category>Educational</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417060000 +0500" stop="20260417071500 +0500">
@@ -113,9 +63,9 @@
     <desc>The inside story of the ultimate stealth fighter, the F-22 Raptor, and its predecessors.</desc>
     <episode-num system="onscreen">S06E04</episode-num>
     <date>20180910</date>
+    <category>Series</category>
     <category>History</category>
     <category>Educational</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417071500 +0500" stop="20260417081500 +0500">
@@ -168,5 +118,38 @@
     <category>Documentary</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417121500 +0500" stop="20260417131500 +0500">
+    <title>The Pacific War in Color</title>
+    <sub-title>Striking Distance</sub-title>
+    <desc>Simultaneous island attacks and failed B-29 raids, captured through personal color home movies and combat footage.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20180722</date>
+    <category>Series</category>
+    <category>History</category>
+    <category>Educational</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417131500 +0500" stop="20260417141500 +0500">
+    <title>The Pacific War in Color</title>
+    <sub-title>Fire From The Sky</sub-title>
+    <desc>The invasions, battles, and raids that build to the Pacific War's brutal climax.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20180729</date>
+    <category>Series</category>
+    <category>History</category>
+    <category>Educational</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417141500 +0500" stop="20260417151500 +0500">
+    <title>The Pacific War in Color</title>
+    <sub-title>An Ocean Apart</sub-title>
+    <desc>The first steps of the long, bloody, uphill battle for the Pacific, captured through rare color footage.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20180624</date>
+    <category>Series</category>
+    <category>History</category>
+    <category>Educational</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

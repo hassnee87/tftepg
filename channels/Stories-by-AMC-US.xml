@@ -3,47 +3,7 @@
   <channel id="Stories-by-AMC-US">
     <display-name>Stories by AMC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Stories-by-AMC-US.png" />
-  </channel><programme channel="Stories-by-AMC-US" start="20260416195800 +0500" stop="20260416204900 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>Escape</sub-title>
-    <desc>Hank spirals when a storage pod full of his father's belongings is dropped in his front yard; the professors spiral when rumors of budget cuts threaten their tenured jobs.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20230402</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0630c23f52f52432cfe830f5d93fafbe.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416204900 +0500" stop="20260416213600 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>The Goose Boxer</sub-title>
-    <desc>Amid firing rumors, the professors look to the union to protect their jobs, while Hank tries a different approach; Lily interviews for a job at a prestigious New York prep school.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20230409</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3804662fd41025872614d9c83d91d0a5.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416213600 +0500" stop="20260416223000 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>The Clock</sub-title>
-    <desc>Hank and Lily host the annual English department dinner; Lily has a decision to make; Hank's past involving his troubled relationship with his father catches up to him.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20230416</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f4129ce646460b5682b35c9e4db1e365.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416223000 +0500" stop="20260416232000 +0500">
-    <title>Lucky Hank</title>
-    <sub-title>The Arrival</sub-title>
-    <desc>Hank and Tony travel to an academic conference, where their differing philosophies on work and life cause friction; Lily mediates trouble in Julie and Russell's marriage.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20230423</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c8a8cce6bafcd902216cc4adfe908d83.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416232000 +0500" stop="20260417001500 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>Pocket Link</sub-title>
-    <desc>Mike Lazaridis and Doug Fregin pitch their idea of combining a computer with a cellphone to Jim Balsillie; Jim comes on board, and they try to sell their idea.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20231113</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/03123823d40188143927b4a1ffea0bec.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260417001500 +0500" stop="20260417010200 +0500">
+  </channel><programme channel="Stories-by-AMC-US" start="20260417001500 +0500" stop="20260417010200 +0500">
     <title>BlackBerry: The Limited Series</title>
     <sub-title>PalmBerry</sub-title>
     <desc>BlackBerry hits the market; Mike and Jim try to avoid a hostile takeover; Jim strategizes to increase sales.</desc>
@@ -225,5 +185,28 @@
     <date>20230430</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/c/gracenote/c58cf47b48f221bb4fdc641fa3c2487e.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417205300 +0500" stop="20260417214300 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>The Chopping Block</sub-title>
+    <desc>Hank is faced with an impossible decision at work, as his department's jobs are on the line; Lily settles into a new normal in New York.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20230507</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0e7b7b840cf32bd813dc8497d928bc9a.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417214300 +0500" stop="20260417225500 +0500">
+    <title>The Audacity</title>
+    <sub-title>Episode 101</sub-title>
+    <desc>In a world of jaded billionaires, psychiatrist-gurus, bio-hacked tech bros, AI labs and disillusioned teens being optimized in elite private schools, an audacious data-mining CEO strives to turn insight and influence into profit and power.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260412</date>
+    <language>en</language>
+  </programme><programme channel="Stories-by-AMC-US" start="20260417225500 +0500" stop="20260418003900 +0500">
+    <title>The Numbers Station</title>
+    <sub-title />
+    <desc>Emerson, a disgraced CIA agent, guards Katherine, a code operator, in a top secret CIA installation in Britain. When heavily armed assailants lay siege to the compound, Emerson and Katherine have to stop the deadly plot before it's too late.</desc>
+    <date>20130102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/aa1cf3a98039f5f17b1deac03e7d9162.jpg" />
   </programme>
 </tv>

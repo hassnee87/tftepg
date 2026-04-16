@@ -3,42 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260416194137 +0500" stop="20260416205108 +0500">
-    <title>Journey to Planet Earth S2 - "Hot Zones"</title>
-    <sub-title>Hot Zones</sub-title>
-    <desc>Examines how recent trends in globalization and the altering of ecosystems have led to dramatic increases in the spread of infectious diseases.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/dfa5825a496be03f/IN00008794_02_0002_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416205108 +0500" stop="20260416215955 +0500">
-    <title>Journey to Planet Earth S2 - "Seas of Grass"</title>
-    <sub-title>Seas of Grass</sub-title>
-    <desc>Shows the devastating environmental, political, and economic effects of the degradation of the world's grasslands.</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/1475e6ac3f5a5eb2/IN00008794_02_0003_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416215955 +0500" stop="20260416231008 +0500">
-    <title>Journey to Planet Earth S2 - "On the Brink"</title>
-    <sub-title>On the Brink</sub-title>
-    <desc>Considers how environmental pressures can lead to terrorism and regional conflict.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9c2cc8e8aaccf8e8/IN00008794_02_0004_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416231008 +0500" stop="20260416233727 +0500">
-    <title>Health Explored S2 - "Pura Vida Part 1"</title>
-    <sub-title>Pura Vida Part 1</sub-title>
-    <desc>"Pura Vida" is a popular saying in Costa Rica, often translated as "pure life" or "simple life." We learn from centenarians from the Blue Zone why we should live a pure life.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416233727 +0500" stop="20260417000533 +0500">
-    <title>Health Explored S2 - "Pura Vida Part 2"</title>
-    <sub-title>Pura Vida Part 2</sub-title>
-    <desc>We learn about conservation in Costa Rica from reforestation projects, to sustainable fishing and endangered turtle rescue.</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417000533 +0500" stop="20260417003319 +0500">
+  </channel><programme channel="InWonder-US" start="20260417000533 +0500" stop="20260417003319 +0500">
     <title>Health Explored S2 - "A Taste of Life Part 1"</title>
     <sub-title>A Taste of Life Part 1</sub-title>
     <desc>Why does Sardinia stand alone as Europe's Healthiest Community? Is it the coast, the pastures or the mountains that grant its residences with longevity?</desc>
@@ -316,5 +281,37 @@
     <date>20150101</date>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/53f258e035fb591b/IN00008123_01_0006_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417202221 +0500" stop="20260417205002 +0500">
+    <title>Nigel Latta Blows Stuff Up S1 - "Sound"</title>
+    <sub-title>Sound</sub-title>
+    <desc>Breaking the sound barrier. A good excuse for Nigel to invent some crazy experiments, and break a few other things along the way. Using some clever models, including 150 school students with flags, he examines the fundamentals of sound.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20150101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7546d080a0e98044/IN00008123_01_0007_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417205002 +0500" stop="20260417211900 +0500">
+    <title>Nigel Latta Blows Stuff Up S1 - "Gravity"</title>
+    <sub-title>Gravity</sub-title>
+    <desc>Gravity is usually associated with names like Galileo and Isaac Newton. Nigel tests the fundamentals of gravity through some interesting and innovative experiments.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20150101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/863988399856f773/IN00008123_01_0008_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417211900 +0500" stop="20260417222018 +0500">
+    <title>Science of Thrills S1 - "Speed"</title>
+    <sub-title>Speed</sub-title>
+    <desc>Engineer and adventurer Rob Bell climbs aboard some of the world’s fastest theme park rides and learns what it takes to build them.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/8c9fa02953ba60ca/TE00000601_01_0001_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417222018 +0500" stop="20260417232135 +0500">
+    <title>Science of Thrills S1 - "Falling"</title>
+    <sub-title>Falling</sub-title>
+    <desc>Engineer and adventurer Rob Bell discovers how our fear of falling is exploited by some of the world’s top theme park rides.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6c90a01d8e86f620/TE00000601_01_0002_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

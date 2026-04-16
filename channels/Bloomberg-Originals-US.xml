@@ -3,25 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260416210000 +0500" stop="20260416230000 +0500">
-    <title>Balance of Power</title>
-    <sub-title />
-    <desc>Balance of Power Focusing on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098044071_0_20251030T185223371Z_144_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260416230000 +0500" stop="20260417020000 +0500">
-    <title>Bloomberg Businessweek</title>
-    <sub-title />
-    <desc>Bloomberg Businessweek Carol Massar and Tim Stenovec bring together the latest news from the worlds of business and finance and the interesting stories of global technology, politics, economics and more.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_545944622_1_20240812T113402666Z_64_imageprocessorclient-tvplus-linear-64ff86dd75-s2ptv.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417020000 +0500" stop="20260417021000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260417020000 +0500" stop="20260417021000 +0500">
     <title>Are Bots Killing Online Poker?</title>
     <sub-title />
     <desc>Are Bots Killing Online Poker? Computers have outplayed humans in chess and Go for decades. But poker was long considered unhackable-until bots from Russia and elsewhere got in the game.</desc>
@@ -61,6 +43,24 @@
     <title>The Circuit With Emily Chang</title>
     <sub-title />
     <desc>The Circuit With Emily Chang Emily Chang meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his consumer hardware bet.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417043000 +0500" stop="20260417050000 +0500">
+    <title>The Circuit With Emily Chang</title>
+    <sub-title />
+    <desc>The Circuit With Emily Chang Emily Chang goes inside Stargate, a $500 billion bet on the future of AI  she speaks with OpenAI CEO Sam Altman and Softbank CEO Masayoshi Son about their hopes for the project.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417050000 +0500" stop="20260417053000 +0500">
+    <title>The Circuit</title>
+    <sub-title />
+    <desc>The Circuit Emily Chang meets Reese Witherspoon and the Hello Sunshine executive team to discuss the company's founding mission and what's next for Hollywood.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
     <rating>

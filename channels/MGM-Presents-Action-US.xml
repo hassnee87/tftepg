@@ -3,23 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260416200656 +0500" stop="20260416232730 +0500">
-    <title>The Great Escape</title>
-    <sub-title />
-    <desc>Steve McQueen, James Garner and Richard Attenborough headline a stellar cast in one of the most ingenious and suspenseful adventure films of all time as a team of Allied soldiers mount a daring escape from an "inescapable" Nazi POW camp.</desc>
-    <date>19630101</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7102619768800547550/Texted/rectangle/y2m183xrbt961w4zr9zxrbf23.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260416232730 +0500" stop="20260417015156 +0500">
-    <title>Hart's War</title>
-    <sub-title />
-    <desc>Bruce Willis stars as an imprisoned officer who refuses to give up his fight against the Nazis, even from behind enemy lines. With the help of a young lieutenant (Colin Farrell), he risks everything to free his men and change the outcome of the war!</desc>
-    <date>20020101</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7036389843903549485/Texted/rectangle/1w2mt9pnjxeug1mecbrrxe5u67.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417015156 +0500" stop="20260417035617 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260417015156 +0500" stop="20260417035617 +0500">
     <title>Mulholland Falls</title>
     <sub-title />
     <desc>In the 1950s, an elite squad of detectives becomes embroiled in a conspiracy and faces a secret the U.S. government is determined to keep hidden.</desc>
@@ -91,5 +75,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7064366951831139764/Unspecified/rectangle/a73gu9ao3sqn1m016lfs2juhw.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260417202737 +0500" stop="20260417224120 +0500">
+    <title>Gator</title>
+    <sub-title />
+    <desc>The Feds want Gator McKlusky (Burt Reynolds) to go undercover to expose local crime boss and former boyhood pal, Bama McCall. When Gator discovers Bama is involved in extortion, prostitution, and murder, the suspense builds to an explosive climax!</desc>
+    <date>20230512</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7063956848171535673/Unspecified/rectangle/jjc0u6dfx93a1h5hxdpx1x0qg.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260417224120 +0500" stop="20260418001913 +0500">
+    <title>Breaker! Breaker!</title>
+    <sub-title />
+    <desc>Breaker! Breaker! stars Chuck Norris at his butt-kicking best as a trucker on a mission to locate his kidnapped brother and bring down a corrupt Judge (George Murdock) who may just have played a role in the disappearance.</desc>
+    <date>19770101</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7036219980611922679/Texted/rectangle/s8coufxmfa8v1gt0c5fugcj2q.jpg" />
   </programme>
 </tv>

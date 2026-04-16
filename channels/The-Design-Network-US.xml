@@ -3,63 +3,7 @@
   <channel id="The-Design-Network-US">
     <display-name>The Design Network</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/The-Design-Network-US.png" />
-  </channel><programme channel="The-Design-Network-US" start="20260416200000 +0500" stop="20260416203000 +0500">
-    <title>Farm to Table</title>
-    <sub-title>After the Rain</sub-title>
-    <desc>Nina and Brendon’s walk through the dark valley leads to unforeseen miracles and joy.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Farm%2520to%2520Table_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416203000 +0500" stop="20260416210000 +0500">
-    <title>Farm to Table</title>
-    <sub-title>The Joy of Sharing</sub-title>
-    <desc>As the Shirley family farm continues to grow, so does the community it celebrates.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Farm%2520to%2520Table_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416210000 +0500" stop="20260416213000 +0500">
-    <title>Fresh. Simple. Healthy.</title>
-    <sub-title>Roasted Peri Peri Chicken &amp; Veggies</sub-title>
-    <desc>Heather’s turning up the heat with her roasted peri peri chicken with broccolini and crispy potatoes.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Fresh%2520Simple%2520Healthy_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416213000 +0500" stop="20260416220000 +0500">
-    <title>Fresh. Simple. Healthy.</title>
-    <sub-title>Shrimp Chop Salad</sub-title>
-    <desc>Heather whips up a grilled shrimp chop salad and simple berry dessert.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Fresh%2520Simple%2520Healthy_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416220000 +0500" stop="20260416223000 +0500">
-    <title>Fresh. Simple. Healthy.</title>
-    <sub-title>Chicken Salsa Verde</sub-title>
-    <desc>Heather makes a lighter version of an old family favorite: chicken salsa verde.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Fresh%2520Simple%2520Healthy_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416223000 +0500" stop="20260416230000 +0500">
-    <title>The Yacht Life</title>
-    <sub-title>The Gambin's "Offline"</sub-title>
-    <desc>Welcome aboard Offline, a vintage-inspired yacht packed with cutting-edge amenities.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/TheYachtLife_SeriesPackage.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416230000 +0500" stop="20260416233000 +0500">
-    <title>The Yacht Life</title>
-    <sub-title>The Paglia's "Executive Decision"</sub-title>
-    <desc>Captain Boomies joins the Paglias aboard their yacht Executive Decision for a deep-sea adventure.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/TheYachtLife_SeriesPackage.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416233000 +0500" stop="20260417000000 +0500">
-    <title>The Yacht Life</title>
-    <sub-title>Captain Cholly's "Pipe Dream"</sub-title>
-    <desc>Captain Boomies gets a look at the Pipe Dream - equal parts sport machine and floating celebration.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/TheYachtLife_SeriesPackage.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260417000000 +0500" stop="20260417003000 +0500">
+  </channel><programme channel="The-Design-Network-US" start="20260417000000 +0500" stop="20260417003000 +0500">
     <title>The Yacht Life</title>
     <sub-title>Captain Gill's "Wharf Rat"</sub-title>
     <desc>Captain Boomies tours Wharf Rat, a Bahamian-blue beauty built for fun, travel, and serious sport.</desc>
@@ -346,5 +290,47 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://d2irp9idlufd6d.cloudfront.net/Sort%2520It%2520Out_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417203000 +0500" stop="20260417210000 +0500">
+    <title>Sort It Out</title>
+    <sub-title>Cleaned Up Kitchen Chaos &amp; Clutter Busted Closet</sub-title>
+    <desc>The Home Sort sisters transform spaces from chaos to clutter-free.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Sort%2520It%2520Out_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417210000 +0500" stop="20260417213000 +0500">
+    <title>Backyarding</title>
+    <sub-title>Meet the Neighbors</sub-title>
+    <desc>Hosts Tyler and Rachel kick off the competition by introducing the four teams and assigning their first challenge.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Backyarding_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417213000 +0500" stop="20260417220000 +0500">
+    <title>Backyarding</title>
+    <sub-title>Place It &amp; Plant It</sub-title>
+    <desc>The teams race through the local nursery to find the perfect plants to bring life to their budding backyard designs.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Backyarding_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417220000 +0500" stop="20260417223000 +0500">
+    <title>Backyarding</title>
+    <sub-title>Ultimate Upcycles</sub-title>
+    <desc>Tyler and Rachel challenge the teams to select items to upcycle and repurpose in their backyard designs.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Backyarding_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417223000 +0500" stop="20260417230000 +0500">
+    <title>Backyarding</title>
+    <sub-title>Backyard Builds</sub-title>
+    <desc>The stakes are high as the teams strap on their toolbelts and plan their backyards builds.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Backyarding_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417230000 +0500" stop="20260417233000 +0500">
+    <title>Backyarding</title>
+    <sub-title>Mastering the Menu</sub-title>
+    <desc>The judges challenge the remaining teams to craft and present a unique menu for a backyard party.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/Backyarding_Vimeo%2520Package.jpg" />
   </programme>
 </tv>

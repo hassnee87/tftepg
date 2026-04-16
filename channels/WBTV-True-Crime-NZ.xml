@@ -3,25 +3,7 @@
   <channel id="WBTV-True-Crime-NZ">
     <display-name>WBTV True Crime NZ</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-True-Crime-NZ.png" />
-  </channel><programme channel="WBTV-True-Crime-NZ" start="20260416230500 +0500" stop="20260416235500 +0500">
-    <title>The Perfect Murder</title>
-    <sub-title>Murder Well Done</sub-title>
-    <desc />
-    <episode-num system="onscreen">S04E09</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260416235500 +0500" stop="20260417004000 +0500">
-    <title>The Perfect Murder</title>
-    <sub-title>Death In The Family</sub-title>
-    <desc />
-    <episode-num system="onscreen">S04E10</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417004000 +0500" stop="20260417013000 +0500">
+  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417004000 +0500" stop="20260417013000 +0500">
     <title>People Magazine Investigates: Surviving A Serial Killer</title>
     <sub-title>Surviving The Cook Brothers</sub-title>
     <desc />
@@ -273,5 +255,41 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418000000 +0500" stop="20260418004500 +0500">
+    <title>The Perfect Murder</title>
+    <sub-title>Mother Dear</sub-title>
+    <desc />
+    <episode-num system="onscreen">S05E01</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418004500 +0500" stop="20260418013500 +0500">
+    <title>People Magazine Investigates: Surviving A Serial Killer</title>
+    <sub-title>Surviving The Bishops Basement</sub-title>
+    <desc />
+    <episode-num system="onscreen">S01E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90045871/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418013500 +0500" stop="20260418022000 +0500">
+    <title>Nightmare Next Door</title>
+    <sub-title>Devils In The Detail</sub-title>
+    <desc />
+    <episode-num system="onscreen">S02E20</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90004861/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418022000 +0500" stop="20260418031000 +0500">
+    <title>American Monster</title>
+    <sub-title>With Honours</sub-title>
+    <desc />
+    <episode-num system="onscreen">S07E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011730/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
   </programme>
 </tv>

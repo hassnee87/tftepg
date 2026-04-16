@@ -3,31 +3,7 @@
   <channel id="Documentary-Plus-CA">
     <display-name>Documentary+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus-CA.png" />
-  </channel><programme channel="Documentary-Plus-CA" start="20260416200507 +0500" stop="20260416212113 +0500">
-    <title>Emerald Storm</title>
-    <sub-title />
-    <desc>Follow Ireland's top MTB riders as they rise from local trails to the world stage.</desc>
-    <date>20250821</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://m.media-amazon.com/images/M/MV5BMzZhYmUyZjMtMDE0OC00NWJmLTlmNWMtMWJmODgxYWQ5MGQ5XkEyXkFqcGc@._V1_.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260416212113 +0500" stop="20260416231606 +0500">
-    <title>Isolated</title>
-    <sub-title />
-    <desc>Five world class surfers travel to New Guinea in search of undiscovered waves, but end up discovering so much more.</desc>
-    <date>20130130</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/ef8de67206e20b88c5333e29d51e1451.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260416231606 +0500" stop="20260417011259 +0500">
-    <title>And Two If By Sea</title>
-    <sub-title />
-    <desc>The story of iconic professional surfers and identical twins CJ &amp; Damien Hobgood. Their sibling rivalry and struggle to each establish their own identity fueled their careers, but ripped their personal and peripheral relationships apart.</desc>
-    <date>20190419</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/kJSkzDwyTIZLVuZnoIN4juQkGwC.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417011259 +0500" stop="20260417025552 +0500">
+  </channel><programme channel="Documentary-Plus-CA" start="20260417011259 +0500" stop="20260417025552 +0500">
     <title>The Power of Pickleball</title>
     <sub-title />
     <desc>A heartfelt documentary detailing how a backyard game from 1965 became a bold movement uniting generations.</desc>
@@ -139,5 +115,37 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7424930188569938412/Texted/rectangle/xxsdl7c2wgj51hig47o1n4yv6.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260417211102 +0500" stop="20260417214602 +0500">
+    <title>Arctic Alchemy</title>
+    <sub-title />
+    <desc>Renowned adventurer and climate scientist, Roman Dial embarks on a research expedition in the Alaska Arctic.</desc>
+    <date>20250930</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/yh1FDmyt65OOzE2WbZV4rOLHMVh.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260417214602 +0500" stop="20260417223914 +0500">
+    <title>The North Face Presents: Trango</title>
+    <sub-title />
+    <desc>Skiers Christina Lusti and Jim Morrison, embark on the first-ever ski descent of the Great Trango Tower.</desc>
+    <date>20260130</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7424900553772279477/Texted/rectangle/1ke2qqunk50l315mxwj186ean1.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260417223914 +0500" stop="20260417231044 +0500">
+    <title>Heroes and Martyrs</title>
+    <sub-title />
+    <desc>A terrorist attack on a church in Damascus’ historical Christian community renews old fears.</desc>
+    <date>20260219</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7430016251644302852/Texted/rectangle/6sm887gu5tdo17g36xqxv8j8n.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260417231044 +0500" stop="20260417234655 +0500">
+    <title>The Reality Of Hope</title>
+    <sub-title />
+    <desc>Virtual reality creator Hiyu has kidney failure. His online friend travels from New York to Stockholm to be a donor.</desc>
+    <date>20250125</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a76cccd35f463f4ad3505ef6ba52d3a5.jpg" />
   </programme>
 </tv>

@@ -3,33 +3,7 @@
   <channel id="BBC-Drama-US">
     <display-name>BBC Drama</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Drama-US.png" />
-  </channel><programme channel="BBC-Drama-US" start="20260416192143 +0500" stop="20260416210309 +0500">
-    <title>Northanger Abbey</title>
-    <sub-title />
-    <desc>Jane Austen's story of a girl whose head is full of romantic notions about the world.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3df8f36f95705f57a73158fbc6957609/images/gracenote/assets/p8809616_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260416210309 +0500" stop="20260416220243 +0500">
-    <title>North &amp; South</title>
-    <desc>Middle-class Margaret is uprooted from rural Hampshire to live in a northern mill town.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d62d46935d140f0d968da0e2a3134477/rokuFeed/assets/c377c014a895551f8aaca64e775260bd.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260416220243 +0500" stop="20260416230232 +0500">
-    <title>North &amp; South</title>
-    <sub-title />
-    <desc>Margaret has a secret to tell her friend Bessy.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/445750a2df9a586c9e5cd81dd1271f9f/rokuFeed/assets/c829fc4aff0d5537a37f73d35c59bfa4.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260416230232 +0500" stop="20260417000213 +0500">
-    <title>North &amp; South</title>
-    <desc>The strike has ended but both Margaret's friend Bessy and her mother are gravely ill.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88887f984e647b3ee7019c41156306d6/rokuFeed/assets/ff2bbf4740aa5b4897f1150c2423664e.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417000213 +0500" stop="20260417010212 +0500">
+  </channel><programme channel="BBC-Drama-US" start="20260417000213 +0500" stop="20260417010212 +0500">
     <title>North &amp; South</title>
     <desc>John Thornton falls on hard times, while Margaret starts to prosper despite family problems.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -174,5 +148,140 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d9d771e1305ad0ef7b7234453151a9c3/rokuFeed/assets/b22af26833885781a496d046af764bd0.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418012120 +0500" stop="20260418030246 +0500">
+    <title>Northanger Abbey</title>
+    <sub-title />
+    <desc>Jane Austen's story of a girl whose head is full of romantic notions about the world.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3df8f36f95705f57a73158fbc6957609/images/gracenote/assets/p8809616_b_h8_aa.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418030246 +0500" stop="20260418040706 +0500">
+    <title>Mistresses</title>
+    <sub-title />
+    <desc>The strong bond between best friends Kate, Trudi, Jessica and Siobhan has been broken.</desc>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6ca47e9bb83852359d5fa2f700428c39/rokuFeed/assets/5ee898a4d70150e7bae2a346d11a88c6.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418040706 +0500" stop="20260418051441 +0500">
+    <title>Mistresses</title>
+    <desc>Life is all trials and tribulations for Trudi, Jessica, Katie and Siobhan.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e286a7bf0bdad8a7c85551c278735444/rokuFeed/assets/197e6abb3c555b728e4df4beac208edd.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418051441 +0500" stop="20260418062221 +0500">
+    <title>Mistresses</title>
+    <sub-title />
+    <desc>Katie tells Trudi to focus on the future; Siobhan's confession leads Jessica to make a decision.</desc>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac6c75645b2f5dde83f41cc63df77a54/rokuFeed/assets/0f3247e7433753b981e31a7ff8cafece.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418062221 +0500" stop="20260418072904 +0500">
+    <title>Mistresses</title>
+    <sub-title />
+    <desc>The women lose a loved one; grief turns to anger at the funeral.</desc>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb259fa8efc053c7970d951b6830edb0/rokuFeed/assets/efe2be6e83575b90ad5af8896359ed85.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418072904 +0500" stop="20260418083433 +0500">
+    <title>Emma</title>
+    <desc>Emma convinces Harriet Smith that she is too good for Robert Martin.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418083433 +0500" stop="20260418094132 +0500">
+    <title>Emma</title>
+    <desc>Emma is intrigued by the mysterious and elusive newcomer Frank Churchill.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418094132 +0500" stop="20260418104802 +0500">
+    <title>Emma</title>
+    <desc>Emma teases Mr. Knightley about Jane; Emma examines her feelings for Frank.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418104802 +0500" stop="20260418115502 +0500">
+    <title>Emma</title>
+    <desc>Mr Knightley has to reprimand Emma after she behaves badly on a trip to Box Hill.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418115502 +0500" stop="20260418130023 +0500">
+    <title>Sense and Sensibility</title>
+    <sub-title />
+    <desc>When Mr. Dashwood passes away Mrs. Dashwood and her daughters are forced to start their lives again.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc68edc42f6153c2b0eae7c00cf514d4/images/gracenote/assets/p8524219_b_h11_ah.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418130023 +0500" stop="20260418140622 +0500">
+    <title>Sense and Sensibility</title>
+    <sub-title />
+    <desc>While Colonel Brandon is away on business, Marianne and Willoughby find themselves falling in love.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc68edc42f6153c2b0eae7c00cf514d4/images/gracenote/assets/p8524219_b_h11_ah.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418140622 +0500" stop="20260418151313 +0500">
+    <title>Sense and Sensibility</title>
+    <sub-title />
+    <desc>Heartbroken at the hands of Willoughby and Edward, Marianne and Elinor travel to Cleveland.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bc68edc42f6153c2b0eae7c00cf514d4/images/gracenote/assets/p8524219_b_h11_ah.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418151313 +0500" stop="20260418165958 +0500">
+    <title>Persuasion</title>
+    <sub-title />
+    <desc>An unmarried woman encounters her former love after he returns from battle.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c230f783cb325aeb94660ae6a5b7eae6/rokuFeed/assets/81ad3d23478859179d3769b99a165b17.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418165958 +0500" stop="20260418183707 +0500">
+    <title>Miss Austen Regrets</title>
+    <sub-title />
+    <desc>Based on Jane Austen's actual letters and diaries, this drama unravels the secrets of this elusive woman.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d9d771e1305ad0ef7b7234453151a9c3/rokuFeed/assets/b22af26833885781a496d046af764bd0.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418183707 +0500" stop="20260418201833 +0500">
+    <title>Northanger Abbey</title>
+    <sub-title />
+    <desc>Jane Austen's story of a girl whose head is full of romantic notions about the world.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3df8f36f95705f57a73158fbc6957609/images/gracenote/assets/p8809616_b_h8_aa.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418201833 +0500" stop="20260418211707 +0500">
+    <title>Mansfield Park</title>
+    <sub-title />
+    <desc>Poor Fanny Price is sent to live with her rich relations.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418201833 +0500" stop="20260418211707 +0500">
+    <title>Mansfield Park</title>
+    <sub-title />
+    <desc>Poor Fanny Price is sent to live with her rich relations.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418211707 +0500" stop="20260418221848 +0500">
+    <title>Mansfield Park</title>
+    <sub-title />
+    <desc>Now grown up, Fanny has become an indispensable member of the household.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418221848 +0500" stop="20260418231951 +0500">
+    <title>Mansfield Park</title>
+    <sub-title />
+    <desc>Fanny watches Edmund grow close to Mary Crawford; Maria agrees to marry wealthy Mr. Rushworth.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418231951 +0500" stop="20260419001942 +0500">
+    <title>Mansfield Park</title>
+    <sub-title />
+    <desc>Sir Thomas' unexpcted return from Antigua ruins the planned theatricals.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
   </programme>
 </tv>

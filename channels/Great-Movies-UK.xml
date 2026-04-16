@@ -3,19 +3,7 @@
   <channel id="Great-Movies-UK">
     <display-name>Great! Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Movies-UK.png" />
-  </channel><programme channel="Great-Movies-UK" start="20260416220717 +0500" stop="20260416234006 +0500">
-    <title>Death By Friendship</title>
-    <sub-title />
-    <desc>(2020) Thriller with Natalie Brown. Recently divorced Hope thinks her struggling daughter is back on track when she bonds with Cassie, whose parents also split. But is Cassie a friend or a foe?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1018020086_0_20250629T152730028Z_84_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260416234006 +0500" stop="20260417011345 +0500">
-    <title>A Deadly Lullaby</title>
-    <sub-title />
-    <desc>After losing her child, Olivia meets a woman and her daughter.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485855787_0_20231108T135611850Z_95.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260417011345 +0500" stop="20260417024724 +0500">
+  </channel><programme channel="Great-Movies-UK" start="20260417011345 +0500" stop="20260417024724 +0500">
     <title>The Hunter's Prayer</title>
     <sub-title />
     <desc>(2017) High-octane thriller starring Sam Worthington. An assassin hired to kill a young woman ends up falling for her instead. Together, they team up to avenge her father's death.</desc>
@@ -27,5 +15,11 @@
     <desc>(2021) Action thriller with Gary Dourdan, Serinda Swan and Andy Garcia. A war hero embarks on a daring rescue mission when his wife is kidnapped. As the clock counts down, can he get to her in time?</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1156832325_0_20250828T153521646Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cnnbq.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417043408 +0500" stop="20260417060640 +0500">
+    <title>Trigger Point</title>
+    <sub-title />
+    <desc>(2015) Thriller starring Jordan Hinson. After her father is laid off, a passionate college student joins activists to stop a corporation from ruining more lives.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
   </programme>
 </tv>
