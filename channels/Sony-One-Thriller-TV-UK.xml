@@ -3,23 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417001320 +0500" stop="20260417010435 +0500">
-    <title>Missing</title>
-    <sub-title>Victoria</sub-title>
-    <desc>A depressed schizophrenic's disappearance puts an innocent boy in danger as it threatens to expose a psychiatrist's role in a patient's death.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7371999459161825346/solid/rectangle/w1920_h1080/b98hd1mhv5sv1y0y3bpj92jbt.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417010435 +0500" stop="20260417015551 +0500">
-    <title>Missing</title>
-    <sub-title>White Whale</sub-title>
-    <desc>A brilliant serial killer returns to seek revenge against Brooke for being sent to prison.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7371999677431356024/solid/rectangle/w1920_h1080/suy1g5hrl6bv1amj7qjhgzyi3.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417015551 +0500" stop="20260417024706 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417015551 +0500" stop="20260417024706 +0500">
     <title>Missing</title>
     <sub-title>Basic Training</sub-title>
     <desc>Jess goes undercover at a prestigious military academy to investigate the disappearance of a new cadet.</desc>
@@ -227,5 +211,29 @@
     <date>20250922</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7375970074117292469/solid/rectangle/w1920_h1080/1kduq12n4kmmf17a92dqymdwn9.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418002632 +0500" stop="20260418011906 +0500">
+    <title>Missing</title>
+    <sub-title>Judgement Day</sub-title>
+    <desc>A noted Russian mobster's pre-trial hearing leads to the kidnapping of an innocent girl.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970286749634187/solid/rectangle/w1920_h1080/1rkru2zd9xr7w134amj43sg69b.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418011906 +0500" stop="20260418021517 +0500">
+    <title>Breaking Bad</title>
+    <sub-title>Shotgun</sub-title>
+    <desc>Fearing the worst when he can't find Jesse, and worried that he may be next, Walt leaves a heartfelt phone message for Skyler as he heads to the fast food restaurant Gus uses as a front for his drug empire. When Mike calls to say that Jesse is with him and that everything's fine, Walt remains suspicious and won't leave until he looks inside Gus' office for himself. Though suspicious that Mike may be taking him to a desolate spot to kill him, Jesse is surprised to discover that he is accompanying the private eye as he collects money for Gus from a series of dead drops scattered throughout the New Mexico countryside.    Detective Tim Roberts comes back to him for help in the Boetticher murder case, Hank dismisses the possibility that Jesse might be the killer, especially after a composite sketch of the possible suspect doesn't look anything like him, but does resemble Gus's dead henchman, Victor. Meanwhile, as Jesse continues to accompany Mike, Walt and Skyler are busy signing the loan papers for the car wash. To celebrate, they fall into bed for some midday sex after Skyler hears Walt's tender phone message. When Walt, Jr. comes home from school and finds them together, he's led to believe that his dad is moving back in.    Back at the lab, Walt has a hard time taking care of everything himself. When he demands that Jesse be sent back to help him, he's disappointed when Gus sends Tyrus instead. Meanwhile, at the end of his rounds with Mike, Jesse fends off an attack by a pair of thugs bent on ripping them off. While Jesse thinks he's a hero, what he doesn't know is that it was all a ruse meant to lull him into feeling like he'd gained Gus' confidence. Finally, during a celebratory dinner at the Schraders', Walt hints that the late Gale Boetticher may not be the drug chemist Hank's been chasing, but after the Whites leave, Hank uncovers evidence that could lead him to Gus.</desc>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <date>20080120</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7237197660248240342/solid/rectangle/w1920_h1080/1av79pjwgxae61iqy9o6f0to4k.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418021517 +0500" stop="20260418031100 +0500">
+    <title>Breaking Bad</title>
+    <sub-title>Cornered</sub-title>
+    <desc>When Gale Boetticher's murder causes her to suspect that Walt (Bryan Cranston) isn't telling her the truth about his drug operation, Skyler (Anna Gunn) adopts a cold and businesslike approach to getting their money laundering car wash underway. Meanwhile, as Gus (Giancarlo Esposito) draws him closer into his inner circle, Jesse (Aaron Paul) proves his worth with a brazen recovery of some drugs stolen by a deadly Mexican cartel.</desc>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <date>20080120</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7237196786318906224/solid/rectangle/w1920_h1080/o51nu544t81u1qgxeb0rf2et5.jpg" />
   </programme>
 </tv>

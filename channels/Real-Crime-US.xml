@@ -3,13 +3,7 @@
   <channel id="Real-Crime-US">
     <display-name>Real Crime</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Crime-US.png" />
-  </channel><programme channel="Real-Crime-US" start="20260417002500 +0500" stop="20260417014700 +0500">
-    <title>Wayne Couzens: Killer In Plain Sight</title>
-    <sub-title />
-    <desc>Interviews with experts reveal Wayne Couzens' true story, questioning his prolonged hiding from scrutiny</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d7e7e3562aca40a659d6e6126b2ad7e/rokuFeed/assets/2156e27968995ba589539d3280f8ee9b.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417014700 +0500" stop="20260417024600 +0500">
+  </channel><programme channel="Real-Crime-US" start="20260417014700 +0500" stop="20260417024600 +0500">
     <title>FBI Files Movie Of The Week</title>
     <desc>Dr. Glennon Engleman holds a deadly secret</desc>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -123,12 +117,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e76fdfd1eb5f53bda6194f4efb429642/rokuFeed/assets/3967e039958950c78dbefcd92cf9be72.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417195600 +0500" stop="20260417214600 +0500">
-    <title>Angel of Death</title>
-    <desc>Forensic scientists developed a method to detect poisons in past victims, leading to his conviction.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e76fdfd1eb5f53bda6194f4efb429642/rokuFeed/assets/3967e039958950c78dbefcd92cf9be72.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260417214600 +0500" stop="20260417221600 +0500">
     <title>Great Crimes And Trials</title>
     <desc>Harold Shipman, a family doctor, is on trial for murdering 15 elderly patients</desc>
@@ -153,6 +141,12 @@
     <desc>The story of three CBS workers who walked into a kidnapping and were shot dead as they tried to help.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e34de474dfc651bf81301579d9bcd1f0/rokuFeed/assets/6653c64673c25926a810643a51e95fb5.jpg" />
+  </programme><programme channel="Real-Crime-US" start="20260418015200 +0500" stop="20260418025000 +0500">
+    <title>FBI Files Movie Of The Week</title>
+    <desc>Secret Services struggle to capture one of the world's notorious counterfeiters</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260418015200 +0500" stop="20260418025000 +0500">
     <title>FBI Files Movie Of The Week</title>
     <desc>Secret Services struggle to capture one of the world's notorious counterfeiters</desc>
@@ -260,12 +254,6 @@
     <title>Mafia's Greatest Hits</title>
     <desc>Mobster Joe Colombo creates the Italian-American Civil Rights League to fight back against the FBI.</desc>
     <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1fdbbae9f63d563499998dcaff07d9ce/images/gracenote/assets/p9220781_b_h10_ad.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260418202100 +0500" stop="20260418212300 +0500">
-    <title>Mafia's Greatest Hits</title>
-    <desc>Mobster John Gotti muscles his way to the head of the Gambino crime family.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1fdbbae9f63d563499998dcaff07d9ce/images/gracenote/assets/p9220781_b_h10_ad.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260418202100 +0500" stop="20260418212300 +0500">

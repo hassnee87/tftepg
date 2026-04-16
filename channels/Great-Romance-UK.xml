@@ -3,13 +3,7 @@
   <channel id="Great-Romance-UK">
     <display-name>Great! Romance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Romance-UK.png" />
-  </channel><programme channel="Great-Romance-UK" start="20260417000811 +0500" stop="20260417014101 +0500">
-    <title>Two Tickets to Paradise</title>
-    <sub-title />
-    <desc>(2022) Tropical romcom with Ashley Williams and Ryan Paevey. Strangers Hannah and Josh are both dumped on their wedding days. But will their dream honeymoons still be just the ticket for romance?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1740088307_0_20260331T170344988Z_112_imageprocessorclient-tvplus-linear-74d4c47476-44vt7.jpeg" />
-  </programme><programme channel="Great-Romance-UK" start="20260417014101 +0500" stop="20260417031812 +0500">
+  </channel><programme channel="Great-Romance-UK" start="20260417014101 +0500" stop="20260417031812 +0500">
     <title>Planning For Joy</title>
     <sub-title />
     <desc>Small business owner Hazel hires charismatic Theo to help boost her public speaking. Can Theo's unconventional approach make Hazel become nature in front of the cameras or will she be lost for words?</desc>
@@ -27,5 +21,17 @@
     <desc>Jaded designer Lauren decides to move back home after three years trying to make her career in Seattle. Lauren soon finds out that the city has more to offer then she could have imagined. (2020)</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_503799891_0_20240902T142747917Z_87_imageprocessorclient-tvplus-linear-64ff86dd75-27499.jpeg" />
+  </programme><programme channel="Great-Romance-UK" start="20260417062436 +0500" stop="20260417080455 +0500">
+    <title>Blue Moon Ball</title>
+    <sub-title />
+    <desc>(2022) Romance with Ashley Newbrough and Eric Lutz. While back in her hometown to finish her book, a novelist helps her ex save the town's historic ballroom - but can she write her own happy ending?</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485715761_0_20231102T084831806Z_69.jpeg" />
+  </programme><programme channel="Great-Romance-UK" start="20260417080455 +0500" stop="20260417094545 +0500">
+    <title>Love, Game, Match</title>
+    <sub-title />
+    <desc>(2021) Romance with Cristine Prosperi and Dale Moss. New-in-town teacher Liz agrees to help test her students' matchmaking website - so will it be singles or doubles when she meets tennis coach Ted?</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485669393_0_20231031T105013546Z_54.png" />
   </programme>
 </tv>

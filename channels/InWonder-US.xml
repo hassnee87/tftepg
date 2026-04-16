@@ -3,29 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260417000533 +0500" stop="20260417003319 +0500">
-    <title>Health Explored S2 - "A Taste of Life Part 1"</title>
-    <sub-title>A Taste of Life Part 1</sub-title>
-    <desc>Why does Sardinia stand alone as Europe's Healthiest Community? Is it the coast, the pastures or the mountains that grant its residences with longevity?</desc>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417003319 +0500" stop="20260417010108 +0500">
-    <title>Health Explored S2 - "A Taste of Life Part 2"</title>
-    <sub-title>A Taste of Life Part 2</sub-title>
-    <desc>Learn about the foods and the culture that makes Sardinia so special. From fishing with their hands, to traditional foods... it's a culinary exploration in good health.</desc>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7b412541fd1c22ee/IN41310023_01_0000_Hero_Title_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417010108 +0500" stop="20260417020626 +0500">
-    <title>Wildest India S1 - "The Himalayas: Surviving the Summits"</title>
-    <sub-title>The Himalayas: Surviving the Summits</sub-title>
-    <desc>The Himalayas run across 1550 miles of north India. The Himalayas' rugged highlands offer little direct refuge to humans, and in the shadow below, over a billion people in India rely on the mountains for survival.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20110101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ad2885e40f590580/IN00003993_01_0003_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417020626 +0500" stop="20260417031148 +0500">
+  </channel><programme channel="InWonder-US" start="20260417020626 +0500" stop="20260417031148 +0500">
     <title>Wildest India S1 - "Western Ghats: Monsoon Mountains'"</title>
     <sub-title>Western Ghats: Monsoon Mountains'</sub-title>
     <desc>The Western Ghats are a spine of mountains that lay claim to being one of the most biodiverse places in the world. In the east, tigers and wild dogs compete for prey. All the while, the western Ghats hold the key to life across southern India.</desc>
@@ -321,5 +299,27 @@
     <date>20160101</date>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c4f2a5c4472cb547/TE00000601_01_0003_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418002252 +0500" stop="20260418012410 +0500">
+    <title>Science of Thrills S1 - "Inversion"</title>
+    <sub-title>Inversion</sub-title>
+    <desc>Engineer and adventurer Rob Bell investigates four roller coasters in Europe and America that use inversions, or loops, to create thrilling rides.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/39ac0d733aa9f3db/TE00000601_01_0004_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418012410 +0500" stop="20260418015541 +0500">
+    <title>Rethink S1 - "McGurk Effect Phenomenon"</title>
+    <sub-title>McGurk Effect Phenomenon</sub-title>
+    <desc>Lets take a look at the art movement photorealism and another test for your ears in the McGurk Effect phenomenon. We’ll take you back in time to introduce you to Peppers ghost and highlight famous forward thinker Leonardo Da Vinci.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/0207b26b0b966f4e/IN00009365_01_0004_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418015541 +0500" stop="20260418022712 +0500">
+    <title>Rethink S1 - "Zeno’s paradox and The UV - A Blacklight"</title>
+    <sub-title>Zeno’s paradox and The UV - A Blacklight</sub-title>
+    <desc>In a world where nothing is what it seems, we’ll take a look at magician’s trade secrets, the contradictions of Zeno’s paradox, and the UV - A Blacklight. We’ll take another look at the levitation illusion, and illusionist David Blaine.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6eabd028d078da9f/IN00009365_01_0005_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

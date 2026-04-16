@@ -3,45 +3,9 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260417001500 +0500" stop="20260417004300 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
-    <desc>Immigration investigates what a New Zealander is hiding  two Cubans create a biological crisis  something is hidden inside a parcel.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417004300 +0500" stop="20260417011100 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
-    <desc>A family looks as if they're using their children to smuggle drugs  fake designer labels container arrives from Hong Kong.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417011100 +0500" stop="20260417014000 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
-    <desc>An entire flight from Vietnam is suspected of drug smuggling  sniffer dog finds a package  Two students with little luggage cause suspicion.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417014000 +0500" stop="20260417020800 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
-    <desc>A man's crooked past resurfaces  Chinese woman has undeclared jewellery  A royal heirloom from England is under scrutiny.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417020800 +0500" stop="20260417023600 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
+  </channel><programme channel="DangerTV-US" start="20260417020800 +0500" stop="20260417023600 +0500">
+    <title>Border Security</title>
+    <sub-title>Australia's Front Line</sub-title>
     <desc>A baffling mysterious passenger  Man exceeds the legal limit for cigarettes  Customs are shocked by two parcels from Thailand.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
@@ -49,8 +13,8 @@
       <value>TV-14</value>
     </rating>
   </programme><programme channel="DangerTV-US" start="20260417023600 +0500" stop="20260417030500 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
+    <title>Border Security</title>
+    <sub-title>Australia's Front Line</sub-title>
     <desc>Englishman behaves strangely  Malaysian cook suspected of working illegally  Colombian drug cargo.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
@@ -58,8 +22,8 @@
       <value>TV-14</value>
     </rating>
   </programme><programme channel="DangerTV-US" start="20260417030500 +0500" stop="20260417033400 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
+    <title>Border Security</title>
+    <sub-title>Australia's Front Line</sub-title>
     <desc>Canadian man refuses to be frisked  Reptiles found on two Chinese passengers  Indian chess set scrutinised.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
@@ -67,8 +31,8 @@
       <value>TV-14</value>
     </rating>
   </programme><programme channel="DangerTV-US" start="20260417033400 +0500" stop="20260417040200 +0500">
-    <title>Border Security: Australia's Front Line</title>
-    <sub-title />
+    <title>Border Security</title>
+    <sub-title>Australia's Front Line</sub-title>
     <desc>Indonesian Luwak coffee stopped at Customs  Cambodian woman suspected of illegal immigration  Indian student doesn't declare food.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1215652197_0_20250424T172659502Z_34_imageprocessorclient-tvplus-linear-b76dd9bbb-v2p5r.jpeg" />
@@ -94,13 +58,49 @@
       <value>TV-G</value>
     </rating>
   </programme><programme channel="DangerTV-US" start="20260417054600 +0500" stop="20260417061500 +0500">
-    <title>Customs: Sniffer Dogs Score</title>
-    <sub-title />
+    <title>Customs</title>
+    <sub-title>Sniffer Dogs Score</sub-title>
     <desc>A smuggler has no choice but to give himself away when the sniffer dog catches on.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417061500 +0500" stop="20260417064500 +0500">
+    <title>Customs</title>
+    <sub-title>Passport Problems</sub-title>
+    <desc>Officers in Manchester deal with a drunk man who's lost his passport, and a man on a student VISA who claims to be a studying, but has been training for a UK lorry driving license on the side.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417064500 +0500" stop="20260417071400 +0500">
+    <title>Customs</title>
+    <sub-title>Questionable Cash</sub-title>
+    <desc>The cash hounds find a questionable cache of cash.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417071400 +0500" stop="20260417074300 +0500">
+    <title>Customs</title>
+    <sub-title>Two Kinds of Smugglers</sub-title>
+    <desc>Custom officers find 10,000 cigarettes hidden in the back of a man's truck.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417074300 +0500" stop="20260417081100 +0500">
+    <title>Border Security</title>
+    <sub-title>Canada's Front Line: Tough Customer</sub-title>
+    <desc>An angry businessman hides the real reason for his hostility  officers try to process some unusual Mexican migrants.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819933_4_20250226T083643494Z_68_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
 </tv>

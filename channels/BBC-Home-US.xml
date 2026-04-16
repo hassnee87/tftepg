@@ -3,14 +3,7 @@
   <channel id="BBC-Home-US">
     <display-name>BBC Home &amp;amp; Garden</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Home-US.png" />
-  </channel><programme channel="BBC-Home-US" start="20260417002807 +0500" stop="20260417013314 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Monty Don, Rachel de Thame and Arit Anderson with coverage of the Chelsea Flower Show 2025</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417013314 +0500" stop="20260417023741 +0500">
+  </channel><programme channel="BBC-Home-US" start="20260417013314 +0500" stop="20260417023741 +0500">
     <title>Chelsea Flower Show: 2025</title>
     <desc>It’s Medals Day at Chelsea!</desc>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -141,12 +134,6 @@
     <episode-num system="onscreen">S04E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417204050 +0500" stop="20260417213537 +0500">
-    <title>Phil Spencer: Secret Agent</title>
-    <desc>"Phil Spencer is tackling a home stuck in the last century and on the market, but with no front door."</desc>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417213537 +0500" stop="20260417223058 +0500">
     <title>Phil Spencer: Secret Agent</title>
     <desc>"Can Phil beat dodgy DIY, sticky stains and a posse of cats to get a sale in just two weeks?"</desc>
@@ -169,6 +156,12 @@
     <title>Phil Spencer: Secret Agent</title>
     <desc>Phil Spencer is in Yorkshire trying to shift a stubborn semi that's turning buyers off.</desc>
     <episode-num system="onscreen">S2015E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
+  </programme><programme channel="BBC-Home-US" start="20260418011359 +0500" stop="20260418020902 +0500">
+    <title>Phil Spencer: Secret Agent</title>
+    <desc>Phil Spencer is helping a family whose house has been on the market for an incredible five years.</desc>
+    <episode-num system="onscreen">S04E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418011359 +0500" stop="20260418020902 +0500">
@@ -291,12 +284,6 @@
     <episode-num system="onscreen">S06E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5ac6e28330f052a6a57b56a94741c547/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1643822518150_aHR0cHM6Ly9zdGF0aWMtZGVsaXZlcnkuc3Iucm9rdS5jb20vYTM4OGZiZGQtZGI5Yy00NGJmLTgxZjAtMjEyNzYzN2NkMTk4L2ltYWdlcy8xNjI2MTA4NTE4LTllN2ZmYWQ5YWFiY2RmMTM5NWI3NzVlZjgxMGU2NWUyODcwNjdlMWUuanBn.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260418204314 +0500" stop="20260418213304 +0500">
-    <title>Hotels Through Time</title>
-    <desc>A peek inside London's Savoy, revealing the secrets of this famous hotel.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b29fd78bc42842e511f43519d3a0fad4/rokuFeed/assets/4189c81b78395c9bb63c16de54a535b9.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418204314 +0500" stop="20260418213304 +0500">
     <title>Hotels Through Time</title>
     <desc>A peek inside London's Savoy, revealing the secrets of this famous hotel.</desc>

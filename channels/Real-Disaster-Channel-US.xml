@@ -3,15 +3,7 @@
   <channel id="Real-Disaster-Channel-US">
     <display-name>Real Disaster Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Disaster-Channel-US.png" />
-  </channel><programme channel="Real-Disaster-Channel-US" start="20260417004121 +0500" stop="20260417013603 +0500">
-    <title>Mayday : Air Disaster</title>
-    <sub-title>Mayday: Air Disaster</sub-title>
-    <desc>A helicopter carrying offshore oil workers goes down over the open ocean.</desc>
-    <episode-num system="onscreen">S20E07</episode-num>
-    <date>20230915</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1nk44kaxb6fb319rizvqadub3/w1920_h1080/1nk44kaxb6fb319rizvqadub3.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260417013603 +0500" stop="20260417023045 +0500">
+  </channel><programme channel="Real-Disaster-Channel-US" start="20260417013603 +0500" stop="20260417023045 +0500">
     <title>Mayday: The Accident Files</title>
     <sub-title>Episode 2</sub-title>
     <desc>Distracted and in a rush, three flight crews make deadly decisions.</desc>
@@ -211,5 +203,21 @@
     <date>20230726</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/18cd0zo3s940v1q6xdzyangta/w1920_h1080/18cd0zo3s940v1q6xdzyangta.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260418003711 +0500" stop="20260418013154 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>The 1979 near-fatal incident of the TWA Flight 841 still puzzles experts.</desc>
+    <episode-num system="onscreen">S22E06</episode-num>
+    <date>20230612</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/1j2alk2zgxvb61x36650sk1n5/w1920_h1080/1j2alk2zgxvb61x36650sk1n5.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260418013154 +0500" stop="20260418022637 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>The pilots of Transair 671 manage a miraculous landing at a French military airfield.</desc>
+    <episode-num system="onscreen">S22E04</episode-num>
+    <date>20230612</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/1jogshnm705l414fo1sixfest/w1920_h1080/1jogshnm705l414fo1sixfest.jpg" />
   </programme>
 </tv>

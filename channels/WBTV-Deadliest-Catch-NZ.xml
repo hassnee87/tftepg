@@ -3,16 +3,7 @@
   <channel id="WBTV-Deadliest-Catch-NZ">
     <display-name>WBTV Deadliest Catch</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-Deadliest-Catch-NZ.png" />
-  </channel><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417004000 +0500" stop="20260417013000 +0500">
-    <title>Deadliest Catch</title>
-    <sub-title>Turf Wars</sub-title>
-    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
-    <episode-num system="onscreen">S14E17</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417013000 +0500" stop="20260417021500 +0500">
+  </channel><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417013000 +0500" stop="20260417021500 +0500">
     <title>Deadliest Catch</title>
     <sub-title>No Safe Harbor</sub-title>
     <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
@@ -305,6 +296,33 @@
     <sub-title>Greenhorn Overboard</sub-title>
     <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
     <episode-num system="onscreen">S14E16</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260418035500 +0500" stop="20260418044000 +0500">
+    <title>Deadliest Catch</title>
+    <sub-title>Turf Wars</sub-title>
+    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
+    <episode-num system="onscreen">S14E17</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260418044000 +0500" stop="20260418053000 +0500">
+    <title>Deadliest Catch</title>
+    <sub-title>No Safe Harbor</sub-title>
+    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
+    <episode-num system="onscreen">S14E18</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260418053000 +0500" stop="20260418061500 +0500">
+    <title>Deadliest Catch</title>
+    <sub-title>Blood &amp; Water</sub-title>
+    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
+    <episode-num system="onscreen">S14E19</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>

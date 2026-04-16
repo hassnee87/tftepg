@@ -3,13 +3,7 @@
   <channel id="BBC-Drama-US">
     <display-name>BBC Drama</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Drama-US.png" />
-  </channel><programme channel="BBC-Drama-US" start="20260417000213 +0500" stop="20260417010212 +0500">
-    <title>North &amp; South</title>
-    <desc>John Thornton falls on hard times, while Margaret starts to prosper despite family problems.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/70ae78eb0cf25564852a7ff70fe0ea16/rokuFeed/assets/90c850d1b2375a46bceffe0430cbc777.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417010212 +0500" stop="20260417020802 +0500">
+  </channel><programme channel="BBC-Drama-US" start="20260417010212 +0500" stop="20260417020802 +0500">
     <title>Mistresses</title>
     <desc>Katie is ready to start her new job as Jessica is swept off her feet by playboy Mark.</desc>
     <episode-num system="onscreen">S02E01</episode-num>
@@ -123,12 +117,6 @@
     <episode-num system="onscreen">S01E04</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d60b365185e5c2a888e795d10bf02e0/images/gracenote/assets/p468777_b_h8_af.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417204925 +0500" stop="20260417214921 +0500">
-    <title>Jane Austen's Pride and Prejudice</title>
-    <desc>Rejected by Elizabeth, Darcy returns to Rosings Park and writes to her.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8d60b365185e5c2a888e795d10bf02e0/images/gracenote/assets/p468777_b_h8_af.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260417214921 +0500" stop="20260417224604 +0500">
     <title>Jane Austen's Pride and Prejudice</title>
     <desc>Darcy introduces Elizabeth to his sister, Georgiana; Elizabeth receives distressing news.</desc>
@@ -148,6 +136,13 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d9d771e1305ad0ef7b7234453151a9c3/rokuFeed/assets/b22af26833885781a496d046af764bd0.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418012120 +0500" stop="20260418030246 +0500">
+    <title>Northanger Abbey</title>
+    <sub-title />
+    <desc>Jane Austen's story of a girl whose head is full of romantic notions about the world.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3df8f36f95705f57a73158fbc6957609/images/gracenote/assets/p8809616_b_h8_aa.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418012120 +0500" stop="20260418030246 +0500">
     <title>Northanger Abbey</title>
     <sub-title />
@@ -248,13 +243,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3df8f36f95705f57a73158fbc6957609/images/gracenote/assets/p8809616_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260418201833 +0500" stop="20260418211707 +0500">
-    <title>Mansfield Park</title>
-    <sub-title />
-    <desc>Poor Fanny Price is sent to live with her rich relations.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e0f6a404c19b50e0939521f4de5507d5/images/gracenote/assets/p437238_b_h10_ac.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418201833 +0500" stop="20260418211707 +0500">
     <title>Mansfield Park</title>
     <sub-title />

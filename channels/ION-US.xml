@@ -3,19 +3,7 @@
   <channel id="ION-US">
     <display-name>ION</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ION-US.png" />
-  </channel><programme channel="ION-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>FBI</title>
-    <desc>The team rushes to determine who is behind a bioweapon attack; Jubal's past demons begin to surface.</desc>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb16302963cd5cfc9f3f354e542bf864/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FSeries%2F1707930130945_FBI_Poster_16_9.jpg" />
-  </programme><programme channel="ION-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>FBI</title>
-    <desc>The team investigates the murder of an informant after he's found dead outside an abandoned factory.</desc>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb16302963cd5cfc9f3f354e542bf864/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FSeries%2F1707930130945_FBI_Poster_16_9.jpg" />
-  </programme><programme channel="ION-US" start="20260417020000 +0500" stop="20260417030000 +0500">
+  </channel><programme channel="ION-US" start="20260417020000 +0500" stop="20260417030000 +0500">
     <title>FBI</title>
     <desc>A string of armed robberies targets various businesses; OA's investments begin to go south.</desc>
     <episode-num system="onscreen">S05E14</episode-num>

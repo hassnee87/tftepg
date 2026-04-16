@@ -3,31 +3,7 @@
   <channel id="BBC-Comedy-US">
     <display-name>BBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
-  </channel><programme channel="BBC-Comedy-US" start="20260417001943 +0500" stop="20260417005400 +0500">
-    <title>Porridge (2016)</title>
-    <sub-title>The Witness</sub-title>
-    <desc>Dougie Parfitt wants Fletch to join his crew as his consigliere.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20171027</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/wUmeFFESoU4WD1L5QbPW5Gzfowm.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417005400 +0500" stop="20260417012734 +0500">
-    <title>Porridge (2016)</title>
-    <sub-title>The Minder</sub-title>
-    <desc>Fletch gets on the wrong side of a mysterious new inmate.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20171020</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/d5dluw8xUAjCPK7VxnFtEzlYjk5.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417012734 +0500" stop="20260417020232 +0500">
-    <title>Porridge (2016)</title>
-    <sub-title>The Rift</sub-title>
-    <desc>Fletch and cellmate Joe are getting on each other's nerves.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20171110</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/zJfka6KillrCPwECPKpXI77XgmK.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417020232 +0500" stop="20260417023424 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260417020232 +0500" stop="20260417023424 +0500">
     <title>Gavin and Stacey</title>
     <sub-title>Episode 2</sub-title>
     <desc>After a huge misunderstanding on the phone, Stacey thinks Gavin has finished with her.</desc>
@@ -355,5 +331,37 @@
     <date>20121004</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/9DkMHjIAihqrybtFYpr93uQXAiv.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418003110 +0500" stop="20260418010509 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Fathers and Suns</sub-title>
+    <desc>On Father's Day, Rimmer points out Lister has been a lousy father to himself.</desc>
+    <episode-num system="onscreen">S10E02</episode-num>
+    <date>20121011</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/yJaQtrxk7wQqhFmyaKqKdOMkPyH.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418010509 +0500" stop="20260418013851 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Lemons</sub-title>
+    <desc>Marooned in Britain in 23 AD, the Dwarfers need an 8 volt battery to get home.</desc>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <date>20121018</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/7WgDU5NZPbJXDn3ZroKV3M9onMZ.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418013851 +0500" stop="20260418021229 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Entangled</sub-title>
+    <desc>Lister loses Rimmer in a game of poker to a group of Biologically Engineered Life Forms.</desc>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <date>20121025</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/sOUwm5SOUfyKhDm0d6PrRA2RGLB.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418021229 +0500" stop="20260418024544 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Dear Dave</sub-title>
+    <desc>Lister gets himself in a love triangle with Snack Dispensers 23 and 34.</desc>
+    <episode-num system="onscreen">S10E05</episode-num>
+    <date>20121101</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/9tYTQVOqsHHDJ8XQtUZh7TRrfE4.jpg" />
   </programme>
 </tv>

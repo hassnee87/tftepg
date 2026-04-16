@@ -3,23 +3,7 @@
   <channel id="Stories-by-AMC-US">
     <display-name>Stories by AMC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Stories-by-AMC-US.png" />
-  </channel><programme channel="Stories-by-AMC-US" start="20260417001500 +0500" stop="20260417010200 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>PalmBerry</sub-title>
-    <desc>BlackBerry hits the market; Mike and Jim try to avoid a hostile takeover; Jim strategizes to increase sales.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20231114</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/88bd3abcf2abc677aa706d2f2331ebbe.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260417010200 +0500" stop="20260417015300 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>Storm</sub-title>
-    <desc>Apple announces the iPhone; Mike scrambles to please Verizon; Jim is unreachable trying to make a personal business deal; the Securities and Exchange Commission investigates the company.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20231115</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3a9f01fad2a7cd019fbf435b68bffad6.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260417015300 +0500" stop="20260417030500 +0500">
+  </channel><programme channel="Stories-by-AMC-US" start="20260417015300 +0500" stop="20260417030500 +0500">
     <title>The Audacity</title>
     <sub-title>Episode 101</sub-title>
     <desc>In a world of jaded billionaires, psychiatrist-gurus, bio-hacked tech bros, AI labs and disillusioned teens being optimized in elite private schools, an audacious data-mining CEO strives to turn insight and influence into profit and power.</desc>
@@ -208,5 +192,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/a/gracenote/aa1cf3a98039f5f17b1deac03e7d9162.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260418003900 +0500" stop="20260418022900 +0500">
+    <title>Once Upon a Time in Venice</title>
+    <sub-title />
+    <desc>To get his dog back, private eye Steve Ford forges an unlikely alliance with Spyder, the leader of a local gang. With help from his best friend, Steve pulls out the big guns to retrieve Spyder's missing cash and cocaine and save his beloved pooch.</desc>
+    <date>20170102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a55252231bb207561fffa57f5cd31446.jpg" />
   </programme>
 </tv>

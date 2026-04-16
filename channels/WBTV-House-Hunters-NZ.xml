@@ -3,52 +3,7 @@
   <channel id="WBTV-House-Hunters-NZ">
     <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417000000 +0500" stop="20260417002000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Worlds Collide In Wide Bay</sub-title>
-    <desc />
-    <episode-num system="onscreen">S170E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417002000 +0500" stop="20260417004500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Love Lost In Cloncurry, Australia</sub-title>
-    <desc />
-    <episode-num system="onscreen">S171E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417004500 +0500" stop="20260417011000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Big Barbecue And Bigger Bickering</sub-title>
-    <desc />
-    <episode-num system="onscreen">S172E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417011000 +0500" stop="20260417013500 +0500">
-    <title>House Hunters</title>
-    <sub-title>A Second Home In Palm Springs</sub-title>
-    <desc />
-    <episode-num system="onscreen">S192E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417013500 +0500" stop="20260417015500 +0500">
-    <title>House Hunters</title>
-    <sub-title>California Dreaming In Redlands</sub-title>
-    <desc />
-    <episode-num system="onscreen">S193E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417015500 +0500" stop="20260417022000 +0500">
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417015500 +0500" stop="20260417022000 +0500">
     <title>House Hunters</title>
     <sub-title>New vs. Old In Florida</sub-title>
     <desc />
@@ -629,6 +584,51 @@
     <sub-title>Oaxaca, Sight Unseen</sub-title>
     <desc />
     <episode-num system="onscreen">S174E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418035500 +0500" stop="20260418042000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Taking Time To Smell The Tacos</sub-title>
+    <desc />
+    <episode-num system="onscreen">S175E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418042000 +0500" stop="20260418044500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Don't Let The Baby Get Krabi In Thailand</sub-title>
+    <desc />
+    <episode-num system="onscreen">S178E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418044500 +0500" stop="20260418050500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Vannin' To Sayulita, Mexico</sub-title>
+    <desc />
+    <episode-num system="onscreen">S179E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418050500 +0500" stop="20260418053000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Teen Trouble In Germany</sub-title>
+    <desc />
+    <episode-num system="onscreen">S168E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418053000 +0500" stop="20260418055500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>French Rivera, Family-Style</sub-title>
+    <desc />
+    <episode-num system="onscreen">S169E12</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>

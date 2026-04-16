@@ -3,25 +3,7 @@
   <channel id="Crime-360-by-AE-US">
     <display-name>A&amp;amp;E Crime 360</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Crime-360-by-AE-US.png" />
-  </channel><programme channel="Crime-360-by-AE-US" start="20260417001533 +0500" stop="20260417004230 +0500">
-    <title>Court Cam</title>
-    <desc>Family members of defendants and victims erupt in a Florida courthouse.</desc>
-    <episode-num system="onscreen">S03E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0fa6f7af29b5a0ca44e89727f222280/rokuFeed/assets/a03e9c79640e51e39956f6c67f854b69.jpg" />
-  </programme><programme channel="Crime-360-by-AE-US" start="20260417004230 +0500" stop="20260417010952 +0500">
-    <title>Court Cam</title>
-    <desc>An inmate accused of murder makes a daring escape attempt; the judge has harsh words for a scammer.</desc>
-    <episode-num system="onscreen">S08E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0fa6f7af29b5a0ca44e89727f222280/rokuFeed/assets/a03e9c79640e51e39956f6c67f854b69.jpg" />
-  </programme><programme channel="Crime-360-by-AE-US" start="20260417010952 +0500" stop="20260417013715 +0500">
-    <title>Court Cam</title>
-    <desc>The judge has harsh words for a convicted killer; the judge mutes a defendant.</desc>
-    <episode-num system="onscreen">S08E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0fa6f7af29b5a0ca44e89727f222280/rokuFeed/assets/a03e9c79640e51e39956f6c67f854b69.jpg" />
-  </programme><programme channel="Crime-360-by-AE-US" start="20260417013715 +0500" stop="20260417020441 +0500">
+  </channel><programme channel="Crime-360-by-AE-US" start="20260417013715 +0500" stop="20260417020441 +0500">
     <title>Court Cam</title>
     <desc>Emotions run high as a grieving daughter confronts her father's killer in court.</desc>
     <episode-num system="onscreen">S08E09</episode-num>
@@ -285,12 +267,6 @@
     <episode-num system="onscreen">S04E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f6fb560a2e855a439e2fe85d09c5679a/images/gracenote/assets/p14124693_b_h8_aa.jpg" />
-  </programme><programme channel="Crime-360-by-AE-US" start="20260417203447 +0500" stop="20260417210001 +0500">
-    <title>Live PD: Police Patrol</title>
-    <desc>Resisting arrest in Rhode Island; carjacking in California; officer assaulted in Texas.</desc>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f6fb560a2e855a439e2fe85d09c5679a/images/gracenote/assets/p14124693_b_h8_aa.jpg" />
   </programme><programme channel="Crime-360-by-AE-US" start="20260417210001 +0500" stop="20260417212547 +0500">
     <title>Live PD: Police Patrol</title>
     <desc>Home invasion in Texas; domestic dispute in Florida; DUI in South Carolina.</desc>
@@ -355,6 +331,12 @@
     <title>Live PD: Police Patrol</title>
     <desc>DUI in Illinois; car theft in South Carolina; drug overdose in Indiana.</desc>
     <episode-num system="onscreen">S02E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f6fb560a2e855a439e2fe85d09c5679a/images/gracenote/assets/p14124693_b_h8_aa.jpg" />
+  </programme><programme channel="Crime-360-by-AE-US" start="20260418014440 +0500" stop="20260418021021 +0500">
+    <title>Live PD: Police Patrol</title>
+    <desc>Carjacking in South Carolina; high-speed pursuit in Texas; public intoxication in Louisiana.</desc>
+    <episode-num system="onscreen">S04E22</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f6fb560a2e855a439e2fe85d09c5679a/images/gracenote/assets/p14124693_b_h8_aa.jpg" />
   </programme><programme channel="Crime-360-by-AE-US" start="20260418014440 +0500" stop="20260418021021 +0500">

@@ -3,31 +3,7 @@
   <channel id="Yahoo-Finance-US">
     <display-name>Yahoo Finance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Yahoo-Finance-US.png" />
-  </channel><programme channel="Yahoo-Finance-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>Market Domination</title>
-    <sub-title />
-    <desc>The final trading hour brings big moves. Yahoo Finance keeps you updated on all the latest market action.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260417010000 +0500" stop="20260417013000 +0500">
-    <title>Market Domination: Overtime</title>
-    <sub-title />
-    <desc>The market may have closed, but the action continues. We analyze the day's top takeaways.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260417013000 +0500" stop="20260417020000 +0500">
-    <title>Asking for a Trend</title>
-    <sub-title />
-    <desc>Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.</desc>
-    <date>20250102</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
-  </programme><programme channel="Yahoo-Finance-US" start="20260417020000 +0500" stop="20260417030000 +0500">
+  </channel><programme channel="Yahoo-Finance-US" start="20260417020000 +0500" stop="20260417030000 +0500">
     <title>Market Movers</title>
     <sub-title />
     <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
@@ -292,6 +268,29 @@
     <sub-title />
     <desc>The final trading hour brings big moves. Yahoo Finance keeps you updated on all the latest market action.</desc>
     <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260418010000 +0500" stop="20260418013000 +0500">
+    <title>Market Domination: Overtime</title>
+    <sub-title />
+    <desc>The market may have closed, but the action continues. We analyze the day's top takeaways.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260418013000 +0500" stop="20260418020000 +0500">
+    <title>Asking for a Trend</title>
+    <sub-title />
+    <desc>Yahoo Finance covers trends driving tomorrow's market, offering insights to help you stay ahead of the curve.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260418020000 +0500" stop="20260418030000 +0500">
+    <title>Market Movers</title>
+    <sub-title />
+    <desc>Yahoo Finance highlights key moments in the previous trading session.</desc>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />

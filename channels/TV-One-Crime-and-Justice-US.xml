@@ -3,23 +3,7 @@
   <channel id="TV-One-Crime-and-Justice-US">
     <display-name>TV One Crime &amp;amp; Justice</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TV-One-Crime-and-Justice-US.png" />
-  </channel><programme channel="TV-One-Crime-and-Justice-US" start="20260417002820 +0500" stop="20260417012144 +0500">
-    <title>Payback</title>
-    <sub-title>Payback - Cycle of Violence</sub-title>
-    <desc>When an aspiring rapper is shot down in broad daylight after leaving a peace rally, Baltimore police believe the murder is related to a shooting earlier that day, and their worst fears are realized as more revenge killings occur.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20230529</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7343526738552856255/solid/rectangle/w1920_h1080/15hld1lwcf8w1v8a2b7lmkfcx.jpg" />
-  </programme><programme channel="TV-One-Crime-and-Justice-US" start="20260417012144 +0500" stop="20260417020945 +0500">
-    <title>Sins of the City</title>
-    <sub-title>Sins of the City - Miami, Florida</sub-title>
-    <desc>Miami�s dark side is exposed when a botched burglary takes the life of star NFL player Sean Taylor. Due to a tragic miscalculation, five would-be thieves become murderers with one fatal gunshot, leaving the city to mourn their beloved hometown hero.</desc>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <date>20221227</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7293507649611031599/solid/rectangle/w1280_h720/1cn7wtnzsqq8s14q147parifok.jpg" />
-  </programme><programme channel="TV-One-Crime-and-Justice-US" start="20260417020945 +0500" stop="20260417030312 +0500">
+  </channel><programme channel="TV-One-Crime-and-Justice-US" start="20260417020945 +0500" stop="20260417030312 +0500">
     <title>Fatal Attraction</title>
     <sub-title>Fatal Attraction - Casualty of Love</sub-title>
     <desc>When an Army sergeant home on leave is gun downed on New Year’s Eve, police suspect the straight-arrow soldier may have been killed over beef with someone from his past. But an unexpected tip puts investigators on the trail of an off-limits romance.</desc>
@@ -227,5 +211,21 @@
     <date>20230605</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7343500618655130050/solid/rectangle/w1920_h1080/1m28zbvpodxjt1bp3urg6v16hs.jpg" />
+  </programme><programme channel="TV-One-Crime-and-Justice-US" start="20260418010746 +0500" stop="20260418015546 +0500">
+    <title>Sins of the City</title>
+    <sub-title>Sins of the City - Sanford, Florida</sub-title>
+    <desc>In 2012, Sanford, Florida would become the epicenter of a nationwide debate when George Zimmerman shoots and kills Trayvon Martin. Trayvon�s death ignites the Black Lives Matter movement and puts Sanford center stage for the trial of the century.</desc>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <date>20230807</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7293514584022042534/solid/rectangle/w1280_h720/14lbyb3vk1v3a1oktbrsgiacba.jpg" />
+  </programme><programme channel="TV-One-Crime-and-Justice-US" start="20260418015546 +0500" stop="20260418024916 +0500">
+    <title>Fatal Attraction</title>
+    <sub-title>Fatal Attraction - A Sinner’s Secret</sub-title>
+    <desc>A small town is gripped with fear when a teenage girl is found bludgeoned to death and burned in her own home. A frightened community demands answers, but the search for her killer leads to nothing but dead ends.</desc>
+    <episode-num system="onscreen">S10E07</episode-num>
+    <date>20200601</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/2lb1fwzooiqi198zero0ner2q/w1920_h1080/2lb1fwzooiqi198zero0ner2q.jpg" />
   </programme>
 </tv>

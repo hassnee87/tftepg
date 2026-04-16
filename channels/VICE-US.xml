@@ -3,21 +3,39 @@
   <channel id="VICE-US">
     <display-name>VICE</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/VICE-US.png" />
-  </channel><programme channel="VICE-US" start="20260417001400 +0500" stop="20260417010400 +0500">
-    <title>Jungletown</title>
-    <sub-title>Pioneers or Colonists?</sub-title>
-    <desc>Interns challenge the purpose of their new community by asking whether they do more harm than good and what their money goes to.</desc>
+  </channel><programme channel="VICE-US" start="20260417010400 +0500" stop="20260417061300 +0500">
+    <title>Jungletown: Entertaining Jungle-Style</title>
+    <sub-title />
+    <desc>Jimmy shows off his jungle playground, but is challenged by interns worried about their environmental impact.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1606490892_0_20250702T003314278Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>
-  </programme><programme channel="VICE-US" start="20260417010400 +0500" stop="20260417061300 +0500">
-    <title>Jungletown</title>
-    <sub-title>Entertaining Jungle-Style</sub-title>
-    <desc>Jimmy shows off his jungle playground, but is challenged by interns worried about their environmental impact.</desc>
+  </programme><programme channel="VICE-US" start="20260417061300 +0500" stop="20260417070400 +0500">
+    <title>I Was a Teenage Felon: High AF</title>
+    <sub-title />
+    <desc>Nineteen-year-old Fred traffics thousands of pounds of marijuana across the border between the United States and Mexico.</desc>
     <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1606490892_0_20250702T003314278Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.jpeg" />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_535976524_0_20231208T002231612Z_52.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="VICE-US" start="20260417070400 +0500" stop="20260417075400 +0500">
+    <title>The Devil You Know</title>
+    <sub-title>There's a Satanist in the Suburbs</sub-title>
+    <desc>A man disappears amidst rumors of a local Satanic killer  Journalist Chad Nance takes up the case as police come up empty-handed.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544653819_4_20240715T004518408Z_1.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="VICE-US" start="20260417075400 +0500" stop="20260417102200 +0500">
+    <title>The Devil You Know</title>
+    <sub-title>A Punk Knows Where the Bodies Are Buried</sub-title>
+    <desc>Chad Nance investigates the background of a mentally-ill killer  a punk rocker war veteran is forced to make a gut-wrenching decision.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544653819_4_20240715T004518408Z_1.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>

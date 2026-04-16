@@ -3,15 +3,7 @@
   <channel id="Curiosity-Now-US">
     <display-name>Curiosity NOW</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Curiosity-Now-US.png" />
-  </channel><programme channel="Curiosity-Now-US" start="20260417003100 +0500" stop="20260417012300 +0500">
-    <title>Murder Maps</title>
-    <sub-title>In the Shadow of Jack</sub-title>
-    <desc>At the time of Jack the Ripper, London was also terrorized by the elusive `Borough Poisoner.'</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20151201</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/40524c63a9aacd722a4045f5314e9902.jpg" />
-  </programme><programme channel="Curiosity-Now-US" start="20260417012300 +0500" stop="20260417023400 +0500">
+  </channel><programme channel="Curiosity-Now-US" start="20260417012300 +0500" stop="20260417023400 +0500">
     <title>Murder Maps</title>
     <sub-title>Finding Dr. Crippen</sub-title>
     <desc>In 1910, the infamous Dr. Crippen killed his wife and buried her in the basement.</desc>
@@ -271,5 +263,37 @@
     <date>20220821</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/c/gracenote/c0480b894e6170659b9f0406891fb726.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260418004500 +0500" stop="20260418011400 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Trains and Grand Central Terminal</sub-title>
+    <desc>How New York City operates the country's largest commuter rail system.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20220822</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/be4079191ab75aba6497353a661a51f0.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260418011400 +0500" stop="20260418014300 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Roads</sub-title>
+    <desc>A rare, behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.</desc>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <date>20220824</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3b63e241101d92207c7f66efd3e6a653.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260418014300 +0500" stop="20260418021200 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Recycling</sub-title>
+    <desc>New York City runs the largest recycling program in the United States.</desc>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <date>20220825</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e01d147dd120a1c1ee20804ca2499c95.jpg" />
+  </programme><programme channel="Curiosity-Now-US" start="20260418021200 +0500" stop="20260418024800 +0500">
+    <title>NYC Revealed</title>
+    <sub-title>Electricity</sub-title>
+    <desc>Keeping the lights on in New York City is no easy task; as New York moves towards a greener future, the manner of generating electricity will have to evolve.</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <date>20220302</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8c98260073b305d58a61f3fe18a1ec93.jpg" />
   </programme>
 </tv>

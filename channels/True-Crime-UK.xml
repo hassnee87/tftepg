@@ -3,23 +3,7 @@
   <channel id="True-Crime-UK">
     <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260417000855 +0500" stop="20260417010306 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>Pages of Betrayal</sub-title>
-    <desc>Pages of Betrayal</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20250426</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b4c133e40c17e35302f/e8df3033-266c-436e-8404-1eaddb392485/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417010306 +0500" stop="20260417015817 +0500">
-    <title>Murder in Paradise</title>
-    <sub-title>Fear Island</sub-title>
-    <desc>Fear Island</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417015817 +0500" stop="20260417025329 +0500">
+  </channel><programme channel="True-Crime-UK" start="20260417015817 +0500" stop="20260417025329 +0500">
     <title>Murder in Paradise</title>
     <sub-title>Stranger Danger</sub-title>
     <desc>Stranger Danger</desc>
@@ -235,5 +219,29 @@
     <date>20251008</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418002657 +0500" stop="20260418012146 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>Murder in Plain Sight</sub-title>
+    <desc>Murder in Plain Sight</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20251015</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418012146 +0500" stop="20260418021712 +0500">
+    <title>Murder: Fight for the Truth</title>
+    <sub-title>Time Reveals All</sub-title>
+    <desc>Time Reveals All</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418021712 +0500" stop="20260418031236 +0500">
+    <title>Murder: Fight for the Truth</title>
+    <sub-title>No Stone Unturned</sub-title>
+    <desc>No Stone Unturned</desc>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
   </programme>
 </tv>

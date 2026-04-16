@@ -3,31 +3,7 @@
   <channel id="BBC-Sci-Fi-US">
     <display-name>BBC Sci-Fi</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Sci-Fi-US.png" />
-  </channel><programme channel="BBC-Sci-Fi-US" start="20260417001701 +0500" stop="20260417005059 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Stasis Leak</sub-title>
-    <desc>The crew of Red Dwarf have found a way to go back in time three million years.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <date>19880927</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/g9ZX04f2WgE2j9a6Wg1pbB54TZD.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260417005059 +0500" stop="20260417012441 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Queeg</sub-title>
-    <desc>Holly has been deposed and the back-up computer Queeg 500 is in control of Red Dwarf.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <date>19881004</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/reTPmU2TTEao9bANwVg36UzdbLV.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260417012441 +0500" stop="20260417015709 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Parallel Universe</sub-title>
-    <desc>Holly's latest invention takes the crew into a bizarre parallel universe.</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <date>19881011</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/bhs2aZt3XZxugPiwDck9i65EuEf.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260417015709 +0500" stop="20260417022834 +0500">
+  </channel><programme channel="BBC-Sci-Fi-US" start="20260417015709 +0500" stop="20260417022834 +0500">
     <title>Red Dwarf</title>
     <sub-title>Backwards</sub-title>
     <desc>Time starts to run backwards after the boys travel through a time hole.</desc>
@@ -363,5 +339,21 @@
     <date>20090411</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/l3fnDljhHNw3SSI3eVmKT8SrxPs.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260418002236 +0500" stop="20260418005044 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Back to Earth, Episode 3</sub-title>
+    <desc>Knowing they are destined to die, the Dwarfers head to a mysterious address to plead for life.</desc>
+    <episode-num system="onscreen">S09E03</episode-num>
+    <date>20090412</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/qOBCG4JA7ykMLq58w4dE5Jn71AJ.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260418005044 +0500" stop="20260418023358 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>The Promised Land</sub-title>
+    <desc>The boys from the Dwarf meet three humanoid cats who worship Lister as their God.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20250416</date>
+    <language>en</language>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/BBCS_RedDwarf_S001_SCID-363556_KeyArt_LANG-English_mm5bj3g2jv.jpg" />
   </programme>
 </tv>
