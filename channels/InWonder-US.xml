@@ -3,15 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260416151015 +0500" stop="20260416161333 +0500">
-    <title>Ancient Engineering S1 - "The Power Of Water"</title>
-    <sub-title>The Power Of Water</sub-title>
-    <desc>Without water, civilization is simply not possible. Romans took control of their water supplies very, very seriously.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20200101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/cd7c612387cc6649/IN00007430_01_0007_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260416161333 +0500" stop="20260416171650 +0500">
+  </channel><programme channel="InWonder-US" start="20260416161333 +0500" stop="20260416171650 +0500">
     <title>Ancient Engineering S1 - "History’s Greatest Ships"</title>
     <sub-title>History’s Greatest Ships</sub-title>
     <desc>As far back as the Bronze Age, humans were building ships capable of crossing oceans and trading between continents.</desc>
@@ -284,5 +276,37 @@
     <date>20070101</date>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d211bb84f018b56e/IN00008527_02_0004_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417153226 +0500" stop="20260417160146 +0500">
+    <title>The Re-Inventors S2 - "Crematorium"</title>
+    <sub-title>Crematorium</sub-title>
+    <desc>Crematorium heated by sunlight, find out if the sun can turn a person into a pile of ashes.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20070101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/f8e5dbd36c984689/IN00008527_02_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417160146 +0500" stop="20260417163106 +0500">
+    <title>The Re-Inventors S2 - "Flame Thower"</title>
+    <sub-title>Flame Thower</sub-title>
+    <desc>A thousand years old Chinese flamethrower, will it be a real weapon or just a kitchen tool for flaming.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20070101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c670f598972ab100/IN00008527_02_0006_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417163106 +0500" stop="20260417170114 +0500">
+    <title>The New Frontier S2 - "Shore to Shore"</title>
+    <sub-title>Shore to Shore</sub-title>
+    <desc>Our seafaring nature has translated well to the space age, seeking to sail out into the unknown in search of riches of one kind or another. While Europe and Asia continue their interest in the resource rich Moon, The United States and NASA on Mars.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c4bd3aa6f6ba0396/IN00006350_01_0000_Hero_Clean_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260417170114 +0500" stop="20260417173122 +0500">
+    <title>The New Frontier S2 - "Mars: Adapt or Leave"</title>
+    <sub-title>Mars: Adapt or Leave</sub-title>
+    <desc>As the latest successes and failures come and go Mars continues to give up her secrets. Invisible clouds are revealed with ultraviolet light and the search for the source of methane continues with ExoMars.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20160101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/a0698e5083c8953a/IN00006350_03_0000_Logo_3840x2160.jpg" />
   </programme>
 </tv>

@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-Action-US">
     <display-name>Movie Hub Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-Action-US.png" />
-  </channel><programme channel="Movie-Hub-Action-US" start="20260416145900 +0500" stop="20260416164200 +0500">
-    <title>Solomon Kane</title>
-    <sub-title />
-    <desc>A mercenary's (James Purefoy) new vows of nonviolence are put to the test by an evil sorcerer.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1b7989a250435f379a36df98ac29a687/images/gracenote/assets/p8022770_v_h10_aa.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260416164200 +0500" stop="20260416183900 +0500">
+  </channel><programme channel="Movie-Hub-Action-US" start="20260416164200 +0500" stop="20260416183900 +0500">
     <title>The Crow: Salvation</title>
     <sub-title />
     <desc>A mystical crow revives an innocent executed man (Eric Mabius) and helps him find a killer.</desc>
@@ -81,12 +75,12 @@
     <desc>Through a series of unexpected events, three women keep meeting at the public opera house.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6b2f7131e4125da78e3a9a6245397d2e/rokuFeed/assets/27c1cfab1c49510cadc9422de1832549.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417131300 +0500" stop="20260417151700 +0500">
-    <title>Peking Opera Blues</title>
+  </programme><programme channel="Movie-Hub-Action-US" start="20260417151700 +0500" stop="20260417170300 +0500">
+    <title>Iké Boys</title>
     <sub-title />
-    <desc>Through a series of unexpected events, three women keep meeting at the public opera house.</desc>
+    <desc>Two Japan-obsessed teenagers are transformed into super-powered characters by a magical anime.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6b2f7131e4125da78e3a9a6245397d2e/rokuFeed/assets/27c1cfab1c49510cadc9422de1832549.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/34bebf0e06c856338d0ff7ec24cba050/images/gracenote/assets/p20673134_v_h10_ab.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260417151700 +0500" stop="20260417170300 +0500">
     <title>Iké Boys</title>
     <sub-title />

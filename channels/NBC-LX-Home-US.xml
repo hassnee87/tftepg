@@ -3,37 +3,7 @@
   <channel id="NBC-LX-Home-US">
     <display-name>NBC LX Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC-LX-Home-US.png" />
-  </channel><programme channel="NBC-LX-Home-US" start="20260416145400 +0500" stop="20260416151900 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260416151900 +0500" stop="20260416154400 +0500">
-    <title>Open House</title>
-    <desc>Celebrity chef Anne Burrell's prepares a snack in her spacious Brooklyn loft, Reality Star Paige DeSorbo shows off her walk-in closet in her Midtown Manhattan abode, plus a look at a glamorous take on a surf shack.</desc>
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260416154400 +0500" stop="20260416160900 +0500">
-    <title>Open House</title>
-    <desc>Exploring interior design, architecture and real estate from coast to coast.</desc>
-    <episode-num system="onscreen">S15E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260416160900 +0500" stop="20260416163400 +0500">
-    <title>Open House</title>
-    <desc>Townhouse living in New York City.</desc>
-    <episode-num system="onscreen">S14E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260416163400 +0500" stop="20260416165900 +0500">
-    <title>Open House</title>
-    <desc>Exploring homes in New York and Los Angeles, including a Park Avenue penthouse with a pool.</desc>
-    <episode-num system="onscreen">S14E30</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260416165900 +0500" stop="20260416172400 +0500">
+  </channel><programme channel="NBC-LX-Home-US" start="20260416165900 +0500" stop="20260416172400 +0500">
     <title>Open House</title>
     <desc>Exploring interior design, architecture and real estate from coast to coast.</desc>
     <episode-num system="onscreen">S15E14</episode-num>
@@ -351,12 +321,6 @@
     <episode-num system="onscreen">S00E00</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417143900 +0500" stop="20260417150400 +0500">
-    <title>Open House</title>
-    <desc>Lux living overlooking Gramercy Park; bespoke design in Beverly Hills, Brentwood, and FiDi.</desc>
-    <episode-num system="onscreen">S00E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
   </programme><programme channel="NBC-LX-Home-US" start="20260417150400 +0500" stop="20260417152900 +0500">
     <title>Open House</title>
     <desc>Real estate trends and opportunities; home design.</desc>
@@ -379,6 +343,12 @@
     <title>Open House</title>
     <desc>Surprises abound with Laverne Cox at her very own studio apartment.</desc>
     <episode-num system="onscreen">S16E29</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260417164400 +0500" stop="20260417170900 +0500">
+    <title>Open House</title>
+    <desc>Gilded age design in New York; the dream home of designer Bobby Berk.</desc>
+    <episode-num system="onscreen">S16E30</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
   </programme><programme channel="NBC-LX-Home-US" start="20260417164400 +0500" stop="20260417170900 +0500">

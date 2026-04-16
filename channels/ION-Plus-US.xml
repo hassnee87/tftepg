@@ -3,13 +3,7 @@
   <channel id="ION-Plus-US">
     <display-name>ION Plus</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ION-Plus-US.png" />
-  </channel><programme channel="ION-Plus-US" start="20260416150000 +0500" stop="20260416170000 +0500">
-    <title>Midsomer Murders</title>
-    <desc>An accident during the restoration of a canal appears to be linked to a group of rowdy teenagers.</desc>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2d81d6716ac85bc2bff99fd91191e14b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1649424892547_aHR0cHM6Ly9zdGF0aWMtZGVsaXZlcnkuc3Iucm9rdS5jb20vMmQxZWE1YzctMzNhNC00MjUwLTg4NzctOGFlOTUyNWM4OGRmL2ltYWdlcy8xNTg5NjQyNzIxLWFmYzFjZTdmYWUyMGZlYWUyY2Y1OWZiZjY5MWUxMmFkMTY4ZWZiMjcuanBn.jpg" />
-  </programme><programme channel="ION-Plus-US" start="20260416170000 +0500" stop="20260416190000 +0500">
+  </channel><programme channel="ION-Plus-US" start="20260416170000 +0500" stop="20260416190000 +0500">
     <title>Midsomer Murders</title>
     <desc>Barnaby has a new assistant who investigating a murder when a Spanish dance night goes wrong.</desc>
     <episode-num system="onscreen">S07E02</episode-num>

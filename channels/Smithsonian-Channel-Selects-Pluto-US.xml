@@ -3,37 +3,7 @@
   <channel id="Smithsonian-Channel-Selects-Pluto-US">
     <display-name>Smithsonian Channel Selects</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-Selects-US.png" />
-  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416131500 +0500" stop="20260416141500 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Speed Trap</sub-title>
-    <desc>Join NTSB and military experts as they work together to uncover how a fighter jet could collide with a civilian flight.</desc>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <date>20150216</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416141500 +0500" stop="20260416151500 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Lost in Translation</sub-title>
-    <desc>Flap malfunction? Cell phone interference? A heavy sedative? What brought down Crossair Flight 498?</desc>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <date>20150223</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416151500 +0500" stop="20260416161500 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Tragedy on the Potomac</sub-title>
-    <desc>See how extreme conditions, warm-weather pilots, and poor decisions conspired to bring down a Boeing 737 in 1982.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20150302</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5fa343ffe906e1001a03e95c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416161500 +0500" stop="20260416171500 +0500">
+  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260416161500 +0500" stop="20260416171500 +0500">
     <title>Air Disasters</title>
     <sub-title>Queens Catastrophe</sub-title>
     <desc>Follow investigators as they race to determine if a November 2001 Queens plane crash was an accident or act of terror.</desc>
@@ -178,5 +148,25 @@
     <category>Educational</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417071500 +0500" stop="20260417081500 +0500">
+    <title>Aerial America</title>
+    <sub-title>Aerial America Man Made Marvels</sub-title>
+    <desc>A coast-to-coast tour over America's man-made structures, old and new.</desc>
+    <episode-num system="onscreen">S01E162</episode-num>
+    <date>20160605</date>
+    <category>Series</category>
+    <category>Documentary</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417081500 +0500" stop="20260417091500 +0500">
+    <title>Aerial America</title>
+    <sub-title>Aerial America Natural Wonders</sub-title>
+    <desc>America's most remarkable natural wonders. Includes: Grand Canyon, Great Lakes and more.</desc>
+    <episode-num system="onscreen">S01E163</episode-num>
+    <date>20160508</date>
+    <category>Series</category>
+    <category>Documentary</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5fa34413e906e1001a03ed7a/tile_1768515844446.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

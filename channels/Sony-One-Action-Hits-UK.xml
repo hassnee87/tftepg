@@ -3,26 +3,7 @@
   <channel id="Sony-One-Action-Hits-UK">
     <display-name>Sony One Action HITS</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Action-Hits-UK.png" />
-  </channel><programme channel="Sony-One-Action-Hits-UK" start="20260416140351 +0500" stop="20260416162246 +0500">
-    <title>Hellboy</title>
-    <sub-title />
-    <desc>A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1719061752_5_20260323T044457450Z_68_imageprocessorclient-tvplus-linear-74d4c47476-v2729.jpeg" />
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260416162246 +0500" stop="20260416182621 +0500">
-    <title>Jumanji (1995)</title>
-    <sub-title />
-    <desc>A mysterious game transports its players to the jungles of Jumanji! Thrilling effects!</desc>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1639734634_0_20260220T062132342Z_122_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
-    <rating>
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260416182621 +0500" stop="20260416202119 +0500">
+  </channel><programme channel="Sony-One-Action-Hits-UK" start="20260416182621 +0500" stop="20260416202119 +0500">
     <title>Faster</title>
     <sub-title />
     <desc>An ex-con sets out to avenge his brother's death after they were double-crossed during a heist years ago. During his campaign, however, he's tracked by a veteran cop and an egocentric hit man.</desc>
@@ -37,6 +18,25 @@
     <desc>There are heroes--there are superheroes--and then there's Hancock. With great power comes great responsibility--everyone knows that--everyone, that is, but Hancock. Edgy, conflicted, sarcastic, and misunderstood, Hancock's well-intentioned heroics might get the job done and save countless lives, but always seem to leave jaw-dropping damage in their wake. The public has finally had enough--as grateful as they are to have their local hero, the good citizens of Los Angeles are wondering what they ever did to deserve this guy. Hancock isn't the kind of man who cares what other people think--until the day that he saves the life of PR executive Ray Embrey, and the sardonic superhero begins to realize that he may have a vulnerable side after all. Facing that will be Hancock's greatest challenge yet--and a task that may prove impossible as Ray's wife, Mary, insists that he's a lost cause.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462891701_13_20251222T145935731Z_73_imageprocessorclient-tvplus-linear-85d7d49859-xmf84.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260416221302 +0500" stop="20260417003157 +0500">
+    <title>Hellboy</title>
+    <sub-title />
+    <desc>A demon, raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1719061752_5_20260323T044457450Z_68_imageprocessorclient-tvplus-linear-74d4c47476-v2729.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260417003157 +0500" stop="20260417023532 +0500">
+    <title>Jumanji (1995)</title>
+    <sub-title />
+    <desc>A mysterious game transports its players to the jungles of Jumanji! Thrilling effects!</desc>
+    <episode-num system="onscreen">S07E02</episode-num>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1639734634_0_20260220T062132342Z_122_imageprocessorclient-tvplus-linear-85d7d49859-s72h4.jpeg" />
     <rating>
       <value>12</value>
     </rating>

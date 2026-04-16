@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-US">
     <display-name>Movie Hub</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
-  </channel><programme channel="Movie-Hub-US" start="20260416142000 +0500" stop="20260416160700 +0500">
-    <title>Straight A's</title>
-    <sub-title />
-    <desc>An addict (Ryan Phillippe) confronts an ex-lover (Anna Paquin) who is now married to his brother.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/31edf31a41b2531d8dbd360b4cd448ad/rokuFeed/assets/f4e2791a654159d48fb38fa0ff79fe85.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260416160700 +0500" stop="20260416175200 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260416160700 +0500" stop="20260416175200 +0500">
     <title>Villains</title>
     <sub-title />
     <desc>Amateur criminals stumble upon a dark secret in a sadistic couple's home.</desc>
@@ -93,12 +87,12 @@
     <desc>A waitress finds herself in a fight for survival against masked assailants at a roadside diner.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60c5d332486d0f23de056d37a63715dc/images/gracenote/assets/p27919324_v_h8_af.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417145500 +0500" stop="20260417163200 +0500">
-    <title>Last Straw</title>
+  </programme><programme channel="Movie-Hub-US" start="20260417163200 +0500" stop="20260417182100 +0500">
+    <title>New Rose Hotel</title>
     <sub-title />
-    <desc>A waitress finds herself in a fight for survival against masked assailants at a roadside diner.</desc>
+    <desc>Corporate raiders (Christopher Walken, Willem Dafoe) use a woman (Asia Argento) to lure a genius.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60c5d332486d0f23de056d37a63715dc/images/gracenote/assets/p27919324_v_h8_af.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d658e2c132ef5691b564a46ff9d74c26/rokuFeed/assets/bb8e0f29609b59aaa7efc13bd31f8221.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260417163200 +0500" stop="20260417182100 +0500">
     <title>New Rose Hotel</title>
     <sub-title />

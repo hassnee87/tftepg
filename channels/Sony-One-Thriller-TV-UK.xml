@@ -3,23 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260416144644 +0500" stop="20260416153759 +0500">
-    <title>Missing</title>
-    <sub-title>Delusional</sub-title>
-    <desc>Following the disappearance of Brianna Norton, Jess's disturbing dream about the twenty-eight-year-old woman leads the FBI to Philadelphia.</desc>
-    <episode-num system="onscreen">S01E17</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375969885965599825/solid/rectangle/w1920_h1080/1b042ppzeyndd1y0sujmbusyw4.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416153759 +0500" stop="20260416162914 +0500">
-    <title>Missing</title>
-    <sub-title>These Dreams Before Me</sub-title>
-    <desc>A facts driven no nonsense FBI agent assigned to missing-persons cases is reluctantly paired with a teen girl psychic whose visions show clues to the location of the missing.</desc>
-    <episode-num system="onscreen">S01E18</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375970662706412349/solid/rectangle/w1920_h1080/z035c5u9ml7r1uovmygyse6nm.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260416162914 +0500" stop="20260416172138 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260416162914 +0500" stop="20260416172138 +0500">
     <title>Missing</title>
     <sub-title>Sea Of Love</sub-title>
     <desc>A teenaged girl's disappearance moves Jess from the Academy to partnering with Special Agent Nicole Scott.</desc>
@@ -235,5 +219,21 @@
     <date>20250922</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7375970779049203440/solid/rectangle/w1920_h1080/p8am0y42ksil1dyukeqf6ovv3.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417154456 +0500" stop="20260417163650 +0500">
+    <title>Missing</title>
+    <sub-title>Puzzle Box</sub-title>
+    <desc>A five-year-old girl's disappearance uncovers an ambitious reporter's undercover investigation into the smuggling of illegal aliens from China.</desc>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375969867117835255/solid/rectangle/w1920_h1080/cxlj7654oh7v1qcacluvktv7d.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417163650 +0500" stop="20260417172830 +0500">
+    <title>Missing</title>
+    <sub-title>One Night Stand</sub-title>
+    <desc>Jess and Nicole investigate the disappearance of a woman who they suspect may be involved in an elaborate -- and deadly, embezzlement scheme.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>20250922</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7375970074117292469/solid/rectangle/w1920_h1080/1kduq12n4kmmf17a92dqymdwn9.jpg" />
   </programme>
 </tv>

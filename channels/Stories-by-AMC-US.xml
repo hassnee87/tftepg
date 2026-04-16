@@ -3,23 +3,7 @@
   <channel id="Stories-by-AMC-US">
     <display-name>Stories by AMC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Stories-by-AMC-US.png" />
-  </channel><programme channel="Stories-by-AMC-US" start="20260416144800 +0500" stop="20260416153800 +0500">
-    <title>Halt and Catch Fire</title>
-    <sub-title>Adventure</sub-title>
-    <desc>Cameron chafes under new management; Joe and Gordon try to obtain an important piece of technology.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20140629</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2d5d58ae6b38dd260064e596a5398418.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416153800 +0500" stop="20260416163300 +0500">
-    <title>BlackBerry: The Limited Series</title>
-    <sub-title>Pocket Link</sub-title>
-    <desc>Mike Lazaridis and Doug Fregin pitch their idea of combining a computer with a cellphone to Jim Balsillie; Jim comes on board, and they try to sell their idea.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20231113</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/03123823d40188143927b4a1ffea0bec.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260416163300 +0500" stop="20260416172000 +0500">
+  </channel><programme channel="Stories-by-AMC-US" start="20260416163300 +0500" stop="20260416172000 +0500">
     <title>BlackBerry: The Limited Series</title>
     <sub-title>PalmBerry</sub-title>
     <desc>BlackBerry hits the market; Mike and Jim try to avoid a hostile takeover; Jim strategizes to increase sales.</desc>
@@ -225,5 +209,21 @@
     <date>20230319</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/f/gracenote/fd7e9753af16034b65fe55f96d95313d.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417154700 +0500" stop="20260417164100 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>George Saunders</sub-title>
+    <desc>When George Saunders visits Railton College, the professors scramble to impress the celebrated writer, while Hank is reminded of his own failed writing career; Hank and Lily anticipate an announcement from their daughter Julie.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20230326</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6e4a4e9b90f378ecfc20d053b390721c.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260417164100 +0500" stop="20260417173200 +0500">
+    <title>Lucky Hank</title>
+    <sub-title>Escape</sub-title>
+    <desc>Hank spirals when a storage pod full of his father's belongings is dropped in his front yard; the professors spiral when rumors of budget cuts threaten their tenured jobs.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20230402</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0630c23f52f52432cfe830f5d93fafbe.jpg" />
   </programme>
 </tv>

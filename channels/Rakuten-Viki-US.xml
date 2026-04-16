@@ -3,21 +3,7 @@
   <channel id="Rakuten-Viki-US">
     <display-name>Rakuten Viki</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Rakuten-Viki-US.png" />
-  </channel><programme channel="Rakuten-Viki-US" start="20260416143255 +0500" stop="20260416154011 +0500">
-    <title>The Legend Of The Blue Sea</title>
-    <sub-title />
-    <desc>Joon Jae and the mermaid somehow start to live together but the two soon get chased by gangsters at Spain.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9d97bfd7b3115ddd87b964d293b8aef7/images/gracenote/assets/p13497967_b_h10_af.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260416154011 +0500" stop="20260416164708 +0500">
-    <title>The Legend Of The Blue Sea</title>
-    <sub-title />
-    <desc>The mermaid starts a tough journey to Seoul to keep her promise with Joon Jae.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9d97bfd7b3115ddd87b964d293b8aef7/images/gracenote/assets/p13497967_b_h10_af.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260416164708 +0500" stop="20260416175407 +0500">
+  </channel><programme channel="Rakuten-Viki-US" start="20260416164708 +0500" stop="20260416175407 +0500">
     <title>The Legend of the Blue Sea</title>
     <desc>Jun Jae helps a mermaid escape from the aquarium.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -147,17 +133,16 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
-  </programme><programme channel="Rakuten-Viki-US" start="20260417142812 +0500" stop="20260417153619 +0500">
-    <title>Woori the Virgin</title>
-    <sub-title />
-    <desc>Woori chooses to have Raphael's baby, revealing it during a shocking hospital murder.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
   </programme><programme channel="Rakuten-Viki-US" start="20260417153619 +0500" stop="20260417164417 +0500">
     <title>Woori the Virgin</title>
     <desc>Woori's pregnancy hormones boost her feelings; a misdirected letter lands in Raphael's email.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
+  </programme><programme channel="Rakuten-Viki-US" start="20260417164417 +0500" stop="20260417175222 +0500">
+    <title>Woori the Virgin</title>
+    <desc>Seoung Il reveals he is Woori's father, leaving her shocked and angry at Eun Ran's deception.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d720d22e1005092808cbb78c01372bf/images/gracenote/assets/p22140291_b_h10_ac.jpg" />
   </programme><programme channel="Rakuten-Viki-US" start="20260417164417 +0500" stop="20260417175222 +0500">

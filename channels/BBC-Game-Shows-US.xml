@@ -3,23 +3,7 @@
   <channel id="BBC-Game-Shows-US">
     <display-name>BBC Game Shows</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Game-Shows-US.png" />
-  </channel><programme channel="BBC-Game-Shows-US" start="20260416151222 +0500" stop="20260416160410 +0500">
-    <title>The Boss (2017)</title>
-    <sub-title>Episode 19</sub-title>
-    <desc>Susan Calman hosts the quiz show where being in control is everything.</desc>
-    <episode-num system="onscreen">S02E19</episode-num>
-    <date>20171005</date>
-    <language>en</language>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Boss_2017_S2_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme><programme channel="BBC-Game-Shows-US" start="20260416160410 +0500" stop="20260416165618 +0500">
-    <title>The Boss (2017)</title>
-    <sub-title>Episode 20</sub-title>
-    <desc>Susan Calman hosts the quiz show where being in control is everything.</desc>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <date>20171006</date>
-    <language>en</language>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Boss_2017_S2_STANDARD_3840x2160_eng_gb.jpg" />
-  </programme><programme channel="BBC-Game-Shows-US" start="20260416165618 +0500" stop="20260416174808 +0500">
+  </channel><programme channel="BBC-Game-Shows-US" start="20260416165618 +0500" stop="20260416174808 +0500">
     <title>The Boss (2017)</title>
     <sub-title>Episode 22</sub-title>
     <desc>Susan Calman hosts the quiz show where being in control is everything.</desc>
@@ -225,6 +209,30 @@
     <desc>The quiz-game show hybrid that requires both brains and balls.</desc>
     <episode-num system="onscreen">S01E22</episode-num>
     <date>20150414</date>
+    <language>en</language>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Edge_Ent_S1_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme><programme channel="BBC-Game-Shows-US" start="20260417152610 +0500" stop="20260417161803 +0500">
+    <title>The Edge</title>
+    <sub-title>Episode 23</sub-title>
+    <desc>The quiz-game show hybrid that requires both brains and balls.</desc>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <date>20150415</date>
+    <language>en</language>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Edge_Ent_S1_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme><programme channel="BBC-Game-Shows-US" start="20260417161803 +0500" stop="20260417171004 +0500">
+    <title>The Edge</title>
+    <sub-title>Episode 24</sub-title>
+    <desc>The quiz-game show hybrid that requires both brains and balls.</desc>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <date>20150416</date>
+    <language>en</language>
+    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Edge_Ent_S1_STANDARD_3840x2160_eng_gb.jpg" />
+  </programme><programme channel="BBC-Game-Shows-US" start="20260417171004 +0500" stop="20260417180209 +0500">
+    <title>The Edge</title>
+    <sub-title>Episode 25</sub-title>
+    <desc>The quiz-game show hybrid that requires both brains and balls.</desc>
+    <episode-num system="onscreen">S01E25</episode-num>
+    <date>20150417</date>
     <language>en</language>
     <icon src="https://partner-upload-assets.wurl.com/bbc_studios/The_Edge_Ent_S1_STANDARD_3840x2160_eng_gb.jpg" />
   </programme>

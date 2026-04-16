@@ -3,35 +3,7 @@
   <channel id="The-Design-Network-US">
     <display-name>The Design Network</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/The-Design-Network-US.png" />
-  </channel><programme channel="The-Design-Network-US" start="20260416150000 +0500" stop="20260416153000 +0500">
-    <title>Celebrity Homes Unlocked</title>
-    <sub-title>Cassie Randolph’s Beachside Bungalow</sub-title>
-    <desc>Andrea’s off to Huntington Beach, California to spend the day with Cassie Randolph.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/CelebrityHomesUnlocked_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416153000 +0500" stop="20260416160000 +0500">
-    <title>The Reveal</title>
-    <sub-title>Moody &amp; Masculine Mid-Century Style</sub-title>
-    <desc>Los Angeles-based designer, Eddie Mickenberg welcomes you into this Encino, California home.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/The%2520Reveal_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416160000 +0500" stop="20260416163000 +0500">
-    <title>The Reveal</title>
-    <sub-title>It’s a Mood: Cara Woodhouse’s Noyack Cottage</sub-title>
-    <desc>Step inside Noyack Cottage, a stunning Sag Harbor vacation home transformed by Cara Woodhouse.</desc>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/TheReveal_S6_SeriesPackage.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416163000 +0500" stop="20260416170000 +0500">
-    <title>The Reveal</title>
-    <sub-title>Organic Desert Living</sub-title>
-    <desc>Kristen Forgione introduces the Cortez build, a modern aesthetic made intimate through natural textures.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/The%2520Reveal_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260416170000 +0500" stop="20260416173000 +0500">
+  </channel><programme channel="The-Design-Network-US" start="20260416170000 +0500" stop="20260416173000 +0500">
     <title>The Reveal</title>
     <sub-title>Designer's Dwelling: Family-Friendly Glam</sub-title>
     <desc>Designer Julie Couch gives you a personal tour of her timeless Brentwood, TN home.</desc>
@@ -344,6 +316,34 @@
     <sub-title>Demo and Drywall</sub-title>
     <desc>Before taking the class on a much-needed field trip, Brad and Jennifer drop in to check each flipper's progress.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/FlipU_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+    <title>Flip U</title>
+    <sub-title>Doughnuts and Decisions</sub-title>
+    <desc>Brad and Jennifer introduce the class to Ashley, a color specialist from Glidden.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/FlipU_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417160000 +0500" stop="20260417163000 +0500">
+    <title>Flip U</title>
+    <sub-title>Who's Got the Grit?</sub-title>
+    <desc>Brad and Jennifer stop by each site to see if the flippers have completed their last homework assignment.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/FlipU_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417163000 +0500" stop="20260417170000 +0500">
+    <title>Flip U</title>
+    <sub-title>Finishing Touches</sub-title>
+    <desc>Graduation looms near, and the flippers are hard at work putting the finishing touches on each home.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/FlipU_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260417170000 +0500" stop="20260417173000 +0500">
+    <title>Flip U</title>
+    <sub-title>A "" Graduation</sub-title>
+    <desc>The classmates unveil their spectacular finished homes in a final review with Brad and Jennifer.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
     <language>en</language>
     <icon src="https://d2irp9idlufd6d.cloudfront.net/FlipU_Vimeo%2520Package.jpg" />
   </programme>

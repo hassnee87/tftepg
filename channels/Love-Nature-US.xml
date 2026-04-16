@@ -3,13 +3,7 @@
   <channel id="Love-Nature-US">
     <display-name>Love Nature</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
-  </channel><programme channel="Love-Nature-US" start="20260416150000 +0500" stop="20260416160400 +0500">
-    <title>Hot Life in Africa</title>
-    <desc>Face relentless rays with an adaptable cat and marvel at a never-thirsty plant.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1bfc67b4785451f3bdb642b63cae4dfb/images/gracenote/assets/p25843983_b_h10_ac.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260416160400 +0500" stop="20260416170600 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260416160400 +0500" stop="20260416170600 +0500">
     <title>Deep In The Heart</title>
     <sub-title />
     <desc>Join Matthew McConaughey for a unique look at the Lone Star State’s wild places.</desc>
@@ -150,6 +144,12 @@
     <desc>Explore Qatar’s untamed wilderness, unique wildlife, and human innovations.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/580177e67f00fbeddc65304b958b2e79/rokuFeed/assets/cabe6585fcec59969dc47c8a6488dd73.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260417160700 +0500" stop="20260417170300 +0500">
+    <title>Ireland's Wild Islands</title>
+    <desc>Explore a 1,500-year-old monastery among the dizzying crags of the world-famous Skellig Islands.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9aa844cac934587697cedd8ae7d1d335/images/gracenote/assets/p27351351_b_h8_aa.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260417160700 +0500" stop="20260417170300 +0500">
     <title>Ireland's Wild Islands</title>
     <desc>Explore a 1,500-year-old monastery among the dizzying crags of the world-famous Skellig Islands.</desc>

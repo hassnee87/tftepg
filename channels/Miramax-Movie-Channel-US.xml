@@ -3,15 +3,7 @@
   <channel id="Miramax-Movie-Channel-US">
     <display-name>Miramax Movie Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Miramax-Movie-Channel-US.png" />
-  </channel><programme channel="Miramax-Movie-Channel-US" start="20260416143916 +0500" stop="20260416163708 +0500">
-    <title>Universal Soldier</title>
-    <sub-title />
-    <desc>A reporter discovers a Defense Department project to create androids from the bodies of Vietnam soldiers</desc>
-    <date>19920710</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/24f731de2886f19b28c76c202a6b7df7.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260416163708 +0500" stop="20260416182645 +0500">
+  </channel><programme channel="Miramax-Movie-Channel-US" start="20260416163708 +0500" stop="20260416182645 +0500">
     <title>The Warriors</title>
     <sub-title />
     <desc>The armies of the night number 100,000; they outnumber the police 5 to 1; tonight they’re after the Warriors.</desc>
@@ -107,5 +99,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/5/gracenote/5e263fe92167f0fb909fc9f1f003f894.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417161626 +0500" stop="20260417184042 +0500">
+    <title>Walking Tall</title>
+    <sub-title />
+    <desc>Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town</desc>
+    <date>19730222</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg" />
   </programme>
 </tv>

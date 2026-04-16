@@ -3,13 +3,7 @@
   <channel id="Tribeca-Channel-US">
     <display-name>Tribeca Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Tribeca-Channel-US.png" />
-  </channel><programme channel="Tribeca-Channel-US" start="20260416140600 +0500" stop="20260416155800 +0500">
-    <title>Far From Men</title>
-    <sub-title />
-    <desc>A reclusive teacher must help a wanted man escape into the mountains during the Algerian War.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6f3fa26ff1ec280030e13fb3d7759bbd/rokuFeed/assets/5a323d25515550a1ab5cadb65ffabc3f.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260416155800 +0500" stop="20260416174700 +0500">
+  </channel><programme channel="Tribeca-Channel-US" start="20260416155800 +0500" stop="20260416174700 +0500">
     <title>Orphan Horse</title>
     <sub-title />
     <desc>A runaway hides out in the barn of a retired horse trainer and forms a bond with his troubled filly.</desc>
@@ -75,12 +69,12 @@
     <desc>In his Berlin bunker, an increasingly unhinged Hitler readies himself for the end.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d55983cd1ff457dc83491a87539dfa54/rokuFeed/assets/2295a0b3605b575aaaa2d77b991f75a7.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417123100 +0500" stop="20260417152200 +0500">
-    <title>Downfall</title>
+  </programme><programme channel="Tribeca-Channel-US" start="20260417152200 +0500" stop="20260417181500 +0500">
+    <title>Fitzcarraldo</title>
     <sub-title />
-    <desc>In his Berlin bunker, an increasingly unhinged Hitler readies himself for the end.</desc>
+    <desc>Opera lover (Klaus Kinski) hauls riverboat overland in Amazon.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d55983cd1ff457dc83491a87539dfa54/rokuFeed/assets/2295a0b3605b575aaaa2d77b991f75a7.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dffbfe569a0c59d68602f85a4fed200b/images/gracenote/assets/p7140_v_h10_aa.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260417152200 +0500" stop="20260417181500 +0500">
     <title>Fitzcarraldo</title>
     <sub-title />

@@ -3,21 +3,7 @@
   <channel id="BBC-Home-US">
     <display-name>BBC Home &amp;amp; Garden</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Home-US.png" />
-  </channel><programme channel="BBC-Home-US" start="20260416141645 +0500" stop="20260416151954 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Emotions are running high at Chelsea as the all-important medals are revealed.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416151954 +0500" stop="20260416162219 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Nicki Chapman and Angellica Bell launch the BBC RHS People's Choice Award.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260416162219 +0500" stop="20260416172615 +0500">
+  </channel><programme channel="BBC-Home-US" start="20260416162219 +0500" stop="20260416172615 +0500">
     <title>Chelsea Flower Show: 2025</title>
     <sub-title />
     <desc>Monty Don and Arit Anderson celebrate the power of gardening to bring people together.</desc>
@@ -165,16 +151,16 @@
     <episode-num system="onscreen">S04E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417141941 +0500" stop="20260417151340 +0500">
-    <title>Phil Spencer: Secret Agent</title>
-    <desc>Phil Spencer is finding it grim up north helping a struggling seller shift his shabby semi.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417151340 +0500" stop="20260417160812 +0500">
     <title>Phil Spencer: Secret Agent</title>
     <desc>"Phil Spencer faces a massive challenge, trying to sell a problem property that's overrun with dogs."</desc>
     <episode-num system="onscreen">S04E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
+  </programme><programme channel="BBC-Home-US" start="20260417160812 +0500" stop="20260417170242 +0500">
+    <title>Phil Spencer: Secret Agent</title>
+    <desc>Phil Spencer is in Yorkshire trying to shift a stubborn semi that's turning buyers off.</desc>
+    <episode-num system="onscreen">S2015E00</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417160812 +0500" stop="20260417170242 +0500">

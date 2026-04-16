@@ -3,23 +3,7 @@
   <channel id="True-Crime-UK">
     <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260416150833 +0500" stop="20260416160357 +0500">
-    <title>Britain's Countryside Killers</title>
-    <sub-title>Fatal Attraction</sub-title>
-    <desc>Fatal Attraction</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20250408</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260416160357 +0500" stop="20260416165901 +0500">
-    <title>Britain's Countryside Killers</title>
-    <sub-title>The Cold Case</sub-title>
-    <desc>The Cold Case</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20250414</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260416165901 +0500" stop="20260416175400 +0500">
+  </channel><programme channel="True-Crime-UK" start="20260416165901 +0500" stop="20260416175400 +0500">
     <title>Britain's Countryside Killers</title>
     <sub-title>Dark Deceit</sub-title>
     <desc>Dark Deceit</desc>
@@ -243,5 +227,37 @@
     <date>20260401</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS10_Ep040.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260417151821 +0500" stop="20260417154419 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Wired for Disaster</sub-title>
+    <desc>Wired for Disaster</desc>
+    <episode-num system="onscreen">S10E41</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260417154419 +0500" stop="20260417161009 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Wood-be Killer</sub-title>
+    <desc>Wood-be Killer</desc>
+    <episode-num system="onscreen">S10E42</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260417161009 +0500" stop="20260417170401 +0500">
+    <title>Body In The Water</title>
+    <sub-title>A Finding in the Loch</sub-title>
+    <desc>A Finding in the Loch</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20250916</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260417170401 +0500" stop="20260417175859 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Body in the Bag</sub-title>
+    <desc>Body in the Bag</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
   </programme>
 </tv>

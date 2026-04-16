@@ -3,19 +3,7 @@
   <channel id="Great-Movies-UK">
     <display-name>Great! Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Movies-UK.png" />
-  </channel><programme channel="Great-Movies-UK" start="20260416153957 +0500" stop="20260416171242 +0500">
-    <title>Labor, Lies And Murder</title>
-    <sub-title />
-    <desc>(2022) Thriller with Brooke Burfitt. A pregnant woman hires a doula to help with her home birth. But as delivery day approaches and shocking secrets emerge, who can she really trust?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1742262910_0_20260401T121243409Z_1_imageprocessorclient-tvplus-linear-74d4c47476-lnxhz.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260416171242 +0500" stop="20260416185035 +0500">
-    <title>Killer in Law</title>
-    <sub-title />
-    <desc>(2018) High-stakes thriller with Kelly Sullivan. Melissa encounters the in-law from hell when her husband's long-lost mother returns. As she unleashes a twisted plan, someone is not needed any more...</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1097531551_0_20250730T165855799Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260416185035 +0500" stop="20260416203011 +0500">
+  </channel><programme channel="Great-Movies-UK" start="20260416185035 +0500" stop="20260416203011 +0500">
     <title>A Lover Betrayed</title>
     <sub-title />
     <desc>(2017) Thriller with Jamie Luner. Tess is finally ready to live again after her son's death years before. But a brief romance with a handsome soldier is about to twist from attraction into obsession..</desc>
@@ -33,5 +21,11 @@
     <desc>(2020) Thriller with Natalie Brown. Recently divorced Hope thinks her struggling daughter is back on track when she bonds with Cassie, whose parents also split. But is Cassie a friend or a foe?</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1018020086_0_20250629T152730028Z_84_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260416234006 +0500" stop="20260417011345 +0500">
+    <title>A Deadly Lullaby</title>
+    <sub-title />
+    <desc>After losing her child, Olivia meets a woman and her daughter.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485855787_0_20231108T135611850Z_95.jpeg" />
   </programme>
 </tv>

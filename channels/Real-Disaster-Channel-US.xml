@@ -3,23 +3,7 @@
   <channel id="Real-Disaster-Channel-US">
     <display-name>Real Disaster Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Disaster-Channel-US.png" />
-  </channel><programme channel="Real-Disaster-Channel-US" start="20260416143351 +0500" stop="20260416152833 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>When critical instruments in the cockpit can't be trusted, the consequences can be fatal.</desc>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <date>20230801</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/mi7b84usot9p1jgw76jvoomvf/w1920_h1080/mi7b84usot9p1jgw76jvoomvf.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416152833 +0500" stop="20260416162333 +0500">
-    <title>Mayday : Air Disaster</title>
-    <sub-title>Mayday: Air Disaster</sub-title>
-    <desc>With flames burning through the cabin floor, the crew attempts a return to the airport.</desc>
-    <episode-num system="onscreen">S12E02</episode-num>
-    <date>20120101</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/l30wspksk24q1k5zg34yc6bv0/w1920_h1080/l30wspksk24q1k5zg34yc6bv0.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260416162333 +0500" stop="20260416172333 +0500">
+  </channel><programme channel="Real-Disaster-Channel-US" start="20260416162333 +0500" stop="20260416172333 +0500">
     <title>Mayday : Air Disaster</title>
     <sub-title>Mayday: Air Disaster</sub-title>
     <desc>One of the most horrifying mid-air collisions in history happened over India in 1996.</desc>
@@ -219,5 +203,21 @@
     <date>20230612</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/g8oo06k2zgop1cfakzc7ghjx0/w1920_h1080/g8oo06k2zgop1cfakzc7ghjx0.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417152914 +0500" stop="20260417162414 +0500">
+    <title>Mayday : Air Disaster</title>
+    <sub-title>Mayday: Air Disaster</sub-title>
+    <desc>Reeve Aleutian Airlines Flight #8 is 19,000 feet over the Pacific Ocean when the propeller flies off.</desc>
+    <episode-num system="onscreen">S12E01</episode-num>
+    <date>20120101</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/1vwda2z6sx47m1oo0tvxzlqqk/w1920_h1080/1vwda2z6sx47m1oo0tvxzlqqk.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260417162414 +0500" stop="20260417171857 +0500">
+    <title>Mayday: The Accident Files</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Three flight crews face different consequences after an engine separates in mid-air.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <date>20230504</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/2jy2rutd6v6c1g0odv3jibyzq/w1920_h1080/2jy2rutd6v6c1g0odv3jibyzq.jpg" />
   </programme>
 </tv>

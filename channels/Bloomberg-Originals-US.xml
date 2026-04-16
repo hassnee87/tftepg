@@ -3,16 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260416160000 +0500" stop="20260416190000 +0500">
-    <title>Bloomberg Surveillance Radio</title>
-    <sub-title />
-    <desc>Bloomberg Surveillance Radio The economy and the markets are under surveillance as the latest developments in finance, economics and investment is covered  Tom Keene, Paul Sweeney, Lisa Mateo, Michael Barr and other guests create some intriguing conversation.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_545987828_0_20240813T094552592Z_1_imageprocessorclient-tvplus-linear-64ff86dd75-glwx5.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260416190000 +0500" stop="20260416210000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260416190000 +0500" stop="20260416210000 +0500">
     <title>Bloomberg Intelligence</title>
     <sub-title />
     <desc>Bloomberg Intelligence Bloomberg's Alix Steel and Paul Sweeney harness the power of Bloomberg Intelligence to provide in-depth research and data on more than 2,000 companies and 130 industries.</desc>
@@ -27,6 +18,15 @@
     <desc>Balance of Power Focusing on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098044071_0_20251030T185223371Z_144_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260416230000 +0500" stop="20260417020000 +0500">
+    <title>Bloomberg Businessweek</title>
+    <sub-title />
+    <desc>Bloomberg Businessweek Carol Massar and Tim Stenovec bring together the latest news from the worlds of business and finance and the interesting stories of global technology, politics, economics and more.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_545944622_1_20240812T113402666Z_64_imageprocessorclient-tvplus-linear-64ff86dd75-s2ptv.jpeg" />
     <rating>
       <value>TV-G</value>
     </rating>

@@ -3,23 +3,14 @@
   <channel id="Paramount-Movie-Channel-Pluto-US">
     <display-name>Paramount Movie Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Paramount-Movie-Channel-US.png" />
-  </channel><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260416140000 +0500" stop="20260416160000 +0500">
-    <title>Aeon Flux</title>
-    <sub-title />
-    <desc>Academy Award-winner Charlize Theron stars as Aeon Flux, the underground operative fighting totalitarian rule in 25th-century Earth's last living city.</desc>
-    <date>20050101</date>
-    <category>Thriller</category>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/5637f07038d1bd272284001b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260416160000 +0500" stop="20260416190000 +0500">
+  </channel><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260416160000 +0500" stop="20260416190000 +0500">
     <title>The Island</title>
     <sub-title />
     <desc>A man goes on the run after he discovers that he is actually a "harvested being", and is being kept along with others in a utopian facility.</desc>
     <date>20050722</date>
+    <category>Movie</category>
     <category>Action</category>
     <category>Science fiction</category>
-    <category>Movie</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/61e9ea6e6f81a5001bd28640/poster_1769465883952.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260416190000 +0500" stop="20260416221500 +0500">
@@ -27,8 +18,8 @@
     <sub-title />
     <desc>In a future world, humans share aspects of their lives with companion robots called Mechas. But when an advanced prototype robot child named David is programmed to show unconditional love, his human family isn't prepared for the consequences.</desc>
     <date>20010629</date>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/5c9c08cbc8ccd6797db6801c/poster_1768518364442.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260416221500 +0500" stop="20260417010000 +0500">
@@ -36,8 +27,8 @@
     <sub-title />
     <desc>When a couple of young astronomers discover an enormous comet on course to collide with Earth, the countdown to doomsday begins, and the human race embarks on the fight for survival.</desc>
     <date>19980508</date>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/5e94acf8d2f200001a783301/poster_1771530481099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417010000 +0500" stop="20260417030000 +0500">
@@ -54,8 +45,8 @@
     <sub-title />
     <desc>Scott Eastwood stars in this action-adventure from the writers of 2 Fast 2 Furious and the director of Taken. When two legendary car thieves are caught stealing from a mafia boss, they are given a week to nab a vintage Ferrari, or risk losing everything.</desc>
     <date>20171006</date>
-    <category>Action</category>
     <category>Movie</category>
+    <category>Action</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/622f99274f80a80014e98586/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417050000 +0500" stop="20260417074500 +0500">
@@ -63,9 +54,29 @@
     <sub-title />
     <desc>When a couple of young astronomers discover an enormous comet on course to collide with Earth, the countdown to doomsday begins, and the human race embarks on the fight for survival.</desc>
     <date>19980508</date>
-    <category>Science fiction</category>
     <category>Movie</category>
+    <category>Science fiction</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/5e94acf8d2f200001a783301/poster_1771530481099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417074500 +0500" stop="20260417093000 +0500">
+    <title>Cloverfield</title>
+    <sub-title />
+    <desc>Five young New Yorkers face a life or death struggle in order to escape from the city when a monster the size of a skyscraper suddenly appears.</desc>
+    <date>20071231</date>
+    <category>Movie</category>
+    <category>Sci-Fi Horror</category>
+    <category>Science fiction</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/episodes/5bd3338967f34cef7af44a37/poster_1769024881892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417093000 +0500" stop="20260417114500 +0500">
+    <title>10 Cloverfield Lane</title>
+    <sub-title />
+    <desc>After a car crash, a woman wakes up in a survivalist’s bunker. He claims to have saved her from an apocalyptic attack, but, growing suspicious of his motives, she'll have to escape to discover the truth.</desc>
+    <date>20160311</date>
+    <category>Thriller</category>
+    <category>Movie</category>
+    <category>Science fiction</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/episodes/5ffc90de50e458001a794be2/poster_1774983613236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
 </tv>

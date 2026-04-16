@@ -3,47 +3,7 @@
   <channel id="CBC-Comedy-CA">
     <display-name>CBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBC-Comedy-CA.png" />
-  </channel><programme channel="CBC-Comedy-CA" start="20260416150000 +0500" stop="20260416152500 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>New Appa-liance</sub-title>
-    <desc>When Umma wants a new dishwasher, Appa is determined to get the best deal; Janet adopts a new name; Jung tries to get his job back at Handy.</desc>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <date>20190108</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f5858797fabefa8d46afda52d44227b8.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260416152500 +0500" stop="20260416155100 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>Cutie Pie</sub-title>
-    <desc>Appa tries to convince Umma that he's still attractive; Jung returns to Handy; Gerald's girlfriend makes herself at home.</desc>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <date>20190115</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cd33cb8ffca002817eb7762525fe1ce9.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260416155100 +0500" stop="20260416161700 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>Open Kimunication</sub-title>
-    <desc>Appa and Umma unwittingly end up in marriage counseling; Jung learns more about Shannon's boyfriend than he bargained for; Janet debates whether or not to share a potential mentor with Gerald.</desc>
-    <episode-num system="onscreen">S03E03</episode-num>
-    <date>20190122</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/47720358740499b1889636fe46e272ff.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260416161700 +0500" stop="20260416164300 +0500">
-    <title>Mr. D</title>
-    <sub-title>Formative Bulls...</sub-title>
-    <desc>Gerry discovers that teaching phys ed comes up a lot of paperwork; Bobbi tries to juggle work and a newborn; Lisa becomes friends with some moms who may have dirt on Xavier.</desc>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <date>20171024</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9a6eea6b73883cfa5e2281710e222801.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260416164300 +0500" stop="20260416170800 +0500">
-    <title>Mr. D</title>
-    <sub-title>Gerry Pay to Play</sub-title>
-    <desc>Gerry ends up in a compromising situation after the teacher auction; Emma enlists Dwyer to do some repairs in the library; Trudy gets a surprise visit.</desc>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <date>20171031</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/98e80719bda754c27cac339375d7394f.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260416170800 +0500" stop="20260416173400 +0500">
+  </channel><programme channel="CBC-Comedy-CA" start="20260416170800 +0500" stop="20260416173400 +0500">
     <title>Mr. D</title>
     <sub-title>Work to Rule</sub-title>
     <desc>Gerry is in awe of the concept of work-to-rule; Lisa tries setting boundaries between her and her stepson; Nisha accidentally reveals too much to her students.</desc>
@@ -442,5 +402,45 @@
     <date>20190129</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/2/gracenote/20e1e808ae699defdd8892f9f3ba1b8b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260417152500 +0500" stop="20260417155100 +0500">
+    <title>Kim's Convenience</title>
+    <sub-title>Army Spoon</sub-title>
+    <desc>Appa becomes the star of Gerald's photo essay; Umma realizes that her family doesn't completely trust her; Jenny makes a social faux pas.</desc>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <date>20220604</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e78238f686f542d3130e48f1135f0d61.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260417155100 +0500" stop="20260417161700 +0500">
+    <title>Kim's Convenience</title>
+    <sub-title>The Kim Cup</sub-title>
+    <desc>Appa and Jung try out the old family ping pong table; Umma's feelings get hurt when Janet refuses to hang out with her; a gift basket causes problems.</desc>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <date>20190212</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3400f2241bed4de4e3ace04817b34b83.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260417161700 +0500" stop="20260417164300 +0500">
+    <title>Mr. D</title>
+    <sub-title>Gerry Wants What He Can't Trans</sub-title>
+    <desc>Gerry takes control of the girl's soccer team to get back at Coach Meyers; an ambitious mom seduces Frank; Lisa's reign of terror seemingly comes to an end.</desc>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <date>20171114</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/789878d4c4742ba72e407a0df5b965df.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260417164300 +0500" stop="20260417170800 +0500">
+    <title>Mr. D</title>
+    <sub-title>Principal for a Day</sub-title>
+    <desc>Gerry's least-favorite student becomes Principal for a Day; a harmless prank goes sour; Bobbi accidentally ruins a student's life.</desc>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <date>20171121</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/645353381a6ee5aed1cedd2c4bed97ca.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260417170800 +0500" stop="20260417173400 +0500">
+    <title>Mr. D</title>
+    <sub-title>Gerry's Security Insecurity</sub-title>
+    <desc>Robert hires a security guard after a string of thefts; Robert learns the truth behind his baby's name.</desc>
+    <episode-num system="onscreen">S07E10</episode-num>
+    <date>20171128</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6874383e3322369ce3fca4a54ef9ff2d.jpg" />
   </programme>
 </tv>

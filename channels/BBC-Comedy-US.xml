@@ -3,31 +3,7 @@
   <channel id="BBC-Comedy-US">
     <display-name>BBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
-  </channel><programme channel="BBC-Comedy-US" start="20260416150352 +0500" stop="20260416153706 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Dear Dave</sub-title>
-    <desc>Lister gets himself in a love triangle with Snack Dispensers 23 and 34.</desc>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <date>20121101</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/9tYTQVOqsHHDJ8XQtUZh7TRrfE4.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416153706 +0500" stop="20260416161059 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>The Beginning</sub-title>
-    <desc>Certain death at the hands of the simulants lead the Dwarfers to wonder if it's the end.</desc>
-    <episode-num system="onscreen">S10E06</episode-num>
-    <date>20121108</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/4YvOmjd1Wgk71ygjfiya3g4h5KG.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416161059 +0500" stop="20260416164308 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Twentica</sub-title>
-    <desc>The Dwarfers find themselves in an alternative reality where technology is prohibited.</desc>
-    <episode-num system="onscreen">S11E01</episode-num>
-    <date>20160922</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/vLDsdTFBqmjPNCSxAWHxyFDvhRa.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260416164308 +0500" stop="20260416171637 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260416164308 +0500" stop="20260416171637 +0500">
     <title>Red Dwarf</title>
     <sub-title>Samsara</sub-title>
     <desc>Lister and Cat get trapped when investigating a shipwreck at the bottom of an ocean moon.</desc>
@@ -363,5 +339,37 @@
     <date>19891128</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/2A9TjGnYPNJcBwXs4gT7CW117QG.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417154118 +0500" stop="20260417161203 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Bodyswap</sub-title>
+    <desc>Lister accidentally triggers the ship's self-destruct system.</desc>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <date>19891205</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/gVhqIAd8Xff0FOrVyNB5jTVOnb7.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417161203 +0500" stop="20260417164346 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Timeslides</sub-title>
+    <desc>The crew run amok through history, blithely ignoring the consequences of causality.</desc>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <date>19891212</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/lY96VSgQEEyZBxLn5bGz2R0YJGb.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417164346 +0500" stop="20260417171504 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>The Last Day</sub-title>
+    <desc>Kryten has 24 hours to live, so the crew decide to give him the best night of his life.</desc>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <date>19891219</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/sHvw6YUsM8xl9WYFulaJ3UGR8IH.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417171504 +0500" stop="20260417174719 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Kryten</sub-title>
+    <desc>The crew answer a cry for help from three damsels and an android in distress.</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <date>19880906</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/slVo0l5huLEAv22Wx9BET4bsBbs.jpg" />
   </programme>
 </tv>

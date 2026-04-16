@@ -3,39 +3,7 @@
   <channel id="Sony-One-Comedy-TV-UK">
     <display-name>Sony One Comedy TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Comedy-TV-UK.png" />
-  </channel><programme channel="Sony-One-Comedy-TV-UK" start="20260416151359 +0500" stop="20260416154114 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Voice</sub-title>
-    <desc>As Jerry risks losing a girlfriend over a joke, George continues to work despite having been asked to leave; Elaine finds breaking up is hard to do as Kramer hires an assistant.</desc>
-    <episode-num system="onscreen">S09E02</episode-num>
-    <date>20250710</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7349229654880070156/solid/rectangle/w1920_h1080/oqyyjbt856fgzdvyvr0iyxbf.jpg" />
-  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260416154114 +0500" stop="20260416160827 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Serenity Now</sub-title>
-    <desc>As Jerry accepts his girlfriend's challenge to get angry, George tries selling computers with is father as Elaine fends off Lippman and his teenage son.</desc>
-    <episode-num system="onscreen">S09E03</episode-num>
-    <date>20250721</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7353176115193013396/solid/rectangle/w1920_h1080/ajgwvxwwpnww1mxtnb9sji9is.jpg" />
-  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260416160827 +0500" stop="20260416163537 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Blood</sub-title>
-    <desc>Kramer starts his own blood bank and George works at combining, sex, food and television.</desc>
-    <episode-num system="onscreen">S09E04</episode-num>
-    <date>20250721</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7353175806526991961/solid/rectangle/w1920_h1080/1n181r3hzbdx1jtd0q2y6bxh8.jpg" />
-  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260416163537 +0500" stop="20260416170354 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Junk Mail</sub-title>
-    <desc>Kramer's efforts to stop junk mail jeopardizes Newman; Jerry tries to avoid hurting an old friend's feelings, while George suspects his parents are avoiding him and Elaine falls for a TV commercial personality.</desc>
-    <episode-num system="onscreen">S09E05</episode-num>
-    <date>20250721</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7353176356646700092/solid/rectangle/w1920_h1080/oqb6prozgrbs1rfqciy5gerqq.jpg" />
-  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260416170354 +0500" stop="20260416173107 +0500">
+  </channel><programme channel="Sony-One-Comedy-TV-UK" start="20260416170354 +0500" stop="20260416173107 +0500">
     <title>Seinfeld</title>
     <sub-title>The Merv Griffin Show</sub-title>
     <desc>As Kramer puts a discarded talk show set in his apartment, Jerry schemes to play with a girlfriend's vintage toys; while Elaine deals with a scheming employee.</desc>
@@ -427,5 +395,37 @@
     <date>20250402</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7313193108841663850/solid/rectangle/w1920_h1080/17brj0frbvpyq1sm0ezha5webr.jpg" />
+  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260417153446 +0500" stop="20260417160152 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Maid</sub-title>
+    <desc>When Jerry starts sleeping with his maid, her work begins to decline; George decides he wants a nickname.</desc>
+    <episode-num system="onscreen">S09E19</episode-num>
+    <date>20250402</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7313193121501253863/solid/rectangle/w1920_h1080/1af3nwsfsr5s81pg2fy51z6hwx.jpg" />
+  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260417160152 +0500" stop="20260417162930 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Puerto Rican Day</sub-title>
+    <desc>Jerry and his friends try to escape a Puerto Rican Day traffic jam.</desc>
+    <episode-num system="onscreen">S09E20</episode-num>
+    <date>20250402</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7313193204653884055/solid/rectangle/w1920_h1080/68tcsfemrh8k1pwnv3uen1myf.jpg" />
+  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260417162930 +0500" stop="20260417165536 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Clip Show, Pt. 1</sub-title>
+    <desc>Part 1 - A special "Seinfeld" looks back at the 9 hysterical years of production.</desc>
+    <episode-num system="onscreen">S09E21</episode-num>
+    <date>20250430</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7323457678801857716/solid/rectangle/w1920_h1080/cfa0du3x3g771cisuubf7o12n.jpg" />
+  </programme><programme channel="Sony-One-Comedy-TV-UK" start="20260417165536 +0500" stop="20260417172123 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Clip Show, Pt. 2</sub-title>
+    <desc>Part 2 - A special "Seinfeld" looks back at the 9 hysterical years of production.</desc>
+    <episode-num system="onscreen">S09E22</episode-num>
+    <date>20250430</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7323457679620896298/solid/rectangle/w1920_h1080/mi4xx5sryudr1ddkd7hctls4k.jpg" />
   </programme>
 </tv>

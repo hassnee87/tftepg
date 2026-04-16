@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260416145824 +0500" stop="20260416172520 +0500">
-    <title>Zulu Dawn</title>
-    <sub-title />
-    <desc>In 1879 South Africa, British Cape Colony administrators seek to crush the Zulus, viewing them as an obstacle to their colonial ambitions. To provoke war, they issue King Cetshwayo an impossible ultimatum, confident their rifles and artillery will ensure an easy victory. But as Lord Chelmsford's forces chase an unseen foe, they discover near Isandlwana how gravely they've underestimated the Zulu nation's skill and strength.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1286673188_0_20251028T143902476Z_66_imageprocessorclient-tvplus-linear-5db7c6bc99-wwvrl.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260416172520 +0500" stop="20260416194050 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260416172520 +0500" stop="20260416194050 +0500">
     <title>Sommersby</title>
     <sub-title />
     <desc>A farmer returns home from the Civil War, but his wife begins to suspect that the man is an impostor.</desc>
@@ -27,5 +21,17 @@
     <desc>The Tramp struggles to live in modern industrial society with the help of a young homeless woman.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1200801512_0_20250918T082851140Z_141_imageprocessorclient-tvplus-linear-5db7c6bc99-gkp68.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260416231354 +0500" stop="20260417005856 +0500">
+    <title>City Lights</title>
+    <sub-title />
+    <desc>With the aid of a wealthy tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1200813751_1_20250918T082851950Z_53_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417005856 +0500" stop="20260417024720 +0500">
+    <title>The Gold Rush</title>
+    <sub-title />
+    <desc>A prospector heads to the Klondike during the wild 1890s gold rush, dreaming of striking it rich, and falls head over heels for a girl he spots at a dance hall.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1773736923_0_20260413T122226138Z_36_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg" />
   </programme>
 </tv>

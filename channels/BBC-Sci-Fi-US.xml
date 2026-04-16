@@ -3,39 +3,7 @@
   <channel id="BBC-Sci-Fi-US">
     <display-name>BBC Sci-Fi</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Sci-Fi-US.png" />
-  </channel><programme channel="BBC-Sci-Fi-US" start="20260416144800 +0500" stop="20260416152047 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Krysis</sub-title>
-    <desc>Kryten has a mid-life crisis and changes his body cover from grey to Ferrari red.</desc>
-    <episode-num system="onscreen">S11E05</episode-num>
-    <date>20161020</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/bTG4E9cTZTJczdwEG8YIOCr9okD.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416152047 +0500" stop="20260416155540 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Can of Worms</sub-title>
-    <desc>Cat takes time off from being in love with himself to fall for a lady Cat.</desc>
-    <episode-num system="onscreen">S11E06</episode-num>
-    <date>20161027</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/9una0o0cU1wB331TmmyqLb1EYHz.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416155540 +0500" stop="20260416163057 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Cured</sub-title>
-    <desc>The crew stumble on a science centre where vile historical figures have been 'cured' of evil.</desc>
-    <episode-num system="onscreen">S12E01</episode-num>
-    <date>20171012</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/qBQfbAymnhG9UXRaHgOOWEf89My.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416163057 +0500" stop="20260416170413 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Siliconia</sub-title>
-    <desc>Lister, Cat and Rimmer are uploaded into mechanoid bodies and forced into slavery.</desc>
-    <episode-num system="onscreen">S12E02</episode-num>
-    <date>20171019</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/oO05NoeUVR0aBOjijBHgx1Xp1rE.jpg" />
-  </programme><programme channel="BBC-Sci-Fi-US" start="20260416170413 +0500" stop="20260416173718 +0500">
+  </channel><programme channel="BBC-Sci-Fi-US" start="20260416170413 +0500" stop="20260416173718 +0500">
     <title>Red Dwarf</title>
     <sub-title>Time Wave</sub-title>
     <desc>The Dwarfers run into a ship where criticism is illegal.</desc>
@@ -371,5 +339,29 @@
     <date>19970124</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/5PigRbHKZmvX8I34xhUzHXWnVCT.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417154751 +0500" stop="20260417162130 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Ouroborus</sub-title>
+    <desc>The Dwarfers encounter a real, live human woman who's attractive and nice.</desc>
+    <episode-num system="onscreen">S07E03</episode-num>
+    <date>19970131</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/hhAaEHEAN1bdqOvihP3CezxFsW9.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417162130 +0500" stop="20260417165455 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Duct Soup</sub-title>
+    <desc>The crew go on a journey of personal discovery when their generators fail.</desc>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <date>19970207</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/A7mctMeSEnXBYvRXgvpPDo6zsMd.jpg" />
+  </programme><programme channel="BBC-Sci-Fi-US" start="20260417165455 +0500" stop="20260417172616 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Blue</sub-title>
+    <desc>Lister is missing Rimmer, at least until Kryten steps in to help.</desc>
+    <episode-num system="onscreen">S07E05</episode-num>
+    <date>19970214</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/3Q1cQMH5a9XvLS7988kM2Cxpu0O.jpg" />
   </programme>
 </tv>

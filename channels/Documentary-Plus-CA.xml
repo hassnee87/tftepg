@@ -3,31 +3,7 @@
   <channel id="Documentary-Plus-CA">
     <display-name>Documentary+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus-CA.png" />
-  </channel><programme channel="Documentary-Plus-CA" start="20260416144557 +0500" stop="20260416160007 +0500">
-    <title>Cher: Sharing Her Story</title>
-    <sub-title />
-    <desc>Explore the unstoppable rise of Cher — her music, movies, and moments that redefined her fame across decades.</desc>
-    <date>20250606</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c18e763499a5178a0cd47f9f0c6140b6.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260416160007 +0500" stop="20260416163543 +0500">
-    <title>Skywatcher</title>
-    <sub-title>Skywatcher Part I: The Journey Begins</sub-title>
-    <desc>In Part I of Skywatcher, the mystery gets real.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20250128</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7374163177030802704/solid/rectangle/w1920_h1080/auep2lbk61n513mvc3phtdca9.png" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260416163543 +0500" stop="20260416170752 +0500">
-    <title>Skywatcher</title>
-    <sub-title>Skywatcher Part II: "Mapping The Unknown"</sub-title>
-    <desc>Skywatcher Part II follows Jake Barber and the Skywatcher team as they seek to validate the existence of UAPs.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20250407</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7374159074656747118/solid/rectangle/w1920_h1080/1icju2d5ufwe11a07iqjzmigwq.png" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260416170752 +0500" stop="20260416180749 +0500">
+  </channel><programme channel="Documentary-Plus-CA" start="20260416170752 +0500" stop="20260416180749 +0500">
     <title>The Life &amp; Disappearance of Amelia Earhart</title>
     <sub-title />
     <desc>Daredevil pilot, global adventurer, gone. The mystery of Amelia Earhart's fate endures.</desc>
@@ -155,5 +131,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7424967963606273843/Texted/rectangle/1x5zkepd6263j1aqu6eho339fm.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260417155907 +0500" stop="20260417173348 +0500">
+    <title>Charm Circle</title>
+    <sub-title />
+    <desc>A powerful portrait of an eccentric family navigating the chaos that both ties and divides them.</desc>
+    <date>20260203</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7437607300117729510/Texted/rectangle/1rdvsoliq0pu61v7iv4gqq5c16.png" />
   </programme>
 </tv>

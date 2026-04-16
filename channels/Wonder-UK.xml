@@ -3,31 +3,7 @@
   <channel id="Wonder-UK">
     <display-name>Wonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Wonder-UK.png" />
-  </channel><programme channel="Wonder-UK" start="20260416141512 +0500" stop="20260416151709 +0500">
-    <title>Engineering The Future</title>
-    <sub-title>Solar</sub-title>
-    <desc>Innovators are exploring ways to harness the sun's vast energy potential, ensuring its continuous availability</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20200101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/CS1ETFS001EP006.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260416151709 +0500" stop="20260416160916 +0500">
-    <title>Mighty Trains</title>
-    <sub-title>White Pass &amp; Yukon Route</sub-title>
-    <desc>Skagway's White Pass train revives Klondike gold rush over peaks, glaciers, and historic trestles.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20160101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260416160916 +0500" stop="20260416170138 +0500">
-    <title>Mighty Trains</title>
-    <sub-title>North Rail Express</sub-title>
-    <desc>North Rail Express hauls Arctic seafood 1,200 miles via Norway &amp; Sweden in hi-tech reefers.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20160101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260416170138 +0500" stop="20260416175623 +0500">
+  </channel><programme channel="Wonder-UK" start="20260416170138 +0500" stop="20260416175623 +0500">
     <title>Mega Transports</title>
     <sub-title>Oil Rig</sub-title>
     <desc>The $500 million West Bollsta oil rig travels from South Korea to Europe, aided by the ALP Striker tug.</desc>
@@ -225,6 +201,22 @@
     <desc>Germany's M60 conveyor bridge moves 90,000 tons daily, powering 10% of the nation's electricity.</desc>
     <episode-num system="onscreen">S01E03</episode-num>
     <date>20190101</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260417160800 +0500" stop="20260417170106 +0500">
+    <title>Rocket Science</title>
+    <sub-title>The Success Story of Ariane 5 - Part 1</sub-title>
+    <desc>With raw power and flawless precision, Ariane 5 carries Europe’s dreams into orbit.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20170101</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260417170106 +0500" stop="20260417175450 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>Emergency Helicopters</sub-title>
+    <desc>Inside Airbus Bavaria, see how lifesaving H145 rescue helicopters take flight.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20221005</date>
     <language>en</language>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>

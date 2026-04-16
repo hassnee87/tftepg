@@ -3,39 +3,7 @@
   <channel id="CTV-Home-CA">
     <display-name>CTV @Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Home-CA.png" />
-  </channel><programme channel="CTV-Home-CA" start="20260416150933 +0500" stop="20260416153540 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Fall</sub-title>
-    <desc>Chef Pino Di Cerbo creates dishes that celebrate the magic of autumn.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2421691-S1E7VegHeadz_2022_5_31_0dc85f37-e290-43e1-8930-fa6f7ae1d8b0_jpg_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416153540 +0500" stop="20260416160147 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Summer</sub-title>
-    <desc>Celebrate the summer with chef Pino Di Cerbo’s sweet recipes.</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m52456_2024_2_28_f833170b-ee07-4845-8ed0-5a5b3afa7565_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416160147 +0500" stop="20260416162753 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Yellow</sub-title>
-    <desc>Chef Pino Di Cerbo creates a menu featuring golden yellow veggies.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2421693-S1E9VegHeadz_2022_6_13_b3b25ec7-9748-431f-85b9-34aba74e3543_jpg_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416162753 +0500" stop="20260416165359 +0500">
-    <title>VegHeadz</title>
-    <sub-title>Red</sub-title>
-    <desc>Chef Pino Di Cerbo is seeing red with his crimson crop of rosy recipes.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <date>20251006</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/BellMedia-2421694-S1E10VegHeadz_2022_6_20_95bc314c-3788-40ab-afe0-fa1471d9cc03_jpg_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260416165359 +0500" stop="20260416172005 +0500">
+  </channel><programme channel="CTV-Home-CA" start="20260416165359 +0500" stop="20260416172005 +0500">
     <title>VegHeadz</title>
     <sub-title>Purple</sub-title>
     <desc>From violet to amethyst and every shade in between, chef Pino Di Cerbo cooks up a feast of fresh purple vegetables.</desc>
@@ -456,6 +424,46 @@
     <sub-title>Champagne Brunch</sub-title>
     <desc>Champagne, lobster, and homemade scones, oh my! Vanessa Gianfrancesco cooks up an indulgent brunch.</desc>
     <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260116</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417152504 +0500" stop="20260417155110 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Pick Up Your Brunch</sub-title>
+    <desc>Skip the utensils and gather for chef Vanessa’s pick up your brunch! Featuring Sticky Pull-Apart Praline Bread</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20260116</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417155110 +0500" stop="20260417161716 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Up All Night Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco cooks up four decadent recipes including an indulgent Breakfast Poutine and chocolate Stuffed French Toast.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20260117</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417161716 +0500" stop="20260417164323 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>French Brunch</sub-title>
+    <desc>Inspired by flaky, buttery, and chocolatey dishes, host Vanessa cooks up four classic French recipes that’ll have you saying oh la la!</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20260117</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417164323 +0500" stop="20260417170929 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Farmhouse Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco cooks up four classic wholesome and hearty dishes for her Farmhouse Brunch.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20260116</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260417170929 +0500" stop="20260417173535 +0500">
+    <title>Let's Brunch</title>
+    <sub-title>Southern Brunch</sub-title>
+    <desc>Vanessa Gianfrancesco brings the heat to her brunch table with southern-style recipes including a Huevos Divorciados</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
     <date>20260116</date>
     <language>en</language>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m46144_2024_2_28_0517a8ec-01a6-4ac7-8dc9-4c1d57e1d54a_JPG_2000x1125.jpg" />

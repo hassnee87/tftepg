@@ -3,13 +3,7 @@
   <channel id="BBC-Food-US">
     <display-name>BBC Food</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Food-US.png" />
-  </channel><programme channel="BBC-Food-US" start="20260416145114 +0500" stop="20260416155818 +0500">
-    <title>Rick Stein's Far Eastern Odyssey</title>
-    <desc>Rick learns the art of creating a hot and sour tom yum goong.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ad24e18f4135bd91ad1e9912eee9f064/rokuFeed/assets/0258279649ff540b905a02f141372537.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260416155818 +0500" stop="20260416170517 +0500">
+  </channel><programme channel="BBC-Food-US" start="20260416155818 +0500" stop="20260416170517 +0500">
     <title>Rick Stein's Far Eastern Odyssey</title>
     <desc>Rick explores the multi-faceted cuisines of Penang.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -222,12 +216,6 @@
     <episode-num system="onscreen">S03E06</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36a708ecbf7e53ffa0b7eb8160d92098/images/gracenote/assets/p508942_b_h10_ab.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417144721 +0500" stop="20260417152038 +0500">
-    <title>The Naked Chef</title>
-    <desc>Jamie goes back to school and shows a group of cookery pupils how to prepare a marinated mozzarella salad.</desc>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36a708ecbf7e53ffa0b7eb8160d92098/images/gracenote/assets/p508942_b_h10_ab.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260417152038 +0500" stop="20260417155350 +0500">
     <title>The Naked Chef</title>
     <desc>Jamie pays a visit to his mentor, Gennaro Contaldo, to see if the Italian chef approves of his new recipe.</desc>
@@ -244,6 +232,12 @@
     <title>Nigel Slater's Simple Cooking</title>
     <desc>Nigel explores one of the oldest, most successful culinary pairings in the kitchen.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
+  </programme><programme channel="BBC-Food-US" start="20260417165957 +0500" stop="20260417173307 +0500">
+    <title>Nigel Slater's Simple Cooking</title>
+    <desc>Nigel continues to explore successful food marriages in the kitchen.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/693e468f4a5d51cab79dc0e16586c6eb/images/gracenote/assets/p8840763_b_h10_aj.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260417165957 +0500" stop="20260417173307 +0500">

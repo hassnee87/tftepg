@@ -3,19 +3,7 @@
   <channel id="ION-Mystery-US">
     <display-name>ION Mystery</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ION-Mystery-US.png" />
-  </channel><programme channel="ION-Mystery-US" start="20260416150000 +0500" stop="20260416160000 +0500">
-    <title>CSI: Miami</title>
-    <desc>A woman barely escapes death at the hands of a serial killer.</desc>
-    <episode-num system="onscreen">S09E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7af5cd8127c353eb9cd03db1d3d48b28/images/gracenote/assets/p184820_b_h10_ag.jpg" />
-  </programme><programme channel="ION-Mystery-US" start="20260416160000 +0500" stop="20260416170000 +0500">
-    <title>CSI: Miami</title>
-    <desc>The team discovers a club where hunters pursue human prey deep in the Everglades.</desc>
-    <episode-num system="onscreen">S09E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7af5cd8127c353eb9cd03db1d3d48b28/images/gracenote/assets/p184820_b_h10_ag.jpg" />
-  </programme><programme channel="ION-Mystery-US" start="20260416170000 +0500" stop="20260416180000 +0500">
+  </channel><programme channel="ION-Mystery-US" start="20260416170000 +0500" stop="20260416180000 +0500">
     <title>CSI: Miami</title>
     <desc>The team investigates the murders of a truck driver and a woman on his delivery route.</desc>
     <episode-num system="onscreen">S09E17</episode-num>

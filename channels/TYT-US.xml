@@ -3,13 +3,7 @@
   <channel id="TYT-US">
     <display-name>TYT</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TYT-US.png" />
-  </channel><programme channel="TYT-US" start="20260416150000 +0500" stop="20260416170000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b84ae4f9c6a346523c57b1633d0badca/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260416170000 +0500" stop="20260416180000 +0500">
+  </channel><programme channel="TYT-US" start="20260416170000 +0500" stop="20260416180000 +0500">
     <title>The Damage Report</title>
     <sub-title />
     <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
