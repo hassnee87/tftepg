@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="ITV-1-UK">
+    <display-name>itv1</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/ITV-1-UK.png" />
+  </channel><programme channel="ITV-1-UK" start="20260416000000 +0500" stop="20260416003000 +0500">
+    <title>Emmerdale</title>
+    <sub-title>Bear makes a careless admission</sub-title>
+    <desc>Jacob is uncomfortable. Lewis is intrigued.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/836d80c0-9701-46b4-bb8a-1993dc5b2fe8/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416003000 +0500" stop="20260416010000 +0500">
+    <title>Coronation Street</title>
+    <sub-title />
+    <desc>Todd finally speaks to the police to declare himself a victim of abuse, and Theo realises that his time is up when word of his violent and controlling behaviour starts to spread.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8a2a346a-1346-42ea-b27c-71404f0b0bba/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416010000 +0500" stop="20260416021500 +0500">
+    <title>I'm a Celebrity... South Africa</title>
+    <sub-title />
+    <desc>Decisions need to be made that may wreck the relationships in camp. Discover which way the decisions take them and if the campmates can forgive and forget.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bce339aa-a27d-456f-95a9-4feb916aba57/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416021500 +0500" stop="20260416025000 +0500">
+    <title>ITV News at Ten</title>
+    <sub-title />
+    <desc>ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/49744c7c-f79e-48a9-9321-13b9dffe6afb/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416025000 +0500" stop="20260416030000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0d3d9105-1eb1-46be-926d-c0a95697bffd/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416030000 +0500" stop="20260416041000 +0500">
+    <title>The Real Unforgotten</title>
+    <sub-title />
+    <desc>Part one of a two-part series. When detectives reinvestigate the unsolved murder of Carol Morgan in the storeroom of her corner shop in 1981, they identify two potential suspects.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fd0b9401-ea46-4cc1-8daa-3184ec78f876/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416041000 +0500" stop="20260416070000 +0500">
+    <title>Shop on TV</title>
+    <sub-title />
+    <desc>Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/48022f39-7e63-4964-8f78-afa37038665f/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416070000 +0500" stop="20260416072500 +0500">
+    <title>Why Are We So Tired? Tonight</title>
+    <sub-title />
+    <desc>According to a 2022 YouGov survey, more than a third of us in the UK feel tired most or all of the time. Datshiane Navanayagam investigates the steps can we take to beat fatigue.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c98819b5-62b0-467d-ba0f-c69e802fe08a/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416072500 +0500" stop="20260416075000 +0500">
+    <title>How to Clean Up for Cash</title>
+    <sub-title />
+    <desc>Josie and the team embark on their first secret mission: helping Mel box up and value her husband Paul's lifetime of collections, ready to flog the lot.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Home</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9b814fb2-ba2a-4699-8855-3ae140722f93/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416075000 +0500" stop="20260416090000 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4ae4f97d-3549-30a3-9c1c-aa1a355dcc35/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416090000 +0500" stop="20260416100000 +0500">
+    <title>I'm a Celebrity... South Africa</title>
+    <sub-title />
+    <desc>Decisions need to be made that may wreck the relationships in camp. Discover which way the decisions take them and if the campmates can forgive and forget.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bce339aa-a27d-456f-95a9-4feb916aba57/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416100000 +0500" stop="20260416140000 +0500">
+    <title>Good Morning Britain</title>
+    <sub-title />
+    <desc>News, current affairs and lively debate.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/29375de3-5a35-47c3-bd5f-b5eadccdd4e9/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416140000 +0500" stop="20260416163000 +0500">
+    <title>This Morning</title>
+    <sub-title />
+    <desc>Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0a159aa9-ddcf-4365-9c20-cdada43dd39f/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416163000 +0500" stop="20260416165500 +0500">
+    <title>ITV Lunchtime News</title>
+    <sub-title />
+    <desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7e28d914-069d-4b6a-9f60-022a45a7e359/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416165500 +0500" stop="20260416170000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/69b22324-a743-494f-9f85-267e9fdff326/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416170000 +0500" stop="20260416180000 +0500">
+    <title>Celebrity Catchphrase</title>
+    <sub-title />
+    <desc>Stephen Mulhern hosts a celebrity special of the classic game show with Beverley Callard, Kirsty Gallacher, and Stephen K Amos trying to 'say what they see' in aid of charity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7da815a1-ca8e-47f2-a91c-e59816f837fd/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416180000 +0500" stop="20260416190000 +0500">
+    <title>Dickinson's Real Deal</title>
+    <sub-title />
+    <desc>Llangollen plays host to the dealer's den. Fay Rutter is maid up over a milking stool, and as a painter, Alison Chapman makes a very good antiques dealer.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/13591138-178c-48c1-ad60-c440b447a84c/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416190000 +0500" stop="20260416200000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Stephen Mulhern hosts the exciting and iconic gameshow as one of his plucky contestants takes on the infamous Banker for a chance to win a life-changing cash prize.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/17053cba-c08a-3217-8764-9f5bde632c85/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416200000 +0500" stop="20260416210000 +0500">
+    <title>Tipping Point</title>
+    <sub-title />
+    <desc>Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4b077542-2eec-3242-aad2-fe37fbfc360e/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416210000 +0500" stop="20260416220000 +0500">
+    <title>The Chase</title>
+    <sub-title />
+    <desc>All that stands between Andrew from York, Sohini from Birmingham, Penny from Northwood, Dave from Oxfordshire and thousands of pounds is the not-so-small matter of a Chaser.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f8f47b9f-6679-3899-9760-d62f2d37b58b/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416220000 +0500" stop="20260416223000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/df4fb856-f34b-4485-b2e8-945ea10ca1cb/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416223000 +0500" stop="20260416233000 +0500">
+    <title>ITV Evening News</title>
+    <sub-title />
+    <desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bac72546-7010-439c-9e91-bfc8de27d28b/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260416233000 +0500" stop="20260417000000 +0500">
+    <title>Shoplifting: Are We Paying the Price? Tonight</title>
+    <sub-title />
+    <desc>After shoplifting reached a record high in 2025, Paul Brand investigates the high streets that are fighting back and the increase in prices we all end up paying.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e98a254a-f72c-42be-ba8c-38063b916fa0/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417000000 +0500" stop="20260417003000 +0500">
+    <title>Emmerdale</title>
+    <sub-title>Todd manipulates Manpreet</sub-title>
+    <desc>April struggles. Paddy reels.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b163d92a-21c3-4911-b365-255d2b5ee3bb/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417003000 +0500" stop="20260417010000 +0500">
+    <title>Coronation Street</title>
+    <sub-title />
+    <desc>Sarah goes rummaging for evidence to aid Todd's case against Theo, Ben and Eva cancel Maggie's plans, and another row with Carl triggers Debbie's health.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/57d53465-76b5-453e-a958-54ec4dd8e55b/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417010000 +0500" stop="20260417020500 +0500">
+    <title>I'm a Celebrity... South Africa</title>
+    <sub-title />
+    <desc>As the victorious kingdom head out for their safari and bush banquet, a big decision needs to made as the first campmate prepares to leave the South African Savannah.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a6264977-43cc-47f4-a298-3a4a1d37f43a/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417020500 +0500" stop="20260417023000 +0500">
+    <title>DMV: Department of Motor Vehicles</title>
+    <sub-title>Pilot</sub-title>
+    <desc>Sitcom following staff at the East Hollywood Department of Motor Vehicles. Colette pines for her coworker Noa while enduring teasing from her colleagues.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1436310f-f9a8-4b2c-9050-31de84eaec71/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417023000 +0500" stop="20260417030000 +0500">
+    <title>ITV News at Ten</title>
+    <sub-title />
+    <desc>ITV News provides a fresh perspective on the major stories of the day with national and international news with reports and analysis from ITV's Correspondents.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/deb21920-7f3c-4624-b168-d0462318d231/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417030000 +0500" stop="20260417032000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/80f79677-a53a-41c9-acba-a92372390694/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417032000 +0500" stop="20260417035000 +0500">
+    <title>The Late Debate</title>
+    <sub-title />
+    <desc>Regional political review and discussion programme for the London area, in which different local MPs and politicians discuss current affairs and political issues in the area.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a9eaf422-ce62-47ec-a1ba-0e4091e420bb/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417035000 +0500" stop="20260417045000 +0500">
+    <title>The Real Unforgotten</title>
+    <sub-title />
+    <desc>The concluding part of the two-part series. The detectives unravel long-forgotten secrets and have a potential circumstantial case, but they need more to prove their case in court.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/36d19c3f-f153-4c39-b212-73dae69ce285/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417045000 +0500" stop="20260417070000 +0500">
+    <title>Shop on TV</title>
+    <sub-title />
+    <desc>Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/baf581f5-261f-4832-b194-2c1a31b3f312/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417070000 +0500" stop="20260417075500 +0500">
+    <title>I'm a Celebrity... South Africa</title>
+    <sub-title />
+    <desc>As the victorious kingdom head out for their safari and bush banquet, a big decision needs to made as the first campmate prepares to leave the South African Savannah.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a6264977-43cc-47f4-a298-3a4a1d37f43a/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417075500 +0500" stop="20260417090500 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/091bbbd2-d0ca-37f9-af78-54d00a415738/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417090500 +0500" stop="20260417100000 +0500">
+    <title>The Floor</title>
+    <sub-title />
+    <desc>Rob Brydon hosts a nail-biting semi-final of the game show as the last 17 players fight for a place in the grand finale and a shot at 50,000 pounds.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4aff0ea6-836a-4d4e-afa4-597a13930d3e/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417100000 +0500" stop="20260417140000 +0500">
+    <title>Good Morning Britain</title>
+    <sub-title />
+    <desc>News, current affairs and lively debate.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/6ec7f93e-8ec1-4307-86c5-b6d81177fde7/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417140000 +0500" stop="20260417163000 +0500">
+    <title>This Morning</title>
+    <sub-title />
+    <desc>Magazine show with news and topical items, celebrity guests, expert advice, real-life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fbaa1fd2-b671-427e-9be7-9f4da307efb2/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417163000 +0500" stop="20260417165500 +0500">
+    <title>ITV Lunchtime News</title>
+    <sub-title />
+    <desc>The latest headlines from around the world at lunchtime with reports and analysis from ITV's Correspondents, all of which are followed by a national weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8af0f1be-1bf9-4090-ad0c-88f661056c80/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417165500 +0500" stop="20260417170000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d1a1639e-94ee-4e16-bf2e-d29eadfba3f0/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417170000 +0500" stop="20260417180000 +0500">
+    <title>Celebrity Catchphrase</title>
+    <sub-title />
+    <desc>Stephen Mulhern hosts a celebrity special of the classic game show with Antony Cotton, Matt Dawson, and Stacey Dooley all trying to 'say what they see' in aid of charity.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8d4bc612-a513-4b08-9596-b5aafd2173c4/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417180000 +0500" stop="20260417190000 +0500">
+    <title>Dickinson's Real Deal</title>
+    <sub-title />
+    <desc>David and his Dealers' Den visit Blackpool, where Tracy Thackray-Howitt gets a very cheeky chappy and Jo Brayshaw gets flattered into parting with her cash.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Antiques</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/37ff670c-a1c9-461b-b23e-9be7cda4a9ff/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417190000 +0500" stop="20260417200000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Stephen Mulhern hosts the exciting and iconic gameshow as yet another of his daring contestants takes on the infamous Banker for a chance to win a life-changing cash prize.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/02184fff-e290-3f63-815e-c5574a0db6eb/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417200000 +0500" stop="20260417210000 +0500">
+    <title>Tipping Point</title>
+    <sub-title />
+    <desc>Ben Shephard hosts the quiz show in which three players take on an extraordinary machine in the hope of winning a cash jackpot.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fa9dcc2a-56bd-34a9-9cc5-b3ba5b4d0e8e/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417210000 +0500" stop="20260417220000 +0500">
+    <title>The Chase</title>
+    <sub-title />
+    <desc>All that stands between Jamie from Bognor Regis, Maria from Stevenage, Michael from Surbiton, Susan from County Durham and thousands of pounds is one of the Chasers.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5a0c7ff0-72df-370e-802d-97bb119b1081/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417220000 +0500" stop="20260417223000 +0500">
+    <title>ITV News London</title>
+    <sub-title />
+    <desc>The latest news and weather from London and the South East.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f47c26fe-d55c-4feb-822e-772dd8701662/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417223000 +0500" stop="20260417233000 +0500">
+    <title>ITV Evening News</title>
+    <sub-title />
+    <desc>National and international news with reports and analysis from ITV's Correspondents in the UK and around the world, plus a focus on the stories that matter to you.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/cf812644-3ff8-4d1b-a423-45730912e733/16-9" />
+  </programme><programme channel="ITV-1-UK" start="20260417233000 +0500" stop="20260418000000 +0500">
+    <title>It'll Be Alright on the Night</title>
+    <sub-title />
+    <desc>Tom Allen unveils cock-ups featuring our favourite TV stars and programmes with Fiona Bruce, Dermot O'Leary, Alex Jones, Richard Osman, Bradley Walsh and many more.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/67452e03-0880-49e6-babf-88973a4c8682/16-9" />
+  </programme>
+</tv>

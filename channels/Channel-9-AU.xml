@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Channel-9-AU">
+    <display-name>Channel 9</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Channel-9-AU.png" />
+  </channel><programme channel="Channel-9-AU" start="20260416000000 +0500" stop="20260416002900 +0500">
+    <title>Today Early News</title>
+    <sub-title />
+    <desc>Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416002900 +0500" stop="20260416040000 +0500">
+    <title>Today</title>
+    <sub-title />
+    <desc>Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416040000 +0500" stop="20260416063000 +0500">
+    <title>Today Extra</title>
+    <sub-title />
+    <desc>An exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, live music performances, and the latest in fashion and beauty trends.</desc>
+    <episode-num system="onscreen">E55</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416063000 +0500" stop="20260416070000 +0500">
+    <title>9News Morning</title>
+    <sub-title />
+    <desc>Join 9News for up to the minute news on local and international news including sport and weather.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416070000 +0500" stop="20260416080000 +0500">
+    <title>Space Invaders</title>
+    <sub-title>Steve and Sarah</sub-title>
+    <desc>Clutter has taken over Steve and Sarah's lives after their twins were born prematurely. The team help the couple overcome the trauma holding them back and transform their dysfunctional home.</desc>
+    <episode-num system="onscreen">S6 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/402169/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416080000 +0500" stop="20260416083000 +0500">
+    <title>Getaway</title>
+    <sub-title />
+    <desc>This week on Getaway, Shaynna Blaze is back, cruising through the spectacular French Riviera. Taking in the hotspots of Nice and Saint-Tropez, enjoying the best of the Mediterranean.</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132183/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416083000 +0500" stop="20260416090000 +0500">
+    <title>Explore TV-Viking</title>
+    <sub-title>Grand European 2</sub-title>
+    <desc>Trevor continues his journey on Viking from Budapest and lands in picturesque Vienna. In this iconic city, Trevor indulges in Mozart, roams the Schonbrunn Palace, joins the wine harvest, and travels to Wachau.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/388595/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416090000 +0500" stop="20260416100000 +0500">
+    <title>Pointless</title>
+    <sub-title />
+    <desc>Hosted by Alexander Armstrong and Richard Osman. Four teams of two contestants attempt to find correct answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.</desc>
+    <episode-num system="onscreen">S34 E18</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416100000 +0500" stop="20260416110000 +0500">
+    <title>Tipping Point</title>
+    <desc>There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine. Hosted by Ben Shepherd.</desc>
+    <episode-num system="onscreen">S14 E88</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416110000 +0500" stop="20260416120000 +0500">
+    <title>9News Afternoon</title>
+    <sub-title />
+    <desc>9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416120000 +0500" stop="20260416130000 +0500">
+    <title>Tipping Point Australia</title>
+    <sub-title />
+    <desc>Tipping Point Australia will push contestants' luck to the very edge. 3 contestants will go head to head against with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.</desc>
+    <episode-num system="onscreen">S3 E42</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416130000 +0500" stop="20260416140000 +0500">
+    <title>9News</title>
+    <sub-title />
+    <desc>Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.</desc>
+    <episode-num system="onscreen">S4 E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426774/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416140000 +0500" stop="20260416143000 +0500">
+    <title>A Current Affair</title>
+    <sub-title />
+    <desc>Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416143000 +0500" stop="20260416165500 +0500">
+    <title>NRL Thursday Night Footy</title>
+    <sub-title>Cowboys v Sea Eagles</sub-title>
+    <desc>Wide World of Sports presents Thursday Night footy with Cowboys v Sea Eagles, live from QLD Country Bank Stadium. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 7:50PM AEST.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/294233/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416165500 +0500" stop="20260416174000 +0500">
+    <title>NRL Thursday Night Footy Post</title>
+    <sub-title>Cowboys v Sea Eagles</sub-title>
+    <desc>Join the Wide World of Sports team for all the post-match NRL news and analysis.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441453/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416174000 +0500" stop="20260416181000 +0500">
+    <title>9News Late</title>
+    <sub-title />
+    <desc>Join the 9News Late team for all of the day's top stories from Australia and around the world.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427243/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416181000 +0500" stop="20260416190500 +0500">
+    <title>The Equalizer</title>
+    <sub-title>Decisions</sub-title>
+    <desc>While on a romantic getaway, McCall and Dante are ambushed by Salazar and his army. Aunt Vi takes the next step with Captain Curtis, and Dee meets her favorite author who may get her into her dream university.</desc>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <category lang="en">Action &amp; Adventure</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/402157/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416190500 +0500" stop="20260416200000 +0500">
+    <title>Tipping Point</title>
+    <desc>There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine. Hosted by Ben Shepherd.</desc>
+    <episode-num system="onscreen">S14 E88</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416200000 +0500" stop="20260416203000 +0500">
+    <title>Reel Destinations</title>
+    <sub-title>Keppels Topwater</sub-title>
+    <desc>Join Dyllon Schulz and the Reel Destinations crew on an epic fishing adventure as they catch and cook their way around Queensland.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/404232/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416203000 +0500" stop="20260416210000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>RowShaper</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E266</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416210000 +0500" stop="20260416213000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Kelton Cookware</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E273</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416213000 +0500" stop="20260416220000 +0500">
+    <title>Global Shop</title>
+    <sub-title>Eezy Breezy</sub-title>
+    <desc>Home shopping.</desc>
+    <episode-num system="onscreen">E130</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/266663/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416220000 +0500" stop="20260416223000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Tiva Heater</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E270</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416223000 +0500" stop="20260416230000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Thin Lizzy Xcellerate35</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E294</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416230000 +0500" stop="20260416233000 +0500">
+    <title>Skippy - The Bush Kangaroo</title>
+    <sub-title>Esmeralda</sub-title>
+    <desc>After having his palm read by a gypsy staying in the park, Sonny fears for Matt's life.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <category lang="en">Action &amp; Adventure</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260416233000 +0500" stop="20260417000000 +0500">
+    <title>A Current Affair</title>
+    <sub-title />
+    <desc>Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417000000 +0500" stop="20260417003000 +0500">
+    <title>Today Early News</title>
+    <sub-title />
+    <desc>Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428725/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417003000 +0500" stop="20260417040000 +0500">
+    <title>Today</title>
+    <sub-title />
+    <desc>Join Karl Stefanovic and Sarah Abo and the TODAY team as they bring you the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/100687/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417040000 +0500" stop="20260417063000 +0500">
+    <title>Today Extra</title>
+    <sub-title />
+    <desc>An exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, live music performances, and the latest in fashion and beauty trends.</desc>
+    <episode-num system="onscreen">E56</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/134254/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417063000 +0500" stop="20260417070000 +0500">
+    <title>9News Morning</title>
+    <sub-title />
+    <desc>Join 9News for up to the minute news on local and international news including sport and weather.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426816/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417070000 +0500" stop="20260417090000 +0500">
+    <title>Love Upstream</title>
+    <sub-title />
+    <desc>Author Charlotte, a Chicago city girl, heads to the wilderness of Minnesota to write her new book. Her guide, Rob, doubts Charlotte's skills.</desc>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413521/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417090000 +0500" stop="20260417100000 +0500">
+    <title>Pointless</title>
+    <sub-title />
+    <desc>Hosted by Alexander Armstrong and Richard Osman. Four teams of two contestants attempt to find correct answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.</desc>
+    <episode-num system="onscreen">S34 E19</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325129/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417100000 +0500" stop="20260417110000 +0500">
+    <title>Tipping Point</title>
+    <sub-title />
+    <desc>Ben Shephard hosts the quiz show in which three celebrities take on an extraordinary machine in the hope of winning 20,000 pounds for charity.</desc>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417110000 +0500" stop="20260417120000 +0500">
+    <title>9News Afternoon</title>
+    <sub-title />
+    <desc>9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417120000 +0500" stop="20260417130000 +0500">
+    <title>Tipping Point Australia</title>
+    <sub-title />
+    <desc>Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.</desc>
+    <episode-num system="onscreen">S2 E123</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426483/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417130000 +0500" stop="20260417140000 +0500">
+    <title>9News</title>
+    <sub-title />
+    <desc>Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.</desc>
+    <episode-num system="onscreen">S4 E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426774/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417140000 +0500" stop="20260417143000 +0500">
+    <title>A Current Affair</title>
+    <sub-title />
+    <desc>Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131990/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417143000 +0500" stop="20260417165500 +0500">
+    <title>NRL Friday Night Footy</title>
+    <sub-title>Dolphins v Panthers</sub-title>
+    <desc>Wide World of Sports presents Friday Night footy with Dolphins v Panthers, live from TIO Stadium, Darwin. Join our expert commentary team for all the action, analysis and post match interviews. Kick off at 8:00PM AEST.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/202390/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417165500 +0500" stop="20260417174500 +0500">
+    <title>NRL Friday Night Footy Post-Match</title>
+    <sub-title>Dolphins v Panthers</sub-title>
+    <desc>Join the Wide World of Sports team for the all the post-match NRL news and analysis.</desc>
+    <episode-num system="onscreen">E7</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441491/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417174500 +0500" stop="20260417194000 +0500">
+    <title>Dog</title>
+    <sub-title />
+    <desc>US Army Ranger Jackson Briggs travels with Lulu, a military dog, to the funeral of her handler. During their journey, the duo breaks laws and leaves no stone unturned in annoying each other.</desc>
+    <category lang="en">Kids &amp; Family</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412287/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417194000 +0500" stop="20260417203000 +0500">
+    <title>Tipping Point</title>
+    <sub-title />
+    <desc>Ben Shephard hosts the quiz show in which three celebrities take on an extraordinary machine in the hope of winning 20,000 pounds for charity.</desc>
+    <episode-num system="onscreen">S10 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/331700/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417203000 +0500" stop="20260417210000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Kelton Cookware</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E273</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417210000 +0500" stop="20260417213000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Tiva Heater</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E270</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417213000 +0500" stop="20260417220000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Thin Lizzy Xcellerate35</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E294</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417220000 +0500" stop="20260417223000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>Belena Air Stretch Massage Mat</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E296</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417223000 +0500" stop="20260417230000 +0500">
+    <title>TV Shop - Home Shopping</title>
+    <sub-title>RowShaper</sub-title>
+    <desc>Home shopping program.</desc>
+    <episode-num system="onscreen">E266</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/184500/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417230000 +0500" stop="20260417233000 +0500">
+    <title>Skippy - The Bush Kangaroo</title>
+    <sub-title>Vice Versa</sub-title>
+    <desc>Sir Adrian Gillespie brings Professor Leonard Clifton to Waratah National Park so he can take Skippy to a laboratory to study her and find out what makes her so intelligent.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <category lang="en">Action &amp; Adventure</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132554/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Channel-9-AU" start="20260417233000 +0500" stop="20260418000000 +0500">
+    <title>Global Shop</title>
+    <sub-title>Pocket Hose Copper Head</sub-title>
+    <desc>Home shopping.</desc>
+    <episode-num system="onscreen">E129</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/266663/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>

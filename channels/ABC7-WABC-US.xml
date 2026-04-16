@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="ABC7-WABC-US">
+    <display-name>WABC</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/ABC7-WABC-US.png" />
+  </channel><programme channel="ABC7-WABC-US" start="20260416000000 +0500" stop="20260416010000 +0500">
+    <title>General Hospital</title>
+    <sub-title />
+    <desc>Tracy goes into crisis mode; Josslyn does some digging; Ava impresses Sidwell; Dante has a tip for Laura; Curtis supports Jordan.</desc>
+    <episode-num system="onscreen">S63 E149</episode-num>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416010000 +0500" stop="20260416020000 +0500">
+    <title>Eyewitness News First at 4</title>
+    <sub-title />
+    <desc>Local and regional news coverage.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416020000 +0500" stop="20260416030000 +0500">
+    <title>Eyewitness News at 5</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416030000 +0500" stop="20260416033000 +0500">
+    <title>Eyewitness News at 6</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416033000 +0500" stop="20260416040000 +0500">
+    <title>ABC World News Tonight With David Muir</title>
+    <sub-title />
+    <desc>Delivering the news that matters most.</desc>
+    <episode-num system="onscreen">E105</episode-num>
+    <credits>
+      <actor>David Muir</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416040000 +0500" stop="20260416043000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num system="onscreen">S42 E158</episode-num>
+    <credits>
+      <actor>Ken Jennings</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416043000 +0500" stop="20260416050000 +0500">
+    <title>Wheel of Fortune</title>
+    <sub-title />
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num system="onscreen">S43 E158</episode-num>
+    <credits>
+      <actor>Ryan Seacrest</actor>
+      <actor>Vanna White</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30972336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416050000 +0500" stop="20260416053000 +0500">
+    <title>Scrubs</title>
+    <sub-title>My Celebration</sub-title>
+    <desc>A chaotic day at Sacred Heart forces the doctors and interns to face burnout, life-changing decisions and their relationships with one another.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <actor>Zach Braff</actor>
+      <actor>Donald Faison</actor>
+      <actor>Sarah Chalke</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31616366_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416053000 +0500" stop="20260416060200 +0500">
+    <title>Abbott Elementary</title>
+    <sub-title>Night Out</sub-title>
+    <desc>Janine and Gregory have a night out; Melissa, Barbara and Mr. Johnson have a movie night.</desc>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <credits>
+      <actor>Quinta Brunson</actor>
+      <actor>Tyler James Williams</actor>
+      <actor>Janelle James</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20001974_b_h8_ap.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416060200 +0500" stop="20260416070200 +0500">
+    <title>The Greatest Average American</title>
+    <sub-title>Africa Is Not a Country!</sub-title>
+    <desc>Competitors debate mystery meats; Nate takes a crack at breaking plates.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <actor>Nate Bargatze</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31926937_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416070200 +0500" stop="20260416080000 +0500">
+    <title>Shark Tank</title>
+    <sub-title>Million Dollar Offer: See Which Shark Makes a Million Dollar Offer for a Never-Before-Seen Idea!</sub-title>
+    <desc>Wildfire and tornado-proof homes; cologne-infused body butter; an allergy-free café; specialized traction pads for athletes.</desc>
+    <episode-num system="onscreen">S17 E17</episode-num>
+    <credits>
+      <actor>Daymond John</actor>
+      <actor>Barbara Corcoran</actor>
+      <actor>Robert Herjavec</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3560383_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416080000 +0500" stop="20260416083500 +0500">
+    <title>Eyewitness News at 11</title>
+    <sub-title />
+    <desc>Breaking news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416083500 +0500" stop="20260416093700 +0500">
+    <title>Jimmy Kimmel Live!</title>
+    <sub-title>Bob Odenkirk; Paul Walter Hauser; Melanie Martinez</sub-title>
+    <desc>Actress Bob Odenkirk; actor Paul Walter Hauser; Melanie Martinez performs.</desc>
+    <episode-num system="onscreen">S24 E102</episode-num>
+    <credits>
+      <actor>Jimmy Kimmel</actor>
+      <actor>Bob Odenkirk</actor>
+      <actor>Paul Walter Hauser</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416093700 +0500" stop="20260416100600 +0500">
+    <title>Nightline</title>
+    <sub-title />
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <credits>
+      <actor>Juju Chang</actor>
+      <actor>Byron Pitts</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416100600 +0500" stop="20260416103600 +0500">
+    <title>ABC World News Tonight With David Muir</title>
+    <sub-title />
+    <desc>Delivering the news that matters most.</desc>
+    <episode-num system="onscreen">E105</episode-num>
+    <credits>
+      <actor>David Muir</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416103600 +0500" stop="20260416113600 +0500">
+    <title>Live with Kelly and Mark</title>
+    <sub-title />
+    <desc>Kimberly Williams-Paisley chats about ABC's "9-1-1: Nashville"; Charles Melton is here; Amy Grant performs!</desc>
+    <episode-num system="onscreen">S4 E163</episode-num>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416113600 +0500" stop="20260416120600 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num system="onscreen">S41 E168</episode-num>
+    <credits>
+      <actor>Ken Jennings</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416120600 +0500" stop="20260416130000 +0500">
+    <title>Tamron Hall</title>
+    <sub-title>Jennie Garth's Reinvention</sub-title>
+    <desc>Jennie Garth shares her book "I Choose Me: Chasing Joy, Finding Purpose and Embracing Reinvention"; Raegan Lynch, who went viral when she documented her reinvention post-heartbreak on social media.</desc>
+    <episode-num system="onscreen">S7 E143</episode-num>
+    <credits>
+      <actor>Tamron Hall</actor>
+      <actor>Jennie Garth</actor>
+      <actor>Raegan Lynch</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416130000 +0500" stop="20260416133000 +0500">
+    <title>Good Morning America First Look</title>
+    <sub-title />
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <credits>
+      <actor>Sophie Flay</actor>
+      <actor>Hanna Battah</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416133000 +0500" stop="20260416150000 +0500">
+    <title>Eyewitness News This Morning</title>
+    <sub-title />
+    <desc>News coverage to start the day.</desc>
+    <date>2007</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416150000 +0500" stop="20260416160000 +0500">
+    <title>Eyewitness News This Morning</title>
+    <sub-title />
+    <desc>News coverage to start the day.</desc>
+    <date>2007</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416160000 +0500" stop="20260416180000 +0500">
+    <title>Good Morning America</title>
+    <sub-title />
+    <desc>TV personality Lisa Vanderpump; Good Housekeeping's nutrition and fitness director Stefani Sassos; Kathy Buccio shares the best pull-on pants; Deals &amp; Steals with Tory Johnson.</desc>
+    <episode-num system="onscreen">E121</episode-num>
+    <credits>
+      <actor>George Stephanopoulos</actor>
+      <actor>Robin Roberts</actor>
+      <actor>Michael Strahan</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416180000 +0500" stop="20260416190000 +0500">
+    <title>Live with Kelly and Mark</title>
+    <sub-title>Shopping Day at Live</sub-title>
+    <desc>Taraji P. Henson drops by for a chat; Corey Stoll swings by the studio; it's "Shopping Day at Live" with Liz Plosser!</desc>
+    <episode-num system="onscreen">S4 E164</episode-num>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Taraji P. Henson</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416190000 +0500" stop="20260416200000 +0500">
+    <title>Eyewitness News Mornings at 10</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2023</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416200000 +0500" stop="20260416210000 +0500">
+    <title>The View</title>
+    <sub-title />
+    <desc>Voice actors Aubrey Plaza, John Waters and Amy Sedaris ("Kevin").</desc>
+    <episode-num system="onscreen">S29 E141</episode-num>
+    <credits>
+      <director>Sarah de la O</director>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Joy Behar</actor>
+      <actor>Sunny Hostin</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416210000 +0500" stop="20260416220000 +0500">
+    <title>Eyewitness News at Noon</title>
+    <sub-title />
+    <desc>Midday news update.</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260416220000 +0500" stop="20260416230000 +0500">
+    <title>GMA3</title>
+    <sub-title />
+    <desc>TV personality Lisa Vanderpump; TV host Adam Richman; Good Housekeeping's nutrition and fitness director Stefani Sassos; Deals &amp; Steals with Tory Johnson.</desc>
+    <episode-num system="onscreen">S6 E147</episode-num>
+    <credits>
+      <actor>Lisa Vanderpump</actor>
+      <actor>Adam Richman</actor>
+      <actor>Stefani Sassos</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260416230000 +0500" stop="20260417000000 +0500">
+    <title>Tamron Hall</title>
+    <sub-title>Would You Know What to Do?</sub-title>
+    <desc>Dr. Sandra Lee, also known as "Dr. Pimple Popper," reveals a life-altering moment that was caught on tape; a couple who made a spontaneous decision when they found themselves in a terrifying situation on a Texas freeway; a woman shares how two heroes helped save her grandson in an emergency; the dramatic sea rescue that was caught on camera when a man's daughter got stuck in a rip current.</desc>
+    <episode-num system="onscreen">S7 E144</episode-num>
+    <credits>
+      <actor>Tamron Hall</actor>
+      <actor>Sandra Lee</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417000000 +0500" stop="20260417010000 +0500">
+    <title>General Hospital</title>
+    <sub-title />
+    <desc>Carly is shaken; Britt suffers a setback; Josslyn is suspicious; Lucas stands his ground; Sidwell is given food for thought.</desc>
+    <episode-num system="onscreen">S63 E150</episode-num>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417010000 +0500" stop="20260417020000 +0500">
+    <title>Eyewitness News First at 4</title>
+    <sub-title />
+    <desc>Local and regional news coverage.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417020000 +0500" stop="20260417030000 +0500">
+    <title>Eyewitness News at 5</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417030000 +0500" stop="20260417033000 +0500">
+    <title>Eyewitness News at 6</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417033000 +0500" stop="20260417040000 +0500">
+    <title>ABC World News Tonight With David Muir</title>
+    <sub-title />
+    <desc>Delivering the news that matters most.</desc>
+    <episode-num system="onscreen">E106</episode-num>
+    <credits>
+      <actor>David Muir</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417040000 +0500" stop="20260417043000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num system="onscreen">S42 E159</episode-num>
+    <credits>
+      <actor>Ken Jennings</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417043000 +0500" stop="20260417050000 +0500">
+    <title>Wheel of Fortune</title>
+    <sub-title />
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num system="onscreen">S43 E159</episode-num>
+    <credits>
+      <actor>Ryan Seacrest</actor>
+      <actor>Vanna White</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184057_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417050000 +0500" stop="20260417060000 +0500">
+    <title>9-1-1</title>
+    <sub-title>Dads and Cads</sub-title>
+    <desc>Maddie and Buck are blindsided by some unexpected news that turns their world upside down; Buck and Eddie head to Nashville when they are selected to participate in the national firefighting games.</desc>
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <credits>
+      <actor>Angela Bassett</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14154513_b_h8_bg.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417060000 +0500" stop="20260417070000 +0500">
+    <title>9-1-1: Nashville</title>
+    <sub-title>Spirit of the Games</sub-title>
+    <desc>Buck and Eddie head to Nashville for the firefighter games; tensions rise as Ryan and Don show their competitive sides; when Don injures his hand, Blue is forced to step into the competition for him.</desc>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <credits>
+      <director>Dawn Wilkinson</director>
+      <actor>Chris O'Donnell</actor>
+      <actor>Hailey Kilgore</actor>
+      <actor>Hunter McVey</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30219830_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417070000 +0500" stop="20260417080000 +0500">
+    <title>R.J. Decker</title>
+    <sub-title>Brenner's Back</sub-title>
+    <desc>R.J. helps a young woman uncover the truth behind her boyfriend's sudden death; a dangerous figure from R.J.'s past resurfaces, bent on revenge.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Scott Speedman</actor>
+      <actor>Jaina Lee Ortiz</actor>
+      <actor>Bevin Bru</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32192611_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417080000 +0500" stop="20260417083500 +0500">
+    <title>Eyewitness News at 11</title>
+    <sub-title />
+    <desc>Breaking news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417083500 +0500" stop="20260417093700 +0500">
+    <title>Jimmy Kimmel Live!</title>
+    <sub-title>Molly Shannon; Weird Al Yankovic</sub-title>
+    <desc>Actress Molly Shannon; musician Weird Al Yankovic.</desc>
+    <episode-num system="onscreen">S24 E103</episode-num>
+    <credits>
+      <actor>Jimmy Kimmel</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Weird Al Yankovic</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417093700 +0500" stop="20260417100600 +0500">
+    <title>Nightline</title>
+    <sub-title />
+    <desc>In-depth reporting on one or more of the major stories in the news, with occasional segments on pop culture; journalists Juju Chang and Byron Pitts share hosting duties for this late-night program.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <credits>
+      <actor>Juju Chang</actor>
+      <actor>Byron Pitts</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184465_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417100600 +0500" stop="20260417103600 +0500">
+    <title>ABC World News Tonight With David Muir</title>
+    <sub-title />
+    <desc>Delivering the news that matters most.</desc>
+    <episode-num system="onscreen">E106</episode-num>
+    <credits>
+      <actor>David Muir</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417103600 +0500" stop="20260417113600 +0500">
+    <title>Live with Kelly and Mark</title>
+    <sub-title>Shopping Day at Live</sub-title>
+    <desc>Taraji P. Henson drops by for a chat; Corey Stoll swings by the studio; it's "Shopping Day at Live" with Liz Plosser!</desc>
+    <episode-num system="onscreen">S4 E164</episode-num>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Taraji P. Henson</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417113600 +0500" stop="20260417120600 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num system="onscreen">S41 E169</episode-num>
+    <credits>
+      <actor>Ken Jennings</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28134937_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417120600 +0500" stop="20260417130000 +0500">
+    <title>Tamron Hall</title>
+    <sub-title>Would You Know What to Do?</sub-title>
+    <desc>Dr. Sandra Lee, also known as "Dr. Pimple Popper," reveals a life-altering moment that was caught on tape; a couple who made a spontaneous decision when they found themselves in a terrifying situation on a Texas freeway; a woman shares how two heroes helped save her grandson in an emergency; the dramatic sea rescue that was caught on camera when a man's daughter got stuck in a rip current.</desc>
+    <episode-num system="onscreen">S7 E144</episode-num>
+    <credits>
+      <actor>Tamron Hall</actor>
+      <actor>Sandra Lee</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417130000 +0500" stop="20260417133000 +0500">
+    <title>Good Morning America First Look</title>
+    <sub-title />
+    <desc>ABC's "Good Morning America First Look" brings one overnight breaking news, weather, politics, and the stories and video people will be talking about in the day ahead.</desc>
+    <credits>
+      <actor>Sophie Flay</actor>
+      <actor>Hanna Battah</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417133000 +0500" stop="20260417150000 +0500">
+    <title>Eyewitness News This Morning</title>
+    <sub-title />
+    <desc>News coverage to start the day.</desc>
+    <date>2007</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417150000 +0500" stop="20260417160000 +0500">
+    <title>Eyewitness News This Morning</title>
+    <sub-title />
+    <desc>News coverage to start the day.</desc>
+    <date>2007</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p677214_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417160000 +0500" stop="20260417180000 +0500">
+    <title>Good Morning America</title>
+    <sub-title />
+    <desc>Alta clothing app founder Jenny Wang; chef Izu Ani; OurBrainBank board member Sundas Hashmi; Deals &amp; Steals with Tory Johnson.</desc>
+    <episode-num system="onscreen">E122</episode-num>
+    <credits>
+      <actor>George Stephanopoulos</actor>
+      <actor>Robin Roberts</actor>
+      <actor>Michael Strahan</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31385280_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417180000 +0500" stop="20260417190000 +0500">
+    <title>Live with Kelly and Mark</title>
+    <sub-title />
+    <desc>Lisa Vanderpump dishes on Hulu's "Vanderpump Villa"; Ben Ahlers is here; chef Eric Ripert cooks!</desc>
+    <episode-num system="onscreen">S4 E165</episode-num>
+    <credits>
+      <actor>Kelly Ripa</actor>
+      <actor>Mark Consuelos</actor>
+      <actor>Lisa Vanderpump</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24324378_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417190000 +0500" stop="20260417200000 +0500">
+    <title>Eyewitness News Mornings at 10</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2023</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25568169_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417200000 +0500" stop="20260417210000 +0500">
+    <title>The View</title>
+    <sub-title />
+    <desc>Actor Jim Parsons; TV personality Lisa Vanderpump.</desc>
+    <episode-num system="onscreen">S29 E142</episode-num>
+    <credits>
+      <director>Sarah de la O</director>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Joy Behar</actor>
+      <actor>Sunny Hostin</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31138947_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417210000 +0500" stop="20260417220000 +0500">
+    <title>Eyewitness News at Noon</title>
+    <sub-title />
+    <desc>Midday news update.</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11844655_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260417220000 +0500" stop="20260417230000 +0500">
+    <title>GMA3</title>
+    <sub-title />
+    <desc>Author Tracy Deonn; Alta clothing app founder Jenny Wang; chef Izu Ani; Deals &amp; Steals with Tory Johnson.</desc>
+    <episode-num system="onscreen">S6 E148</episode-num>
+    <credits>
+      <actor>Tracy Deonn</actor>
+      <actor>Jenny Wang</actor>
+      <actor>Izu Ani</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Health</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30687311_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260417230000 +0500" stop="20260418000000 +0500">
+    <title>Tamron Hall</title>
+    <sub-title>The Dark Side of Fame</sub-title>
+    <desc>Jools Lebron, the social media star behind the "very demure" trend, shares why the viral video ruined her life and what led to her new sobriety journey; singer, dancer and actor Dana Vaughns shares his struggle with addiction and how he is redefining fame on his own terms.</desc>
+    <episode-num system="onscreen">S7 E145</episode-num>
+    <credits>
+      <actor>Tamron Hall</actor>
+      <actor>Jools Lebron</actor>
+      <actor>Dana Vaughns</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="South-Station-IN">
+    <display-name>South Station</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/South-Station-IN.png" />
+  </channel><programme channel="South-Station-IN" start="20260416115351 +0500" stop="20260416172223 +0500">
+    <title>Thirumalai Taqatvar Yodha</title>
+    <sub-title />
+    <desc>South Station</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="South-Station-IN" start="20260416172223 +0500" stop="20260416200437 +0500">
+    <title>Raja Raja Chora</title>
+    <sub-title />
+    <desc>South Station</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="South-Station-IN" start="20260416200437 +0500" stop="20260416231224 +0500">
+    <title>Trance</title>
+    <sub-title />
+    <desc>South Station</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+</tv>

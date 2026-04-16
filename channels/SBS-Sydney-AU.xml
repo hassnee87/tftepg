@@ -1,0 +1,779 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="SBS-Sydney-AU">
+    <display-name>SBS Sydney</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/SBS-Sydney-AU.png" />
+  </channel><programme channel="SBS-Sydney-AU" start="20260416000000 +0500" stop="20260416003000 +0500">
+    <title>NHK World English News Morning</title>
+    <sub-title />
+    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412606/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416003000 +0500" stop="20260416010000 +0500">
+    <title>ANC Philippines The World Tonight</title>
+    <sub-title />
+    <desc>Delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413573/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416010000 +0500" stop="20260416013000 +0500">
+    <title>DW English News</title>
+    <sub-title />
+    <desc>News and analysis of the top international and European news and current affairs from Berlin, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416013000 +0500" stop="20260416020000 +0500">
+    <title>Al Jazeera News</title>
+    <sub-title />
+    <desc>News via satellite from Al Jazeera Satellite Network, Qatar, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/231958/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416020000 +0500" stop="20260416023000 +0500">
+    <title>BBC 6 O'Clock News</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412627/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416023000 +0500" stop="20260416030000 +0500">
+    <title>France 24 English News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416030000 +0500" stop="20260416040000 +0500">
+    <title>DD India News Hour</title>
+    <sub-title />
+    <desc>The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413559/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416040000 +0500" stop="20260416040500 +0500">
+    <title>Point: Road To Referendum History Bites</title>
+    <sub-title>Understanding the 1967 Referendum</sub-title>
+    <desc>We look back on the historic 1967 referendum, where more than 90 percent of Australians voted yes to amend the Constitution.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/423657/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416040500 +0500" stop="20260416041000 +0500">
+    <title>The Cook Up with Adam Liaw Bitesize</title>
+    <sub-title>Bacon and Egg Salad</sub-title>
+    <desc>Join host Adam Liaw and all your favourite chefs, cooks and celebrities for the best bits from The Cook Up kitchen.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410582/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416041000 +0500" stop="20260416041500 +0500">
+    <title>The Cook Up with Adam Liaw Bitesize</title>
+    <sub-title>Pouding Chomeur</sub-title>
+    <desc>Join host Adam Liaw and all your favourite chefs, cooks and celebrities for the best bits from The Cook Up kitchen.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410582/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416041500 +0500" stop="20260416051000 +0500">
+    <title>Matched</title>
+    <sub-title>Johnny And Baljinder's Sikh Wedding / Wasim's Wait For A Bride</sub-title>
+    <desc>Johnny and Baljinder are two very Kiwi Indians who have chosen to have a Sikh arranged marriage, so which aspects of the age-old practice will they adhere to and which do they believe are outdated? And Wasim wants to find a bride, but in a culture where age is everything, has he left it too late to find his Miss Right?</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/424181/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416051000 +0500" stop="20260416060000 +0500">
+    <title>Kew Gardens: Season by Season</title>
+    <sub-title />
+    <desc>The peonies are out in Kew Gardens, with staff and visitors enjoying their moment in the sunshine; but all is set to change, as Joe undertakes a massive, yearlong renovation of the peony garden. Meanwhile, the secrets of the peony are unveiled in Kew's Economic Botany Collection, where scientist Monique reveals the amazing healing properties of this underestimated shrub, and we find out about Kew's important work investigating the benefits, and dangers, of herbal medicine.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427952/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416060000 +0500" stop="20260416070000 +0500">
+    <title>DNA Journey</title>
+    <sub-title>Sam Thompson And Marvin Humes</sub-title>
+    <desc>Best friends since meeting in the Jungle on I'm A Celebrity, presenter Sam Thompson and presenter and pop singer Marvin Humes, dive into their DNA journey to discover their family history.</desc>
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/438245/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416070000 +0500" stop="20260416073000 +0500">
+    <title>BBC News at Ten</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416073000 +0500" stop="20260416080000 +0500">
+    <title>France 24 International News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416080000 +0500" stop="20260416090000 +0500">
+    <title>PBS NewsHour</title>
+    <sub-title />
+    <desc>Reviews and analysis of the day's news presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416090000 +0500" stop="20260416102500 +0500">
+    <title>Rhoda Roberts AO: A Lasting Legacy</title>
+    <sub-title>Elder In Residence Oration 2024</sub-title>
+    <desc>The SBS Elder in Residence Oration returns, presented by Rhoda Roberts AO who this year is joined by special guest, proud Wiradjuri man and renowned journalist Stan Grant.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442042/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416102500 +0500" stop="20260416105500 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Wrapped, Rolled Or Folded</sub-title>
+    <desc>Literary sensation Alice Pung and culinary sensation Bee Satongun join Adam in The Cook Up kitchen to make food that's wrapped, rolled or folded.</desc>
+    <episode-num system="onscreen">S9 E27</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416105500 +0500" stop="20260416120500 +0500">
+    <title>The Mayfair Hotel Megabuild</title>
+    <sub-title />
+    <desc>Now past the halfway mark of a seven-year renovation, work continues mere metres above and below Claridge's esteemed guests, including milliner Stephen Jones, influencer Kate Elisabeth and supermodel Erin O'Connor. A Victorian-style dormer extension is being prefabricated in Northern Ireland before shipping to Mayfair, whilst the basement reaches its fifth level. Then Covid-19 forces the hotel's first closure in over a century. Can the team survive lockdown and complete this audacious build?</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/422633/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416120500 +0500" stop="20260416123000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S42 E56</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416123000 +0500" stop="20260416130000 +0500">
+    <title>Letters and Numbers</title>
+    <sub-title />
+    <desc>Two contestants pit their linguistic and numerical skills against each other and the clock in this entertaining quiz show. Join host Richard Morecroft along with maths whiz Lily Serna and wordsmith David Astle.</desc>
+    <episode-num system="onscreen">S4 E50</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/256173/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416130000 +0500" stop="20260416133000 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>Contenders go deep diving for knowledge on the Barbie animated movies, Terry Pratchett's City Watch novels, the making of Adolf Hitler, and the Human Eye. Contenders: Reilly Seet, Melissa Mungoven, Marlaina Garcia, Vish Chilumkurti.</desc>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416133000 +0500" stop="20260416143000 +0500">
+    <title>SBS World News</title>
+    <sub-title />
+    <desc>The latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
+    <episode-num system="onscreen">E106</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/309320/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416143000 +0500" stop="20260416153000 +0500">
+    <title>Treasures with Bettany Hughes</title>
+    <sub-title>Turkey: Emerging From The Earth</sub-title>
+    <desc>Bettany Hughes uncovers the archaeological wonders of Turkey, starting at Kibyra, a thriving centre of ancient entertainment with a vast gladiatorial theatre. She then travels to Ephesus to explore the monumental Temple of Serapis, built around sacred waters inspired by the Nile. The journey ends at Aphrodisias, famed for its sculpture workshops, where archaeologists uncover a pristine marble head of Zeus fresh from the ground.</desc>
+    <episode-num system="onscreen">S5 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/420477/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416153000 +0500" stop="20260416160500 +0500">
+    <title>Our Medicine</title>
+    <sub-title />
+    <desc>In Normanton, cadet Jaylyn McNamara treats familiar faces on an ambulance shift guided by decorated paramedic Peter Heron. Dr. Rob is called to ED in the night to arrange an urgent helicopter transfer to Townsville Hospital. In Nowra, Alisha gives birth supported by the Waminda midwives. At Beagle Bay Health Service, Keisha puts her cannulating skills into practice.</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/436445/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416160500 +0500" stop="20260416164000 +0500">
+    <title>Our Medicine</title>
+    <sub-title />
+    <desc>In Nowra, pregnant Alisha revises her birth plan with the Waminda team. Keisha returns to Broome to sit an exam after her Beagle Bay Clinic placement. AHLO Marra Thorne supports a prominent Noongar artist in palliative care. At Cairns Hospital, First Nations Greeter Noel Brown guides patients through the system and cadet Rob joins advanced paramedic George on his final day of traineeship.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/436445/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416164000 +0500" stop="20260416175000 +0500">
+    <title>Riot Women</title>
+    <sub-title />
+    <desc>Struggling to process the shock of her discovery, Kitty teeters on the verge on a nervous breakdown. Jess writes a song about ungrateful children, Yvonne writes a song about the traumas of giving birth, and Holly's promising date turns into an excruciating encounter in the bedroom. Kitty's discovery leads to an explosive Sunday lunch round at Beth's house.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440696/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416175000 +0500" stop="20260416182000 +0500">
+    <title>SBS World News Late</title>
+    <sub-title />
+    <desc>Reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
+    <episode-num system="onscreen">E64</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/329782/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416182000 +0500" stop="20260416191000 +0500">
+    <title>Under The Bridge</title>
+    <sub-title>Looking Glass</sub-title>
+    <desc>In 1997, on a quiet island in British Columbia, fourteen-year-old Reena Virk attends a party and never returns home. Her disappearance intrigues a novelist returning to her hometown, who finds herself drawn into the hidden world of the teen suspects.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442149/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416191000 +0500" stop="20260416200500 +0500">
+    <title>Bonn</title>
+    <sub-title />
+    <desc>At the interior ministry, tensions rise as John faces questions about Wolfgang's actions with Heimann; Wolfgang negotiates with Mossad to decode the Heimann List.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/434315/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416200500 +0500" stop="20260416210500 +0500">
+    <title>Bonn</title>
+    <sub-title />
+    <desc>Toni doesn't know whom she can still trust, she even has to be careful with her own sister. Secretly, she searches Gehlen's office for clues. And she finds them.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/434315/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416210500 +0500" stop="20260416220000 +0500">
+    <title>Beyond Signs</title>
+    <sub-title />
+    <desc>Romain appears to have a solid lead in Manu Trabuc, a former associate of Lily's parents; when certain visions of Diego alert Sarah, she is confident that the kid can help in the investigation.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/433930/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416220000 +0500" stop="20260416223500 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>The legendary quiz that sets the toughest questions on television. Join quizmaster Marc Fennell as each night he puts four contenders to the test.</desc>
+    <episode-num system="onscreen">S4 E63</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416223500 +0500" stop="20260416230500 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>The legendary quiz that sets the toughest questions on television. Join quizmaster Marc Fennell as each night he puts four contenders to the test.</desc>
+    <episode-num system="onscreen">S4 E64</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416230500 +0500" stop="20260416234000 +0500">
+    <title>Mountain Vets</title>
+    <sub-title />
+    <desc>An operation on a sick dog gets complicated for vet Martin, Darren performs an emergency Caesarean on a cow, and a farmer needs help with a surprise set of twins.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428174/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260416234000 +0500" stop="20260417000000 +0500">
+    <title>Bamay</title>
+    <sub-title>Murrumbidgee River - Ngunawal, Wiradjuri &amp; Ngarigo Country</sub-title>
+    <desc>A slow TV showcase of the stunning landscapes found in Ngunawal, Wiradjuri and Ngarigo Country along the waters of the Murrumbidgee River.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/391682/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417000000 +0500" stop="20260417003000 +0500">
+    <title>NHK World English News Morning</title>
+    <sub-title />
+    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412606/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417003000 +0500" stop="20260417010000 +0500">
+    <title>ANC Philippines The World Tonight</title>
+    <sub-title />
+    <desc>Delivers the top stories of the day, covering political, economic, and social sectors on both local and global fronts.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413573/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417010000 +0500" stop="20260417013000 +0500">
+    <title>DW English News</title>
+    <sub-title />
+    <desc>News and analysis of the top international and European news and current affairs from Berlin, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310648/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417013000 +0500" stop="20260417020000 +0500">
+    <title>Al Jazeera News</title>
+    <sub-title />
+    <desc>News via satellite from Al Jazeera Satellite Network, Qatar, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/231958/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417020000 +0500" stop="20260417023000 +0500">
+    <title>BBC 6 O'Clock News</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412627/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417023000 +0500" stop="20260417030000 +0500">
+    <title>France 24 English News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417030000 +0500" stop="20260417040000 +0500">
+    <title>DD India News Hour</title>
+    <sub-title />
+    <desc>The most recent political, sports, entertainment and socio-economic updates across India and the world from New Delhi, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413559/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417040000 +0500" stop="20260417040500 +0500">
+    <title>The Cook Up with Adam Liaw Bitesize</title>
+    <sub-title>Almond Pudding With Ginger And Palm Sugar Syrup</sub-title>
+    <desc>Join host Adam Liaw and all your favourite chefs, cooks and celebrities for the best bits from The Cook Up kitchen.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410582/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417040500 +0500" stop="20260417041000 +0500">
+    <title>The Cook Up with Adam Liaw Bitesize</title>
+    <sub-title>Lubia Polo</sub-title>
+    <desc>Join host Adam Liaw and all your favourite chefs, cooks and celebrities for the best bits from The Cook Up kitchen.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410582/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417041000 +0500" stop="20260417050500 +0500">
+    <title>Matched</title>
+    <sub-title>The Muslim Wedding Of Rehana And Jansher / Ravinder And Manpreet's Union Of Two Souls</sub-title>
+    <desc>Muslim couple Rehana and Jansher have booked a date, but it could all come grinding to a halt if Jansher's mother doesn't give her approval when she meets the bride for the first time just days out from the wedding. And Indian bride Manpreet faces a wedding in New Zealand without the involvement of her loving parents.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/424181/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417050500 +0500" stop="20260417060000 +0500">
+    <title>Kew Gardens: Season by Season</title>
+    <sub-title />
+    <desc>Summer means roses in Kew Gardens and the visitors are flocking to the historic Rose Garden to take them in, whilst Dave tackles the massive dead heading job that they bring. Meanwhile Kevin, Head of Tree Collections, is contemplating another epic pruning job.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427952/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417060000 +0500" stop="20260417070000 +0500">
+    <title>DNA Journey</title>
+    <sub-title>James Nesbitt And Sarah Parish</sub-title>
+    <desc>Actors and friends, James Nesbitt and Sarah Parish, team up to delve into their family histories. A journey that starts in Northern Ireland where they met to discover the huge part education played in their lives both having teacher parents. To Sarah's surprise, her journey then takes them over to Scotland to look at her famous ancestor who changed schooling in Scotland forever.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/438245/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417070000 +0500" stop="20260417073000 +0500">
+    <title>BBC News at Ten</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417073000 +0500" stop="20260417080000 +0500">
+    <title>France 24 International News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417080000 +0500" stop="20260417090000 +0500">
+    <title>PBS NewsHour</title>
+    <sub-title />
+    <desc>Reviews and analysis of the day's news presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417090000 +0500" stop="20260417100000 +0500">
+    <title>Rhoda Roberts AO: A Lasting Legacy</title>
+    <sub-title>Forever Held In Country: Honouring Widjabul Wiyebal Woman Rhoda Roberts Ao</sub-title>
+    <desc>Paying homage to Bundjalung Widjabul Wiebal woman Rhoda Roberts AO this program honours her deep connection to Country and her legacy.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442042/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417100000 +0500" stop="20260417103000 +0500">
+    <title>NITV News: Nula</title>
+    <sub-title />
+    <desc>The latest news from the oldest living culture, join Natalie Ahmat and the team of journalists for stories from an Indigenous perspective.</desc>
+    <episode-num system="onscreen">E12</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/235224/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417103000 +0500" stop="20260417110000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Fast Fresh Bites</sub-title>
+    <desc>Tonight's food is quick and easy, as Adam and his guests, musician Elly-May Barnes and chef Hamish Ingham make fast fresh bites.</desc>
+    <episode-num system="onscreen">S7 E83</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417110000 +0500" stop="20260417120500 +0500">
+    <title>The Mayfair Hotel Megabuild</title>
+    <sub-title />
+    <desc>With the shell nearing completion, world-class designers add the finishing touches. Parisian interior designer Remi Tessier takes on the penthouse, where only the rarest materials will suffice for a rumoured 100,000 pound-a-night price tag. In the basement, Inge Theron combines Japanese scents with cutting-edge skincare technology to create Claridge's first spa.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/422633/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417120500 +0500" stop="20260417123000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed, and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S42 E57</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417123000 +0500" stop="20260417130000 +0500">
+    <title>Letters and Numbers</title>
+    <sub-title />
+    <desc>Two contestants pit their linguistic and numerical skills against each other and the clock in this entertaining quiz show. Join host Richard Morecroft along with maths whiz Lily Serna and wordsmith David Astle.</desc>
+    <episode-num system="onscreen">S4 E51</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/256173/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417130000 +0500" stop="20260417133000 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>Our weekly family winners are back with two minutes of general knowledge, plus the dreaded slow burn round. Tonight's slow burn topics are a TV Show, a Food, a Landmark and a Song.</desc>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417133000 +0500" stop="20260417143000 +0500">
+    <title>SBS World News</title>
+    <sub-title />
+    <desc>The latest reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
+    <episode-num system="onscreen">E107</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/309320/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417143000 +0500" stop="20260417153000 +0500">
+    <title>Going Places With Ernie Dingo</title>
+    <sub-title>Byron &amp; Coffs Coast</sub-title>
+    <desc>Ernie catches up with pro-surfer and artist Otis Carey, and gets a cultural tour in Coffs Harbour with the Gumbaynggirr mob, Rae learns how our cuppas go from crop-to-cup at a local coffee farm.</desc>
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/353254/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417153000 +0500" stop="20260417163500 +0500">
+    <title>A New ANZAC</title>
+    <sub-title />
+    <desc>The construction of the new Southern Entrance is well underway. The team works day and night to install Super-T beams for the column-less exhibition space of Lower Anzac Hall. The architectural marvels of the Oculus, the spiral timber staircase, and its above eucalyptus-inspired glasswork 'Quiet Skies' come to fruition.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442045/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417163500 +0500" stop="20260417173000 +0500">
+    <title>Orient Express: A Golden Era of Travel</title>
+    <sub-title />
+    <desc>In the Golden Age of Rail, the Orient Express ran regularly between Paris and Istanbul. Now we retrace its 2,000 mile journey. Heading east, it stops at Germany's 'City of Gold', where most of its jewellery is made. Then on to Munich, a city haunted by its dark past. Finally, it reaches Salzburg, a city that pays tribute to its famous musical family in a most unexpected way.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/438746/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417173000 +0500" stop="20260417180000 +0500">
+    <title>SBS World News Late</title>
+    <sub-title />
+    <desc>Reports and analysis of major national and international news of the day from Australia's only world news service.</desc>
+    <episode-num system="onscreen">E65</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/329782/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417180000 +0500" stop="20260417185500 +0500">
+    <title>The King</title>
+    <sub-title />
+    <desc>Did Lackovic commit suicide or was he killed to avenge the murder of Iaccarino? Bruno discovers that his ally had converted to Islam and that a mystery is lurking in the Muslim community at San Michele. Laura, meanwhile, is relentless and questions Bruno's faithful allies, the praetorians.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442048/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417185500 +0500" stop="20260417195500 +0500">
+    <title>Babylon Berlin</title>
+    <sub-title />
+    <desc>Ullrich examines the murder weapon in the Krempin case. He discovers that it's registered in Bela Gosztony's name. When Ullrich tries to let Rath know this important piece of information, Gennat humiliates him and sends him away.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430849/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417195500 +0500" stop="20260417210500 +0500">
+    <title>Babylon Berlin</title>
+    <sub-title />
+    <desc>It's the day for which Greta's execution is scheduled. Litten has an idea how he might achieve at least a postponement. He remembers a law, according to which official business, including executions, must cease on days of national mourning.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430849/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417210500 +0500" stop="20260417213500 +0500">
+    <title>Nordland '99</title>
+    <sub-title>Chapter V</sub-title>
+    <desc>Lukas, Emma, and Kris are going back to the cabin, where they make an awful discovery. At the same time, Christian reviews the surveillance material from the gas station.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/431059/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417213500 +0500" stop="20260417220000 +0500">
+    <title>Nordland '99</title>
+    <sub-title>Chapter VI</sub-title>
+    <desc>The whole town is in mourning, and the search for Alex takes a new turn. Christian is no longer on the case but makes a promise to an old friend.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/431059/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417220000 +0500" stop="20260417223000 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>The legendary quiz that sets the toughest questions on television. Join quizmaster Marc Fennell as each night he puts four contenders to the test.</desc>
+    <episode-num system="onscreen">S4 E65</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417223000 +0500" stop="20260417230000 +0500">
+    <title>Mastermind Australia</title>
+    <sub-title />
+    <desc>The legendary quiz that sets the toughest questions on television. Join quizmaster Marc Fennell as each night he puts four contenders to the test.</desc>
+    <episode-num system="onscreen">S4 E66</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/383513/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417230000 +0500" stop="20260417233500 +0500">
+    <title>Mountain Vets</title>
+    <sub-title />
+    <desc>Vet Patrick gets a surprise while helping a cow through a difficult labour, Maeve gets inventive to save a lamb's sight and Nuala performs delicate surgery on David the hamster.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428174/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Sydney-AU" start="20260417233500 +0500" stop="20260418000000 +0500">
+    <title>Bamay</title>
+    <sub-title>Murrumbidgee River - Wiradjuri Country</sub-title>
+    <desc>A slow TV showcase of the stunning landscapes found in Wiradjuri Country along the waters of the Murrumbidgee River.</desc>
+    <episode-num system="onscreen">S2 E3 P1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/391682/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>

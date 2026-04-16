@@ -1,0 +1,821 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="10-Sydney-AU">
+    <display-name>10 Sydney</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/10-Sydney-AU.png" />
+  </channel><programme channel="10-Sydney-AU" start="20260416000000 +0500" stop="20260416003000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E179</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416003000 +0500" stop="20260416010000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E180</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416010000 +0500" stop="20260416013000 +0500">
+    <title>Entertainment Tonight</title>
+    <sub-title />
+    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
+    <episode-num system="onscreen">S45 E156</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416013000 +0500" stop="20260416020000 +0500">
+    <title>The Bold and the Beautiful</title>
+    <sub-title />
+    <desc>Daphne and Carter receive results. Taylor is frightened by Sheila.</desc>
+    <episode-num system="onscreen">E9750</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416020000 +0500" stop="20260416023000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Super Nerd Luke Hastings and fellow genius, his brother Alastair are here to outsmart The Banker, inorder to buy their mum a fish tank.</desc>
+    <episode-num system="onscreen">S3 E37</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416023000 +0500" stop="20260416030000 +0500">
+    <title>Good Chef Bad Chef</title>
+    <sub-title />
+    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
+    <episode-num system="onscreen">S18 E23</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416030000 +0500" stop="20260416040000 +0500">
+    <title>Lingo</title>
+    <sub-title />
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416040000 +0500" stop="20260416050000 +0500">
+    <title>The Finish Line</title>
+    <sub-title />
+    <desc>Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416050000 +0500" stop="20260416053000 +0500">
+    <title>Entertainment Tonight</title>
+    <sub-title />
+    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
+    <episode-num system="onscreen">S45 E157</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416053000 +0500" stop="20260416063000 +0500">
+    <title>The Dog House</title>
+    <sub-title />
+    <desc>Cockapoo pup Annie is a whirlwind - 7-year-old Lottie is immediately in love. Will the rest of her family agree? Paul is mourning his dog Baxter and his wife is sure the only solution is another dog.</desc>
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/395208/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416063000 +0500" stop="20260416070000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>From the iconic fresh food markets, 2025 MasterChef winner Laura Sharrad hosts My Market Kitchen with loads of delicious recipes, plenty of guests and a few surprises.</desc>
+    <episode-num system="onscreen">S9 E45</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416070000 +0500" stop="20260416073000 +0500">
+    <title>Good Chef Bad Chef</title>
+    <sub-title />
+    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
+    <episode-num system="onscreen">S18 E24</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416073000 +0500" stop="20260416080000 +0500">
+    <title>Family Feud</title>
+    <sub-title />
+    <desc>Steve Harvey hosts Family Feud, bringing hilarious moments and families together to compete for a chance to win up to $20,000 by guessing the most popular answers to questions.</desc>
+    <episode-num system="onscreen">S21 E129</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430766/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416080000 +0500" stop="20260416090000 +0500">
+    <title>10 News: Lunchtime</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E69</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437417/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416090000 +0500" stop="20260416093000 +0500">
+    <title>Millionaire Hot Seat</title>
+    <sub-title />
+    <desc>Amongst the six competing for one million dollars in this episode is retired teacher Xenia and publicist Sarah.</desc>
+    <episode-num system="onscreen">S16 E124</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416093000 +0500" stop="20260416103000 +0500">
+    <title>The Finish Line</title>
+    <sub-title />
+    <desc>Roman Kemp returns to host the quiz show with sidekick Sarah Greene - contestants race in moving podiums across the studio floor. Correct answers get the players moving, wrong answers will stop them.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416103000 +0500" stop="20260416113000 +0500">
+    <title>Lingo</title>
+    <sub-title />
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416113000 +0500" stop="20260416120000 +0500">
+    <title>The Bold and the Beautiful</title>
+    <sub-title />
+    <desc>Finn, Steffy, and Ridge rush to protect their family from Sheila. Hope and Deke struggle with the situation. Deacon and Sheila have a heartbreaking conversation about their marriage.</desc>
+    <episode-num system="onscreen">E9751</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416120000 +0500" stop="20260416130000 +0500">
+    <title>10 News</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E76</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416130000 +0500" stop="20260416133000 +0500">
+    <title>10 News+</title>
+    <sub-title />
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E88</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416133000 +0500" stop="20260416140000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Painter Wade McCormack is looking to take his family on one last hurrah before the kids leave the nest. With 100K up for grabs they'd be able to paint the town red if Wade plays the perfect game.</desc>
+    <episode-num system="onscreen">S2 E50</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416140000 +0500" stop="20260416143000 +0500">
+    <title>Millionaire Hot Seat</title>
+    <sub-title />
+    <desc>In this episode, tour guides and Eurovision fanatics are among the six contestants vying for the life changing prize money.</desc>
+    <episode-num system="onscreen">S16 E94</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416143000 +0500" stop="20260416153000 +0500">
+    <title>Gogglebox Australia</title>
+    <sub-title />
+    <desc>Some of Australia's most opinionated and avid TV viewers comment freely on the best and worst television shows they've watched over the past week, from the comfort of their living rooms.</desc>
+    <episode-num system="onscreen">S23 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/322735/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416153000 +0500" stop="20260416163000 +0500">
+    <title>The Claudia Winkleman Show</title>
+    <sub-title />
+    <desc>Your weekly dose of Claudia Winkleman-powered joy kicks off with guests Jeff Goldblum, Jennifer Saunders, Vanessa Williams and Tom Allen.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441771/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416163000 +0500" stop="20260416173000 +0500">
+    <title>10's Late News</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E69</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428747/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416173000 +0500" stop="20260416180000 +0500">
+    <title>10 News+</title>
+    <sub-title />
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E88</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416180000 +0500" stop="20260416190000 +0500">
+    <title>The Late Show with Stephen Colbert</title>
+    <sub-title>Anne Hathaway, Josh Johnson</sub-title>
+    <desc>Join The Late Show host Stephen Colbert as he shares his views on a number of trending news updates and catches up with guests Anne Hathaway and Josh Johnson to engage in candid conversations.</desc>
+    <episode-num system="onscreen">S11 E161</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/334199/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416190000 +0500" stop="20260416193000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E121</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416193000 +0500" stop="20260416200000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416200000 +0500" stop="20260416203000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E123</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416203000 +0500" stop="20260416210000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E124</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416210000 +0500" stop="20260416213000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E125</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416213000 +0500" stop="20260416220000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E126</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416220000 +0500" stop="20260416223000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E127</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416223000 +0500" stop="20260416230000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E39</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416230000 +0500" stop="20260416233000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E129</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260416233000 +0500" stop="20260417000000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E130</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417000000 +0500" stop="20260417003000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E131</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417003000 +0500" stop="20260417010000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E132</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417010000 +0500" stop="20260417013000 +0500">
+    <title>Entertainment Tonight</title>
+    <sub-title />
+    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
+    <episode-num system="onscreen">S45 E157</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417013000 +0500" stop="20260417020000 +0500">
+    <title>The Bold and the Beautiful</title>
+    <sub-title />
+    <desc>Finn, Steffy, and Ridge rush to protect their family from Sheila. Hope and Deke struggle with the situation. Deacon and Sheila have a heartbreaking conversation about their marriage.</desc>
+    <episode-num system="onscreen">E9751</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417020000 +0500" stop="20260417023000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Painter Wade McCormack is looking to take his family on one last hurrah before the kids leave the nest. With 100K up for grabs they'd be able to paint the town red if Wade plays the perfect game.</desc>
+    <episode-num system="onscreen">S2 E50</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417023000 +0500" stop="20260417030000 +0500">
+    <title>Good Chef Bad Chef</title>
+    <sub-title />
+    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
+    <episode-num system="onscreen">S18 E24</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417030000 +0500" stop="20260417040000 +0500">
+    <title>Lingo</title>
+    <sub-title />
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S2 E38</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417040000 +0500" stop="20260417050000 +0500">
+    <title>The Finish Line</title>
+    <sub-title />
+    <desc>A quiz show in which 5 players race against each other by answering general knowledge questions. The challenge is to stay in the race.</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417050000 +0500" stop="20260417053000 +0500">
+    <title>Entertainment Tonight</title>
+    <sub-title />
+    <desc>Still the gold standard in entertainment news, ET delivers daily exclusives, red carpet coverage, and celebrity interviews.</desc>
+    <episode-num system="onscreen">S45 E158</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132140/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417053000 +0500" stop="20260417063000 +0500">
+    <title>The Greatest: Reality TV Moments</title>
+    <sub-title />
+    <desc>Join our star-studded cast as we look back at some of the greatest Reality TV moments. Shock eliminations, explosive drama and iconic one-liners. Celebrate the chaos that got the country talking.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/439378/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417063000 +0500" stop="20260417070000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>From the iconic fresh food markets, 2025 MasterChef winner Laura Sharrad hosts My Market Kitchen with loads of delicious recipes, plenty of guests and a few surprises.</desc>
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417070000 +0500" stop="20260417073000 +0500">
+    <title>Good Chef Bad Chef</title>
+    <sub-title />
+    <desc>Good Chef Bad Chef presents viewers with a range of both healthy and indulgent recipes and meal ideas and lets them decide what is right for them.</desc>
+    <episode-num system="onscreen">S18 E25</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/197122/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417073000 +0500" stop="20260417080000 +0500">
+    <title>Family Feud</title>
+    <sub-title />
+    <desc>Steve Harvey hosts Family Feud, bringing hilarious moments and families together to compete for a chance to win up to $20,000 by guessing the most popular answers to questions.</desc>
+    <episode-num system="onscreen">S21 E130</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430766/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417080000 +0500" stop="20260417090000 +0500">
+    <title>10 News: Lunchtime</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E70</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437417/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417090000 +0500" stop="20260417093000 +0500">
+    <title>Millionaire Hot Seat</title>
+    <sub-title />
+    <desc>In this episode, tour guides and Eurovision fanatics are among the six contestants vying for the life changing prize money.</desc>
+    <episode-num system="onscreen">S16 E94</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417093000 +0500" stop="20260417103000 +0500">
+    <title>The Finish Line</title>
+    <sub-title />
+    <desc>A quiz show in which 5 players race against each other by answering general knowledge questions. The challenge is to stay in the race.</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428456/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417103000 +0500" stop="20260417113000 +0500">
+    <title>Lingo</title>
+    <sub-title />
+    <desc>A quiz in which three pairs of contestants go head-to-head, using their powers of deduction quickly to work out the words that appear in the Lingo grids and puzzle-words.</desc>
+    <episode-num system="onscreen">S2 E39</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413815/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417113000 +0500" stop="20260417120000 +0500">
+    <title>The Bold and the Beautiful</title>
+    <sub-title />
+    <desc>Hope defends Deacon. Sheila and Deacon reflect on their relationship.</desc>
+    <episode-num system="onscreen">E9752</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132625/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417120000 +0500" stop="20260417130000 +0500">
+    <title>10 News</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437419/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417130000 +0500" stop="20260417133000 +0500">
+    <title>10 News+</title>
+    <sub-title />
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E89</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417133000 +0500" stop="20260417140000 +0500">
+    <title>Deal or No Deal</title>
+    <sub-title />
+    <desc>Kirstin Sadler is flooring expert who has come to lay down the law on The Deal. She wants to pay for her upcoming wedding but The Banker isn't known for rolling out the red carpet.</desc>
+    <episode-num system="onscreen">S2 E117</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427295/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417140000 +0500" stop="20260417143000 +0500">
+    <title>Millionaire Hot Seat</title>
+    <sub-title />
+    <desc>Contestants in this episode include a Western Australian former ballroom dancer, and an award-winning Chewbacca impressionist from Victoria.</desc>
+    <episode-num system="onscreen">S16 E34</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/325091/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417143000 +0500" stop="20260417154000 +0500">
+    <title>Love It or List It Australia</title>
+    <sub-title>St Ives Chase, NSW</sub-title>
+    <desc>Retiree John and Insurance Broker Sharyn are classic empty nesters. Their St Ives Chase four bed home is daggy and dated. Sharyn wants to release the capital for a sea change, but John is hesitant.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/362601/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417154000 +0500" stop="20260417164000 +0500">
+    <title>Building the Dream</title>
+    <sub-title>Buckinghamshire</sub-title>
+    <desc>Architectural designer Charlie Luxton proves dream homes can be affordable. He helps first-time builders design budget-friendly homes that suit their lifestyles.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/308301/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417164000 +0500" stop="20260417174000 +0500">
+    <title>10's Late News</title>
+    <sub-title />
+    <desc>Comprehensive coverage of local, national and international news. Plus, all the latest sport and weather.</desc>
+    <episode-num system="onscreen">E70</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428747/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417174000 +0500" stop="20260417181000 +0500">
+    <title>10 News+</title>
+    <sub-title />
+    <desc>10 News+ delivers in-depth coverage of today's top stories, investigative reports, and stories you haven't heard. Putting the truth first.</desc>
+    <episode-num system="onscreen">E89</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437112/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417181000 +0500" stop="20260417190000 +0500">
+    <title>The Late Show with Stephen Colbert</title>
+    <sub-title>Anderson Cooper, Patton Oswalt</sub-title>
+    <desc>Join The Late Show host Stephen Colbert as he shares his views on a number of trending news updates and catches up with guests Anderson Cooper and Patton Oswalt to engage in candid conversations.</desc>
+    <episode-num system="onscreen">S11 E162</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/334199/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417190000 +0500" stop="20260417193000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E118</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417193000 +0500" stop="20260417200000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E119</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417200000 +0500" stop="20260417203000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E120</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417203000 +0500" stop="20260417210000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E121</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417210000 +0500" stop="20260417213000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E122</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417213000 +0500" stop="20260417220000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E123</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417220000 +0500" stop="20260417223000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E124</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417223000 +0500" stop="20260417230000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E125</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417230000 +0500" stop="20260417233000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E126</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="10-Sydney-AU" start="20260417233000 +0500" stop="20260418000000 +0500">
+    <title>Home Shopping</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">E127</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/234200/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme>
+</tv>
