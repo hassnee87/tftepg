@@ -339,5 +339,21 @@
     <date>19880314</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/89AC56FMuo8IfgRaDsHp3oc97on.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417232353 +0500" stop="20260417235719 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Me2</sub-title>
+    <desc>Rimmer creates his perfect companion - an identical duplicate of himself.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>19880321</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/GEzqulaTZNX7ZSOj6VrsPcVclr.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260417235719 +0500" stop="20260418003110 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Trojan</sub-title>
+    <desc>Rimmer receives an SOS Distress Call from his all-conquering brother, Howard.</desc>
+    <episode-num system="onscreen">S10E01</episode-num>
+    <date>20121004</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/9DkMHjIAihqrybtFYpr93uQXAiv.jpg" />
   </programme>
 </tv>

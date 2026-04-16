@@ -279,5 +279,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260417233000 +0500" stop="20260418000000 +0500">
+    <title>Stocks In Translation</title>
+    <sub-title />
+    <desc>Stocks in Translation with Jared Blikre: cutting through the noisy data points and market hyperbole.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
+  </programme><programme channel="Yahoo-Finance-US" start="20260418000000 +0500" stop="20260418010000 +0500">
+    <title>Market Domination</title>
+    <sub-title />
+    <desc>The final trading hour brings big moves. Yahoo Finance keeps you updated on all the latest market action.</desc>
+    <date>20250102</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://provider-static.plex.tv/epg/images/thumbnails/yahoo-finance.jpg" />
   </programme>
 </tv>

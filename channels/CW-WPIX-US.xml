@@ -3,672 +3,7 @@
   <channel id="CW-WPIX-US">
     <display-name>WPIX</display-name>
     <icon src="https://thefilmtuition/tvlogo/CW-WPIX-US.png" />
-  </channel><programme channel="CW-WPIX-US" start="20260416000000 +0500" stop="20260416003000 +0500">
-    <title>Live PD Presents</title>
-    <sub-title />
-    <desc />
-    <episode-num system="onscreen">S1 E146</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416003000 +0500" stop="20260416010000 +0500">
-    <title>Live PD Presents</title>
-    <sub-title />
-    <desc />
-    <episode-num system="onscreen">S1 E145</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416010000 +0500" stop="20260416020000 +0500">
-    <title>PIX11 News at 4</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416020000 +0500" stop="20260416030000 +0500">
-    <title>PIX11 News at 5</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416030000 +0500" stop="20260416033000 +0500">
-    <title>PIX11 News at 6</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2015</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416033000 +0500" stop="20260416040000 +0500">
-    <title>PIX11 Evening News</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2022</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21846983_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416040000 +0500" stop="20260416043000 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Wait Out</sub-title>
-    <desc>Jerry and Elaine get a chance for romance after George's comment to a couple (Debra Messing, Cary Elwes) leads to a breakup.</desc>
-    <episode-num system="onscreen">S7 E23</episode-num>
-    <credits>
-      <director>Andy Ackerman</director>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Jason Alexander</actor>
-      <actor>Michael Richards</actor>
-    </credits><date>1996</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416043000 +0500" stop="20260416050000 +0500">
-    <title>The Big Bang Theory</title>
-    <sub-title>The Cooper-Nowitzki Theorem</sub-title>
-    <desc>Sheldon and the gang are confused when a young grad student is attracted to him.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416050000 +0500" stop="20260416060000 +0500">
-    <title>Police 24/7</title>
-    <sub-title>Partners on Crime</sub-title>
-    <desc>A look at the unique relationship law enforcement has with fellow officers; an insider's look on how coordination between officers help them be more effective peacekeepers.</desc>
-    <episode-num system="onscreen">S2 E44</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28807456_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416060000 +0500" stop="20260416070000 +0500">
-    <title>Police 24/7</title>
-    <sub-title>I Didn't Do Nothing</sub-title>
-    <desc>A fleeing driver leads police on a chase through the woods; a repeat offender violates his trespass order; an intense storm adds difficulty to police investigating a shooting.</desc>
-    <episode-num system="onscreen">S2 E38</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28807456_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416070000 +0500" stop="20260416080000 +0500">
-    <title>PIX11 News at Ten</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416080000 +0500" stop="20260416083000 +0500">
-    <title>New York Nightcap</title>
-    <sub-title />
-    <desc />
-    <date>2025</date>
-    <category lang="en">Community</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416083000 +0500" stop="20260416090000 +0500">
-    <title>Seinfeld</title>
-    <sub-title>The Serenity Now</sub-title>
-    <desc>Jerry tries to reveal more of his feelings on the advice of his new girlfriend (Lori Loughlin). With Jason Alexander.</desc>
-    <episode-num system="onscreen">S9 E3</episode-num>
-    <credits>
-      <director>Andy Ackerman</director>
-      <actor>Jerry Seinfeld</actor>
-      <actor>Jason Alexander</actor>
-      <actor>Michael Richards</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892827_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416090000 +0500" stop="20260416093000 +0500">
-    <title>Friends</title>
-    <sub-title>The One Where Nana Dies Twice</sub-title>
-    <desc>Monica and Ross share their feelings about death and their grandmother.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox</actor>
-      <actor>Lisa Kudrow</actor>
-    </credits><date>1994</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892576_b_h11_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416093000 +0500" stop="20260416100000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>My Damn Stalker</sub-title>
-    <desc>Charlie must face his feelings when Rose announces she is moving to London; Alan fudges his online dating profile, only to wind up with a fellow profile-embellisher.</desc>
-    <episode-num system="onscreen">S4 E15</episode-num>
-    <credits>
-      <director>James Widdoes</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416100000 +0500" stop="20260416103000 +0500">
-    <title>The Big Bang Theory</title>
-    <sub-title>The Werewolf Transformation</sub-title>
-    <desc>Sheldon's routine is turned upside down when his barber gets sick; Wolowitz questions his decision to go into space.</desc>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor>Johnny Galecki</actor>
-      <actor>Jim Parsons</actor>
-      <actor>Kaley Cuoco</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416103000 +0500" stop="20260416110000 +0500">
-    <title>Young Sheldon</title>
-    <sub-title>Funeral</sub-title>
-    <desc>Sheldon leaves East Texas for the California Institute of Technology following the death of his father, George Cooper Sr.</desc>
-    <episode-num system="onscreen">S7 E13</episode-num>
-    <credits>
-      <director>Michael Judd</director>
-      <actor>Iain Armitage</actor>
-      <actor>Zoe Perry</actor>
-      <actor>Lance Barber</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26083876_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416110000 +0500" stop="20260416113000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416113000 +0500" stop="20260416120000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Frankenstein and the Horny Villagers</sub-title>
-    <desc>Alan gets a taste of what Charlie's sex life is like when he meets a woman at the grocery store who fulfills his every fantasy.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <credits>
-      <director>Pamela Fryman</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416120000 +0500" stop="20260416123000 +0500">
-    <title>Bob Hearts Abishola</title>
-    <sub-title>Americans and Their Dreams</sub-title>
-    <desc>After Bob takes a step back from his busy work life, he decides to buy a boat to enjoy during his free time; a newspaper comes to MaxDot to interview Goodwin.</desc>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <credits>
-      <director>Beth McCarthy-Miller</director>
-      <actor>Billy Gardell</actor>
-      <actor>Folake Olowofoyeku</actor>
-      <actor>Christine Ebersole</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416123000 +0500" stop="20260416130000 +0500">
-    <title>The Goldbergs</title>
-    <sub-title>Bill's Wedding</sub-title>
-    <desc>Bill is getting married and Beverly and Jane have only 24 hours to plan it; a fortune-teller at the wedding reception could change the future for Adam, Erica and Barry's romantic life.</desc>
-    <episode-num system="onscreen">S8 E4</episode-num>
-    <credits>
-      <director>Christine Lakin</director>
-      <actor>Wendi McLendon-Covey</actor>
-      <actor>Patton Oswalt</actor>
-      <actor>Sean Giambrone</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416130000 +0500" stop="20260416133000 +0500">
-    <title>PIX11 Morning News at 4am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2021</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20892929_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416133000 +0500" stop="20260416140000 +0500">
-    <title>PIX11 Morning News at 4:30am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16250980_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416140000 +0500" stop="20260416150000 +0500">
-    <title>PIX11 Morning News at 5am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2016</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12803754_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416150000 +0500" stop="20260416160000 +0500">
-    <title>PIX11 Morning News at 6am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16250992_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416160000 +0500" stop="20260416180000 +0500">
-    <title>PIX11 Morning News at 7am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16250994_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416180000 +0500" stop="20260416190000 +0500">
-    <title>PIX11 Morning News at 9am</title>
-    <sub-title />
-    <desc>Staying informed with the news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17722468_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416190000 +0500" stop="20260416200000 +0500">
-    <title>New York Living</title>
-    <sub-title />
-    <desc />
-    <date>2022</date>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21493460_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-WPIX-US" start="20260416200000 +0500" stop="20260416203000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>Baby Safety at Stake</sub-title>
-    <desc>A woman takes her former friend and contractor to court, asserting that the deck he revamped was not just incomplete but posed a safety risk to her 16-month-old baby; the contractor defends his work, citing budget constraints.</desc>
-    <episode-num system="onscreen">S2 E58</episode-num>
-    <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416203000 +0500" stop="20260416210000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>Teenage High-Speed Chase</sub-title>
-    <desc>A graduation road trip spirals into a drug-fueled crime spree, leading to a legal battle between two teenage girls; stories involve marijuana possession, an intentional deer collision, and a two-hour high-speed police chase across four counties.</desc>
-    <episode-num system="onscreen">S2 E31</episode-num>
-    <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416210000 +0500" stop="20260416220000 +0500">
-    <title>The Steve Wilkos Show</title>
-    <sub-title>In Know You Cheated: I Have the Receipts</sub-title>
-    <desc>What happens to couples when one member is desperate to prove their fidelity, while the other has proof that they cheated? Steve unpacks stories in which guests think they have their partners caught red-handed in outside dalliances!</desc>
-    <episode-num system="onscreen">S19 E125</episode-num>
-    <credits>
-      <actor>Steve Wilkos</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185706_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416220000 +0500" stop="20260416230000 +0500">
-    <title>Karamo</title>
-    <sub-title>Unlock: This Guy Better Be Hot; Truth: Am I Number 14 or Not?</sub-title>
-    <desc>Jariah's ex-boyfriend, Stedman, had a baby with Jariah's best friend, Tykena -- and Tykena believes there's more he's not telling; after an extensive genealogy search, Carla uncovers a potential sister named Chrystal, and the women believe they share the same father, who is not the man Carla always believed was her dad.</desc>
-    <episode-num system="onscreen">S4 E103</episode-num>
-    <credits>
-      <actor>Karamo Brown</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Self improvement</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22388212_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416230000 +0500" stop="20260416233000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Child Abuse Allegation Nightmare</sub-title>
-    <desc>A woman who suffered abuse as a child is convinced her neighbor is guilty of neglect.</desc>
-    <episode-num system="onscreen">S2 E121 P1/2</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260416233000 +0500" stop="20260417000000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Child Abuse Allegation Nightmare</sub-title>
-    <desc>In part two, the Judge must decide if a woman's allegations are justified as feuding neighbors sue for the 10k court maximum over an alleged assault and shocking charges of child endangerment.</desc>
-    <episode-num system="onscreen">S2 E122 P2/2</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CW-WPIX-US" start="20260417000000 +0500" stop="20260417003000 +0500">
+  </channel><programme channel="CW-WPIX-US" start="20260417000000 +0500" stop="20260417003000 +0500">
     <title>Live PD Presents</title>
     <sub-title />
     <desc />
@@ -1313,6 +648,865 @@
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418000000 +0500" stop="20260418003000 +0500">
+    <title>Live PD Presents</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">S1 E150</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418003000 +0500" stop="20260418010000 +0500">
+    <title>Live PD Presents</title>
+    <sub-title />
+    <desc />
+    <episode-num system="onscreen">S1 E149</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418010000 +0500" stop="20260418020000 +0500">
+    <title>PIX11 News at 4</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2021</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20535966_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418020000 +0500" stop="20260418023000 +0500">
+    <title>New York Nightcap</title>
+    <sub-title />
+    <desc />
+    <date>2025</date>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418023000 +0500" stop="20260418030000 +0500">
+    <title>PIX11 News at 5</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10829683_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418030000 +0500" stop="20260418033000 +0500">
+    <title>PIX11 News at 6</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2015</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11641865_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418033000 +0500" stop="20260418040000 +0500">
+    <title>PIX on Politics</title>
+    <sub-title />
+    <desc />
+    <date>2021</date>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20129687_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418040000 +0500" stop="20260418043000 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Note</sub-title>
+    <desc>Jerry persuades a dentist friend (Ralph Bruneau) to prescribe an expensive massage for medical reasons.</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <credits>
+      <director>Tom Cherones</director>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Michael Richards</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183875_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418043000 +0500" stop="20260418050000 +0500">
+    <title>The Pick Is In</title>
+    <sub-title />
+    <desc>Previewing the 2026 NFL Draft.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32563854_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418050000 +0500" stop="20260418060000 +0500">
+    <title>Penn &amp; Teller: Fool Us</title>
+    <sub-title>It's Magic. Literally</sub-title>
+    <desc>Featured magicians include Trigg Watson, Daniel Harel, Danny Urbanus and Jon Mobley.</desc>
+    <episode-num system="onscreen">S11 E18</episode-num>
+    <credits>
+      <actor>Brooke Burke</actor>
+      <actor>Penn Jillette</actor>
+      <actor>Teller</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game show</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8449504_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418060000 +0500" stop="20260418070000 +0500">
+    <title>The American Bible Challenge</title>
+    <sub-title />
+    <desc>Teams from Sacramento Calif., Chicago Ill. and Discovery Bay, Calif.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Jeff Foxworthy</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9355734_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418070000 +0500" stop="20260418080000 +0500">
+    <title>PIX11 News at Ten</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10829690_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418080000 +0500" stop="20260418083000 +0500">
+    <title>New York Nightcap</title>
+    <sub-title />
+    <desc />
+    <date>2025</date>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31821949_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418083000 +0500" stop="20260418090000 +0500">
+    <title>Seinfeld</title>
+    <sub-title>The Junk Mail</sub-title>
+    <desc>Jerry, promised a vehicle as payment for a performance, winds up getting a van instead of a car; Elaine meets a new man; Kramer has no need for mail.</desc>
+    <episode-num system="onscreen">S9 E5</episode-num>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor>Jerry Seinfeld</actor>
+      <actor>Julia Louis-Dreyfus</actor>
+      <actor>Jason Alexander</actor>
+    </credits><date>1997</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892827_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418090000 +0500" stop="20260418093000 +0500">
+    <title>Friends</title>
+    <sub-title>The One With the Monkey</sub-title>
+    <desc>The friends renege on a promise not to bring dates to their New Year's Eve party.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>1994</date>
+    <category lang="en">Series</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892576_b_h11_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418093000 +0500" stop="20260418100000 +0500">
+    <title>Two and a Half Men</title>
+    <sub-title>I Merely Slept With a Commie</sub-title>
+    <desc>Evelyn makes Charlie and Alan regret saying that she will not have any mourners at her funeral.</desc>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits><date>2007</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418100000 +0500" stop="20260418103000 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Transporter Malfunction</sub-title>
+    <desc>When Penny buys Leonard and Sheldon "Star Trek" collectibles, Sheldon finds himself haunted by Mr. Spock; after a blind date, Raj believes he has met his future wife.</desc>
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418103000 +0500" stop="20260418110000 +0500">
+    <title>Young Sheldon</title>
+    <sub-title>Pilot</sub-title>
+    <desc>Sheldon learns that his high intelligence isn't always helpful growing up in East Texas, where church and football are king.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Jon Favreau</director>
+      <actor>Iain Armitage</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Lance Barber</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13923677_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418110000 +0500" stop="20260418113000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418113000 +0500" stop="20260418120000 +0500">
+    <title>Two and a Half Men</title>
+    <sub-title>The Salmon Under My Sweater</sub-title>
+    <desc>Charlie is tasked with writing a theme song to one of Jake's favorite comics; things heat up between Alan and Rose.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895720_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418120000 +0500" stop="20260418123000 +0500">
+    <title>Bob Hearts Abishola</title>
+    <sub-title>Kicked Outta the Dele Club</sub-title>
+    <desc>Bob lets Dele get a new haircut and finds himself caught between an irate Abishola and a surprisingly stubborn Dele; Dottie runs into difficulties with the MaxDot board of directors.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <director>Beth McCarthy-Miller</director>
+      <actor>Billy Gardell</actor>
+      <actor>Folake Olowofoyeku</actor>
+      <actor>Christine Ebersole</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16945108_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418123000 +0500" stop="20260418130000 +0500">
+    <title>The Goldbergs</title>
+    <sub-title>Eracism</sub-title>
+    <desc>Adam sets out to create a movie that will tackle racism but realizes he is out of his depth on the subject due to his sheltered upbringing; Geoff is determined to teach Erica and Barry to become better people.</desc>
+    <episode-num system="onscreen">S8 E6</episode-num>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Patton Oswalt</actor>
+      <actor>Sean Giambrone</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9977319_b_h8_by.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418130000 +0500" stop="20260418133000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418133000 +0500" stop="20260418140000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418140000 +0500" stop="20260418143000 +0500">
+    <title>The Broadway Show With Tamsen Fadal</title>
+    <sub-title />
+    <desc>Tamsen Fadal interviews celebrities, rising stars, and special guests from Broadway to off-Broadway.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <credits>
+      <actor>Tamsen Fadal</actor>
+      <actor>Paul Wontorek</actor>
+      <actor>Charlie Cooper</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Theater</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Performing arts</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16563214_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418143000 +0500" stop="20260418150000 +0500">
+    <title>To the Rescue</title>
+    <sub-title>Land of the Strays</sub-title>
+    <desc>Tommy heads to Costa Rica to visit Territorio de Zaguates, a dog sanctuary home to more than 1,800 dogs searching for forever families; he also tours Rescate Wildlife Rescue Center.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <credits>
+      <actor>Tommy Habeeb</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Pets</category>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18824030_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418150000 +0500" stop="20260418153000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Just Horsin' Around</sub-title>
+    <desc>Jack gets horseriding tips from a cowboy in Canada; a retirement farm in Florida; the horse whisperer in California.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418153000 +0500" stop="20260418160000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>The Mighty Pachyderms</sub-title>
+    <desc>All about elephants, including the largest and the smallest of them.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418160000 +0500" stop="20260418163000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Zambezi: River of Life</sub-title>
+    <desc>Jack kayaks along the Zambezi River in Zambia, which houses dangerous hippos and crocodiles.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418163000 +0500" stop="20260418170000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Dog Days</sub-title>
+    <desc>Stories of dogs from across the world, including dogs who save wild cheetahs and others who are given second chances at life.</desc>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418170000 +0500" stop="20260418180000 +0500">
+    <title>PIX11 Weekend Morning News</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2022</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21471433_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418180000 +0500" stop="20260418183000 +0500">
+    <title>PIX11 Weekend Morning News</title>
+    <sub-title />
+    <desc>Staying informed with the news and headlines.</desc>
+    <date>2022</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21471433_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418183000 +0500" stop="20260418190000 +0500">
+    <title>The Aging Brain</title>
+    <sub-title />
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418190000 +0500" stop="20260418193000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418193000 +0500" stop="20260418200000 +0500">
+    <title>Asian Variety Show</title>
+    <sub-title />
+    <desc>The best from the South Asian diaspora; a roundup of Bollywood music, movies, celebrity interviews, fashion, community events and what's trending.</desc>
+    <date>2024</date>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27187958_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418200000 +0500" stop="20260418203000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Elephants of Zimbabwe</sub-title>
+    <desc>Jack and his family place themselves within the elephant population of the Hwange National Park of Zimbabwe.</desc>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418203000 +0500" stop="20260418210000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Best of Chile</sub-title>
+    <desc>Exploring Chile, Jack finds flamingoes, penguins and guanacos.</desc>
+    <episode-num system="onscreen">S5 E8</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418210000 +0500" stop="20260418213000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418213000 +0500" stop="20260418220000 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
+    <sub-title />
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418220000 +0500" stop="20260418223000 +0500">
+    <title>Victim of Nursing Home Abuse?</title>
+    <sub-title />
+    <desc>Have you or a family member been a victim of nursing home abuse?</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32656820_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418223000 +0500" stop="20260418230000 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
+    <sub-title />
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-WPIX-US" start="20260418230000 +0500" stop="20260418233000 +0500">
+    <title>Young Sheldon</title>
+    <sub-title>Baptists, Catholics and an Attempted Drowning</sub-title>
+    <desc>Georgie and Mandy's wedding plans pit Mary against Mandy's mom, with baby CeeCee caught in the middle.</desc>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <credits>
+      <director>Matthew A. Cherry</director>
+      <actor>Iain Armitage</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Lance Barber</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26083876_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="CW-WPIX-US" start="20260418233000 +0500" stop="20260419000000 +0500">
+    <title>Young Sheldon</title>
+    <sub-title>A Proper Wedding and Skeletons in the Closet</sub-title>
+    <desc>Georgie and Mandy get married.</desc>
+    <episode-num system="onscreen">S7 E7</episode-num>
+    <credits>
+      <director>Michael Judd</director>
+      <actor>Iain Armitage</actor>
+      <actor>Zoe Perry</actor>
+      <actor>Lance Barber</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26083876_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
     </rating>
   </programme>
 </tv>

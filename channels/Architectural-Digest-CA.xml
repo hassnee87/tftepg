@@ -57,5 +57,14 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme><programme channel="Architectural-Digest-CA" start="20260417060000 +0500" stop="20260417070000 +0500">
+    <title>Local Process</title>
+    <sub-title>Making 5,000 Bagels at One of NYC's Oldest Bagel Shops</sub-title>
+    <desc>Founded in 1914, Russ &amp; Daughters has supplied NYC with 5,000+ daily bagels for over 100 years.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
 </tv>
