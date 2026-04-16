@@ -3,34 +3,7 @@
   <channel id="WBTV-House-Hunters-NZ">
     <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417015500 +0500" stop="20260417022000 +0500">
-    <title>House Hunters</title>
-    <sub-title>New vs. Old In Florida</sub-title>
-    <desc />
-    <episode-num system="onscreen">S194E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417022000 +0500" stop="20260417024500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Room For mum In Tucson</sub-title>
-    <desc />
-    <episode-num system="onscreen">S195E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417024500 +0500" stop="20260417030500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Jersey Shore Waterfront</sub-title>
-    <desc />
-    <episode-num system="onscreen">S196E11</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417030500 +0500" stop="20260417033000 +0500">
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417030500 +0500" stop="20260417033000 +0500">
     <title>House Hunters International</title>
     <sub-title>A Backpacker's Dream Down Under</sub-title>
     <desc />
@@ -629,6 +602,33 @@
     <sub-title>French Rivera, Family-Style</sub-title>
     <desc />
     <episode-num system="onscreen">S169E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418055500 +0500" stop="20260418062000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Saddle Up In The Sunshine Coast</sub-title>
+    <desc />
+    <episode-num system="onscreen">S170E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418062000 +0500" stop="20260418064000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Looking For Laughs In Puerto Vallarta</sub-title>
+    <desc />
+    <episode-num system="onscreen">S171E12</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418064000 +0500" stop="20260418070500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Cabos Business And Party</sub-title>
+    <desc />
+    <episode-num system="onscreen">S172E12</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>

@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417005856 +0500" stop="20260417024720 +0500">
-    <title>The Gold Rush</title>
-    <sub-title />
-    <desc>A prospector heads to the Klondike during the wild 1890s gold rush, dreaming of striking it rich, and falls head over heels for a girl he spots at a dance hall.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1773736923_0_20260413T122226138Z_36_imageprocessorclient-tvplus-linear-74d4c47476-9tgkn.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417024720 +0500" stop="20260417052416 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417024720 +0500" stop="20260417052416 +0500">
     <title>The Great Dictator</title>
     <sub-title />
     <desc>Dictator Adenoid Hynkel is busy trying to grow his empire, while a poor Jewish barber is doing everything he can to dodge persecution from Hynkel's rule.</desc>
