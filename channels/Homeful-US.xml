@@ -3,16 +3,7 @@
   <channel id="Homeful-US">
     <display-name>Homeful</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Homeful-US.png" />
-  </channel><programme channel="Homeful-US" start="20260417132900 +0500" stop="20260417142100 +0500">
-    <title>Holmes Makes It Right</title>
-    <sub-title>Another Storey</sub-title>
-    <desc>After promising a couple a second story addition in 10 weeks, a contract disappears, leaving the job unfinished.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926879_0_20250129T043509822Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-tqcql.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417142100 +0500" stop="20260417151300 +0500">
+  </channel><programme channel="Homeful-US" start="20260417142100 +0500" stop="20260417151300 +0500">
     <title>Holmes Makes It Right</title>
     <sub-title>Another Storey</sub-title>
     <desc>Jill and Mel hire a contractor who promises a second storey addition in 10 weeks for $125,000 and learn the hard way that a professional-looking contract doesn't equal professional work.</desc>
@@ -70,6 +61,15 @@
     <title>Holmes Inspection</title>
     <sub-title>No Breathing Room</sub-title>
     <desc>A couple closed a deal before they could read their home inspection report.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Homeful-US" start="20260417202700 +0500" stop="20260417212000 +0500">
+    <title>Holmes Inspection</title>
+    <sub-title>New Beginnings</sub-title>
+    <desc>A policewoman on disability downsized to a townhouse she could afford for herself and her daughter.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
     <rating>

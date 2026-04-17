@@ -3,34 +3,7 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260417134500 +0500" stop="20260417141300 +0500">
-    <title>Backcountry Rescue: Home Safe</title>
-    <sub-title />
-    <desc>The team races to find two overdue snowmobilers in the remote backcountry in harsh, low-visibility conditions.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909820746_6_20250226T083656925Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417141300 +0500" stop="20260417144100 +0500">
-    <title>Air Rescue</title>
-    <sub-title />
-    <desc>A motorcycle rider falls off a cliff and is stuck in a ravine  a family's waterskiing outing turns serious when a newlywed crashes  a young boy's life is at risk after he is hit by a van while running to his mother.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1097202978_0_20250402T122647131Z_117_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417144100 +0500" stop="20260417150800 +0500">
-    <title>Air Rescue</title>
-    <sub-title />
-    <desc>The Westpac rescue crew is called to a holiday resort where there have been three accidents.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1097202978_0_20250402T122647131Z_117_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417150800 +0500" stop="20260417153600 +0500">
+  </channel><programme channel="DangerTV-US" start="20260417150800 +0500" stop="20260417153600 +0500">
     <title>Wardens</title>
     <sub-title />
     <desc>Chronicling the lives and work of conservation officers in America.</desc>
@@ -119,6 +92,15 @@
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819831_1_20250226T083649750Z_141_imageprocessorclient-tvplus-linear-b76dd9bbb-d4t9h.jpeg" />
     <rating>
       <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417202300 +0500" stop="20260417211500 +0500">
+    <title>Coast Guard Cape Disappointment: Pacific Northwest: Ready For Pickup</title>
+    <sub-title />
+    <desc>Air Station Astoria faces steep terrain as they rescue two injured teens from the mountains, and battle high seas to rescue a boat crewman who has fallen. Station Cape Disappointment employs a new method to rescue men stranded on an island.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819830_5_20250226T083654714Z_42_imageprocessorclient-tvplus-linear-b76dd9bbb-4fr8j.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
 </tv>

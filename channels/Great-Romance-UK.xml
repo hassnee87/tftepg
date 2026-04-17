@@ -3,13 +3,7 @@
   <channel id="Great-Romance-UK">
     <display-name>Great! Romance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Romance-UK.png" />
-  </channel><programme channel="Great-Romance-UK" start="20260417112410 +0500" stop="20260417143209 +0500">
-    <title>Butlers In Love</title>
-    <sub-title />
-    <desc>(2022) Christmas rom com with Stacey Faber. Sparks fly at the American Butler Academy as chalk and cheese students Emma and Henry clash. In learning to work together might they fall for each other?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1498479995_0_20251231T115833988Z_93_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
-  </programme><programme channel="Great-Romance-UK" start="20260417143209 +0500" stop="20260417160919 +0500">
+  </channel><programme channel="Great-Romance-UK" start="20260417143209 +0500" stop="20260417160919 +0500">
     <title>The Engagement Dress</title>
     <sub-title />
     <desc>(2022) Romcom with Angel Prater. Wearing a lucky bridesmaid's dress has led to all her friends getting engaged. But when it doesn't work for Claudia, will it help her discover who's really 'the one'?</desc>
@@ -33,5 +27,11 @@
     <desc>(2023) Romance starring Hunter King. Maggie knows how to help brides get hitched without a hitch. But when she's booked for a high-profile wedding, does she have a plan for falling in love herself?</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1771752426_0_20260412T170418284Z_129_imageprocessorclient-tvplus-linear-74d4c47476-njwf2.jpeg" />
+  </programme><programme channel="Great-Romance-UK" start="20260417205618 +0500" stop="20260417223819 +0500">
+    <title>Wedding at The Hamptons</title>
+    <sub-title />
+    <desc>An aspiring fashion designer gets her chance to debut at a lavish Manhattan wedding where she is mistaken for a socialite and falls for a groomsman.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_836884529_0_20250427T151825998Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
   </programme>
 </tv>

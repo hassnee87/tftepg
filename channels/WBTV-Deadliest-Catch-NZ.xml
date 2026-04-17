@@ -3,25 +3,7 @@
   <channel id="WBTV-Deadliest-Catch-NZ">
     <display-name>WBTV Deadliest Catch</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-Deadliest-Catch-NZ.png" />
-  </channel><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417132500 +0500" stop="20260417141000 +0500">
-    <title>Deadliest Catch</title>
-    <sub-title>Blood &amp; Water</sub-title>
-    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
-    <episode-num system="onscreen">S14E19</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417141000 +0500" stop="20260417145500 +0500">
-    <title>Deadliest Catch</title>
-    <sub-title>Storm Surge</sub-title>
-    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
-    <episode-num system="onscreen">S14E20</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417145500 +0500" stop="20260417154500 +0500">
+  </channel><programme channel="WBTV-Deadliest-Catch-NZ" start="20260417145500 +0500" stop="20260417154500 +0500">
     <title>Deadliest Catch</title>
     <sub-title>Greenhorn Overboard</sub-title>
     <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
@@ -305,6 +287,15 @@
     <sub-title>Rival Survival</sub-title>
     <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
     <episode-num system="onscreen">S15E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35933/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-Deadliest-Catch-NZ" start="20260418181000 +0500" stop="20260418185500 +0500">
+    <title>Deadliest Catch</title>
+    <sub-title>Knife In The Ribs</sub-title>
+    <desc>Deadliest Catch is a gripping reality TV series on the Discovery Channel that documents the perilous lives of fishermen battling treacherous weather and high seas in the Bering Strait while hunting for Alaskan king crabs.</desc>
+    <episode-num system="onscreen">S15E04</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>

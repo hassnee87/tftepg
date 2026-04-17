@@ -3,16 +3,7 @@
   <channel id="Architectural-Digest-CA">
     <display-name>Architectural Digest</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Architectural-Digest-CA.png" />
-  </channel><programme channel="Architectural-Digest-CA" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>On The Market: Beach Home</title>
-    <sub-title>Inside The Most Iconic Beach Homes on The Market</sub-title>
-    <desc>Explore the architecture, design and history of some of the most expensive homes out On the Market.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Architectural-Digest-CA" start="20260417150000 +0500" stop="20260417160000 +0500">
+  </channel><programme channel="Architectural-Digest-CA" start="20260417150000 +0500" stop="20260417160000 +0500">
     <title>Designers in the Wild</title>
     <sub-title>Pro Designer Goes Treasure Hunting in The World's Largest Antiques Market</sub-title>
     <desc>Architectural Digest</desc>
@@ -61,6 +52,15 @@
     <title>Custom Crafted</title>
     <sub-title>2 Designers Transform The Same Target Dresser</sub-title>
     <desc>Two designers transform ordinary furniture.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Architectural-Digest-CA" start="20260417210000 +0500" stop="20260417220000 +0500">
+    <title>On The Market: Beach Home</title>
+    <sub-title>Inside The Most Iconic Beach Homes on The Market</sub-title>
+    <desc>Explore the architecture, design and history of some of the most expensive homes out On the Market.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
     <rating>

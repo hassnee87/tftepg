@@ -3,34 +3,7 @@
   <channel id="WBTV-House-Hunters-NZ">
     <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417134500 +0500" stop="20260417141000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Even Cows Need Friends In OKC</sub-title>
-    <desc />
-    <episode-num system="onscreen">S194E12</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417141000 +0500" stop="20260417143000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Warning Window In New Jersey</sub-title>
-    <desc />
-    <episode-num system="onscreen">S195E12</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417143000 +0500" stop="20260417145500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Hot Texas House Hunt</sub-title>
-    <desc />
-    <episode-num system="onscreen">S196E12</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417145500 +0500" stop="20260417152000 +0500">
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417145500 +0500" stop="20260417152000 +0500">
     <title>House Hunters International</title>
     <sub-title>Big Dreams, Cramped Reality In London</sub-title>
     <desc />
@@ -638,6 +611,24 @@
     <sub-title>Welcome To The Jungles Of Costa Rica</sub-title>
     <desc />
     <episode-num system="onscreen">S170E13</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418180500 +0500" stop="20260418183000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Leaving New York For Love Down Under</sub-title>
+    <desc />
+    <episode-num system="onscreen">S171E13</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418183000 +0500" stop="20260418185000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Lights, Camera, London!</sub-title>
+    <desc />
+    <episode-num system="onscreen">S172E13</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
