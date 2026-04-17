@@ -3,37 +3,15 @@
   <channel id="Smithsonian-Channel-Selects-Pluto-US">
     <display-name>Smithsonian Channel Selects</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-Selects-US.png" />
-  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417033000 +0500" stop="20260417044500 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Air Warriors F6F Hellcat</sub-title>
-    <desc>An inside look at the brief but historic service of the Grumman F6F Hellcat and its instrumental role in winning the Pacific War.</desc>
-    <episode-num system="onscreen">S06E02</episode-num>
-    <date>20180827</date>
-    <category>Series</category>
-    <category>Educational</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417044500 +0500" stop="20260417060000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Air Warriors F 4 Phantom</sub-title>
-    <desc>The inside story of the U.S. military's go-to fighter for over four decades: the F-4 Phantom</desc>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <date>20180903</date>
-    <category>Series</category>
-    <category>Educational</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417060000 +0500" stop="20260417071500 +0500">
+  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417060000 +0500" stop="20260417071500 +0500">
     <title>Air Warriors</title>
     <sub-title>Air Warriors F 22 Raptor</sub-title>
     <desc>The inside story of the ultimate stealth fighter, the F-22 Raptor, and its predecessors.</desc>
     <episode-num system="onscreen">S06E04</episode-num>
     <date>20180910</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6124324c73019a0013ed46f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417071500 +0500" stop="20260417081500 +0500">
@@ -92,9 +70,9 @@
     <desc>Simultaneous island attacks and failed B-29 raids, captured through personal color home movies and combat footage.</desc>
     <episode-num system="onscreen">S01E05</episode-num>
     <date>20180722</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417131500 +0500" stop="20260417141500 +0500">
@@ -103,9 +81,9 @@
     <desc>The invasions, battles, and raids that build to the Pacific War's brutal climax.</desc>
     <episode-num system="onscreen">S01E06</episode-num>
     <date>20180729</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417141500 +0500" stop="20260417151500 +0500">
@@ -114,9 +92,9 @@
     <desc>The first steps of the long, bloody, uphill battle for the Pacific, captured through rare color footage.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
     <date>20180624</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417151500 +0500" stop="20260417161500 +0500">
@@ -125,9 +103,9 @@
     <desc>Witness the first battles and initial shockwaves of the Pacific War, captured through rare color footage.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
     <date>20180701</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417161500 +0500" stop="20260417171500 +0500">
@@ -136,9 +114,9 @@
     <desc>See how America's island-hopping strategy in the Pacific nearly ended with its first invasion of the Tarawa atoll.</desc>
     <episode-num system="onscreen">S01E03</episode-num>
     <date>20180708</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417171500 +0500" stop="20260417181500 +0500">
@@ -147,9 +125,9 @@
     <desc>Behold the edifice that took more time, people, and material to build than any other structure on Earth.</desc>
     <episode-num system="onscreen">S02E07</episode-num>
     <date>20150907</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417181500 +0500" stop="20260417191500 +0500">
@@ -158,9 +136,9 @@
     <desc>Unlock the secrets of an ancient religious cult behind the giant statues of Easter Island.</desc>
     <episode-num system="onscreen">S02E01</episode-num>
     <date>20141013</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417191500 +0500" stop="20260417201500 +0500">
@@ -169,10 +147,40 @@
     <desc>For over 200 years, archaeologists have debated how Egyptians built the Great Pyramid. Do we finally have an answer?</desc>
     <episode-num system="onscreen">S02E02</episode-num>
     <date>20141020</date>
-    <category>Series</category>
     <category>Educational</category>
     <category>History</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417201500 +0500" stop="20260417211500 +0500">
+    <title>Carriers At War</title>
+    <sub-title>Strike Force Arabian Gulf</sub-title>
+    <desc>The crew of the USS George H.W. Bush aircraft carrier prepares to give air support to ground troops battling ISIS in Iraq.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20180521</date>
+    <category>Series</category>
+    <category>Documentary</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417211500 +0500" stop="20260417221500 +0500">
+    <title>Carriers At War</title>
+    <sub-title>Ready To Launch</sub-title>
+    <desc>A behind-the-scenes look at the operations of a U.S. Navy aircraft carrier, and the dedicated sailors who keep it running at maximum efficiency.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20180528</date>
+    <category>Series</category>
+    <category>Documentary</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417221500 +0500" stop="20260417231500 +0500">
+    <title>Carriers At War</title>
+    <sub-title>Air Wing</sub-title>
+    <desc>Examine the history of the aircraft carrier and witness how its air wing operates.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20180604</date>
+    <category>Series</category>
+    <category>Documentary</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

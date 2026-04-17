@@ -3,47 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260417031148 +0500" stop="20260417041711 +0500">
-    <title>Wildest India S1 - "India’s Lost World"</title>
-    <sub-title>India’s Lost World</sub-title>
-    <desc>Northeast India is an anthropological paradise; there is no other place on Earth with so many different ethnic groups. The forests are filled with mysterious tribes whose lives are dictated by the rain and the seasonal fruits of the forest.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20110101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/49a3efee73857ddc/IN00003993_01_0005_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417041711 +0500" stop="20260417044825 +0500">
-    <title>Amazing Animals S1 - "Animal Journeys Part 1"</title>
-    <sub-title>Animal Journeys Part 1</sub-title>
-    <desc>Extraordinary land, sea and air migrations. Voyages in the natural world that will leave you awestruck. What compels animals and even certain plants to embark upon such great journeys, pulling off remarkable navigational feats along the way?</desc>
-    <episode-num system="onscreen">S01E37</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d31a1f7c6ecd3014/IN00008464_01_0037_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417044825 +0500" stop="20260417052203 +0500">
-    <title>Amazing Animals S1 - "Animal Journeys Part 2"</title>
-    <sub-title>Animal Journeys Part 2</sub-title>
-    <desc>Extraordinary land, sea and air migrations. Voyages in the natural world that will leave you awestruck. What compels animals and even certain plants to embark upon such great journeys, pulling off remarkable navigational feats along the way?</desc>
-    <episode-num system="onscreen">S01E38</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/faa36c411c973384/IN00008464_01_0038_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417052203 +0500" stop="20260417062355 +0500">
-    <title>Python Hunters S1 - "The Perfect Storm"</title>
-    <sub-title>The Perfect Storm</sub-title>
-    <desc>The Python Hunters decide to tackle the debate over how the Burmese Pythons came to be established in the Everglades.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/09b52aa40ea72749/IN00008869_01_0001_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417062355 +0500" stop="20260417072648 +0500">
-    <title>Python Hunters S1 - "Dying to Survive"</title>
-    <sub-title>Dying to Survive</sub-title>
-    <desc>A cold snap has hit the state of Florida and frigid temperatures are killing thousands of native and non-indigenous animals of all species. Has Mother Nature solved their python problem?</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c086a32022d51fbd/IN00008869_01_0002_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417072648 +0500" stop="20260417083010 +0500">
+  </channel><programme channel="InWonder-US" start="20260417072648 +0500" stop="20260417083010 +0500">
     <title>Python Hunters S1 - "Everglades Under Siege"</title>
     <sub-title>Everglades Under Siege</sub-title>
     <desc>The Florida Everglades are home to thousands of invasive plant, insect and animal species and yet the Burmese Python is perceived as the biggest concern. Are they a problem or is this snake hysteria?</desc>
@@ -345,5 +305,49 @@
     <date>20200101</date>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d12cfd7586ac8cb8/IN00004121_06_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418042229 +0500" stop="20260418045037 +0500">
+    <title>Xploration Awesome Planet S6 - "Animal Rescue"</title>
+    <sub-title>Animal Rescue</sub-title>
+    <desc>In this episode, we will visit a few different animal rescues centers starting with the marine mammal centre in Vancouver as they tend to orphaned harbor seals.</desc>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <date>20200101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/9b18ce7df9c19929/IN00004121_06_0006_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418045037 +0500" stop="20260418051845 +0500">
+    <title>Xploration Awesome Planet S6 - "Invasive Planet"</title>
+    <sub-title>Invasive Planet</sub-title>
+    <desc>In this episode, we see a few different ways researchers are fighting invasive plants, animals, and materials in native habitats.</desc>
+    <episode-num system="onscreen">S06E07</episode-num>
+    <date>20200101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/c07da40e35616103/IN00004121_02_0000_Title_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418051845 +0500" stop="20260418061559 +0500">
+    <title>Heavy Lifting S1 - "Special Delivery"</title>
+    <sub-title>Special Delivery</sub-title>
+    <desc>Regional Crane’s new machine hits a hydraulic snag. Dave uses his downtime for repairs, and Brad helps clear a stand of pine trees.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/e8e07769e934147a/IN47010715_01_0004_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418061559 +0500" stop="20260418071311 +0500">
+    <title>Heavy Lifting S1 - "The Need for Speed"</title>
+    <sub-title>The Need for Speed</sub-title>
+    <desc>Maxum Crane tackles a tight indoor lift, JP removes a 60-year-old fighter jet, and Brad and Nathan race to install farm machinery before a storm hits.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/ca3f0ff405922bde/IN47010715_01_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418071311 +0500" stop="20260418081023 +0500">
+    <title>Heavy Lifting S1 - "Son of a Sailor"</title>
+    <sub-title>Son of a Sailor</sub-title>
+    <desc>Dan and Francis pull boats for winter. Maxum replaces a ferry engine. Brad and Nathan face tricky container moves. J.P. finishes by greasing the boom.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/89b4d81552382c4e/IN47010715_01_0006_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418081023 +0500" stop="20260418090605 +0500">
+    <title>Secrets of the Factories S1 - "Secrets of McVitie's Biscuits"</title>
+    <sub-title>Secrets of McVitie's Biscuits</sub-title>
+    <desc>The McVitie's factory in Carlisle, Cumbria, opens its doors to reveal how millions of the nation's favourite biscuits are made, 24 hours a day, in one of Britain's biggest factories and oldest biscuit factory in the world.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6c98e3d362632a1b/IN72310553_01_0001_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

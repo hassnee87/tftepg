@@ -3,19 +3,7 @@
   <channel id="Movie-Hub-Action-US">
     <display-name>Movie Hub Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-Action-US.png" />
-  </channel><programme channel="Movie-Hub-Action-US" start="20260417033000 +0500" stop="20260417052700 +0500">
-    <title>Dr. G: Medical Examiner</title>
-    <desc>A dead man is thought to be a victim of a hit-and-run accident; a mother requests an autopsy.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e5c60627e8c5b40844d4ecc1d168bc1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FSeries%2F1626820148869_1626719423324_1626480214877_1626477750784_1626469458316_aHR0cHM6Ly9zNGIzYjlhNC5zc2wuaHdjZG4ubmV0L2ZpbGVzL3N0eWxlcy90aC04MDB4NDUwL3B1YmxpYy9hOHduNGh3L2ltL2lwdHYvYTMvZWUvYTVhMTFjNWI3OTZiNWZiZjlhM2IwMjI4ZjBkNjdmY2MuanBn.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417052700 +0500" stop="20260417071500 +0500">
-    <title>Kung Fu Hustle</title>
-    <sub-title />
-    <desc>KUNG FU HUSTLE perfectly blends original comedy and explosive martial arts action. Creative and imaginative characters slam together in a comic blend of Quentin Tarantino meets Jackie Chan in a film that goes beyond the limits of mere comedy.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f3e101eb686af849ab0f5eb13fea8ae/rokuFeed/assets/0f346f0661945828ac3e4ddf59c52507.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417071500 +0500" stop="20260417090700 +0500">
+  </channel><programme channel="Movie-Hub-Action-US" start="20260417071500 +0500" stop="20260417090700 +0500">
     <title>The Tai Chi Master</title>
     <sub-title />
     <desc>Two Shaolin Temple students (Jet Li, Chin Siu-hou) battle each other.</desc>
@@ -87,18 +75,18 @@
     <desc>A Secret Service agent (Cuba Gooding Jr.) investigates a presidential assassination.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb431dd49cca57458910585a070f7344/rokuFeed/assets/2256e61509e357159de395ff387c41cc.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260418033700 +0500" stop="20260418053200 +0500">
-    <title>End Game</title>
-    <sub-title />
-    <desc>A Secret Service agent (Cuba Gooding Jr.) investigates a presidential assassination.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb431dd49cca57458910585a070f7344/rokuFeed/assets/2256e61509e357159de395ff387c41cc.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260418053200 +0500" stop="20260418072300 +0500">
     <title>Panic Room</title>
     <sub-title />
     <desc>A woman and her daughter must play a cat-and-mouse game after three thieves invade their home.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/357d4948d5e75217bb4b4c1ae806a495/rokuFeed/assets/7ae68c39d64c5ae38dbc78b16bd1a85e.jpg" />
+  </programme><programme channel="Movie-Hub-Action-US" start="20260418072300 +0500" stop="20260418090800 +0500">
+    <title>Security</title>
+    <sub-title />
+    <desc>A security guard protects an eleven-year-old girl who is being targeted by a gang.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/efd4ac87bf38257adfa403207ca2a9d8/images/gracenote/assets/p31203782_v_h10_aa.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260418072300 +0500" stop="20260418090800 +0500">
     <title>Security</title>
     <sub-title />

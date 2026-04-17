@@ -3,71 +3,7 @@
   <channel id="BBC-Comedy-US">
     <display-name>BBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
-  </channel><programme channel="BBC-Comedy-US" start="20260417034421 +0500" stop="20260417041654 +0500">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>Devastated by the news he's to become a father, Smithy goes AWOL.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20080316</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/2VOv69OyjFXWYJiHdPsBQhXWGV6.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417041654 +0500" stop="20260417045144 +0500">
-    <title>Gavin and Stacey</title>
-    <sub-title>Episode 3</sub-title>
-    <desc>Gavin, Stacey and Smithy head for Barry so that Smithy can go for the scan with Nessa.</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <date>20080323</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/plggQcnK5CkleigFWpmueV1FA5y.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417045144 +0500" stop="20260417052458 +0500">
-    <title>The Office</title>
-    <sub-title>Judgement</sub-title>
-    <desc>It's decision day at Wernham Hogg. Will the Slough or Swindon branch get the axe?</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20010820</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417052458 +0500" stop="20260417055800 +0500">
-    <title>The Office</title>
-    <sub-title>Charity</sub-title>
-    <desc>Neil and Rachel are a hit with their charity dance routine. David responds as only he can.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <date>20021028</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417055800 +0500" stop="20260417063039 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Tikka to Ride</sub-title>
-    <desc>Lister's search for an Indian takeaway brings him to Dallas, 1963.</desc>
-    <episode-num system="onscreen">S07E01</episode-num>
-    <date>19970117</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/eRtVXw4ElkCzV0RiAR90qP9JFPF.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417063039 +0500" stop="20260417070351 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Stoke Me a Clipper</sub-title>
-    <desc>Rimmer's alter ego, Ace, arrives on Starbug fatally wounded with one dying request.</desc>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <date>19970124</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/5PigRbHKZmvX8I34xhUzHXWnVCT.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417070351 +0500" stop="20260417073725 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Ouroborus</sub-title>
-    <desc>The Dwarfers encounter a real, live human woman who's attractive and nice.</desc>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <date>19970131</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/hhAaEHEAN1bdqOvihP3CezxFsW9.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417073725 +0500" stop="20260417081045 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Duct Soup</sub-title>
-    <desc>The crew go on a journey of personal discovery when their generators fail.</desc>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <date>19970207</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/A7mctMeSEnXBYvRXgvpPDo6zsMd.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417081045 +0500" stop="20260417084202 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260417081045 +0500" stop="20260417084202 +0500">
     <title>Red Dwarf</title>
     <sub-title>Blue</sub-title>
     <desc>Lister is missing Rimmer, at least until Kryten steps in to help.</desc>
@@ -363,5 +299,69 @@
     <date>20160929</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/7cWGngshizgRMdHV6VpR1hEwS8D.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418042514 +0500" stop="20260418045841 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Give and Take</sub-title>
+    <desc>After an altercation with a deranged droid, Lister has his kidneys organ-napped.</desc>
+    <episode-num system="onscreen">S11E03</episode-num>
+    <date>20161006</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/jUFT4AT0nMLiZVPjAlilbIwl9XH.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418045841 +0500" stop="20260418053056 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Officer Rimmer</sub-title>
+    <desc>After a scandalous piece of good fortune, Rimmer is promoted to being an Officer.</desc>
+    <episode-num system="onscreen">S11E04</episode-num>
+    <date>20161013</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/qo707uoukuu78xPBEpvJK085npX.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418053056 +0500" stop="20260418060143 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Krysis</sub-title>
+    <desc>Kryten has a mid-life crisis and changes his body cover from grey to Ferrari red.</desc>
+    <episode-num system="onscreen">S11E05</episode-num>
+    <date>20161020</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/bTG4E9cTZTJczdwEG8YIOCr9okD.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418060143 +0500" stop="20260418063436 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Can of Worms</sub-title>
+    <desc>Cat takes time off from being in love with himself to fall for a lady Cat.</desc>
+    <episode-num system="onscreen">S11E06</episode-num>
+    <date>20161027</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/9una0o0cU1wB331TmmyqLb1EYHz.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418063436 +0500" stop="20260418070753 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Cured</sub-title>
+    <desc>The crew stumble on a science centre where vile historical figures have been 'cured' of evil.</desc>
+    <episode-num system="onscreen">S12E01</episode-num>
+    <date>20171012</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/qBQfbAymnhG9UXRaHgOOWEf89My.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418070753 +0500" stop="20260418073909 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Siliconia</sub-title>
+    <desc>Lister, Cat and Rimmer are uploaded into mechanoid bodies and forced into slavery.</desc>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <date>20171019</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/oO05NoeUVR0aBOjijBHgx1Xp1rE.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418073909 +0500" stop="20260418081014 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Time Wave</sub-title>
+    <desc>The Dwarfers run into a ship where criticism is illegal.</desc>
+    <episode-num system="onscreen">S12E03</episode-num>
+    <date>20171026</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/zwVAHA7b1PxL4esQLvPL7P2jJJo.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418081014 +0500" stop="20260418084201 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Mechocracy</sub-title>
+    <desc>When the machines on Red Dwarf go on strike, a presidential election is held.</desc>
+    <episode-num system="onscreen">S12E04</episode-num>
+    <date>20171102</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/cjaUQEICVx8jCxXGk4r586Y8seo.jpg" />
   </programme>
 </tv>

@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417052416 +0500" stop="20260417072438 +0500">
-    <title>While We're Young</title>
-    <sub-title />
-    <desc>Josh and Cornelia are a happily married middle aged couple, who seem content with where their life is going. One day whilst teaching, Josh meets Jamie and Darby, a free-spirited young couple, who are spontaneous and untethered. Before long, Josh and Cornelia throw aside their age to trail after the young hipsters and feel the zest for life they once had.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1322740568_0_20251111T110846330Z_71_imageprocessorclient-tvplus-linear-5db7c6bc99-24qh9.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417072438 +0500" stop="20260417100005 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417072438 +0500" stop="20260417100005 +0500">
     <title>McLintock!</title>
     <sub-title />
     <desc>Wealthy rancher G. W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.</desc>
@@ -27,5 +21,11 @@
     <desc>When family conflicts arise between happy couple Hallie and Lucas during the week before their big day, their plans for a breezy wedding in the tropics take a turn and their love is tested when they are forced to put on a small-town winter wedding in the snow.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1275308632_0_20251023T092934580Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-grwzd.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417133301 +0500" stop="20260417161922 +0500">
+    <title>Death of a Salesman</title>
+    <sub-title />
+    <desc>During the post-war boom period of the late '40s, Willy Loman is an aging, traveling salesman, who despairs that his life his been lived in vain. Facing dispensability and insignificance in a heated, youthful economy, Willy is not ready to part with his cherished fantasies of an America that admires him for personable triumphs in the marketplace.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_486531407_0_20231128T144134710Z_92.jpeg" />
   </programme>
 </tv>

@@ -3,19 +3,7 @@
   <channel id="Tribeca-Channel-US">
     <display-name>Tribeca Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Tribeca-Channel-US.png" />
-  </channel><programme channel="Tribeca-Channel-US" start="20260417032000 +0500" stop="20260417054100 +0500">
-    <title>The Host</title>
-    <sub-title />
-    <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417054100 +0500" stop="20260417075900 +0500">
-    <title>Two for the Money</title>
-    <sub-title />
-    <desc>Two men (Al Pacino, Matthew McConaughey) handicap football games for high-rolling gamblers.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e2ded92d9dc543da6b3521f8b7d61f9/images/gracenote/assets/p36344_v_h10_ad.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417075900 +0500" stop="20260417101700 +0500">
+  </channel><programme channel="Tribeca-Channel-US" start="20260417075900 +0500" stop="20260417101700 +0500">
     <title>Point Break</title>
     <sub-title />
     <desc>An FBI man (Keanu Reeves) turns surfer to nab rubber-masked bank robbers.</desc>
@@ -75,12 +63,12 @@
     <desc>Secret Service agent Mike Banning must save captive U.S. President Benjamin Asher from terrorists.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ffd1452533c5646b2cb441ce3e5d09a/rokuFeed/assets/1e171e73c1f85cf6af8f8d78b4ff7e24.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260418042100 +0500" stop="20260418061300 +0500">
-    <title>London Has Fallen</title>
+  </programme><programme channel="Tribeca-Channel-US" start="20260418061300 +0500" stop="20260418082900 +0500">
+    <title>Olympus Has Fallen</title>
     <sub-title />
-    <desc>Secret Service agent Mike Banning must save captive U.S. President Benjamin Asher from terrorists.</desc>
+    <desc>A disgraced agent must save the president after terrorists seize control of the White House.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ffd1452533c5646b2cb441ce3e5d09a/rokuFeed/assets/1e171e73c1f85cf6af8f8d78b4ff7e24.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c051618cc67b52c8a81945295e03d274/rokuFeed/assets/6402e253191653aa874de6f14d68fe1b.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260418061300 +0500" stop="20260418082900 +0500">
     <title>Olympus Has Fallen</title>
     <sub-title />

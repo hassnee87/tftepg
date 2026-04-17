@@ -3,15 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260417035617 +0500" stop="20260417060118 +0500">
-    <title>Dillinger</title>
-    <sub-title />
-    <desc>Starring Warren Oates, Ben Johnson, Cloris Leachman and Richard Dreyfuss, this electrifying crime saga about one of the most notorious gangsters of the 1930's sets the screen ablaze with explosive shootouts, daring escapes and stellar performances.</desc>
-    <date>20230825</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7100647238191427084/Unspecified/rectangle/1rwsbaijp83be1fuvuodt8w0q0.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417060118 +0500" stop="20260417083332 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260417060118 +0500" stop="20260417083332 +0500">
     <title>Hoodlum</title>
     <sub-title />
     <desc>In New York of the 1920s, the black community of Harlem faces the same indignities as countless millions of refugees. Three rival gang leaders (Laurence Fishhburne, Tim Roth and Andy Garcia) battle for control of Harlem's urban power.</desc>
@@ -99,5 +91,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7036323195470759242/Texted/rectangle/175eil142cvfm1rw6jlkw5tjgn.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418042331 +0500" stop="20260418062843 +0500">
+    <title>Invasion U.S.A.</title>
+    <sub-title />
+    <desc>An army of terrorist mercenaries led by Soviet agent Rostov (Richard Lynch) catches America unprepared and makes it into a war zone. Only one man can stem the rising tide of violence: retired agent and martial arts expert Matt Hunter (Chuck Norris).</desc>
+    <date>19850101</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7036382719141300230/Texted/rectangle/l00nh77l2p3m18nucmdhs2s00.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418062843 +0500" stop="20260418082432 +0500">
+    <title>Code Of Silence</title>
+    <sub-title />
+    <desc>Chuck Norris stars in this turbo-charged thriller that pits an honest cop against two crime lords and his own department. Henry Silva and Dennis Farina also star in a film that explodes with heart-stopping chases and martial arts confrontations.</desc>
+    <date>19850101</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7065142707833032654/Texted/rectangle/jbiw41yykedd1tsyaz4a803vg.jpg" />
   </programme>
 </tv>

@@ -3,55 +3,7 @@
   <channel id="NBC-LX-Home-US">
     <display-name>NBC LX Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC-LX-Home-US.png" />
-  </channel><programme channel="NBC-LX-Home-US" start="20260417043900 +0500" stop="20260417050400 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417050400 +0500" stop="20260417052900 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417052900 +0500" stop="20260417055400 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417055400 +0500" stop="20260417061900 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417061900 +0500" stop="20260417064400 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417064400 +0500" stop="20260417070900 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417070900 +0500" stop="20260417073400 +0500">
-    <title>Open House</title>
-    <desc />
-    <episode-num system="onscreen">S2023E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417073400 +0500" stop="20260417075900 +0500">
-    <title>Open House</title>
-    <desc>Impressive interiors in New York and LA, including the iconic décor of TV's "The Brady Bunch."</desc>
-    <episode-num system="onscreen">S16E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260417075900 +0500" stop="20260417082400 +0500">
+  </channel><programme channel="NBC-LX-Home-US" start="20260417075900 +0500" stop="20260417082400 +0500">
     <title>Open House</title>
     <desc>Real estate trends and opportunities; home design.</desc>
     <episode-num system="onscreen">S16E14</episode-num>
@@ -357,12 +309,6 @@
     <episode-num system="onscreen">S17E26</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260418044900 +0500" stop="20260418051400 +0500">
-    <title>Open House</title>
-    <desc>Inside the former townhouse of Sarah Jessica Parker; a cookie entrepreneur shows us her L.A. home.</desc>
-    <episode-num system="onscreen">S17E26</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/images/gracenote/assets/p3575385_b_h10_aa.jpg" />
   </programme><programme channel="NBC-LX-Home-US" start="20260418051400 +0500" stop="20260418053900 +0500">
     <title>Open House</title>
     <desc>Gloria Gaynor shows us her dazzling home; modern takes on the classic New York townhouse.</desc>
@@ -397,6 +343,12 @@
     <title>Open House NYC</title>
     <desc>East Coast and West Coast homes; Paula Deen's Savannah home.</desc>
     <episode-num system="onscreen">S08E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/images/gracenote/assets/p841103_b_h8_ac.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260418074700 +0500" stop="20260418081200 +0500">
+    <title>Open House NYC</title>
+    <desc>Luxury living in Connecticut; an island sanctuary in Greenwich, Conn.</desc>
+    <episode-num system="onscreen">S08E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/images/gracenote/assets/p841103_b_h8_ac.jpg" />
   </programme><programme channel="NBC-LX-Home-US" start="20260418074700 +0500" stop="20260418081200 +0500">

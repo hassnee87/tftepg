@@ -3,13 +3,7 @@
   <channel id="Hi-YAH-US">
     <display-name>Hi-YAH!</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hi-YAH-US.png" />
-  </channel><programme channel="Hi-YAH-US" start="20260417044858 +0500" stop="20260417070136 +0500">
-    <title>The Thousand Faces of Dunjia</title>
-    <sub-title />
-    <desc>Members of a secret society use supernatural powers to battle an ancient creature.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bb76872bd7525701a0410e468beb4ecf/rokuFeed/assets/c4e2a18d733d5e7895117c9b591aec4a.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417070136 +0500" stop="20260417090611 +0500">
+  </channel><programme channel="Hi-YAH-US" start="20260417070136 +0500" stop="20260417090611 +0500">
     <title>Legend of the Fist: The Return of Chen Zhen</title>
     <sub-title />
     <desc>Chen fakes his death and returns as a caped crime fighter.</desc>
@@ -69,18 +63,18 @@
     <desc>As chaos erupts, detective Huang must expose a city's dark truth while outsmarting Wei.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0181815f22e61d931b6aace8a69c0eee/images/gracenote/assets/p28254679_b_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418042142 +0500" stop="20260418062052 +0500">
-    <title>Hunt The Wicked</title>
-    <sub-title />
-    <desc>As chaos erupts, detective Huang must expose a city's dark truth while outsmarting Wei.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0181815f22e61d931b6aace8a69c0eee/images/gracenote/assets/p28254679_b_h10_aa.jpg" />
   </programme><programme channel="Hi-YAH-US" start="20260418062052 +0500" stop="20260418075819 +0500">
     <title>Kowloon Walled City</title>
     <sub-title />
     <desc>A street fighter in Northeast China decides to start a new life in Hong Kong's Kowloon Walled City.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2f3ae3854f1056abb7dd34a11179cb8c/images/gracenote/assets/p23296451_v_h10_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260418075819 +0500" stop="20260418100642 +0500">
+    <title>Kickboxer: Retaliation</title>
+    <sub-title />
+    <desc>MMA champ Kurt Sloane trains for a fight against a 400-pound killer in an underground death match.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5143181d27de54b98445588e50eedb8f/images/gracenote/assets/p14860144_v_h8_aa.jpg" />
   </programme><programme channel="Hi-YAH-US" start="20260418075819 +0500" stop="20260418100642 +0500">
     <title>Kickboxer: Retaliation</title>
     <sub-title />

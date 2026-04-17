@@ -3,47 +3,7 @@
   <channel id="True-Crime-UK">
     <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260417034840 +0500" stop="20260417043800 +0500">
-    <title>Real Detective</title>
-    <sub-title>Retribution</sub-title>
-    <desc>Retribution</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417043800 +0500" stop="20260417052752 +0500">
-    <title>Real Detective</title>
-    <sub-title>Darkness</sub-title>
-    <desc>Darkness</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417052752 +0500" stop="20260417061726 +0500">
-    <title>Real Detective</title>
-    <sub-title>Vengeance</sub-title>
-    <desc>Vengeance</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417061726 +0500" stop="20260417070720 +0500">
-    <title>Real Detective</title>
-    <sub-title>Misery</sub-title>
-    <desc>Misery</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417070720 +0500" stop="20260417080240 +0500">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Money Talks</sub-title>
-    <desc>Money Talks</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417080240 +0500" stop="20260417085807 +0500">
+  </channel><programme channel="True-Crime-UK" start="20260417080240 +0500" stop="20260417085807 +0500">
     <title>Murder: Fight for the Truth</title>
     <sub-title>Journalistic Instinct</sub-title>
     <desc>Journalistic Instinct</desc>
@@ -241,6 +201,38 @@
     <desc>Ghost Ship of Bimini</desc>
     <episode-num system="onscreen">S01E02</episode-num>
     <date>20250724</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418050254 +0500" stop="20260418055805 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Julie Scully</sub-title>
+    <desc>Julie Scully</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418055805 +0500" stop="20260418065315 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Anthony Ashley-Cooper</sub-title>
+    <desc>Anthony Ashley-Cooper</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418065315 +0500" stop="20260418074826 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Shannon's Story</sub-title>
+    <desc>Shannon's Story</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418074826 +0500" stop="20260418084337 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Baja Nights</sub-title>
+    <desc>Baja Nights</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20260401</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
   </programme>

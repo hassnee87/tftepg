@@ -3,19 +3,7 @@
   <channel id="American-Ninja-Warrior-US">
     <display-name>American Ninja Warrior</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/American-Ninja-Warrior-US.png" />
-  </channel><programme channel="American-Ninja-Warrior-US" start="20260417034500 +0500" stop="20260417052200 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face stage one of the finals course in Las Vegas.</desc>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260417052200 +0500" stop="20260417070100 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Top finishers from the regional finals tackle the four stage finals course in Las Vegas.</desc>
-    <episode-num system="onscreen">S06E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260417070100 +0500" stop="20260417084000 +0500">
+  </channel><programme channel="American-Ninja-Warrior-US" start="20260417070100 +0500" stop="20260417084000 +0500">
     <title>American Ninja Warrior</title>
     <desc>Brendon Ayanbadejo and Jon Ryan tackle the obstacle course alongside returning competitors.</desc>
     <episode-num system="onscreen">S07E01</episode-num>
@@ -99,16 +87,16 @@
     <episode-num system="onscreen">S07E14</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260418040300 +0500" stop="20260418054000 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top finishers from the regional finals face a course modeled after Mount Midoriyama in Japan.</desc>
-    <episode-num system="onscreen">S07E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260418054000 +0500" stop="20260418071600 +0500">
     <title>American Ninja Warrior</title>
     <desc>The top finishers from the regional finals face a course modeled after Mount Midoriyama in Japan.</desc>
     <episode-num system="onscreen">S07E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260418071600 +0500" stop="20260418094200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Competitors tackle obstacles that include Psycho Chain and Area 51.</desc>
+    <episode-num system="onscreen">S07E16</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260418071600 +0500" stop="20260418094200 +0500">

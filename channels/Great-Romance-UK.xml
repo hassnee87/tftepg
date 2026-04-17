@@ -3,19 +3,7 @@
   <channel id="Great-Romance-UK">
     <display-name>Great! Romance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Romance-UK.png" />
-  </channel><programme channel="Great-Romance-UK" start="20260417045008 +0500" stop="20260417062436 +0500">
-    <title>Fashionably Yours</title>
-    <sub-title />
-    <desc>Jaded designer Lauren decides to move back home after three years trying to make her career in Seattle. Lauren soon finds out that the city has more to offer then she could have imagined. (2020)</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_503799891_0_20240902T142747917Z_87_imageprocessorclient-tvplus-linear-64ff86dd75-27499.jpeg" />
-  </programme><programme channel="Great-Romance-UK" start="20260417062436 +0500" stop="20260417080455 +0500">
-    <title>Blue Moon Ball</title>
-    <sub-title />
-    <desc>(2022) Romance with Ashley Newbrough and Eric Lutz. While back in her hometown to finish her book, a novelist helps her ex save the town's historic ballroom - but can she write her own happy ending?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485715761_0_20231102T084831806Z_69.jpeg" />
-  </programme><programme channel="Great-Romance-UK" start="20260417080455 +0500" stop="20260417094545 +0500">
+  </channel><programme channel="Great-Romance-UK" start="20260417080455 +0500" stop="20260417094545 +0500">
     <title>Love, Game, Match</title>
     <sub-title />
     <desc>(2021) Romance with Cristine Prosperi and Dale Moss. New-in-town teacher Liz agrees to help test her students' matchmaking website - so will it be singles or doubles when she meets tennis coach Ted?</desc>
@@ -33,5 +21,11 @@
     <desc>(2022) Christmas rom com with Stacey Faber. Sparks fly at the American Butler Academy as chalk and cheese students Emma and Henry clash. In learning to work together might they fall for each other?</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1498479995_0_20251231T115833988Z_93_imageprocessorclient-tvplus-linear-85d7d49859-6vm6g.jpeg" />
+  </programme><programme channel="Great-Romance-UK" start="20260417143209 +0500" stop="20260417160919 +0500">
+    <title>The Engagement Dress</title>
+    <sub-title />
+    <desc>(2022) Romcom with Angel Prater. Wearing a lucky bridesmaid's dress has led to all her friends getting engaged. But when it doesn't work for Claudia, will it help her discover who's really 'the one'?</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1664196037_0_20260301T114717119Z_92_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
   </programme>
 </tv>

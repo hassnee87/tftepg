@@ -3,27 +3,7 @@
   <channel id="BBC-Drama-US">
     <display-name>BBC Drama</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Drama-US.png" />
-  </channel><programme channel="BBC-Drama-US" start="20260417042004 +0500" stop="20260417052718 +0500">
-    <title>Mistresses</title>
-    <desc>Jessica is suffering the worst hangover as Jack takes Katie on a trip down memory lane.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3bd064f7170f168e7abf73f06c0d2b8/rokuFeed/assets/06723dd5bf455c4792393f632246f2b5.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417052718 +0500" stop="20260417063445 +0500">
-    <title>Mistresses</title>
-    <sub-title />
-    <desc>Trudi tries to forget about Richard by focusing on work.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/efd3ab28ba7c5a41b4c8dffbf885aa8b/rokuFeed/assets/f4173f62d21c5ec2aea289a1534fadb3.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417063445 +0500" stop="20260417074146 +0500">
-    <title>Mistresses</title>
-    <sub-title />
-    <desc>Trudi seems to enjoy being single, but may be fooling herself.</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f99a248cedce5b84bbf60ccbe99b5a43/rokuFeed/assets/d9503b8c74e155a984156fdcc2bde988.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417074146 +0500" stop="20260417091944 +0500">
+  </channel><programme channel="BBC-Drama-US" start="20260417074146 +0500" stop="20260417091944 +0500">
     <title>Oliver Twist</title>
     <sub-title />
     <desc>Oliver is sold to become the servant of an undertaker.</desc>
@@ -136,12 +116,6 @@
     <episode-num system="onscreen">S03E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e286a7bf0bdad8a7c85551c278735444/rokuFeed/assets/197e6abb3c555b728e4df4beac208edd.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260418040706 +0500" stop="20260418051441 +0500">
-    <title>Mistresses</title>
-    <desc>Life is all trials and tribulations for Trudi, Jessica, Katie and Siobhan.</desc>
-    <episode-num system="onscreen">S03E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e286a7bf0bdad8a7c85551c278735444/rokuFeed/assets/197e6abb3c555b728e4df4beac208edd.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418051441 +0500" stop="20260418062221 +0500">
     <title>Mistresses</title>
     <sub-title />
@@ -156,6 +130,12 @@
     <episode-num system="onscreen">S03E04</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb259fa8efc053c7970d951b6830edb0/rokuFeed/assets/efe2be6e83575b90ad5af8896359ed85.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418072904 +0500" stop="20260418083433 +0500">
+    <title>Emma</title>
+    <desc>Emma convinces Harriet Smith that she is too good for Robert Martin.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418072904 +0500" stop="20260418083433 +0500">
     <title>Emma</title>
     <desc>Emma convinces Harriet Smith that she is too good for Robert Martin.</desc>

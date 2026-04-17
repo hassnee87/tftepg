@@ -3,25 +3,7 @@
   <channel id="Love-Nature-US">
     <display-name>Love Nature</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
-  </channel><programme channel="Love-Nature-US" start="20260417043700 +0500" stop="20260417054000 +0500">
-    <title>My Wild Cats</title>
-    <desc>In Africa, projects support wild cats by creating protected areas for survival.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd3616dd940e563d99a731026faf7f75/images/gracenote/assets/p25745182_b_h10_ad.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417054000 +0500" stop="20260417064400 +0500">
-    <title>My Wild Cats</title>
-    <desc>In Europe, follow Iberian lynxes, a wilder cat in the Canary Islands and wildcats in France.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cd3616dd940e563d99a731026faf7f75/images/gracenote/assets/p25745182_b_h10_ad.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417064400 +0500" stop="20260417074400 +0500">
-    <title>Hotspots</title>
-    <desc>The many habitats of one of Australia's most diverse areas plays home to an array of bird species.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/374457523826511b90844d4cf7cb3a21/images/gracenote/assets/p16651801_b_h8_ai.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417074400 +0500" stop="20260417084400 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260417074400 +0500" stop="20260417084400 +0500">
     <title>Inside The Pack</title>
     <sub-title />
     <desc>Navigate the minefields of pack life and see how animals learn to co-operate.</desc>
@@ -148,12 +130,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8184eb40b855b0aaf83d3b07fd12b0c/images/gracenote/assets/p23387968_b_h8_ab.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260418041200 +0500" stop="20260418051900 +0500">
-    <title>Extreme Snakes</title>
-    <desc>Discover how Australia's snakes slithered their way to the top of every ecosystem.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d8184eb40b855b0aaf83d3b07fd12b0c/images/gracenote/assets/p23387968_b_h8_ab.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260418051900 +0500" stop="20260418062300 +0500">
     <title>High Life in the Dead Mountains</title>
     <sub-title />
@@ -166,6 +142,12 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418072600 +0500" stop="20260418082400 +0500">
+    <title>Africa's Wild Horizons</title>
+    <desc>The Okavango delta is home to diverse wildlife.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260418072600 +0500" stop="20260418082400 +0500">
     <title>Africa's Wild Horizons</title>
     <desc>The Okavango delta is home to diverse wildlife.</desc>

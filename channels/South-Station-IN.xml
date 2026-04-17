@@ -3,16 +3,7 @@
   <channel id="South-Station-IN">
     <display-name>South Station</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/South-Station-IN.png" />
-  </channel><programme channel="South-Station-IN" start="20260417040447 +0500" stop="20260417064250 +0500">
-    <title>Keemat Roti Ki</title>
-    <sub-title />
-    <desc>South Station</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="South-Station-IN" start="20260417064250 +0500" stop="20260417091215 +0500">
+  </channel><programme channel="South-Station-IN" start="20260417064250 +0500" stop="20260417091215 +0500">
     <title>IPC-376</title>
     <sub-title />
     <desc>South Station</desc>
@@ -34,6 +25,15 @@
     <title>Nayaki</title>
     <sub-title />
     <desc>Sanjay, a conniving youngster, takes his girlfriend to an old bungalow with the wrong intention. But a vengeful spirit who cannot tolerate immoral men wants to kill him.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="South-Station-IN" start="20260417134420 +0500" stop="20260417160159 +0500">
+    <title>Jaal Ek Tantra</title>
+    <sub-title />
+    <desc>South Station</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
     <rating>

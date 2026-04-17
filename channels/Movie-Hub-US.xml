@@ -3,19 +3,7 @@
   <channel id="Movie-Hub-US">
     <display-name>Movie Hub</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
-  </channel><programme channel="Movie-Hub-US" start="20260417034000 +0500" stop="20260417052200 +0500">
-    <title>When a Stranger Calls</title>
-    <sub-title />
-    <desc>A sadistic phone caller terrorizes a teenage babysitter (Camilla Belle).</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/151b8c308997575e92822c0e096c4e0f/rokuFeed/assets/ddd899f4641a5dc79ee2e0dc452bce9f.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417052200 +0500" stop="20260417071800 +0500">
-    <title>It Follows</title>
-    <sub-title />
-    <desc>After a sexual encounter, a teen has the inescapable feeling that something is after her.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6a81e7ea0dc5f9a90295ac0fb4fab8c/images/gracenote/assets/p10822144_v_h8_am.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417071800 +0500" stop="20260417091900 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260417071800 +0500" stop="20260417091900 +0500">
     <title>The Haunting in Connecticut</title>
     <sub-title />
     <desc>A woman (Virginia Madsen) turns to a priest for help in ridding a new home of ghosts.</desc>
@@ -87,18 +75,18 @@
     <desc>After a sexual encounter, a teen has the inescapable feeling that something is after her.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6a81e7ea0dc5f9a90295ac0fb4fab8c/images/gracenote/assets/p10822144_v_h8_am.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260418034500 +0500" stop="20260418054100 +0500">
-    <title>It Follows</title>
-    <sub-title />
-    <desc>After a sexual encounter, a teen has the inescapable feeling that something is after her.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6a81e7ea0dc5f9a90295ac0fb4fab8c/images/gracenote/assets/p10822144_v_h8_am.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418054100 +0500" stop="20260418074400 +0500">
     <title>Veronica Mars</title>
     <sub-title />
     <desc>Veronica turns amateur sleuth once again when ex-boyfriend Logan is accused of murder.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2322f7571e625bb493391c016dd50b5a/images/gracenote/assets/p10416760_v_h10_aa.jpg" />
+  </programme><programme channel="Movie-Hub-US" start="20260418074400 +0500" stop="20260418093700 +0500">
+    <title>Nerve</title>
+    <sub-title />
+    <desc>A teen joins a popular online game that dares players to perform increasingly dangerous stunts.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/80c17edfbaba5d2a9af2259b55e0a995/rokuFeed/assets/893f6a01f1a3505295fbdee0ff39112b.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418074400 +0500" stop="20260418093700 +0500">
     <title>Nerve</title>
     <sub-title />

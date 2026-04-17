@@ -3,13 +3,7 @@
   <channel id="Great-Movies-UK">
     <display-name>Great! Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Movies-UK.png" />
-  </channel><programme channel="Great-Movies-UK" start="20260417060640 +0500" stop="20260417075518 +0500">
-    <title>Last Days Of Frank and Jesse James, The</title>
-    <sub-title />
-    <desc>A western about the notorious bank robbers, Frank and Jesse James</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_885921095_0_20250514T154448007Z_60_imageprocessorclient-tvplus-linear-6fb5b47f79-j48bz.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260417075518 +0500" stop="20260417093037 +0500">
+  </channel><programme channel="Great-Movies-UK" start="20260417075518 +0500" stop="20260417093037 +0500">
     <title>Panhandle</title>
     <sub-title />
     <desc>(1948) Western starring Rod Cameron. A former Texas marshal is determined to prove a powerful casino owner is behind his brother's murder.</desc>
@@ -45,5 +39,23 @@
     <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417122745 +0500" stop="20260417131718 +0500">
+    <title>Coast Guard Alaska</title>
+    <sub-title />
+    <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417131718 +0500" stop="20260417140650 +0500">
+    <title>Coast Guard Alaska</title>
+    <sub-title />
+    <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417140650 +0500" stop="20260417154443 +0500">
+    <title>Killer in Law</title>
+    <sub-title />
+    <desc>(2018) High-stakes thriller with Kelly Sullivan. Melissa encounters the in-law from hell when her husband's long-lost mother returns. As she unleashes a twisted plan, someone is not needed any more...</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1097531551_0_20250730T165855799Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-9tsm4.jpeg" />
   </programme>
 </tv>

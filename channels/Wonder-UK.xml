@@ -3,39 +3,7 @@
   <channel id="Wonder-UK">
     <display-name>Wonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Wonder-UK.png" />
-  </channel><programme channel="Wonder-UK" start="20260417040754 +0500" stop="20260417050059 +0500">
-    <title>Rocket Science</title>
-    <sub-title>The Success Story of Ariane 5 - Part 1</sub-title>
-    <desc>With raw power and flawless precision, Ariane 5 carries Europe’s dreams into orbit.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417050059 +0500" stop="20260417055545 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Oil Rig</sub-title>
-    <desc>The $500 million West Bollsta oil rig travels from South Korea to Europe, aided by the ALP Striker tug.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417055545 +0500" stop="20260417065251 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Chile</sub-title>
-    <desc>The world's largest radio telescope antennas are relocated to Chile's Atacama Desert, facing harsh conditions.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417065251 +0500" stop="20260417074955 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Autoliner</sub-title>
-    <desc>The Hoegh Trapper, the largest car transporter, carries 8,000 vehicles, overcoming Panama Canal bottlenecks.</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417074955 +0500" stop="20260417084158 +0500">
+  </channel><programme channel="Wonder-UK" start="20260417074955 +0500" stop="20260417084158 +0500">
     <title>Mighty Cruise Ships</title>
     <sub-title>Celebrity Solstice</sub-title>
     <desc>Celebrity Solstice cruises Australia's coast in luxury, navigating tough shores and tropical heat.</desc>
@@ -211,5 +179,37 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://provider-static.plex.tv/epg/images/thumbnails/wonder-poster.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418050014 +0500" stop="20260418055412 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>Emergency Helicopters</sub-title>
+    <desc>Inside Airbus Bavaria, see how lifesaving H145 rescue helicopters take flight.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20220101</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418055412 +0500" stop="20260418064640 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>Harvesting Giants</sub-title>
+    <desc>Meet the mighty Fendt tractors built in Germany, power, precision, and pure muscle.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20220101</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418064640 +0500" stop="20260418074002 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>High Tech in the Air</sub-title>
+    <desc>Lufthansa’s Airbus A350 lifts flight into a new era of silent, sustainable design.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20221005</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418074002 +0500" stop="20260418083026 +0500">
+    <title>Mighty Planes</title>
+    <sub-title>Orbis</sub-title>
+    <desc>ORBIS DC-10 now serves as a flying eye hospital, bringing vision care to developing nations.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20120101</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>
 </tv>

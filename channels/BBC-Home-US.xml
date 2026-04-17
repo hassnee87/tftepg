@@ -3,27 +3,9 @@
   <channel id="BBC-Home-US">
     <display-name>BBC Home &amp;amp; Garden</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Home-US.png" />
-  </channel><programme channel="BBC-Home-US" start="20260417044315 +0500" stop="20260417054711 +0500">
+  </channel><programme channel="BBC-Home-US" start="20260417075830 +0500" stop="20260417090302 +0500">
     <title>Chelsea Flower Show: 2025</title>
     <sub-title />
-    <desc>Monty Don and Arit Anderson celebrate the power of gardening to bring people together.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417054711 +0500" stop="20260417064931 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>A team of experts have top tips to help you make the most of nature in your garden.</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417064931 +0500" stop="20260417075830 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>Monty Don, Rachel de Thame and the team celebrate the ways gardening can be good for you.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417075830 +0500" stop="20260417090302 +0500">
-    <title>Chelsea Flower Show: 2025</title>
     <desc>The Chelsea experts reveal how to make the most of your garden this summer.</desc>
     <episode-num system="onscreen">S01E10</episode-num>
     <language>en</language>
@@ -37,7 +19,6 @@
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260417093552 +0500" stop="20260417104117 +0500">
     <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
     <desc>Monty Don, Rachel de Thame and Arit Anderson provide analysis of the winning garden.</desc>
     <episode-num system="onscreen">S01E12</episode-num>
     <language>en</language>
@@ -162,12 +143,6 @@
     <episode-num system="onscreen">S02E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/977242fa5e5bd1a91dee7d4ae230d475/rokuFeed/assets/71f35b80544355f1ae4950047c868766.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260418040113 +0500" stop="20260418050017 +0500">
-    <title>World's Weirdest Homes</title>
-    <desc>Charlie explores a giant sandcastle and a farm that floats on the ocean.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/977242fa5e5bd1a91dee7d4ae230d475/rokuFeed/assets/71f35b80544355f1ae4950047c868766.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418050017 +0500" stop="20260418055844 +0500">
     <title>World's Weirdest Homes</title>
     <desc>Charlie explores an eco-friendly spaceship, a dystopian Disneyland, and an underground cave home.</desc>
@@ -184,6 +159,12 @@
     <title>World's Most Luxurious</title>
     <desc>South Africa's Blue Train, the Golden Eagle in Russia, and the Presidential Train in Portugal.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0345a4dd7a3b5d34bfdbcc74553383c9/images/gracenote/assets/p19107777_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Home-US" start="20260418074238 +0500" stop="20260418083135 +0500">
+    <title>World's Most Luxurious</title>
+    <desc>With a super yacht, it's not the price that makes them exceptional, it is the luxurious details.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0345a4dd7a3b5d34bfdbcc74553383c9/images/gracenote/assets/p19107777_b_h10_ac.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418074238 +0500" stop="20260418083135 +0500">
