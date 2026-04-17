@@ -3,16 +3,7 @@
   <channel id="WBTV-True-Crime-NZ">
     <display-name>WBTV True Crime NZ</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-True-Crime-NZ.png" />
-  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417110000 +0500" stop="20260417114500 +0500">
-    <title>The Perfect Murder</title>
-    <sub-title>Mother Dear</sub-title>
-    <desc />
-    <episode-num system="onscreen">S05E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417114500 +0500" stop="20260417123500 +0500">
+  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417114500 +0500" stop="20260417123500 +0500">
     <title>People Magazine Investigates: Surviving A Serial Killer</title>
     <sub-title>Surviving The Bishops Basement</sub-title>
     <desc />
@@ -309,5 +300,23 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35794/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418150000 +0500" stop="20260418154500 +0500">
+    <title>Evil Lives Here</title>
+    <sub-title>My First Love Hunted People</sub-title>
+    <desc />
+    <episode-num system="onscreen">S09E16</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011430/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418154500 +0500" stop="20260418163500 +0500">
+    <title>Murder Chose Me</title>
+    <sub-title>Fair Game</sub-title>
+    <desc />
+    <episode-num system="onscreen">S02E08</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90012838/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
   </programme>
 </tv>

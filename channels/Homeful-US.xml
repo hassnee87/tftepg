@@ -3,25 +3,7 @@
   <channel id="Homeful-US">
     <display-name>Homeful</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Homeful-US.png" />
-  </channel><programme channel="Homeful-US" start="20260417105300 +0500" stop="20260417111900 +0500">
-    <title>Cabin Truckers: Let's Save This Church: Church Oyen, AB</title>
-    <sub-title />
-    <desc>Lorainne and Lyle have enlisted the help of Wades House Moving and Heavy Hauling to deliver a church to a museum site.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_771357272_0_20250130T021953294Z_29_imageprocessorclient-tvplus-linear-5dc4fd45f6-tvqg8.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417111900 +0500" stop="20260417114500 +0500">
-    <title>Custom Built</title>
-    <sub-title>The Hunter Yoga Kitchen</sub-title>
-    <desc>Shasta and Ian want to update their kitchen to reflect their eclectic interests.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926652_2_20250129T043518545Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417114500 +0500" stop="20260417121100 +0500">
+  </channel><programme channel="Homeful-US" start="20260417114500 +0500" stop="20260417121100 +0500">
     <title>Custom Built</title>
     <sub-title>The Swivel Television</sub-title>
     <desc>Michele and Tyrone turn their family room into a messy playroom.</desc>
@@ -85,9 +67,18 @@
       <value>TV-PG</value>
     </rating>
   </programme><programme channel="Homeful-US" start="20260417170000 +0500" stop="20260417175200 +0500">
-    <title>Holmes Inspection: Watch Your Step</title>
-    <sub-title />
+    <title>Holmes Inspection</title>
+    <sub-title>Watch Your Step</sub-title>
     <desc>Mike inspects Ryan and Eunice's new home after they discover many problems.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Homeful-US" start="20260417175200 +0500" stop="20260417184300 +0500">
+    <title>Holmes Inspection</title>
+    <sub-title>A Century Ago</sub-title>
+    <desc>Discovering the gaps in a home-inspection report that lulled Jennifer and Paul into a false sense of security  Mike's team gives this couple a second opinion and get to work making their downtown character home as safe and sound as it looks.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
     <rating>

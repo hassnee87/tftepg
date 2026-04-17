@@ -3,13 +3,7 @@
   <channel id="Great-Movies-UK">
     <display-name>Great! Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Movies-UK.png" />
-  </channel><programme channel="Great-Movies-UK" start="20260417105129 +0500" stop="20260417114102 +0500">
-    <title>Coast Guard Alaska</title>
-    <sub-title />
-    <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260417114102 +0500" stop="20260417122745 +0500">
+  </channel><programme channel="Great-Movies-UK" start="20260417114102 +0500" stop="20260417122745 +0500">
     <title>Coast Guard Alaska</title>
     <sub-title />
     <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
@@ -39,5 +33,11 @@
     <desc>(2017) Thriller with Jamie Luner. Tess is finally ready to live again after her son's death years before. But a brief romance with a handsome soldier is about to twist from attraction into obsession..</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_831391347_0_20250425T160137489Z_74_imageprocessorclient-tvplus-linear-6fb5b47f79-5hxrw.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417172419 +0500" stop="20260417190125 +0500">
+    <title>Amber Alert</title>
+    <sub-title />
+    <desc>A troubled young man hijacks a bus load of school children. Meanwhile Detective Amber Cross (Alaina Huffman), battling with her own  demons and issues, is called in to negotiate</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1508142660_0_20260102T191354390Z_48_imageprocessorclient-tvplus-linear-85d7d49859-twtwh.jpeg" />
   </programme>
 </tv>

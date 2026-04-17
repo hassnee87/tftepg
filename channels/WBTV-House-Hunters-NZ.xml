@@ -3,25 +3,7 @@
   <channel id="WBTV-House-Hunters-NZ">
     <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417110000 +0500" stop="20260417112500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Teen Trouble In Germany</sub-title>
-    <desc />
-    <episode-num system="onscreen">S168E12</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417112500 +0500" stop="20260417114500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>French Rivera, Family-Style</sub-title>
-    <desc />
-    <episode-num system="onscreen">S169E12</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260417114500 +0500" stop="20260417121000 +0500">
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260417114500 +0500" stop="20260417121000 +0500">
     <title>House Hunters International</title>
     <sub-title>Saddle Up In The Sunshine Coast</sub-title>
     <desc />
@@ -633,5 +615,32 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418145500 +0500" stop="20260418152000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Simpler Living In Nosara, Costa Rica</sub-title>
+    <desc />
+    <episode-num system="onscreen">S173E13</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418152000 +0500" stop="20260418154000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Berlin Before Baby</sub-title>
+    <desc />
+    <episode-num system="onscreen">S174E13</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260418154000 +0500" stop="20260418160500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Goodbye Dream Home, Hello Adventure</sub-title>
+    <desc />
+    <episode-num system="onscreen">S175E13</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
   </programme>
 </tv>

@@ -3,16 +3,7 @@
   <channel id="Architectural-Digest-CA">
     <display-name>Architectural Digest</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Architectural-Digest-CA.png" />
-  </channel><programme channel="Architectural-Digest-CA" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>Custom Crafted</title>
-    <sub-title>2 Designers Hack The Same IKEA Coffee Table And More...</sub-title>
-    <desc>Compare two designers tasked to transform everyday furniture into Custom Crafted pieces of functional design.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Architectural-Digest-CA" start="20260417120000 +0500" stop="20260417130000 +0500">
+  </channel><programme channel="Architectural-Digest-CA" start="20260417120000 +0500" stop="20260417130000 +0500">
     <title>Custom Crafted</title>
     <sub-title>2 Designers Transform The Same Target Dresser</sub-title>
     <desc>Two designers transform ordinary furniture.</desc>
@@ -60,6 +51,15 @@
   </programme><programme channel="Architectural-Digest-CA" start="20260417170000 +0500" stop="20260417180000 +0500">
     <title>House &amp; Garden</title>
     <sub-title>The heritage world of Johnstons of Elgin and more...</sub-title>
+    <desc>Your first stop for the latest interior design ideas.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Architectural-Digest-CA" start="20260417180000 +0500" stop="20260417190000 +0500">
+    <title>House &amp; Garden</title>
+    <sub-title>In the studio with artist Rose Electra Harris And More</sub-title>
     <desc>Your first stop for the latest interior design ideas.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534538097_0_20231101T062032742Z_75.jpeg" />

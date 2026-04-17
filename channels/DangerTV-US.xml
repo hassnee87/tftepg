@@ -3,27 +3,9 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260417110500 +0500" stop="20260417113300 +0500">
-    <title>Border Security: Canada's Front Line</title>
-    <sub-title>Tough Customer</sub-title>
-    <desc>An angry businessman hides the real reason for his hostility  officers try to process some unusual Mexican migrants.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819933_4_20250226T083643494Z_68_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417113300 +0500" stop="20260417120100 +0500">
-    <title>Border Security: Canada's Front Line</title>
-    <sub-title>Bad Boy Corey</sub-title>
-    <desc>A Dutch woman with a lot of luggage claims she's on a four-day holiday  a Chinese parcel contains a shocking surprise  actor Corey Feldman shows up.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819933_4_20250226T083643494Z_68_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417120100 +0500" stop="20260417122900 +0500">
-    <title>Border Security: Canada's Front Line</title>
-    <sub-title>Packing Heat</sub-title>
+  </channel><programme channel="DangerTV-US" start="20260417120100 +0500" stop="20260417122900 +0500">
+    <title>Border Security: Canada's Front Line: Packing Heat</title>
+    <sub-title />
     <desc>Officers question a man from Texas who arrives with his hunting equipment.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909819933_4_20250226T083643494Z_68_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
@@ -117,6 +99,24 @@
     <desc>Mischelle Hileman is deep in the Oregon wilderness on an elk hunt when she gets lost and injured and finds herself on the brink of death.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2059945843_0_20251020T014828533Z_59_imageprocessorclient-tvplus-linear-76c46fff7-jmh7x.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417172500 +0500" stop="20260417175600 +0500">
+    <title>Danger Decoded: Man Made: Man Made</title>
+    <sub-title>Humanity's Lessons in Catastrophe</sub-title>
+    <desc>The harrowing tales of the top 10 man-made disasters, from Beirut's blast to London's lethal smog, that have shaped humans' approaches to safety and technology.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1050356031_0_20250324T202435830Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417175600 +0500" stop="20260417182900 +0500">
+    <title>Danger Decoded: Man Made: Man Made</title>
+    <sub-title>Humanity's Lessons in Catastrophe Part Two</sub-title>
+    <desc>From the Dust Bowl's devastation to Chernobyl's nuclear nightmare, the harrowing tales of the top 5 man-made disasters that reshaped the world.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1050356031_0_20250324T202435830Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
     <rating>
       <value>NA</value>
     </rating>

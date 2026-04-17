@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417100005 +0500" stop="20260417114442 +0500">
-    <title>A Love to Remember</title>
-    <sub-title />
-    <desc>After a year of interacting exclusively online, Tenley, an eco-conscious horticulturist, finally works up the courage to meet her online crush, Jared. When Jared doesn't show because of a bike accident, Tenley gets mistaken for his wife at the hospital. Soon, she's forced to keep the lie up with Jared's entire family and his annoyingly charming best friend, Everett in order to save Jared's company... You've Got Mail meets While You Were Sleeping!</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1200803965_1_20250918T082851952Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417114442 +0500" stop="20260417133301 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417114442 +0500" stop="20260417133301 +0500">
     <title>Wedding Wonderland</title>
     <sub-title />
     <desc>When family conflicts arise between happy couple Hallie and Lucas during the week before their big day, their plans for a breezy wedding in the tropics take a turn and their love is tested when they are forced to put on a small-town winter wedding in the snow.</desc>
@@ -27,5 +21,11 @@
     <desc>A guy who was wrongfully convicted for murder breaks out of jail and heads out west. He ends up joining a gang, which just so happens to include the actual killer.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1443892187_0_20251218T064414989Z_104_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417172726 +0500" stop="20260417192734 +0500">
+    <title>The Efficiency Expert</title>
+    <sub-title />
+    <desc>An expert on productivity shows wacky workers in 1966 Australia how to run their moccasin factory like clockwork, despite laying off more than half the workforce.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1259713317_0_20251016T014230441Z_57_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
   </programme>
 </tv>

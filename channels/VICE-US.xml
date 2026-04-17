@@ -3,27 +3,9 @@
   <channel id="VICE-US">
     <display-name>VICE</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/VICE-US.png" />
-  </channel><programme channel="VICE-US" start="20260417102200 +0500" stop="20260417111100 +0500">
-    <title>Abandoned: California Water Supply</title>
+  </channel><programme channel="VICE-US" start="20260417120200 +0500" stop="20260417125300 +0500">
+    <title>Jungletown: Entertaining Jungle-Style</title>
     <sub-title />
-    <desc>Rick visits California to find out more about its water problems and what the future holds for the "Sunburned State."</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1021164141_4_20250319T102414196Z_132_imageprocessorclient-tvplus-linear-b76dd9bbb-dtwnb.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="VICE-US" start="20260417111100 +0500" stop="20260417120200 +0500">
-    <title>Jungletown</title>
-    <sub-title>Pioneers or Colonists?</sub-title>
-    <desc>Interns challenge the purpose of their new community by asking whether they do more harm than good and what their money goes to.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1606490892_0_20250702T003314278Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="VICE-US" start="20260417120200 +0500" stop="20260417125300 +0500">
-    <title>Jungletown</title>
-    <sub-title>Entertaining Jungle-Style</sub-title>
     <desc>Jimmy shows off his jungle playground, but is challenged by interns worried about their environmental impact.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1606490892_0_20250702T003314278Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.jpeg" />
@@ -63,6 +45,15 @@
     <desc>Don't get ambushed by cheap fajita nights ever again  Matty hands over the reins to this regal Tex Mex classic with a tomahawk steak, grilled Mexican corn and all the fixins.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1021114364_0_20250319T102418028Z_97_imageprocessorclient-tvplus-linear-b76dd9bbb-gph6v.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="VICE-US" start="20260417174600 +0500" stop="20260417192800 +0500">
+    <title>F... That's Delicious: Japan, Here We Come</title>
+    <sub-title />
+    <desc>Bronson, The Alchemist and Meyhem Lauren, handle a variety of cuisines, rap and sumo wrestling.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1184672701_2_20250419T002541890Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>

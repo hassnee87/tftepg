@@ -3,16 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>An Optimist's Guide to the Planet</title>
-    <sub-title />
-    <desc>An Optimist's Guide to the Planet From transforming concrete into a carbon sink to mining nickel from genetically enhanced plants, we meet the bold inventors preserving and adapting to nature's offerings to help humanity thrive.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2182026457_0_20251120T041209079Z_1_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417120000 +0500" stop="20260417130000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260417120000 +0500" stop="20260417130000 +0500">
     <title>An Optimist's Guide to the Planet</title>
     <sub-title />
     <desc>An Optimist's Guide to the Planet Meeting humanity's insatiable demand for energy while still curbing greenhouse emissions will require creative solutions both big and small.</desc>
