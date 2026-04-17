@@ -3,25 +3,7 @@
   <channel id="WBTV-True-Crime-NZ">
     <display-name>WBTV True Crime NZ</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-True-Crime-NZ.png" />
-  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417114500 +0500" stop="20260417123500 +0500">
-    <title>People Magazine Investigates: Surviving A Serial Killer</title>
-    <sub-title>Surviving The Bishops Basement</sub-title>
-    <desc />
-    <episode-num system="onscreen">S01E03</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90045871/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417123500 +0500" stop="20260417132000 +0500">
-    <title>Nightmare Next Door</title>
-    <sub-title>Devils In The Detail</sub-title>
-    <desc />
-    <episode-num system="onscreen">S02E20</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90004861/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417132000 +0500" stop="20260417141000 +0500">
+  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417132000 +0500" stop="20260417141000 +0500">
     <title>American Monster</title>
     <sub-title>With Honours</sub-title>
     <desc />
@@ -318,5 +300,23 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/90012838/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418163500 +0500" stop="20260418172000 +0500">
+    <title>The Perfect Murder</title>
+    <sub-title>A Motive Most Bizarre</sub-title>
+    <desc />
+    <episode-num system="onscreen">S05E02</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90007204/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418172000 +0500" stop="20260418181000 +0500">
+    <title>People Magazine Investigates: Surviving A Serial Killer</title>
+    <sub-title>Surviving The Handsome Devil</sub-title>
+    <desc />
+    <episode-num system="onscreen">S01E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90045871/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
   </programme>
 </tv>

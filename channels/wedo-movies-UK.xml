@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417114442 +0500" stop="20260417133301 +0500">
-    <title>Wedding Wonderland</title>
-    <sub-title />
-    <desc>When family conflicts arise between happy couple Hallie and Lucas during the week before their big day, their plans for a breezy wedding in the tropics take a turn and their love is tested when they are forced to put on a small-town winter wedding in the snow.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1275308632_0_20251023T092934580Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-grwzd.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417133301 +0500" stop="20260417161922 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417133301 +0500" stop="20260417161922 +0500">
     <title>Death of a Salesman</title>
     <sub-title />
     <desc>During the post-war boom period of the late '40s, Willy Loman is an aging, traveling salesman, who despairs that his life his been lived in vain. Facing dispensability and insignificance in a heated, youthful economy, Willy is not ready to part with his cherished fantasies of an America that admires him for personable triumphs in the marketplace.</desc>
@@ -27,5 +21,11 @@
     <desc>An expert on productivity shows wacky workers in 1966 Australia how to run their moccasin factory like clockwork, despite laying off more than half the workforce.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1259713317_0_20251016T014230441Z_57_imageprocessorclient-tvplus-linear-5db7c6bc99-2fhcs.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417192734 +0500" stop="20260417211617 +0500">
+    <title>Til Ex Do Us Part</title>
+    <sub-title />
+    <desc>Inspired by true events...Just when their separation is coming to an end, and Kyle and Sophia have recommitted to each other, Sophia is accused of assaulting her husband's friend, Claire, a woman he slept with once.  In reality, however, Claire is engineering a series of attacks against herself to frame Sophia and keep Kyle for herself. When the ruse falls apart, Claire makes a direct attack on her rival…</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1252543113_0_20251012T120243504Z_37_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.jpeg" />
   </programme>
 </tv>

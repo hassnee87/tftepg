@@ -3,34 +3,7 @@
   <channel id="Homeful-US">
     <display-name>Homeful</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Homeful-US.png" />
-  </channel><programme channel="Homeful-US" start="20260417114500 +0500" stop="20260417121100 +0500">
-    <title>Custom Built</title>
-    <sub-title>The Swivel Television</sub-title>
-    <desc>Michele and Tyrone turn their family room into a messy playroom.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926652_2_20250129T043518545Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417121100 +0500" stop="20260417123700 +0500">
-    <title>Custom Built</title>
-    <sub-title>The Surf 'N' Sport Basement</sub-title>
-    <desc>Steven and Joanna want their basement to be half man cave and half surf-themed family room.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926652_2_20250129T043518545Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417123700 +0500" stop="20260417132900 +0500">
-    <title>Holmes Makes It Right</title>
-    <sub-title>Flood Suckers</sub-title>
-    <desc>A woman's basement is flooded with sewage water after a downpour.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926879_0_20250129T043509822Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-tqcql.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Homeful-US" start="20260417132900 +0500" stop="20260417142100 +0500">
+  </channel><programme channel="Homeful-US" start="20260417132900 +0500" stop="20260417142100 +0500">
     <title>Holmes Makes It Right</title>
     <sub-title>Another Storey</sub-title>
     <desc>After promising a couple a second story addition in 10 weeks, a contract disappears, leaving the job unfinished.</desc>
@@ -79,6 +52,24 @@
     <title>Holmes Inspection</title>
     <sub-title>A Century Ago</sub-title>
     <desc>Discovering the gaps in a home-inspection report that lulled Jennifer and Paul into a false sense of security  Mike's team gives this couple a second opinion and get to work making their downtown character home as safe and sound as it looks.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Homeful-US" start="20260417184300 +0500" stop="20260417193500 +0500">
+    <title>Holmes Inspection</title>
+    <sub-title>A Stitch in Time</sub-title>
+    <desc>Andrew and Melissa's house purchase was supposed to bring security and comfort to their expanding family  Mike outlines some home inspection misses and signs of neglect that Damon and the crew will make right and watertight.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Homeful-US" start="20260417193500 +0500" stop="20260417202700 +0500">
+    <title>Holmes Inspection</title>
+    <sub-title>No Breathing Room</sub-title>
+    <desc>A couple closed a deal before they could read their home inspection report.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_766926698_2_20250129T043517527Z_53_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
     <rating>

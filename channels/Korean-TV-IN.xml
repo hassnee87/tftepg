@@ -3,43 +3,7 @@
   <channel id="Korean-TV-IN">
     <display-name>Korean TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Korean-TV-IN.png" />
-  </channel><programme channel="Korean-TV-IN" start="20260417115951 +0500" stop="20260417122951 +0500">
-    <title>K Chat</title>
-    <sub-title />
-    <desc>K Chat</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260417122951 +0500" stop="20260417125934 +0500">
-    <title>Medical Top Team</title>
-    <sub-title />
-    <desc>Follows the journey of creating Korea's best multidisciplinary medical team and the stories of doctors inside. Characters who have different hurts and dilemmas struggle as they get to work together and gradually learn that healing a person is healing oneself.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656570569_0_20260313T115632096Z_1_imageprocessorclient-tvplus-linear-584c967455-9zm4d.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260417125934 +0500" stop="20260417132919 +0500">
-    <title>My Secret Terrius</title>
-    <sub-title />
-    <desc>Go Ae Rin suddenly loses her husband. A mysterious man, Kim Bon, lives next door. Kim Bon is a legendary NIS agent. He helps Ae Rin uncover a conspiracy, which husband became involved with.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260417132919 +0500" stop="20260417140004 +0500">
-    <title>Dear My First Love</title>
-    <sub-title />
-    <desc>A Group Of Yoon Tae Oh'S Friends Suddenly Move Into His House For Their Own Personal Reasons, Where They Experience Love, Friendships, And Struggles.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2736551861_0_20260401T154517455Z_24_imageprocessorclient-tvplus-linear-796646965d-7rm2b.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260417140004 +0500" stop="20260417143019 +0500">
+  </channel><programme channel="Korean-TV-IN" start="20260417140004 +0500" stop="20260417143019 +0500">
     <title>Flower Of Evil</title>
     <sub-title />
     <desc>Baek Hee Sung changes his identity and hides his past from his detective wife, until she discovers he has secrets while investigating a series of unexplained murders</desc>
@@ -112,6 +76,42 @@
       <value>NA</value>
     </rating>
   </programme><programme channel="Korean-TV-IN" start="20260417175947 +0500" stop="20260417182902 +0500">
+    <title>Flower Of Evil</title>
+    <sub-title />
+    <desc>Baek Hee Sung changes his identity and hides his past from his detective wife, until she discovers he has secrets while investigating a series of unexplained murders</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260417182902 +0500" stop="20260417185845 +0500">
+    <title>Medical Top Team</title>
+    <sub-title />
+    <desc>Follows the journey of creating Korea's best multidisciplinary medical team and the stories of doctors inside. Characters who have different hurts and dilemmas struggle as they get to work together and gradually learn that healing a person is healing oneself.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656570569_0_20260313T115632096Z_1_imageprocessorclient-tvplus-linear-584c967455-9zm4d.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260417185845 +0500" stop="20260417192830 +0500">
+    <title>My Secret Terrius</title>
+    <sub-title />
+    <desc>Go Ae Rin suddenly loses her husband. A mysterious man, Kim Bon, lives next door. Kim Bon is a legendary NIS agent. He helps Ae Rin uncover a conspiracy, which husband became involved with.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260417192830 +0500" stop="20260417195905 +0500">
+    <title>Dear My First Love</title>
+    <sub-title />
+    <desc>A Group Of Yoon Tae Oh'S Friends Suddenly Move Into His House For Their Own Personal Reasons, Where They Experience Love, Friendships, And Struggles.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2736551861_0_20260401T154517455Z_24_imageprocessorclient-tvplus-linear-796646965d-7rm2b.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260417195905 +0500" stop="20260417202920 +0500">
     <title>Flower Of Evil</title>
     <sub-title />
     <desc>Baek Hee Sung changes his identity and hides his past from his detective wife, until she discovers he has secrets while investigating a series of unexplained murders</desc>

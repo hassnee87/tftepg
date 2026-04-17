@@ -3,25 +3,7 @@
   <channel id="TYT-US">
     <display-name>TYT</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TYT-US.png" />
-  </channel><programme channel="TYT-US" start="20260417100000 +0500" stop="20260417113000 +0500">
-    <title>Dr. Rashad Richey: Indisputable</title>
-    <sub-title />
-    <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8f9afcb390b15bac4a5630ce2431c17c/rokuFeed/assets/cb2e60dc5f975013a2b056938d758eb1.jpeg" />
-  </programme><programme channel="TYT-US" start="20260417113000 +0500" stop="20260417123000 +0500">
-    <title>The Damage Report</title>
-    <sub-title />
-    <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a37f15736a8461219b95bd13c83ccb7b/rokuFeed/assets/9a21d62479e457a783ead6db64f3f3a3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260417123000 +0500" stop="20260417130000 +0500">
-    <title>TYT Investigates</title>
-    <sub-title />
-    <desc>TYT Investigates delivers key government moments, from White House briefings to congressional hearings.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/59636046448a60a091055607aa17c470/rokuFeed/assets/fb39c6a22e255017b1c97eec0b3f2f6b.jpeg" />
-  </programme><programme channel="TYT-US" start="20260417130000 +0500" stop="20260417140000 +0500">
+  </channel><programme channel="TYT-US" start="20260417130000 +0500" stop="20260417140000 +0500">
     <title>The Damage Report</title>
     <sub-title />
     <desc>The globe is under attack and the enemy...is us. Watch a daily breakdown of the most pressing threats we face</desc>

@@ -3,34 +3,7 @@
   <channel id="VICE-US">
     <display-name>VICE</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/VICE-US.png" />
-  </channel><programme channel="VICE-US" start="20260417120200 +0500" stop="20260417125300 +0500">
-    <title>Jungletown: Entertaining Jungle-Style</title>
-    <sub-title />
-    <desc>Jimmy shows off his jungle playground, but is challenged by interns worried about their environmental impact.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1606490892_0_20250702T003314278Z_64_imageprocessorclient-tvplus-linear-d7c8c765b-gphjj.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="VICE-US" start="20260417125300 +0500" stop="20260417131700 +0500">
-    <title>Most Expensivest</title>
-    <sub-title>Flex</sub-title>
-    <desc>2 Chainz hangs out at The Palms Hotel in a room worth $50K per night  Trappy reviews a $10K leather jacket made for dogs.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1067455792_0_20250328T012513939Z_44_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="VICE-US" start="20260417131700 +0500" stop="20260417140800 +0500">
-    <title>Most Expensivest</title>
-    <sub-title>Toni Retreat</sub-title>
-    <desc>2 Chainz and Lil Duval explore a weed supercenter in Vegas  sitting down at a $100K table at Drai's  Top Shelf Budtending and a smart weed grinder.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1067455792_0_20250328T012513939Z_44_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="VICE-US" start="20260417140800 +0500" stop="20260417143500 +0500">
+  </channel><programme channel="VICE-US" start="20260417140800 +0500" stop="20260417143500 +0500">
     <title>It's Suppertime!</title>
     <sub-title>Cod Chow'Da, the Ultimate Winter Fuel</sub-title>
     <desc>Inspired by childhood visits to Prince Edward Island in Canada, Matty prepares a East Coast cod chowder with plenty of flavor and love.</desc>
@@ -54,6 +27,24 @@
     <desc>Bronson, The Alchemist and Meyhem Lauren, handle a variety of cuisines, rap and sumo wrestling.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1184672701_2_20250419T002541890Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="VICE-US" start="20260417192800 +0500" stop="20260417195500 +0500">
+    <title>Most Expensivest</title>
+    <sub-title>Shotgun Wedding</sub-title>
+    <desc>The fast-paced world of Vegas weddings  2 Chainz gazes at the cloud proposals, sips on Moët and bears witness to a ceremony hosted by Elvis at the Caesars High Roller.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1067455792_0_20250328T012513939Z_44_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="VICE-US" start="20260417195500 +0500" stop="20260417202100 +0500">
+    <title>Most Expensivest</title>
+    <sub-title>Life Hacks</sub-title>
+    <desc>How to simplify life with CBD pastries and diamond cannagars  2 Chainz meets a Vegas insider and experiments with a portable weed analyzer.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1067455792_0_20250328T012513939Z_44_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
     <rating>
       <value>TV-14</value>
     </rating>

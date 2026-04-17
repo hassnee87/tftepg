@@ -3,31 +3,7 @@
   <channel id="True-Crime-UK">
     <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260417095317 +0500" stop="20260417104835 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Suttles &amp; Josephson</sub-title>
-    <desc>Suttles &amp; Josephson</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c76da/e01e33b5-1db8-4f3b-929f-7b8f70f689d2/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417104835 +0500" stop="20260417114326 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Sarinana &amp; Marzejka</sub-title>
-    <desc>Sarinana &amp; Marzejka</desc>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c7713/4e670efd-0e85-46a9-804e-73fa41839a39/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417114326 +0500" stop="20260417123636 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Bailey &amp; Monge</sub-title>
-    <desc>Bailey &amp; Monge</desc>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c76ee/2428fc1e-e483-4c28-9251-8e21941f1cf9/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417123636 +0500" stop="20260417133153 +0500">
+  </channel><programme channel="True-Crime-UK" start="20260417123636 +0500" stop="20260417133153 +0500">
     <title>Killers: Caught on Camera</title>
     <sub-title>Spinks &amp; Carpio</sub-title>
     <desc>Spinks &amp; Carpio</desc>
@@ -251,5 +227,37 @@
     <date>20260401</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418102719 +0500" stop="20260418112252 +0500">
+    <title>Britain's Countryside Killers</title>
+    <sub-title>Behind The Mask</sub-title>
+    <desc>Behind The Mask</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20250324</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418112252 +0500" stop="20260418121838 +0500">
+    <title>Britain's Countryside Killers</title>
+    <sub-title>Betrayal &amp; Murder</sub-title>
+    <desc>Betrayal &amp; Murder</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20250325</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418121838 +0500" stop="20260418131359 +0500">
+    <title>Britain's Countryside Killers</title>
+    <sub-title>Last Seen</sub-title>
+    <desc>Last Seen</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20250331</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418131359 +0500" stop="20260418140906 +0500">
+    <title>Britain's Countryside Killers</title>
+    <sub-title>A Life Cut Short</sub-title>
+    <desc>A Life Cut Short</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20250401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-COUNTRYSIDE_KILLERS_S1_EP2_LANDSCAPE_1920X1080.jpg" />
   </programme>
 </tv>

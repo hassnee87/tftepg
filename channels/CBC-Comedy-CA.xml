@@ -3,55 +3,7 @@
   <channel id="CBC-Comedy-CA">
     <display-name>CBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBC-Comedy-CA.png" />
-  </channel><programme channel="CBC-Comedy-CA" start="20260417102000 +0500" stop="20260417104600 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>The Rollout</sub-title>
-    <desc>Moira tries to get out of jury duty; David runs damage control for a Rose Apothecary product.</desc>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <date>20180403</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/42b9fa9bbf9f2140ced0f8565e3a0a37.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417104600 +0500" stop="20260417111100 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>No One's Coming</sub-title>
-    <desc>Between Mike troubles, a Tru Air P.R. crisis and a birthday dinner with less-than-delightful in-laws, Kate's plate is full; a misstep from Alice puts Anne's book in jeopardy, and Jenny goes on the warpath for equal pay.</desc>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <date>20200310</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1c0751a0ad703f88454fbf6c97879fe5.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417111100 +0500" stop="20260417113700 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>To Lure a Squirrel</sub-title>
-    <desc>Kate and Nathan struggle with their new living arrangement; Frankie and Juniper take their investigation of Sean too far; Anne looks at her relationship with Alice in a new light.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20200317</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/10f0ffc5be112fffdad60f670be236a2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417113700 +0500" stop="20260417120300 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Lice</sub-title>
-    <desc>A lice outbreak at camp becomes everyone's worst nightmare; Kate's interview soon proves somewhat uncomfortable. Anne quarantines her house while Frankie tries to sell a home under false pretences.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20200324</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c1ae7818371de16bc29d763b2cbd207b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417120300 +0500" stop="20260417122800 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Bad Reputation</sub-title>
-    <desc>Kate finds herself in the middle of a PR crisis for her new client Après; Anne is inspired by a new book idea; Frankie and Bianca discover the truth about Sean.</desc>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <date>20200331</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9298b6e89e70458d40c454764aaf4d28.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417122800 +0500" stop="20260417125400 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Charlie and the Weed Factory</sub-title>
-    <desc>Kate desperately searches the brewery for Charlie while Frankie seizes an opportunity for vengeful justice; Jenny's employers see things her way; Anne and Lionel make a life-changing decision.</desc>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <date>20200407</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d928932e3aaf1d19ba9b633590841889.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417125400 +0500" stop="20260417132000 +0500">
+  </channel><programme channel="CBC-Comedy-CA" start="20260417125400 +0500" stop="20260417132000 +0500">
     <title>Strays</title>
     <sub-title>Speak Your Truth</sub-title>
     <desc>Shannon tries to build a more inclusive culture at work; Lara interferes in a radio contest.</desc>
@@ -434,5 +386,61 @@
     <date>20190108</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/3/gracenote/3aa425695d62d6be3ea818db294d07ff.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418103200 +0500" stop="20260418105800 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>Love Letters</sub-title>
+    <desc>Moira loses sleep stressing over old love letters; David and Stevie get held up at the store.</desc>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <date>20190115</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8f14c7860ca142601402649ec0da8405.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418105800 +0500" stop="20260418112300 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Charlie and the Weed Factory</sub-title>
+    <desc>Kate desperately searches the brewery for Charlie while Frankie seizes an opportunity for vengeful justice; Jenny's employers see things her way; Anne and Lionel make a life-changing decision.</desc>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <date>20200407</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d928932e3aaf1d19ba9b633590841889.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418112300 +0500" stop="20260418114900 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>The Carlsons Move to Calgary</sub-title>
+    <desc>The Carlsons make the move, but it's not exactly what Lionel promised; Alice meets a cute boy at her new school; Kate and the gang fly out for a visit, and they discover Anne has made some questionable new friends.</desc>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <date>20210216</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/df1349568c0ccee784ce73efac82a20c.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418114900 +0500" stop="20260418121500 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Mama Mia Meatboy</sub-title>
+    <desc>Kate feels the pressure to land a major new client; Anne is torn between hanging on to her ambition and succumbing to the rhythm of life as a Cochrane mom; with Bianca away, Frankie buys Rhoda a strange new pet.</desc>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <date>20210223</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/164098e22e0eaaf40d73a94b27850499.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418121500 +0500" stop="20260418124000 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Pleasure Yourself</sub-title>
+    <desc>Kate walks farther into the lioness's den with Sloane; Anne starts her new job; Alice gets closer with her new boyfriend; Jenny discovers her secret office romance with MCP might not be exactly what she expected.</desc>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <date>20210302</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7469916e102d78c3f20690f112dc82b0.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418124000 +0500" stop="20260418130600 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>A Rat, Girl</sub-title>
+    <desc>In a high-pressure moment, Kate pitches an idea that isn't hers to give; Anne's publication dreams may finally come true; a new opportunity leads Frankie to expand her business; Jenny confronts her man about what he really wants.</desc>
+    <episode-num system="onscreen">S05E04</episode-num>
+    <date>20210309</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0c9a21a53e53e424b6bf9d1661d7f09b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418130600 +0500" stop="20260418133200 +0500">
+    <title>Strays</title>
+    <sub-title>Animal Passion</sub-title>
+    <desc>Max misunderstands Shannon's dating advice; Kristian lands an unexpected date because of Paul's loose lips.</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <date>20211109</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f3c701cf6b40c8efe3c74577c330da01.jpg" />
   </programme>
 </tv>

@@ -3,23 +3,7 @@
   <channel id="Documentary-Plus-CA">
     <display-name>Documentary+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus-CA.png" />
-  </channel><programme channel="Documentary-Plus-CA" start="20260417094513 +0500" stop="20260417112422 +0500">
-    <title>California Dreams</title>
-    <sub-title />
-    <desc>Through auditions across Southern California, the film portrays real people with big Hollywood aspirations.</desc>
-    <date>20260201</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7425294810248040762/Texted/rectangle/15huu147ftypo1xay9hxza71zy.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417112422 +0500" stop="20260417124954 +0500">
-    <title>Down in Shadowland</title>
-    <sub-title />
-    <desc>A five year project involving filming on NYC subway.</desc>
-    <date>20260201</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7424967991518160229/Texted/rectangle/10bom7vahutra1vn4cfj3v9rj3.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417124954 +0500" stop="20260417142435 +0500">
+  </channel><programme channel="Documentary-Plus-CA" start="20260417124954 +0500" stop="20260417142435 +0500">
     <title>Charm Circle</title>
     <sub-title />
     <desc>A powerful portrait of an eccentric family navigating the chaos that both ties and divides them.</desc>
@@ -187,5 +171,29 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7398925156110336810/Texted/rectangle/145462mzrg1vb11f5xw9q98v52.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418103443 +0500" stop="20260418113646 +0500">
+    <title>Moonless Oasis</title>
+    <sub-title />
+    <desc>In Canada, citizen scientists risk everything to protect prehistoric glass sponge reefs once thought extinct.</desc>
+    <date>20251031</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7403024863724640153/Texted/rectangle/166tw04g388s11jk1pgawyp9fy.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418113646 +0500" stop="20260418122840 +0500">
+    <title>Ghost Nets</title>
+    <sub-title />
+    <desc>A dive crew searches the Gulf Islands to remove abandoned nets and protect the ocean.</desc>
+    <date>20251031</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7398939266884994538/Texted/rectangle/1c2sghmxyxvjb1nswuuj3cxva4.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418122840 +0500" stop="20260418132920 +0500">
+    <title>Damned to Extinction</title>
+    <sub-title />
+    <desc>With salmon collapsing, a unique orca population starves. Removing four dams could restore their prey.</desc>
+    <date>20251031</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7398894387228221117/Texted/rectangle/1h5y9isqx6h9v1uq1nekjkht0q.jpg" />
   </programme>
 </tv>

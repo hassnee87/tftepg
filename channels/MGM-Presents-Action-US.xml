@@ -3,23 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260417083332 +0500" stop="20260417103417 +0500">
-    <title>Out Of Time</title>
-    <sub-title />
-    <desc>Denzel Washington is caught in a web of intrigue as he investigates the murder of a woman he was seeing...and all the evidence points to him.</desc>
-    <date>20030101</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7278337513288351558/Texted/rectangle/1cggojcot6gpi1b87toqbu58e6.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417103417 +0500" stop="20260417122819 +0500">
-    <title>The Mighty Quinn</title>
-    <sub-title />
-    <desc>When police officer Xavier Quinn (Denzel Washington) learns that his childhood friend has become the prime suspect in a murder case, he also discovers that he's the only one who feels that his friend was framed to protect the local tourism business.</desc>
-    <date>20230824</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7100370064803388500/Texted/rectangle/1610f1yoowxc4153pj7e9kx2hh.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417122819 +0500" stop="20260417143707 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260417122819 +0500" stop="20260417143707 +0500">
     <title>Gang Related</title>
     <sub-title />
     <desc>Two killers are hiding where no one will ever find them...behind their badges! Tupac Shakur and James Belushi are two corrupt police detectives caught in a dangerous web of deceit in this gritty, smart and tough action thriller.</desc>
@@ -107,5 +91,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7064245272498191063/Texted/rectangle/8bhocflvbu2f1mn8qdoviu4ch.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418104456 +0500" stop="20260418125142 +0500">
+    <title>Cutter's Way</title>
+    <sub-title />
+    <desc>Suspected of murder, Richard Bone (Jeff Bridges) turns to his best friend, Alex Cutter (John Heard), for help finding the real killer. But when their suspect turns the tables on them, a cunning game of cat-and-mouse ignites into a full-blown war!</desc>
+    <date>20230512</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7062872392652411500/Unspecified/rectangle/1uhiujfyrwnz61c4zjbu22sqjv.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418125142 +0500" stop="20260418151445 +0500">
+    <title>The Killer Elite</title>
+    <sub-title />
+    <desc>James Caan and Robert Duvall give stellar performances in this tense, action-packed thriller that explores betrayal in the murky world of assassins.</desc>
+    <date>20260225</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7432850231761543522/Unspecified/rectangle/1f4n7pezv1rr11lal6ckyle3le.jpg" />
   </programme>
 </tv>

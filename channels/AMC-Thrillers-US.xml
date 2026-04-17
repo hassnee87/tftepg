@@ -3,13 +3,7 @@
   <channel id="AMC-Thrillers-US">
     <display-name>AMC Thrillers</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AMC-Thrillers-US.png" />
-  </channel><programme channel="AMC-Thrillers-US" start="20260417095932 +0500" stop="20260417114449 +0500">
-    <title>Trench 11</title>
-    <sub-title />
-    <desc>Soldiers head deep beneath the trenches of World War I to stop a German plot.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/048794af5ecf5e6a94c2758b53c217d5/rokuFeed/assets/40b6ced7c1fe5999aa860e33032a6fc7.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260417114449 +0500" stop="20260417135045 +0500">
+  </channel><programme channel="AMC-Thrillers-US" start="20260417114449 +0500" stop="20260417135045 +0500">
     <title>Knives and Skin</title>
     <sub-title />
     <desc>Small-town teens react to the mysterious disappearance of a fellow high school student.</desc>
@@ -81,18 +75,18 @@
     <desc>A ghost tries to protect a girl and her family from a dead serial killer who can possess the living.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b77edcc8ba115a51870b01a94a4168f9/images/gracenote/assets/p9864548_v_h8_af.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260418082552 +0500" stop="20260418101705 +0500">
-    <title>Haunter</title>
-    <sub-title />
-    <desc>A ghost tries to protect a girl and her family from a dead serial killer who can possess the living.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b77edcc8ba115a51870b01a94a4168f9/images/gracenote/assets/p9864548_v_h8_af.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260418101705 +0500" stop="20260418122145 +0500">
     <title>The Twin</title>
     <sub-title />
     <desc>A woman confronts the malicious forces that are trying to take hold of her son.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f3058685123757fe9e9466818d427711/rokuFeed/assets/75877189434c5e39a65df54851cd8056.jpg" />
+  </programme><programme channel="AMC-Thrillers-US" start="20260418122145 +0500" stop="20260418140602 +0500">
+    <title>ATM</title>
+    <sub-title />
+    <desc>Three people (Alice Eve, Josh Peck, Brian Geraghty) become trapped by an unknown assailant.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8da9246fa7915141b396ccb9db784b6a/rokuFeed/assets/222f5359608f5bcab2e9a02b68d32901.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260418122145 +0500" stop="20260418140602 +0500">
     <title>ATM</title>
     <sub-title />

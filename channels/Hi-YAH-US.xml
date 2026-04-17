@@ -3,13 +3,7 @@
   <channel id="Hi-YAH-US">
     <display-name>Hi-YAH!</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hi-YAH-US.png" />
-  </channel><programme channel="Hi-YAH-US" start="20260417090611 +0500" stop="20260417120731 +0500">
-    <title>Tomiris</title>
-    <sub-title />
-    <desc>The story of Tomiris, the queen of of the steppe, who was destined to become a skillful warrior.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6c3aeb391ba652789efc7e6960f9b673/rokuFeed/assets/654a227fefb05f818e7f09c384e5ad36.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417120731 +0500" stop="20260417140700 +0500">
+  </channel><programme channel="Hi-YAH-US" start="20260417120731 +0500" stop="20260417140700 +0500">
     <title>Xue shan fei hu</title>
     <sub-title />
     <desc>After two heroes are killed, a treasure map inexplicably disappears -- until a decade later.</desc>
@@ -69,18 +63,18 @@
     <desc>MMA champ Kurt Sloane trains for a fight against a 400-pound killer in an underground death match.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5143181d27de54b98445588e50eedb8f/images/gracenote/assets/p14860144_v_h8_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418075819 +0500" stop="20260418100642 +0500">
-    <title>Kickboxer: Retaliation</title>
-    <sub-title />
-    <desc>MMA champ Kurt Sloane trains for a fight against a 400-pound killer in an underground death match.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5143181d27de54b98445588e50eedb8f/images/gracenote/assets/p14860144_v_h8_aa.jpg" />
   </programme><programme channel="Hi-YAH-US" start="20260418100642 +0500" stop="20260418122658 +0500">
     <title>Memories of the Sword</title>
     <sub-title />
     <desc>A warrior goes on a mission to seek revenge for the death of her parents.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a9b1129164c5796a88b59574c86f22c/images/gracenote/assets/p12066587_v_h8_ag.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260418122658 +0500" stop="20260418145844 +0500">
+    <title>The Pirates</title>
+    <sub-title />
+    <desc>Pirates and bandits hunt a grey whale after it swallows a royal stamp.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0db4050a3a75abd92e16cffb5cc5794/images/gracenote/assets/p11046298_v_h10_ah.jpg" />
   </programme><programme channel="Hi-YAH-US" start="20260418122658 +0500" stop="20260418145844 +0500">
     <title>The Pirates</title>
     <sub-title />

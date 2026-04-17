@@ -3,39 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417093848 +0500" stop="20260417103028 +0500">
-    <title>Missing</title>
-    <sub-title>One Night Stand</sub-title>
-    <desc>Jess and Nicole investigate the disappearance of a woman who they suspect may be involved in an elaborate -- and deadly, embezzlement scheme.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375970074117292469/solid/rectangle/w1920_h1080/1kduq12n4kmmf17a92dqymdwn9.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417103028 +0500" stop="20260417112302 +0500">
-    <title>Missing</title>
-    <sub-title>Judgement Day</sub-title>
-    <desc>A noted Russian mobster's pre-trial hearing leads to the kidnapping of an innocent girl.</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375970286749634187/solid/rectangle/w1920_h1080/1rkru2zd9xr7w134amj43sg69b.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417112302 +0500" stop="20260417121536 +0500">
-    <title>Missing</title>
-    <sub-title>Resurrection</sub-title>
-    <desc>A mother claims she saw her son, who she thought died in a car accident ten years ago.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375970682874942865/solid/rectangle/w1920_h1080/edaoysri3e7e1i7ly98p1bne6.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417121536 +0500" stop="20260417130841 +0500">
-    <title>Missing</title>
-    <sub-title>Last Stop</sub-title>
-    <desc>A missing casino tour bus leads Jess and Nicole to investigate an armored car robbery.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <date>20250922</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7375970147286804118/solid/rectangle/w1920_h1080/cb3mcem3g1ms16ds1hyfjjoyt.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417130841 +0500" stop="20260417140035 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417130841 +0500" stop="20260417140035 +0500">
     <title>Missing</title>
     <sub-title>Domestic Bliss</sub-title>
     <desc>A family's disappearance exposes a drug turf war and draws Jess and Nicole into a battle with the DEA.</desc>
@@ -227,5 +195,29 @@
     <date>20200223</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7299812893974258886/solid/rectangle/w1920_h1080/gccwdzxodjer1hmcvdrinrgca.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418103937 +0500" stop="20260418114223 +0500">
+    <title>Better Call Saul</title>
+    <sub-title>Bagman</sub-title>
+    <desc>When a simple errand for a client goes sideways, Jimmy is pushed to the limit; Mike takes measures to contain the wrath of the cartel; Lalo gets an unexpected visitor.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20200223</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7299812923169577535/solid/rectangle/w1920_h1080/u922284c6ftn1t6vgsb7mxn2w.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418114223 +0500" stop="20260418125030 +0500">
+    <title>Better Call Saul</title>
+    <sub-title>Bad Choice Road</sub-title>
+    <desc>In the wake of Jimmy's traumatic misadventure, Kim takes stock of what is important; Jimmy attempts to return to business as usual, but it's more difficult than anticipated; Gus and Mike set a plan in motion.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20200223</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7303089809470280415/solid/rectangle/w1920_h1080/6wg2bf0z50jnzufqf8tpypxj.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418125030 +0500" stop="20260418135943 +0500">
+    <title>Better Call Saul</title>
+    <sub-title>Something Unforgivable</sub-title>
+    <desc>Jimmy and Kim make a sideways move that takes a serious turn; Nacho gets closer to the cartel than he'd like.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20200223</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7303089856554751807/solid/rectangle/w1920_h1080/1a55bns15908g18xifz48ao0lw.jpg" />
   </programme>
 </tv>

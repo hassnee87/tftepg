@@ -3,13 +3,7 @@
   <channel id="MGM-Presents-US">
     <display-name>MGM Presents</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-US.png" />
-  </channel><programme channel="MGM-Presents-US" start="20260417091727 +0500" stop="20260417112709 +0500">
-    <title>The Long Goodbye</title>
-    <sub-title />
-    <desc>Raymond Chandler's private eye Philip Marlowe meets a fun couple in the 1970s Los Angeles.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/46034eb709b658269103f6898ab6d92b/images/gracenote/assets/p2217_v_h11_aa.jpg" />
-  </programme><programme channel="MGM-Presents-US" start="20260417112709 +0500" stop="20260417135323 +0500">
+  </channel><programme channel="MGM-Presents-US" start="20260417112709 +0500" stop="20260417135323 +0500">
     <title>The Manchurian Candidate</title>
     <sub-title />
     <desc>Korean War hero's (Laurence Harvey) commander (Frank Sinatra) learns platoon was brainwashed.</desc>
@@ -75,12 +69,12 @@
     <desc>A drifter, a bandit and a bounty hunter reach a standoff over buried gold.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c564302f3bf4550b94d669b5add9ced7/images/gracenote/assets/p4161_v_h10_ao.jpg" />
-  </programme><programme channel="MGM-Presents-US" start="20260418075102 +0500" stop="20260418112014 +0500">
-    <title>The Good, the Bad and the Ugly</title>
+  </programme><programme channel="MGM-Presents-US" start="20260418112014 +0500" stop="20260418144048 +0500">
+    <title>The Great Escape</title>
     <sub-title />
-    <desc>A drifter, a bandit and a bounty hunter reach a standoff over buried gold.</desc>
+    <desc>A group of Allied soldiers dig a tunnel out of a Nazi prison camp, pocketfuls of dirt at a time.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c564302f3bf4550b94d669b5add9ced7/images/gracenote/assets/p4161_v_h10_ao.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4307ad7113df52bcb500097f731baa1d/images/gracenote/assets/p3150_v_h10_al.jpg" />
   </programme><programme channel="MGM-Presents-US" start="20260418112014 +0500" stop="20260418144048 +0500">
     <title>The Great Escape</title>
     <sub-title />

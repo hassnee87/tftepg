@@ -3,31 +3,7 @@
   <channel id="CW-Gold-US">
     <display-name>CW Gold</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CW-Gold-US.png" />
-  </channel><programme channel="CW-Gold-US" start="20260417093056 +0500" stop="20260417102100 +0500">
-    <title>NUMB3RS</title>
-    <desc>Charlie's math insight may stop a deadly virus that may be bioterrorism.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417102100 +0500" stop="20260417111057 +0500">
-    <title>NUMB3RS</title>
-    <desc>Charlie convinces Don to investigate the apparent suicide of a student.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417111057 +0500" stop="20260417120125 +0500">
-    <title>NUMB3RS</title>
-    <desc>A mathematician's daughter is kidnapped and ransomed.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417120125 +0500" stop="20260417125151 +0500">
-    <title>Limitless</title>
-    <desc>Sen. Morra demands a high price for Brian's next inoculation to combat the side effects of NZT.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aa1bb6f0280a5eb3ac40b61c36470ff6/images/gracenote/assets/p11779145_b_h10_ab.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417125151 +0500" stop="20260417134108 +0500">
+  </channel><programme channel="CW-Gold-US" start="20260417125151 +0500" stop="20260417134108 +0500">
     <title>Limitless</title>
     <desc>When Brian tries to land a day off by calling in sick, the CIA abducts him for a black-ops mission.</desc>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -183,12 +159,6 @@
     <episode-num system="onscreen">S02E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260418093100 +0500" stop="20260418102000 +0500">
-    <title>NUMB3RS</title>
-    <desc>Charlie finds a disturbing photo on a confiscated computer and pursues its origin.</desc>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260418102000 +0500" stop="20260418111054 +0500">
     <title>NUMB3RS</title>
     <desc>Don and Megan hunt for a former chemist thought to be tampering with medication.</desc>
@@ -205,6 +175,12 @@
     <title>NUMB3RS</title>
     <desc>Don and his team must find the serial arsonist responsible for an innocent man's death.</desc>
     <episode-num system="onscreen">S02E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260418125022 +0500" stop="20260418134220 +0500">
+    <title>NUMB3RS</title>
+    <desc>When a fellow FBI agent working undercover is killed in a gang retaliation, Don and his team must investigate.</desc>
+    <episode-num system="onscreen">S02E12</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260418125022 +0500" stop="20260418134220 +0500">

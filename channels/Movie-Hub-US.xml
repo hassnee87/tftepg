@@ -3,19 +3,7 @@
   <channel id="Movie-Hub-US">
     <display-name>Movie Hub</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
-  </channel><programme channel="Movie-Hub-US" start="20260417091900 +0500" stop="20260417110100 +0500">
-    <title>Silent House</title>
-    <sub-title />
-    <desc>Panic turns to terror when a young woman becomes sealed inside her family's remote lake house.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2457535d05565e8199e9a3b4a56c2534/rokuFeed/assets/c7f5f2f3b62c5e50a10189a64c6b8993.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417110100 +0500" stop="20260417125100 +0500">
-    <title>The Possession</title>
-    <sub-title />
-    <desc>Parents (Jeffrey Dean Morgan, Kyra Sedgwick) must save their daughter from an evil spirit.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/853ba87c9c0756209b9cec2a112fa3c5/images/gracenote/assets/p8640390_v_h10_ap.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417125100 +0500" stop="20260417145500 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260417125100 +0500" stop="20260417145500 +0500">
     <title>Side Effects</title>
     <sub-title />
     <desc>A woman's world unravels after her psychiatrist prescribes a new medication to treat her anxiety.</desc>
@@ -87,12 +75,12 @@
     <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260418093700 +0500" stop="20260418120100 +0500">
-    <title>The Host</title>
+  </programme><programme channel="Movie-Hub-US" start="20260418120100 +0500" stop="20260418134600 +0500">
+    <title>Curvature</title>
     <sub-title />
-    <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
+    <desc>A scientist breaks into a top-secret facility to travel back in time to prevent a murder.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4aabbaebcfc553148fc9f9308572bd04/rokuFeed/assets/20b1d9f3b9915ec0aab5b5d908312afc.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418120100 +0500" stop="20260418134600 +0500">
     <title>Curvature</title>
     <sub-title />

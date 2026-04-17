@@ -3,39 +3,7 @@
   <channel id="Wonder-UK">
     <display-name>Wonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Wonder-UK.png" />
-  </channel><programme channel="Wonder-UK" start="20260417093434 +0500" stop="20260417102705 +0500">
-    <title>Mighty Cruise Ships</title>
-    <sub-title>Paul Gauguin</sub-title>
-    <desc>Gauguin explores French Polynesia's beauty, luxury, and adventure in the stunning series premiere.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20140101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417102705 +0500" stop="20260417112354 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Windpark</sub-title>
-    <desc>A 2,000-ton wind farm cargo is shipped from Europe to Taiwan on a heavy lift vessel, adding a deck.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417112354 +0500" stop="20260417121839 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Ice Road</sub-title>
-    <desc>Transporting a giant bulldozer to gold mines in Russia's Kolymar range through harsh winter.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417121839 +0500" stop="20260417131324 +0500">
-    <title>Mega Transports</title>
-    <sub-title>Generator</sub-title>
-    <desc>The team navigates rough lanes, old bridges, and a change of plan to move a 390-tonne generator.</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <date>20170101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260417131324 +0500" stop="20260417141135 +0500">
+  </channel><programme channel="Wonder-UK" start="20260417131324 +0500" stop="20260417141135 +0500">
     <title>Steel Monsters</title>
     <sub-title>Mega Towers</sub-title>
     <desc>Bison recovery vehicles tow heavy gear in war zones using winches, pulleys, and armored power.</desc>
@@ -217,6 +185,30 @@
     <desc>Go behind the build of mega cranes built to hoist hundreds of tons sky-high.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
     <date>20221005</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418110722 +0500" stop="20260418120325 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>Mega Diesel Engines</sub-title>
+    <desc>Explore Germany’s colossal MTU engines driving ships, trains, and heavy machines.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20221005</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418120325 +0500" stop="20260418125936 +0500">
+    <title>Exceptional Engineering</title>
+    <sub-title>The World's Biggest Motorbike Factory</sub-title>
+    <desc>Step inside BMW Berlin to see world-class bikes built with speed, style, and soul.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20221005</date>
+    <language>en</language>
+    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
+  </programme><programme channel="Wonder-UK" start="20260418125936 +0500" stop="20260418140129 +0500">
+    <title>Good Night MH370</title>
+    <sub-title>At The Heart Of The Chaos</sub-title>
+    <desc>Malaysia Airlines' 2014 MH370 search failed, facing criticism for poor prep, false turnback theory, and gaps.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20230101</date>
     <language>en</language>
     <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
   </programme>

@@ -3,24 +3,14 @@
   <channel id="Paramount-Movie-Channel-Pluto-US">
     <display-name>Paramount Movie Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Paramount-Movie-Channel-US.png" />
-  </channel><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417093000 +0500" stop="20260417114500 +0500">
-    <title>10 Cloverfield Lane</title>
-    <sub-title />
-    <desc>After a car crash, a woman wakes up in a survivalist’s bunker. He claims to have saved her from an apocalyptic attack, but, growing suspicious of his motives, she'll have to escape to discover the truth.</desc>
-    <date>20160311</date>
-    <category>Thriller</category>
-    <category>Science fiction</category>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/5ffc90de50e458001a794be2/poster_1774983613236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417114500 +0500" stop="20260417141500 +0500">
+  </channel><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417114500 +0500" stop="20260417141500 +0500">
     <title>World War Z</title>
     <sub-title />
     <desc>World War Z is the fast-paced, pulse-pounding epic of the potential last days of the human race. Former United Nations employee Gerry Lane (Brad Pitt) is called in to help stop the pandemic that has spread around the world.</desc>
     <date>20130621</date>
-    <category>Blockbusters</category>
     <category>Action</category>
     <category>Movie</category>
+    <category>Blockbusters</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/64b58b7e12c80e001354dc91/poster_1769801762770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260417141500 +0500" stop="20260417163000 +0500">
@@ -46,8 +36,8 @@
     <sub-title />
     <desc>Five young New Yorkers face a life or death struggle in order to escape from the city when a monster the size of a skyscraper suddenly appears.</desc>
     <date>20071231</date>
-    <category>Sci-Fi Horror</category>
     <category>Science fiction</category>
+    <category>Sci-Fi Horror</category>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/5bd3338967f34cef7af44a37/poster_1769024881892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -56,8 +46,8 @@
     <sub-title />
     <desc>After a car crash, a woman wakes up in a survivalist’s bunker. He claims to have saved her from an apocalyptic attack, but, growing suspicious of his motives, she'll have to escape to discover the truth.</desc>
     <date>20160311</date>
-    <category>Thriller</category>
     <category>Science fiction</category>
+    <category>Thriller</category>
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/5ffc90de50e458001a794be2/poster_1774983613236.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
@@ -66,9 +56,9 @@
     <sub-title />
     <desc>World War Z is the fast-paced, pulse-pounding epic of the potential last days of the human race. Former United Nations employee Gerry Lane (Brad Pitt) is called in to help stop the pandemic that has spread around the world.</desc>
     <date>20130621</date>
-    <category>Blockbusters</category>
     <category>Action</category>
     <category>Movie</category>
+    <category>Blockbusters</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/64b58b7e12c80e001354dc91/poster_1769801762770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260418004500 +0500" stop="20260418024500 +0500">
@@ -80,5 +70,24 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/episodes/622f99274f80a80014e98586/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260418024500 +0500" stop="20260418050000 +0500">
+    <title>Disturbia</title>
+    <sub-title />
+    <desc>Living under three months' house arrest, Kale Brecht (Shia LaBeouf, Transformers) passes his days spying on the neighbors. It's all fun and games until things take a horrifying turn for the worse.</desc>
+    <date>20070413</date>
+    <category>Drama</category>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/episodes/65b452a270ac44001358151c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+  </programme><programme channel="Paramount-Movie-Channel-Pluto-US" start="20260418050000 +0500" stop="20260418064500 +0500">
+    <title>Cloverfield</title>
+    <sub-title />
+    <desc>Five young New Yorkers face a life or death struggle in order to escape from the city when a monster the size of a skyscraper suddenly appears.</desc>
+    <date>20071231</date>
+    <category>Science fiction</category>
+    <category>Sci-Fi Horror</category>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/episodes/5bd3338967f34cef7af44a37/poster_1769024881892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
   </programme>
 </tv>
