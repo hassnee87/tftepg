@@ -3,13 +3,7 @@
   <channel id="Great-Romance-UK">
     <display-name>Great! Romance</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Romance-UK.png" />
-  </channel><programme channel="Great-Romance-UK" start="20260417080455 +0500" stop="20260417094545 +0500">
-    <title>Love, Game, Match</title>
-    <sub-title />
-    <desc>(2021) Romance with Cristine Prosperi and Dale Moss. New-in-town teacher Liz agrees to help test her students' matchmaking website - so will it be singles or doubles when she meets tennis coach Ted?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485669393_0_20231031T105013546Z_54.png" />
-  </programme><programme channel="Great-Romance-UK" start="20260417094545 +0500" stop="20260417112410 +0500">
+  </channel><programme channel="Great-Romance-UK" start="20260417094545 +0500" stop="20260417112410 +0500">
     <title>Falling for the Competition</title>
     <sub-title />
     <desc>(2023) Romcom rivalry starring Francesca Barker McCormick and Michael Joseph Nelson. It's mums vs. dads as two parenting groups compete for an award - but will love take their eyes off the prize?</desc>
@@ -27,5 +21,11 @@
     <desc>(2022) Romcom with Angel Prater. Wearing a lucky bridesmaid's dress has led to all her friends getting engaged. But when it doesn't work for Claudia, will it help her discover who's really 'the one'?</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1664196037_0_20260301T114717119Z_92_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
+  </programme><programme channel="Great-Romance-UK" start="20260417160919 +0500" stop="20260417174903 +0500">
+    <title>A Wedding for Belle</title>
+    <sub-title />
+    <desc>(2025) Confetti-covered romance with Ella Cannon. Wedding blogger Belle always dreamed of getting married in her hometown, but will it still be 'I do' when her old high-school boyfriend shows up?</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1682387144_0_20260308T171011133Z_51_imageprocessorclient-tvplus-linear-85d7d49859-rnzm5.jpeg" />
   </programme>
 </tv>

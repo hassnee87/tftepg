@@ -3,13 +3,7 @@
   <channel id="Real-Crime-US">
     <display-name>Real Crime</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Crime-US.png" />
-  </channel><programme channel="Real-Crime-US" start="20260417073100 +0500" stop="20260417092700 +0500">
-    <title>NCR: Not Criminally Responsible</title>
-    <sub-title />
-    <desc>The story of Sean Clifton, who stabbed and badly injured a woman while he was in a delusional state.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/227384ffaafc54a295fb13cfaf4e0742/rokuFeed/assets/ee7a7e3d58e057429644d18b613ffd76.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417092700 +0500" stop="20260417102200 +0500">
+  </channel><programme channel="Real-Crime-US" start="20260417092700 +0500" stop="20260417102200 +0500">
     <title>Behind Bars: The World's Toughest Prisons</title>
     <desc>A prison in the desert of Arizona uses old army tents instead of prison cells.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -147,12 +141,12 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/986fab6cb00d0ed4bbe539b7d8e4842a/rokuFeed/assets/2156e27968995ba589539d3280f8ee9b.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260418073900 +0500" stop="20260418083800 +0500">
-    <title>Psychic Witness</title>
-    <desc>Psychics aid in OK flood child loss and NY double murder, warning the killer may strike again.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
+  </programme><programme channel="Real-Crime-US" start="20260418083800 +0500" stop="20260418102800 +0500">
+    <title>Angel of Death</title>
+    <desc>Forensic scientists developed a method to detect poisons in past victims, leading to his conviction.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/986fab6cb00d0ed4bbe539b7d8e4842a/rokuFeed/assets/2156e27968995ba589539d3280f8ee9b.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e76fdfd1eb5f53bda6194f4efb429642/rokuFeed/assets/3967e039958950c78dbefcd92cf9be72.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260418083800 +0500" stop="20260418102800 +0500">
     <title>Angel of Death</title>
     <desc>Forensic scientists developed a method to detect poisons in past victims, leading to his conviction.</desc>

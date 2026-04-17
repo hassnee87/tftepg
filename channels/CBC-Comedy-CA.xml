@@ -3,47 +3,7 @@
   <channel id="CBC-Comedy-CA">
     <display-name>CBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBC-Comedy-CA.png" />
-  </channel><programme channel="CBC-Comedy-CA" start="20260417081100 +0500" stop="20260417083600 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Lice</sub-title>
-    <desc>A lice outbreak at camp becomes everyone's worst nightmare; Kate's interview soon proves somewhat uncomfortable. Anne quarantines her house while Frankie tries to sell a home under false pretences.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20200324</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c1ae7818371de16bc29d763b2cbd207b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417083600 +0500" stop="20260417090200 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Bad Reputation</sub-title>
-    <desc>Kate finds herself in the middle of a PR crisis for her new client Après; Anne is inspired by a new book idea; Frankie and Bianca discover the truth about Sean.</desc>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <date>20200331</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9298b6e89e70458d40c454764aaf4d28.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417090200 +0500" stop="20260417092800 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>The Jazzaguy</sub-title>
-    <desc>David and Stevie set out on a romantic getaway; Johnny steps in at a Jazzagals rehearsal and wows everyone with his skills; Alexis tests out a dating app.</desc>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <date>20180313</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b809a4bbb56803b45196bd5eb99719fd.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417092800 +0500" stop="20260417095400 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>The Olive Branch</sub-title>
-    <desc>David looks for a way to reconcile with Patrick after spending time away from him; Moira pitches the idea of a singles week event.</desc>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <date>20180320</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2b0914a17db19b9242c37b26f9ad9709.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417095400 +0500" stop="20260417102000 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>Baby Sprinkle</sub-title>
-    <desc>Johnny and Moira get too involved at a singles event; Alexis runs into an old friend.</desc>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <date>20180327</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4e2bd6286a3cefa09501ea4a707404d3.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417102000 +0500" stop="20260417104600 +0500">
+  </channel><programme channel="CBC-Comedy-CA" start="20260417102000 +0500" stop="20260417104600 +0500">
     <title>Schitt's Creek</title>
     <sub-title>The Rollout</sub-title>
     <desc>Moira tries to get out of jury duty; David runs damage control for a Rose Apothecary product.</desc>
@@ -434,5 +394,45 @@
     <date>20210216</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/d/gracenote/df1349568c0ccee784ce73efac82a20c.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418081900 +0500" stop="20260418084500 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Mama Mia Meatboy</sub-title>
+    <desc>Kate feels the pressure to land a major new client; Anne is torn between hanging on to her ambition and succumbing to the rhythm of life as a Cochrane mom; with Bianca away, Frankie buys Rhoda a strange new pet.</desc>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <date>20210223</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/164098e22e0eaaf40d73a94b27850499.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418084500 +0500" stop="20260418091100 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Pleasure Yourself</sub-title>
+    <desc>Kate walks farther into the lioness's den with Sloane; Anne starts her new job; Alice gets closer with her new boyfriend; Jenny discovers her secret office romance with MCP might not be exactly what she expected.</desc>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <date>20210302</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7469916e102d78c3f20690f112dc82b0.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418091100 +0500" stop="20260418093600 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>Singles Week</sub-title>
+    <desc>Singles Week kicks off just as Jocelyn's baby is born; Patrick and David take their relationship to the next level.</desc>
+    <episode-num system="onscreen">S04E12</episode-num>
+    <date>20180410</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/04e6e00414fbb822446e14dc0551deec.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418093600 +0500" stop="20260418100600 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>Merry Christmas, Johnny Rose</sub-title>
+    <desc>Johnny wants to celebrate the holidays with an old-fashioned Rose Family Christmas Party, but it takes a lot to get everyone on board at the last minute; Moira brings a negative attitude to Christmas tree shopping.</desc>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <date>20181218</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2cfc756da5f4167dadd29ea057daeee3.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418100600 +0500" stop="20260418103200 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>The Crowening</sub-title>
+    <desc>Moira films a movie in Bosnia, hoping to revive her career; David tries to take his relationship to the next level.</desc>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <date>20190108</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/3aa425695d62d6be3ea818db294d07ff.jpg" />
   </programme>
 </tv>

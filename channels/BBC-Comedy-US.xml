@@ -3,31 +3,7 @@
   <channel id="BBC-Comedy-US">
     <display-name>BBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
-  </channel><programme channel="BBC-Comedy-US" start="20260417081045 +0500" stop="20260417084202 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Blue</sub-title>
-    <desc>Lister is missing Rimmer, at least until Kryten steps in to help.</desc>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <date>19970214</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/3Q1cQMH5a9XvLS7988kM2Cxpu0O.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417084202 +0500" stop="20260417091449 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Beyond a Joke</sub-title>
-    <desc>In a hope to educate the crew Kochansky transports them to Pride and Prejudice World.</desc>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <date>19970221</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/2opndGs6hr0ug4UWxHYIt0nlNR.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417091449 +0500" stop="20260417094749 +0500">
-    <title>Red Dwarf</title>
-    <sub-title>Epideme</sub-title>
-    <desc>Lister is impregnated with a virus and he tries to talk his way out of the problem.</desc>
-    <episode-num system="onscreen">S07E07</episode-num>
-    <date>19970228</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/gxVg1lpR6n01mMYvm4M8HFGpNu4.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260417094749 +0500" stop="20260417102044 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260417094749 +0500" stop="20260417102044 +0500">
     <title>Red Dwarf</title>
     <sub-title>Nanarchy</sub-title>
     <desc>The crew finally discover who stole Red Dwarf and why.</desc>
@@ -363,5 +339,37 @@
     <date>20171102</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/cjaUQEICVx8jCxXGk4r586Y8seo.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418084201 +0500" stop="20260418091252 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>M-Corp</sub-title>
+    <desc>The Dwarfers discover that the owners of Red Dwarf have been bought out.</desc>
+    <episode-num system="onscreen">S12E05</episode-num>
+    <date>20171109</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/AqXMfB4l5owE8Dpkx0M2q1jn46c.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418091252 +0500" stop="20260418094449 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Skipper</sub-title>
+    <desc>Rimmer looks for another dimension where he is not such a giant loser.</desc>
+    <episode-num system="onscreen">S12E06</episode-num>
+    <date>20171116</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/6Q0EdanIYYzoUSDpdmcXESHn4OJ.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418094449 +0500" stop="20260418101803 +0500">
+    <title>The Office</title>
+    <sub-title>Judgement</sub-title>
+    <desc>It's decision day at Wernham Hogg. Will the Slough or Swindon branch get the axe?</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20010820</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260418101803 +0500" stop="20260418105105 +0500">
+    <title>The Office</title>
+    <sub-title>Charity</sub-title>
+    <desc>Neil and Rachel are a hit with their charity dance routine. David responds as only he can.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20021028</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
   </programme>
 </tv>

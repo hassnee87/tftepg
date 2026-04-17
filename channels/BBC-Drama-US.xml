@@ -3,14 +3,7 @@
   <channel id="BBC-Drama-US">
     <display-name>BBC Drama</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Drama-US.png" />
-  </channel><programme channel="BBC-Drama-US" start="20260417074146 +0500" stop="20260417091944 +0500">
-    <title>Oliver Twist</title>
-    <sub-title />
-    <desc>Oliver is sold to become the servant of an undertaker.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/561532595a2e55c882802f225dbce767/images/gracenote/assets/p9104482_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260417091944 +0500" stop="20260417105523 +0500">
+  </channel><programme channel="BBC-Drama-US" start="20260417091944 +0500" stop="20260417105523 +0500">
     <title>Oliver Twist</title>
     <desc>Monks promises to pay Fagin well if he causes Oliver's death.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -136,16 +129,16 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
-  </programme><programme channel="BBC-Drama-US" start="20260418072904 +0500" stop="20260418083433 +0500">
-    <title>Emma</title>
-    <desc>Emma convinces Harriet Smith that she is too good for Robert Martin.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418083433 +0500" stop="20260418094132 +0500">
     <title>Emma</title>
     <desc>Emma is intrigued by the mysterious and elusive newcomer Frank Churchill.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
+  </programme><programme channel="BBC-Drama-US" start="20260418094132 +0500" stop="20260418104802 +0500">
+    <title>Emma</title>
+    <desc>Emma teases Mr. Knightley about Jane; Emma examines her feelings for Frank.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/de6095ea955855ffb396a90a3fd113a7/images/gracenote/assets/p8456446_b_h8_ad.jpg" />
   </programme><programme channel="BBC-Drama-US" start="20260418094132 +0500" stop="20260418104802 +0500">

@@ -3,43 +3,7 @@
   <channel id="DangerTV-US">
     <display-name>DangerTV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/DangerTV-US.png" />
-  </channel><programme channel="DangerTV-US" start="20260417090700 +0500" stop="20260417093700 +0500">
-    <title>Customs</title>
-    <sub-title>Sniffer Dogs Score</sub-title>
-    <desc>A smuggler has no choice but to give himself away when the sniffer dog catches on.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417093700 +0500" stop="20260417100600 +0500">
-    <title>Customs</title>
-    <sub-title>Passport Problems</sub-title>
-    <desc>Officers in Manchester deal with a drunk man who's lost his passport, and a man on a student VISA who claims to be a studying, but has been training for a UK lorry driving license on the side.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417100600 +0500" stop="20260417103500 +0500">
-    <title>Customs</title>
-    <sub-title>Questionable Cash</sub-title>
-    <desc>The cash hounds find a questionable cache of cash.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417103500 +0500" stop="20260417110500 +0500">
-    <title>Customs</title>
-    <sub-title>Two Kinds of Smugglers</sub-title>
-    <desc>Custom officers find 10,000 cigarettes hidden in the back of a man's truck.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1141944915_0_20250411T042628464Z_111_imageprocessorclient-tvplus-linear-b76dd9bbb-gvkfw.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="DangerTV-US" start="20260417110500 +0500" stop="20260417113300 +0500">
+  </channel><programme channel="DangerTV-US" start="20260417110500 +0500" stop="20260417113300 +0500">
     <title>Border Security: Canada's Front Line</title>
     <sub-title>Tough Customer</sub-title>
     <desc>An angry businessman hides the real reason for his hostility  officers try to process some unusual Mexican migrants.</desc>
@@ -126,6 +90,33 @@
     <desc>Chronicling the lives and work of conservation officers in America.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1435108672_0_20250602T173804654Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-sk45m.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417153600 +0500" stop="20260417160300 +0500">
+    <title>Wardens</title>
+    <sub-title />
+    <desc>Chronicling the lives and work of conservation officers in America.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1435108672_0_20250602T173804654Z_76_imageprocessorclient-tvplus-linear-b76dd9bbb-sk45m.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417160300 +0500" stop="20260417165600 +0500">
+    <title>Dropped: Project Yukon: Band of Ten</title>
+    <sub-title />
+    <desc>The team awakens to a thick layer of frost on their sleeping bags.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_1050304188_0_20250324T202432508Z_36_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="DangerTV-US" start="20260417165600 +0500" stop="20260417172500 +0500">
+    <title>Fight to Survive: Mischelle Hileman</title>
+    <sub-title />
+    <desc>Mischelle Hileman is deep in the Oregon wilderness on an elk hunt when she gets lost and injured and finds herself on the brink of death.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2059945843_0_20251020T014828533Z_59_imageprocessorclient-tvplus-linear-76c46fff7-jmh7x.jpeg" />
     <rating>
       <value>NA</value>
     </rating>

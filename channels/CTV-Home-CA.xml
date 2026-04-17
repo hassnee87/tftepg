@@ -3,47 +3,7 @@
   <channel id="CTV-Home-CA">
     <display-name>CTV @Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Home-CA.png" />
-  </channel><programme channel="CTV-Home-CA" start="20260417080721 +0500" stop="20260417083243 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Pie in the Sky</sub-title>
-    <desc>Pie making can be daunting, but Mary provides a pastry crash course with three different types of dough.</desc>
-    <episode-num system="onscreen">S01E19</episode-num>
-    <date>20260119</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417083243 +0500" stop="20260417085804 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Desk Lunch</sub-title>
-    <desc>Whether you’re working from home or at the office, Mary’s recipes mean you don’t have to sacrifice a tasty lunch for convenience.</desc>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417085804 +0500" stop="20260417092325 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>May Contain</sub-title>
-    <desc>Mary shows you how to cater to food intolerances and allergies by amping up the flavour instead of using blah ingredient substitutions.</desc>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <date>20260119</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417092325 +0500" stop="20260417094844 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Spice, Spice, Baby</sub-title>
-    <desc>Mary takes a spice-fueled adventure around the world and helps you navigate the grocery store spice aisle.</desc>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417094844 +0500" stop="20260417101405 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Picky Eaters</sub-title>
-    <desc>Whether you’re cooking for finicky friends or tricky tots, Mary’s got it covered with strategies to feed even the pickiest eaters.</desc>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417101405 +0500" stop="20260417103925 +0500">
+  </channel><programme channel="CTV-Home-CA" start="20260417101405 +0500" stop="20260417103925 +0500">
     <title>Mary Makes It Easy</title>
     <sub-title>Guests to Impress</sub-title>
     <desc>Mary recommends a retro theme for impressing guests, and these old-school recipes with a special Mary twist.</desc>
@@ -448,6 +408,46 @@
     <sub-title>Roast Beef Night</sub-title>
     <desc>Chef Spencer Watts makes a delicious family-style roast beef dinner in around 30 minutes.</desc>
     <episode-num system="onscreen">S01E01</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418082310 +0500" stop="20260418084916 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Fish &amp; Chips Night</sub-title>
+    <desc>Fish and chips are always great for a quick, inexpensive family dinner.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418084916 +0500" stop="20260418091522 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Pizza Night</sub-title>
+    <desc>Pizza night is quick and budget-friendly as Chef Spencer Watts offers up his favourite recipes.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418091522 +0500" stop="20260418094128 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Curry in a Hurry Night</sub-title>
+    <desc>Chef Spencer Watts makes a full, family-style Indian meal in around 30 minutes.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418094128 +0500" stop="20260418100734 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Chinese Take-Out Night</sub-title>
+    <desc>Why order take-out when you can make it fresher, faster, and even healthier at home?</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418100734 +0500" stop="20260418103341 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Lasagna Night</sub-title>
+    <desc>It’s all about lasagna with Chef Spencer Watts’ delicious and nutritious 30-minute meal.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
     <date>20250923</date>
     <language>en</language>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />

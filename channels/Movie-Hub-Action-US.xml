@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-Action-US">
     <display-name>Movie Hub Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-Action-US.png" />
-  </channel><programme channel="Movie-Hub-Action-US" start="20260417071500 +0500" stop="20260417090700 +0500">
-    <title>The Tai Chi Master</title>
-    <sub-title />
-    <desc>Two Shaolin Temple students (Jet Li, Chin Siu-hou) battle each other.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2a454056e0eb58c9bcacd38a3e39819e/images/gracenote/assets/p22923_v_h11_aa.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417090700 +0500" stop="20260417112200 +0500">
+  </channel><programme channel="Movie-Hub-Action-US" start="20260417090700 +0500" stop="20260417112200 +0500">
     <title>The Gunman</title>
     <sub-title />
     <desc>A former Special Forces soldier (Sean Penn) who suffers from PTSD goes on the run to clear his name.</desc>
@@ -87,12 +81,12 @@
     <desc>A security guard protects an eleven-year-old girl who is being targeted by a gang.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/efd4ac87bf38257adfa403207ca2a9d8/images/gracenote/assets/p31203782_v_h10_aa.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260418072300 +0500" stop="20260418090800 +0500">
-    <title>Security</title>
+  </programme><programme channel="Movie-Hub-Action-US" start="20260418090800 +0500" stop="20260418104000 +0500">
+    <title>Mafia</title>
     <sub-title />
-    <desc>A security guard protects an eleven-year-old girl who is being targeted by a gang.</desc>
+    <desc>A detective (Pam Grier) vows to bring a thug (Ving Rhames) and his gang to justice.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/efd4ac87bf38257adfa403207ca2a9d8/images/gracenote/assets/p31203782_v_h10_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4c31295809a958d18b49e05470e2ba5a/rokuFeed/assets/2280fbf0e2615950bde68c99c98b9fc6.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260418090800 +0500" stop="20260418104000 +0500">
     <title>Mafia</title>
     <sub-title />
@@ -122,7 +116,7 @@
     <sub-title />
     <desc>Jesus Quintana joins two fellow misfits for a freewheeling joyride of petty crime and romance.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/770e527a21b8591292d99a09e859f24d/images/gracenote/assets/p16822111_v_h8_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/770e527a21b8591292d99a09e859f24d/rokuFeed/assets/81c989f563d353c99c26c99093ce30b0.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260418175400 +0500" stop="20260418180000 +0500">
     <title>Point Break</title>
     <sub-title />

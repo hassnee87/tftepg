@@ -3,20 +3,7 @@
   <channel id="Love-Nature-US">
     <display-name>Love Nature</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
-  </channel><programme channel="Love-Nature-US" start="20260417074400 +0500" stop="20260417084400 +0500">
-    <title>Inside The Pack</title>
-    <sub-title />
-    <desc>Navigate the minefields of pack life and see how animals learn to co-operate.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4c0c5d2d152e574d81dc67057114c289/rokuFeed/assets/1bc08b5d87885750a71dae846222307a.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417084400 +0500" stop="20260417094800 +0500">
-    <title>A Cheetah's Pride</title>
-    <desc>Chilli and Inara's families confront each other, followed by their respective cubs.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b97664909a9d240b4624ebb3bfe92fb/images/gracenote/assets/p28691893_b_h10_ac.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260417094800 +0500" stop="20260417105000 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260417094800 +0500" stop="20260417105000 +0500">
     <title>New Kids in the Wild</title>
     <desc>A lion cub finds her place in the wild under the guidance of her devoted parents and playful sister.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -148,18 +135,18 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260418072600 +0500" stop="20260418082400 +0500">
-    <title>Africa's Wild Horizons</title>
-    <desc>The Okavango delta is home to diverse wildlife.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260418082400 +0500" stop="20260418092300 +0500">
     <title>Africa's Wild Horizons</title>
     <desc>Swaziland is home to a massive amount of wildlife.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a1784eedc2615040bf9618dcf8e116fc/rokuFeed/assets/6c84a4bdc0dc57e39d7e998445b8aedc.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260418092300 +0500" stop="20260418102200 +0500">
+    <title>Undiscovered Vistas</title>
+    <desc>Lake Superior has the longest undeveloped shoreline of Canada's Great lakes.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b938bd0f98e35693837d1a902bb5376f/rokuFeed/assets/215c8413908850c39a46fe9c059c0c0a.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260418092300 +0500" stop="20260418102200 +0500">
     <title>Undiscovered Vistas</title>
     <desc>Lake Superior has the longest undeveloped shoreline of Canada's Great lakes.</desc>

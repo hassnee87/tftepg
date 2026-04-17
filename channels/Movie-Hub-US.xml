@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-US">
     <display-name>Movie Hub</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
-  </channel><programme channel="Movie-Hub-US" start="20260417071800 +0500" stop="20260417091900 +0500">
-    <title>The Haunting in Connecticut</title>
-    <sub-title />
-    <desc>A woman (Virginia Madsen) turns to a priest for help in ridding a new home of ghosts.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c4389f1a2a85f91a7d5e28401f0b2dd/rokuFeed/assets/20c23340a155598e9b60c553bea5f125.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417091900 +0500" stop="20260417110100 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260417091900 +0500" stop="20260417110100 +0500">
     <title>Silent House</title>
     <sub-title />
     <desc>Panic turns to terror when a young woman becomes sealed inside her family's remote lake house.</desc>
@@ -80,19 +74,19 @@
     <sub-title />
     <desc>Veronica turns amateur sleuth once again when ex-boyfriend Logan is accused of murder.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2322f7571e625bb493391c016dd50b5a/images/gracenote/assets/p10416760_v_h10_aa.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2322f7571e625bb493391c016dd50b5a/rokuFeed/assets/c326cff7ca9e5cb9ace8b9b8fb95f020.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418074400 +0500" stop="20260418093700 +0500">
     <title>Nerve</title>
     <sub-title />
     <desc>A teen joins a popular online game that dares players to perform increasingly dangerous stunts.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/80c17edfbaba5d2a9af2259b55e0a995/rokuFeed/assets/893f6a01f1a3505295fbdee0ff39112b.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260418074400 +0500" stop="20260418093700 +0500">
-    <title>Nerve</title>
+  </programme><programme channel="Movie-Hub-US" start="20260418093700 +0500" stop="20260418120100 +0500">
+    <title>The Host</title>
     <sub-title />
-    <desc>A teen joins a popular online game that dares players to perform increasingly dangerous stunts.</desc>
+    <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/80c17edfbaba5d2a9af2259b55e0a995/rokuFeed/assets/893f6a01f1a3505295fbdee0ff39112b.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418093700 +0500" stop="20260418120100 +0500">
     <title>The Host</title>
     <sub-title />

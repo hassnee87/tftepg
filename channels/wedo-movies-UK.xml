@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417072438 +0500" stop="20260417100005 +0500">
-    <title>McLintock!</title>
-    <sub-title />
-    <desc>Wealthy rancher G. W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1761017812_0_20260408T170427256Z_43_imageprocessorclient-tvplus-linear-74d4c47476-pkcwb.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417100005 +0500" stop="20260417114442 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417100005 +0500" stop="20260417114442 +0500">
     <title>A Love to Remember</title>
     <sub-title />
     <desc>After a year of interacting exclusively online, Tenley, an eco-conscious horticulturist, finally works up the courage to meet her online crush, Jared. When Jared doesn't show because of a bike accident, Tenley gets mistaken for his wife at the hospital. Soon, she's forced to keep the lie up with Jared's entire family and his annoyingly charming best friend, Everett in order to save Jared's company... You've Got Mail meets While You Were Sleeping!</desc>
@@ -27,5 +21,11 @@
     <desc>During the post-war boom period of the late '40s, Willy Loman is an aging, traveling salesman, who despairs that his life his been lived in vain. Facing dispensability and insignificance in a heated, youthful economy, Willy is not ready to part with his cherished fantasies of an America that admires him for personable triumphs in the marketplace.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_486531407_0_20231128T144134710Z_92.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417161922 +0500" stop="20260417172726 +0500">
+    <title>Sagebrush Trail</title>
+    <sub-title />
+    <desc>A guy who was wrongfully convicted for murder breaks out of jail and heads out west. He ends up joining a gang, which just so happens to include the actual killer.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1443892187_0_20251218T064414989Z_104_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
   </programme>
 </tv>

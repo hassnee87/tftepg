@@ -3,13 +3,7 @@
   <channel id="Universal-Movies-US">
     <display-name>Universal Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Universal-Movies-US.png" />
-  </channel><programme channel="Universal-Movies-US" start="20260417074600 +0500" stop="20260417094200 +0500">
-    <title>Bring It On: Fight to the Finish</title>
-    <sub-title />
-    <desc>A teen (Christina Milian) clashes with a cheerleading captain at her new school.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e28c8099bc3856449eea966f6d09945d/rokuFeed/assets/2eb07d11ff8156e1943974f68adda358.jpg" />
-  </programme><programme channel="Universal-Movies-US" start="20260417094200 +0500" stop="20260417112400 +0500">
+  </channel><programme channel="Universal-Movies-US" start="20260417094200 +0500" stop="20260417112400 +0500">
     <title>Bring It On: In It to Win It</title>
     <sub-title />
     <desc>A high-school senior (Ashley Benson) falls for a rival cheerleader (Michael Copon).</desc>
@@ -87,12 +81,12 @@
     <desc>Five strangers must band together to survive a night of government-sanctioned carnage.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7c4102c779685ba781f9b38e359b7fe8/images/gracenote/assets/p10558648_v_h10_ak.jpg" />
-  </programme><programme channel="Universal-Movies-US" start="20260418070200 +0500" stop="20260418085500 +0500">
-    <title>The Purge: Anarchy</title>
+  </programme><programme channel="Universal-Movies-US" start="20260418085500 +0500" stop="20260418103600 +0500">
+    <title>Ouija</title>
     <sub-title />
-    <desc>Five strangers must band together to survive a night of government-sanctioned carnage.</desc>
+    <desc>Terror awaits five friends who unwittingly awaken a dark power by using an antique Ouija board.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7c4102c779685ba781f9b38e359b7fe8/images/gracenote/assets/p10558648_v_h10_ak.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e22b31935c785f0e8b2b808bf563a7c5/rokuFeed/assets/ba5f9a7172ba5ed1a5fa33d1f1f37b43.jpg" />
   </programme><programme channel="Universal-Movies-US" start="20260418085500 +0500" stop="20260418103600 +0500">
     <title>Ouija</title>
     <sub-title />

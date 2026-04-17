@@ -3,15 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260417060118 +0500" stop="20260417083332 +0500">
-    <title>Hoodlum</title>
-    <sub-title />
-    <desc>In New York of the 1920s, the black community of Harlem faces the same indignities as countless millions of refugees. Three rival gang leaders (Laurence Fishhburne, Tim Roth and Andy Garcia) battle for control of Harlem's urban power.</desc>
-    <date>20230831</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7103140789993684458/Texted/rectangle/15rs9iq55o7fn1l20zwse8ms9s.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417083332 +0500" stop="20260417103417 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260417083332 +0500" stop="20260417103417 +0500">
     <title>Out Of Time</title>
     <sub-title />
     <desc>Denzel Washington is caught in a web of intrigue as he investigates the murder of a woman he was seeing...and all the evidence points to him.</desc>
@@ -107,5 +99,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7065142707833032654/Texted/rectangle/jbiw41yykedd1tsyaz4a803vg.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418082432 +0500" stop="20260418104456 +0500">
+    <title>Blown Away</title>
+    <sub-title />
+    <desc>When an explosion jolts Boston, bomb squad expert Jimmy Dove (Jeff Bridges) is thrust into the most harrowing work of his career. And when evidence points to his former mentor (Tommy Lee Jones), Dove must face a bitter enemy and a haunting past.</desc>
+    <date>19940101</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7064245272498191063/Texted/rectangle/8bhocflvbu2f1mn8qdoviu4ch.jpg" />
   </programme>
 </tv>

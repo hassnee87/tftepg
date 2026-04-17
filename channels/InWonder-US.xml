@@ -3,31 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260417072648 +0500" stop="20260417083010 +0500">
-    <title>Python Hunters S1 - "Everglades Under Siege"</title>
-    <sub-title>Everglades Under Siege</sub-title>
-    <desc>The Florida Everglades are home to thousands of invasive plant, insect and animal species and yet the Burmese Python is perceived as the biggest concern. Are they a problem or is this snake hysteria?</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/181d9f1b4522762e/IN00008869_01_0003_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417083010 +0500" stop="20260417093333 +0500">
-    <title>Python Hunters S2 - "Snake Invasion"</title>
-    <sub-title>Snake Invasion</sub-title>
-    <desc>This time on Python Hunters… It’s a new season of hunting, and the guys are back in the Everglades to see if Florida’s bitter winter has put a serious dent in the Burmese python population.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20100101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/8c88176cca29b3de/IN00008869_02_0001_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417093333 +0500" stop="20260417100100 +0500">
-    <title>Wildlife Heroes S1 - "Birute Galdikas"</title>
-    <sub-title>Birute Galdikas</sub-title>
-    <desc>Dr. Biruté Mary Galdikas is the leading expert on orangutans, having devoted her life to saving them over the last 50 years.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20200101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/7fad99f8825b2f4a/IN00008001_01_0001_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417100100 +0500" stop="20260417102227 +0500">
+  </channel><programme channel="InWonder-US" start="20260417100100 +0500" stop="20260417102227 +0500">
     <title>Wildlife Heroes S1 - "Christina Karliczek"</title>
     <sub-title>Christina Karliczek</sub-title>
     <desc>Christina Karliczek Skoglund has been filming animals on land and under water in the most remote places for over ten years.</desc>
@@ -349,5 +325,19 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6c98e3d362632a1b/IN72310553_01_0001_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418090605 +0500" stop="20260418100219 +0500">
+    <title>Secrets of the Factories S1 - "Secrets of the Heinz Factory"</title>
+    <sub-title>Secrets of the Heinz Factory</sub-title>
+    <desc>From making fresh spaghetti and mixing the top-secret ingredients for sauce, to giant automated cranes and the latest robots, join today’s Heinz factory workers alongside tomorrow’s machines, making cans of household favourites.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6da23632ec588eff/IN72310553_01_0002_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418100219 +0500" stop="20260418110000 +0500">
+    <title>Secrets of the Factories S1 - "Secrets of Mr. Kipling Cakes"</title>
+    <sub-title>Secrets of Mr. Kipling Cakes</sub-title>
+    <desc>Uncover the secrets of what it takes to make up to 5 million cakes a day, including French Fancies, Angel Slices and Bramley Apple Pies. Meet the engineers who keep the machines running 24/7, the workers making all the cakes, and the operators who spend their days with state-of-the-art robots.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/38d1e318598756b7/IN72310553_01_0003_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

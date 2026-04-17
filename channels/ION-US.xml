@@ -3,19 +3,7 @@
   <channel id="ION-US">
     <display-name>ION</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ION-US.png" />
-  </channel><programme channel="ION-US" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>FBI</title>
-    <desc>A drug dealer is shot in a federal park and the team sets out to look for his killer.</desc>
-    <episode-num system="onscreen">S05E20</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb16302963cd5cfc9f3f354e542bf864/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FSeries%2F1707930130945_FBI_Poster_16_9.jpg" />
-  </programme><programme channel="ION-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>FBI</title>
-    <desc>All eyes are on the team when they try to find out who kidnapped the only child of a U.S. senator.</desc>
-    <episode-num system="onscreen">S05E21</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb16302963cd5cfc9f3f354e542bf864/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FSeries%2F1707930130945_FBI_Poster_16_9.jpg" />
-  </programme><programme channel="ION-US" start="20260417100000 +0500" stop="20260417110000 +0500">
+  </channel><programme channel="ION-US" start="20260417100000 +0500" stop="20260417110000 +0500">
     <title>FBI</title>
     <desc>Teens are found dead from a drug overdose; OA questions where he stands in his faith.</desc>
     <episode-num system="onscreen">S05E22</episode-num>

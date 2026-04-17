@@ -3,16 +3,7 @@
   <channel id="Sony-One-Action-Hits-UK">
     <display-name>Sony One Action HITS</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Action-Hits-UK.png" />
-  </channel><programme channel="Sony-One-Action-Hits-UK" start="20260417075253 +0500" stop="20260417095913 +0500">
-    <title>Whiplash</title>
-    <sub-title />
-    <desc>Winner of 3 Academy Awards, WHIPLASH tells the story of an ambitious student drummer (Miles Teller) and his ruthless teacher (J.K. Simmons) who will stop at nothing to achieve perfection.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1732770955_1_20260328T150230472Z_121_imageprocessorclient-tvplus-linear-74d4c47476-9297p.jpeg" />
-    <rating>
-      <value>18</value>
-    </rating>
-  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260417095913 +0500" stop="20260417120533 +0500">
+  </channel><programme channel="Sony-One-Action-Hits-UK" start="20260417095913 +0500" stop="20260417120533 +0500">
     <title>Whiplash</title>
     <sub-title />
     <desc>Winner of 3 Academy Awards, WHIPLASH tells the story of an ambitious student drummer (Miles Teller) and his ruthless teacher (J.K. Simmons) who will stop at nothing to achieve perfection.</desc>
@@ -38,6 +29,15 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462860233_7_20251222T145928329Z_100_imageprocessorclient-tvplus-linear-85d7d49859-z5txn.jpeg" />
     <rating>
       <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260417164500 +0500" stop="20260417185344 +0500">
+    <title>Elysium</title>
+    <sub-title />
+    <desc>In 2154, two classes of people exist: the very wealthy, and the rest, who live on a ruined Earth.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462826521_4_20251222T145934150Z_108_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.png" />
+    <rating>
+      <value>18</value>
     </rating>
   </programme>
 </tv>

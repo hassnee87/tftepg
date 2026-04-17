@@ -3,23 +3,7 @@
   <channel id="Documentary-Plus-CA">
     <display-name>Documentary+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus-CA.png" />
-  </channel><programme channel="Documentary-Plus-CA" start="20260417074215 +0500" stop="20260417091525 +0500">
-    <title>Hummingbirds</title>
-    <sub-title />
-    <desc>Silvia and Beba tell their own coming-of-age story in their hometown on the Texas-Mexico border.</desc>
-    <date>20250507</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/r619Pggj8stc9Ps51Q20KUZ8g2t.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417091525 +0500" stop="20260417094513 +0500">
-    <title>The Spiritual Advisor</title>
-    <sub-title />
-    <desc>Spiritual advisor Jeff Hood travels to Oklahoma to fight for the stay of an incarcerated man’s execution.</desc>
-    <date>20000101</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7440515694038871366/Texted/rectangle/104808cyw7vf41gttgcixi7l3p.png" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417094513 +0500" stop="20260417112422 +0500">
+  </channel><programme channel="Documentary-Plus-CA" start="20260417094513 +0500" stop="20260417112422 +0500">
     <title>California Dreams</title>
     <sub-title />
     <desc>Through auditions across Southern California, the film portrays real people with big Hollywood aspirations.</desc>
@@ -187,5 +171,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7398903987760073729/Texted/rectangle/1wbsrpgdfo82m1sxm39170333s.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418083231 +0500" stop="20260418093226 +0500">
+    <title>Trees of Life</title>
+    <sub-title />
+    <desc>A two-year journey in Canada’s Gaspé forests revealing the bonds between animals and the trees they rely on.</desc>
+    <date>20251031</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7401341829954424811/Texted/rectangle/wf7jm1ydkqkq14ajsabx93adk.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418093226 +0500" stop="20260418103443 +0500">
+    <title>Seals of Sable</title>
+    <sub-title />
+    <desc>On Sable Island, grey seals birth 80,000 pups as researchers study their elusive deep-ocean habit.</desc>
+    <date>20251031</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7398925156110336810/Texted/rectangle/145462mzrg1vb11f5xw9q98v52.jpg" />
   </programme>
 </tv>

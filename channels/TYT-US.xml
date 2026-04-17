@@ -3,13 +3,7 @@
   <channel id="TYT-US">
     <display-name>TYT</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TYT-US.png" />
-  </channel><programme channel="TYT-US" start="20260417080000 +0500" stop="20260417100000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/55bf707690f2b87cd249812aa263a582/rokuFeed/assets/0a7594f390775a0c92c1c9bf78f4aa73.jpg" />
-  </programme><programme channel="TYT-US" start="20260417100000 +0500" stop="20260417113000 +0500">
+  </channel><programme channel="TYT-US" start="20260417100000 +0500" stop="20260417113000 +0500">
     <title>Dr. Rashad Richey: Indisputable</title>
     <sub-title />
     <desc>Dr. Richey delivers fact-based truth on top news stories on policy, social justice, politics and more</desc>
@@ -98,7 +92,7 @@
     <sub-title />
     <desc>TYT's “throwback” show where our hosts debate everything from geopolitics to sports to proper sock length.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88aad9da14f2a1db53fbe9355b2cc5dd/rokuFeed/assets/bd575f2f259c5d12b1cd99aac908f002.jpeg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8fb4d3933b447b16a9657339705e91a/rokuFeed/assets/bd575f2f259c5d12b1cd99aac908f002.jpeg" />
   </programme><programme channel="TYT-US" start="20260418030000 +0500" stop="20260418050000 +0500">
     <title>The Young Turks</title>
     <sub-title />
@@ -152,7 +146,7 @@
     <sub-title />
     <desc>TYT's “throwback” show where our hosts debate everything from geopolitics to sports to proper sock length.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88aad9da14f2a1db53fbe9355b2cc5dd/rokuFeed/assets/bd575f2f259c5d12b1cd99aac908f002.jpeg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8fb4d3933b447b16a9657339705e91a/rokuFeed/assets/bd575f2f259c5d12b1cd99aac908f002.jpeg" />
   </programme><programme channel="TYT-US" start="20260418150000 +0500" stop="20260418170000 +0500">
     <title>The Young Turks</title>
     <sub-title />

@@ -3,25 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>An Optimist's Guide to the Planet</title>
-    <sub-title />
-    <desc>An Optimist's Guide to the Planet Nikolaj Coster-Waldau begins season two, and we're reminded of the delicate balance between human progress and protecting our planet.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2101263640_0_20251031T161453383Z_111_imageprocessorclient-tvplus-linear-76c46fff7-ff6pn.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>An Optimist's Guide to the Planet</title>
-    <sub-title />
-    <desc>An Optimist's Guide to the Planet Nikolaj travels the world to meet people transforming waste into resources  showing that waste isn't something to hide -- it's something we can rethink as valuable raw material.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2394855068_3_20260109T012819199Z_66_imageprocessorclient-tvplus-linear-584c967455-ntwwh.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417110000 +0500" stop="20260417120000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260417110000 +0500" stop="20260417120000 +0500">
     <title>An Optimist's Guide to the Planet</title>
     <sub-title />
     <desc>An Optimist's Guide to the Planet From transforming concrete into a carbon sink to mining nickel from genetically enhanced plants, we meet the bold inventors preserving and adapting to nature's offerings to help humanity thrive.</desc>
@@ -81,6 +63,24 @@
     <desc>LEADERS With Francine Lacqua The anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+    <title>LEADERS With Francine Lacqua</title>
+    <sub-title />
+    <desc>LEADERS With Francine Lacqua What drives the world's most influential minds? In Leaders with Francine Lacqua, we sit down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417160000 +0500" stop="20260417190000 +0500">
+    <title>Bloomberg Surveillance Radio</title>
+    <sub-title />
+    <desc>Bloomberg Surveillance Radio The economy and the markets are under surveillance as the latest developments in finance, economics and investment is covered  Tom Keene, Paul Sweeney, Lisa Mateo, Michael Barr and other guests create some intriguing conversation.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_545987828_0_20240813T094552592Z_1_imageprocessorclient-tvplus-linear-64ff86dd75-glwx5.jpeg" />
     <rating>
       <value>TV-G</value>
     </rating>

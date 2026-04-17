@@ -3,23 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417075617 +0500" stop="20260417084733 +0500">
-    <title>Missing</title>
-    <sub-title>White Whale</sub-title>
-    <desc>A brilliant serial killer returns to seek revenge against Brooke for being sent to prison.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7371999677431356024/solid/rectangle/w1920_h1080/suy1g5hrl6bv1amj7qjhgzyi3.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417084733 +0500" stop="20260417093848 +0500">
-    <title>Missing</title>
-    <sub-title>Basic Training</sub-title>
-    <desc>Jess goes undercover at a prestigious military academy to investigate the disappearance of a new cadet.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7372010011014455868/solid/rectangle/w1920_h1080/o712gkrw28261fg1pfbui94hr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417093848 +0500" stop="20260417103028 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417093848 +0500" stop="20260417103028 +0500">
     <title>Missing</title>
     <sub-title>One Night Stand</sub-title>
     <desc>Jess and Nicole investigate the disappearance of a woman who they suspect may be involved in an elaborate -- and deadly, embezzlement scheme.</desc>
@@ -227,5 +211,21 @@
     <date>20080120</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7237200086751673871/solid/rectangle/w1920_h1080/mzs1hdsgyloh1s2mtn1ybkru7.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418084419 +0500" stop="20260418094317 +0500">
+    <title>Breaking Bad</title>
+    <sub-title>Face Off</sub-title>
+    <desc>After their plan to kill Gus fails, Walt (Bryan Cranston) and Jesse (Aaron Paul) must act fast if they are to avoid being killed in revenge. So as Jesse struggles to keep from being implicated in the poisoning of his girlfriend's son, Walt hatches a desperate scheme that depends on the one person who hates Gus more than anyone else alive.</desc>
+    <episode-num system="onscreen">S04E13</episode-num>
+    <date>20080120</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7237200310221211984/solid/rectangle/w1920_h1080/7dhcrv2zovoe17rca2jroepq6.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418094317 +0500" stop="20260418103937 +0500">
+    <title>Better Call Saul</title>
+    <sub-title>Jmm</sub-title>
+    <desc>Jimmy and Kim build a legal firewall with help from Huell; Kim sets things straight with her clients as Jimmy is compromised by his; Gus calms troubled waters in service of his plot to build an empire; Mike does damage control.</desc>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <date>20200223</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7299812893974258886/solid/rectangle/w1920_h1080/gccwdzxodjer1hmcvdrinrgca.jpg" />
   </programme>
 </tv>
