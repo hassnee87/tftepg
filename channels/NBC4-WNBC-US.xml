@@ -693,18 +693,20 @@
     </rating>
   </programme><programme channel="NBC4-WNBC-US" start="20260418060100 +0500" stop="20260418080000 +0500">
     <title>Dateline NBC</title>
-    <sub-title />
-    <desc>Anchored by Lester Holt, "Dateline" is NBC's signature newsmagazine, bringing viewers storytelling at its best by putting the pieces together to present the full picture of real-life events. NBC News correspondents cover compelling stories and issues of the day, ranging from mystery and crime to in-depth investigations and breaking-news events.</desc>
+    <sub-title>Deadly Swagger</sub-title>
+    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
+    <episode-num system="onscreen">S34 E21</episode-num>
     <credits>
       <actor>Lester Holt</actor>
       <actor>Andrea Canning</actor>
       <actor>Josh Mankiewicz</actor>
-    </credits><date>1992</date>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Mystery</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27896067_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="방송통신심의위원회">
@@ -855,29 +857,12 @@
       <value>PG</value>
     </rating>
   </programme><programme channel="NBC4-WNBC-US" start="20260418133000 +0500" stop="20260418140000 +0500">
-    <title>Paid Programming</title>
+    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
     <sub-title />
-    <desc>Paid programming.</desc>
+    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
     <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
+    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
   </programme><programme channel="NBC4-WNBC-US" start="20260418140000 +0500" stop="20260418143000 +0500">
     <title>1st Look</title>
     <sub-title />

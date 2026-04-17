@@ -3,13 +3,7 @@
   <channel id="AMC-Thrillers-US">
     <display-name>AMC Thrillers</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AMC-Thrillers-US.png" />
-  </channel><programme channel="AMC-Thrillers-US" start="20260417020154 +0500" stop="20260417034924 +0500">
-    <title>The Wretched</title>
-    <sub-title />
-    <desc>A defiant teenage boy faces off with an old witch who has possessed the neighbor next door.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7bd327abd6835dcc92b6ebb3d0a5b45c/images/gracenote/assets/p17534874_v_h10_af.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260417034924 +0500" stop="20260417054525 +0500">
+  </channel><programme channel="AMC-Thrillers-US" start="20260417034924 +0500" stop="20260417054525 +0500">
     <title>A Dark Song</title>
     <sub-title />
     <desc>A young woman and a damaged occultist risk their souls to perform a ritual.</desc>
@@ -81,18 +75,18 @@
     <desc>Jonathan is haunted by twisted visions that tear away his sanity.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/98e2c144fd4f5b1795bc7d9d3a49b76f/images/gracenote/assets/p11210344_v_h10_ab.jpg" />
-  </programme><programme channel="AMC-Thrillers-US" start="20260418010326 +0500" stop="20260418023931 +0500">
-    <title>Phobia</title>
-    <sub-title />
-    <desc>Jonathan is haunted by twisted visions that tear away his sanity.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/98e2c144fd4f5b1795bc7d9d3a49b76f/images/gracenote/assets/p11210344_v_h10_ab.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260418023931 +0500" stop="20260418041453 +0500">
     <title>The Invoking 2</title>
     <sub-title />
     <desc>An anthology of hapless victims, demonic forces and vengeful spirits.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/aff66a9286295d569cdc9581878e3e3f/images/gracenote/assets/p12110929_v_h10_ac.jpg" />
+  </programme><programme channel="AMC-Thrillers-US" start="20260418041453 +0500" stop="20260418063631 +0500">
+    <title>They Live in the Grey</title>
+    <sub-title />
+    <desc>A young social worker discovers that a family is being tormented by a supernatural entity.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ee22cb39d12e5367bd074ea606274343/images/gracenote/assets/p21496943_v_h10_aa.jpg" />
   </programme><programme channel="AMC-Thrillers-US" start="20260418041453 +0500" stop="20260418063631 +0500">
     <title>They Live in the Grey</title>
     <sub-title />

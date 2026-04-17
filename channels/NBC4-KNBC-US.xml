@@ -243,7 +243,7 @@
   </programme><programme channel="NBC4-KNBC-US" start="20260417100000 +0500" stop="20260417110000 +0500">
     <title>The Hunting Party</title>
     <sub-title>Byron May</sub-title>
-    <desc>Serial killer Byron May is back on the streets and secretly living inside someone else's home; with his new skills resembling the currently incarcerated Eastside Ripper, suspicions abound as to whether the wrong man might be in prison.</desc>
+    <desc>Serial killer Byron May is back on the streets and secretly living inside someone else's home; with his new skills resembling the currently incarcerated Eastside Ripper, suspicions abound whether the wrong man might be in prison.</desc>
     <episode-num system="onscreen">S2 E10</episode-num>
     <credits>
       <director>Bethany Rooney</director>
@@ -684,18 +684,20 @@
     </rating>
   </programme><programme channel="NBC4-KNBC-US" start="20260418090100 +0500" stop="20260418110000 +0500">
     <title>Dateline NBC</title>
-    <sub-title />
-    <desc>Anchored by Lester Holt, "Dateline" is NBC's signature newsmagazine, bringing viewers storytelling at its best by putting the pieces together to present the full picture of real-life events. NBC News correspondents cover compelling stories and issues of the day, ranging from mystery and crime to in-depth investigations and breaking-news events.</desc>
+    <sub-title>Deadly Swagger</sub-title>
+    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
+    <episode-num system="onscreen">S34 E21</episode-num>
     <credits>
       <actor>Lester Holt</actor>
       <actor>Andrea Canning</actor>
       <actor>Josh Mankiewicz</actor>
-    </credits><date>1992</date>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Mystery</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27896067_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="방송통신심의위원회">

@@ -3,1564 +3,7 @@
   <channel id="Disney-Channel-East-US">
     <display-name>Disney Channel East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Disney-Channel-East-US.png" />
-  </channel><programme channel="Disney-Channel-East-US" start="20260416000000 +0500" stop="20260416003000 +0500">
-    <title>Lilo &amp; Stitch</title>
-    <sub-title>Ploot</sub-title>
-    <desc>An experiment thwarts Lilo's efforts to clean up the Grotto for Earth Day.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <credits>
-      <actor>Daveigh Chase</actor>
-      <actor>Christopher Michael Sanders</actor>
-      <actor>Tia Carrere</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9149109_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416003000 +0500" stop="20260416010000 +0500">
-    <title>Phineas and Ferb</title>
-    <sub-title>The Nightmare-Inator; Doof in Retrograde</sub-title>
-    <desc>Doof's dream-project-inator misfires and projects people's dreams for all to see; Doof becomes the center of his own solar system while Irving tries to impress Phineas and Ferb.</desc>
-    <episode-num system="onscreen">S5 E13</episode-num>
-    <credits>
-      <director>Dan Povenmire</director>
-      <director>Zac Moncrief</director>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C8</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416010000 +0500" stop="20260416013000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Pizza Deliverance; Horse Girl</sub-title>
-    <desc>A pizza delivery girl from Big City has to flee from a crazed country family; when Bill gets a horse for the day, Tilly must hide how much she secretly hates horses.</desc>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416013000 +0500" stop="20260416020000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Pen Pals; Study Abroad</sub-title>
-    <desc>Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416020000 +0500" stop="20260416023000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Honey Heist; Dog Mayor</sub-title>
-    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416023000 +0500" stop="20260416030000 +0500">
-    <title>Bluey</title>
-    <sub-title>Bus; Mum School; Piggyback</sub-title>
-    <desc>The Heelers play a game of Bus; Mum and Bluey play Mum School, where Mum teaches Bluey how to corral her rowdy kids; Bingo decides she's too tired to walk and needs a piggyback.</desc>
-    <episode-num system="onscreen">S2</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416030000 +0500" stop="20260416033000 +0500">
-    <title>Bluey</title>
-    <sub-title>See Saw; Movies; Grandad</sub-title>
-    <desc>Dad plants himself on one end of the seesaw; it is Bluey's first trip to the cinema; Bluey and Bingo go on an adventure with Grandad.</desc>
-    <episode-num system="onscreen">S2</episode-num>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416033000 +0500" stop="20260416040000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Chill Bill; Bunny</sub-title>
-    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <credits>
-      <director>Nick Sumida</director>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416040000 +0500" stop="20260416043000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Long Goodbye</sub-title>
-    <desc>When the Greens return Gramma and Remy to Big City, they are determined to delay their goodbyes for as long as possible.</desc>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416043000 +0500" stop="20260416050000 +0500">
-    <title>Big City Greens</title>
-    <sub-title />
-    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2025</date>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416050000 +0500" stop="20260416053000 +0500">
-    <title>Phineas and Ferb</title>
-    <sub-title>Bend It Like Doof; Dooflicated</sub-title>
-    <desc>OWCA and LOVEMUFFIN face off in a soccer match while the boys help Buford with his aim; people around Danville turn evil after being hit by Doof's latest inator.</desc>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <credits>
-      <director>Dan Povenmire</director>
-      <director>Zac Moncrief</director>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C8</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416053000 +0500" stop="20260416060000 +0500">
-    <title>Phineas and Ferb</title>
-    <sub-title>Space Adventure; Droogenfest</sub-title>
-    <desc>While Buford is sick, Baljeet makes him watch an episode of his favorite show, "Space Adventure!"; Isabella works with Doof to bake a giant pastry to impress foreign emissaries.</desc>
-    <episode-num system="onscreen">S5 E15</episode-num>
-    <credits>
-      <director>Dan Povenmire</director>
-      <director>Zac Moncrief</director>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C8</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416060000 +0500" stop="20260416063000 +0500">
-    <title>Vampirina: Teenage Vampire</title>
-    <sub-title>First Dance</sub-title>
-    <desc>In the lead up to the Wilson Hall Welcome Dance, Vee and Elijah struggle with power imbalances; Sophie searches for her DJ persona.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <actor>Kenzi Richardson</actor>
-      <actor>Jiwon Lee</actor>
-      <actor>Shaun Dixon</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Musical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31067542_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416063000 +0500" stop="20260416070000 +0500">
-    <title>Wizards Beyond Waverly Place</title>
-    <sub-title>Howdy with a Trance of Gumballs</sub-title>
-    <desc>When an oracle from the wizard world shows up on Billie's doorstep and predicts that Billie will destroy the big summer carnival, Billie stops at nothing to change the future.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <director>Andy Fickman</director>
-      <director>Raven-Symoné</director>
-      <director>Danielle Fishel</director>
-      <actor>David Henrie</actor>
-      <actor>Mimi Gianopulos</actor>
-      <actor>Janice LeAnn Brown</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Family</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28205300_b_h8_ap.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416070000 +0500" stop="20260416073000 +0500">
-    <title>Jessie</title>
-    <sub-title>Karate Kid-tastrophe</sub-title>
-    <desc>Emma gets into trouble at school and Jessie is unsure of how to handle it; Luke trains Zuri for her upcoming karate belt test.</desc>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <credits>
-      <actor>Debby Ryan</actor>
-      <actor>Kevin Chamberlin</actor>
-      <actor>Peyton List</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Children</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8797229_b_h10_ah.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>7</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416073000 +0500" stop="20260416080000 +0500">
-    <title>Kiff</title>
-    <sub-title>Don't Leave B Hangin'; Thunderstorm Game Night</sub-title>
-    <desc>Barry is left hangin' by an astronaut. Kiff and the Buns play a board game that makes them all crazy competitive.</desc>
-    <episode-num system="onscreen">S2 E26</episode-num>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>H. Michael Croner</actor>
-      <actor>Katie Crown</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29655387_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416080000 +0500" stop="20260416083000 +0500">
-    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Werepapas</sub-title>
-    <desc>When Adrien gets nervous about meeting his grandparents, Marinette gatecrashes the lunch to support him... unaware that a family war is about to break out.</desc>
-    <episode-num system="onscreen">S6 E5</episode-num>
-    <credits>
-      <director>Thomas Astruc</director>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29234963_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C8</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416083000 +0500" stop="20260416090000 +0500">
-    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
-    <sub-title>Sleeping Syren</sub-title>
-    <desc>When Ondine worries that she still hasn't had a first kiss with Kim and wonders about his true feelings, Marinette decides to help her... in her own way!</desc>
-    <episode-num system="onscreen">S6</episode-num>
-    <credits>
-      <director>Thomas Astruc</director>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29234963_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C8</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416090000 +0500" stop="20260416093000 +0500">
-    <title>Bluey</title>
-    <sub-title>Helicopter; Octopus; Baby Race</sub-title>
-    <desc>Bluey and her friends play a game of helicopter with a tree stump; Chloe tries to teach her dad to improvise and play Bluey's game of Octopus at home; Mum reminisces about Bluey and Judo as babies, where it was a race to see who would walk first.</desc>
-    <episode-num system="onscreen">S2</episode-num>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416093000 +0500" stop="20260416100000 +0500">
-    <title>Bluey</title>
-    <sub-title>Mr Monkeyjocks / Typewriter / Burger Shop</sub-title>
-    <desc>Dad thinks Bluey and Bingo have too many toys; Bluey and friends get ambushed by the Terriers; Bluey and Bingo play a game of Burger Shop with Dad.</desc>
-    <episode-num system="onscreen">S2</episode-num>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416100000 +0500" stop="20260416103000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Pen Pals; Study Abroad</sub-title>
-    <desc>Tilly and Andromeda exchange letters that reveal their outlooks on the world; Remy enlists the Greens to help him lie to his parents about his week in the country.</desc>
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416103000 +0500" stop="20260416110000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Honey Heist; Dog Mayor</sub-title>
-    <desc>The kids plan a heist to steal honey from Bill's beehive; Cricket and Remy run a campaign to get Phoenix, the dog, elected as mayor.</desc>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416110000 +0500" stop="20260416113000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Chill Bill; Bunny</sub-title>
-    <desc>Cricket discovers lake life brings out Bill's fun-loving side; when rabbits threaten to destroy Bill's crops, Nancy enlists their country friends to save the harvest.</desc>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <credits>
-      <director>Nick Sumida</director>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416113000 +0500" stop="20260416120000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Long Goodbye</sub-title>
-    <desc>When the Greens return Gramma and Remy to Big City, they are determined to delay their goodbyes for as long as possible.</desc>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416120000 +0500" stop="20260416123000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Truck Stopped; Jingled</sub-title>
-    <desc>Tilly and Cricket wrestle with decision-making at a truck stop between Big City and the country; Tilly rises through the ranks as a Big City jingle writer.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416123000 +0500" stop="20260416130000 +0500">
-    <title>Big City Greens</title>
-    <sub-title>Stand-Up Bill; Green Trial</sub-title>
-    <desc>Bill discovers his favorite comedian, Fred the Farmer, may not be who he claims to be; Tilly defends Cricket at a family trial after he's accused of stealing an entire cake.</desc>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416130000 +0500" stop="20260416133000 +0500">
-    <title>Kiff</title>
-    <sub-title>Trash Clumpers; Wiff &amp; Larry</sub-title>
-    <desc>Kiff and Barry pick up trash in the park but can't decide what is trash; Trevor works out his frustrations by writing libelous stories about Kiff and Barry.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>H. Michael Croner</actor>
-      <actor>Kent Osborne</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29655387_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416133000 +0500" stop="20260416140000 +0500">
-    <title>Kiff</title>
-    <sub-title>Helping People Feels Good; Dinner With Darryn</sub-title>
-    <desc>Kiff's good deed goes unnoticed while Reggie's receives lots of attention; Kiff and Barry enjoy a kids-only dinner with their shy classmate Darryn.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>H. Michael Croner</actor>
-      <actor>Eric Bauza</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29655387_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416140000 +0500" stop="20260416143000 +0500">
-    <title>Bluey</title>
-    <sub-title>Turtle Boy; Onesies; Tradies</sub-title>
-    <desc>Bingo finds a toy turtle at the playground and wants to take him home; Mom's sister Brandy comes over for a visit; Bluey and Bingo hide under the house and spy on two mysterious tradies working in the backyard.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416143000 +0500" stop="20260416150000 +0500">
-    <title>Bluey</title>
-    <sub-title>Musical Statues; Stories; Puppets</sub-title>
-    <desc>Mum gets everyone to play musical statues.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416150000 +0500" stop="20260416153000 +0500">
-    <title>Bluey</title>
-    <sub-title>The Kids; Butterflies; The Creek</sub-title>
-    <desc>Bluey decides to be Mum during a game of "Kids!"; Butterflies is a fun game until Bingo ends up alone; Bluey's eyes are opened to the simple beauty of nature.</desc>
-    <episode-num system="onscreen">S1</episode-num>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416153000 +0500" stop="20260416160000 +0500">
-    <title>Mickey Mouse Clubhouse+</title>
-    <sub-title>Goofy Pizza</sub-title>
-    <desc>Goofy's hungry for pizza, but the fridge is missing ingredients; Mickey and pals use Mouseketools to gather what's needed and make a delicious pizza to share!</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30506415_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416160000 +0500" stop="20260416163000 +0500">
-    <title>Magicampers</title>
-    <sub-title>Enchanted Gardening; Gem Scouting</sub-title>
-    <desc>Magical gardening goes wrong; Darly, Loomis and Dracoon find a powerful magic gem.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32546180_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416163000 +0500" stop="20260416170000 +0500">
-    <title>Marvel's Spidey and His Amazing Friends</title>
-    <sub-title>The Treasure of Billie the Pirate; Big City, Little Land Shark</sub-title>
-    <desc>Black Cat, Doc Ock and Rhino mistake Billie's treasure for real jewels and steal it; Jeff the Land Shark gets lost in the city and accidentally ends up with Zola.</desc>
-    <episode-num system="onscreen">S4 E15</episode-num>
-    <credits>
-      <director>Darren Bachynski</director>
-      <director>Chris Gilligan</director>
-      <director>Chris Moreno</director>
-      <actor>Jakari Fraser</actor>
-      <actor>Audrey Bennett</actor>
-      <actor>Sandra Saad</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20327168_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416170000 +0500" stop="20260416173000 +0500">
-    <title>Bluey</title>
-    <sub-title>Exercise; Stickbird; Relax</sub-title>
-    <desc>The slice-of-life adventures of an Australian Blue Heeler Cattle Dog puppy.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416173000 +0500" stop="20260416180000 +0500">
-    <title>Bluey</title>
-    <sub-title>Show and Tell; Wild Girls; The Decider</sub-title>
-    <desc>Bluey wants to know why Dad's always bossing her around; Coco wants to play Wild Girls with Indy, but Chloe wants her to play another game; Lucky's Dad, Lucky and Chucky have come over to the Heelers' house to watch a rugby final together.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416180000 +0500" stop="20260416183000 +0500">
-    <title>Marvel's Spidey and His Amazing Friends</title>
-    <sub-title>Tricky Tricky Trapster; Tractor Beam Trouble</sub-title>
-    <desc>With help from Herbie, Spidey and Thing must stop Trapster's hidden traps from catching people; Gobby and Rhino steal Spidey's invention.</desc>
-    <episode-num system="onscreen">S3 E27</episode-num>
-    <credits>
-      <actor>Alkaio Thiele</actor>
-      <actor>Jakari Fraser</actor>
-      <actor>Audrey Bennett</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20327168_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416183000 +0500" stop="20260416190000 +0500">
-    <title>Iron Man and His Awesome Friends</title>
-    <sub-title>Enter the Iron Friends; Amadeus Cho's Eggcellent Eggventure!</sub-title>
-    <desc>Tony promises his friends a park day, but Ultron steals the toys; Amadeus upgrades a truck, but accidentally turns it into a giant chicken!</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <director>Michael Dowding</director>
-      <actor>Mason Blomberg</actor>
-      <actor>Kapri Ladd</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30527279_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416190000 +0500" stop="20260416193000 +0500">
-    <title>Bluey</title>
-    <sub-title>Trampoline; The Dump; Zoo</sub-title>
-    <desc>Dad plays trampoline games with Bluey and Bingo; Dad plans on throwing out Bluey's old drawings; Bingo causes chaos at Bluey's backyard zoo.</desc>
-    <episode-num system="onscreen">S1</episode-num>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416193000 +0500" stop="20260416200000 +0500">
-    <title>Bluey</title>
-    <sub-title>Backpackers; The Adventure; Copycat</sub-title>
-    <desc>Bluey and Bingo are worn as Mum and Dad's backpacks; Bluey and Chloe embark on a quest to save the kingdom; while playing copycat, Bluey finds a hurt budgie.</desc>
-    <episode-num system="onscreen">S1</episode-num>
-    <date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416200000 +0500" stop="20260416203000 +0500">
-    <title>SuperKitties</title>
-    <sub-title>Bitsy Bellyache; Lost Spark</sub-title>
-    <desc>After Sparks falls off his SuperKitty Kit, the SuperKitties help him get the courage to ride it again; Bitsy eats too many treats and can't help the team stop Lab Rat.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <credits>
-      <actor>Emma Berman</actor>
-      <actor>Cruz Flateau</actor>
-      <actor>JeCobi Swain</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23652268_b_h8_ba.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416203000 +0500" stop="20260416205500 +0500">
-    <title>Mickey Mouse Clubhouse+</title>
-    <sub-title>The Late, Late Show</sub-title>
-    <desc>When Mickey and friends hear about a meteor shower in the night sky, they do everything to stay awake and watch.</desc>
-    <episode-num system="onscreen">S1 E26</episode-num>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30506415_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416205500 +0500" stop="20260416210500 +0500">
-    <title>Agarra-me se Puderes</title>
-    <sub-title />
-    <desc />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <credits>
-      <actor>José Pedro Vasconcelos</actor>
-    </credits><date>2026</date>
-    <category lang="pt">Series</category>
-    <category lang="pt">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32777389_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Disney-Channel-East-US" start="20260416210500 +0500" stop="20260416213000 +0500">
-    <title>Bluey</title>
-    <sub-title>TV Shop; Dragon; Slide</sub-title>
-    <desc>At the pharmacy, Bluey and Bingo have fun playing with the CCTV screens.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416213000 +0500" stop="20260416220000 +0500">
-    <title>Disney Jr. Ariel - The Little Mermaid</title>
-    <sub-title>Trident Trouble; Cal's Bright Idea</sub-title>
-    <desc>When Flounder causes Triton's trident to zap magic, it creates chaos before a big royal dinner; Ariel helps Cal overcome his fear of the dark to explore the Bubble Gardens.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <director>Steven E. Gordon</director>
-      <director>Kuni Tomita</director>
-      <actor>Mykal-Michelle Harris</actor>
-      <actor>Gracen Newton</actor>
-      <actor>Elizabeth Phoenix Caro</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31506143_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416220000 +0500" stop="20260416223000 +0500">
-    <title>Hey AJ!</title>
-    <sub-title>Parent Of The Month; Can You Dig It</sub-title>
-    <desc>AJ, a creative young girl, uses the power of imagination to turn ordinary life moments into amazing adventures.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <credits>
-      <actor>Amari McCoy</actor>
-      <actor>Juliet Donenfeld</actor>
-      <actor>Melissa Navia</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Children</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31902838_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Disney-Channel-East-US" start="20260416223000 +0500" stop="20260416230000 +0500">
-    <title>Bluey</title>
-    <sub-title>Ghost Basket; Escape; Surprise</sub-title>
-    <desc>Dad pretends to sell the Grannies' house to Mum; Mum and Dad drop the girls off at Nana's so they can have some time to themselves; Bluey and Bingo want Dad to play two different games.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416230000 +0500" stop="20260416233000 +0500">
-    <title>Robogobo</title>
-    <sub-title>Sledding to the Rescue; Wild Side Car Wash</sub-title>
-    <desc>When Pupsicle sabotages a sled race, Booster and his biggest fan must save the day! RoboGobo must clean their vehicles after a trip to the Wild Side leaves them muddy and slow.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <credits>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Gracen Newton</actor>
-      <actor>Ja'Siah Young</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Children</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32281470_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVY</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>C</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260416233000 +0500" stop="20260417000000 +0500">
-    <title>Bluey</title>
-    <sub-title>Family Meeting; Barky Boats; Smoochy Kiss</sub-title>
-    <desc>Dad is accused of fluffing in Bluey's face; Bluey and Mackenzie play with two older friends; Bluey and Bingo want Dad all to themselves.</desc>
-    <episode-num system="onscreen">S3</episode-num>
-    <credits>
-      <director>Joe Brumm</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Animals</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21050559_b_h10_aj.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Disney-Channel-East-US" start="20260417000000 +0500" stop="20260417003000 +0500">
+  </channel><programme channel="Disney-Channel-East-US" start="20260417000000 +0500" stop="20260417003000 +0500">
     <title>Lilo &amp; Stitch</title>
     <sub-title>Retro</sub-title>
     <desc>An attempt to revert everything to a primitive state.</desc>
@@ -3096,6 +1539,1540 @@
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
     <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418000000 +0500" stop="20260418003000 +0500">
+    <title>Lilo &amp; Stitch</title>
+    <sub-title>Heckler</sub-title>
+    <desc>An experiment taunts Pleakley at his stand-up comedy debut.</desc>
+    <episode-num system="onscreen">S2 E19</episode-num>
+    <credits>
+      <actor>Daveigh Chase</actor>
+      <actor>Christopher Michael Sanders</actor>
+      <actor>Tia Carrere</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9149109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418003000 +0500" stop="20260418010000 +0500">
+    <title>Phineas and Ferb</title>
+    <sub-title>Elevator Irritator; Master of Fate</sub-title>
+    <desc>Candace and the boys are stuck in an elevator next to Doof and Agent P; the kids are visited by the Master of Fate while Agent P has his OWCA performance review.</desc>
+    <episode-num system="onscreen">S5</episode-num>
+    <credits>
+      <director>Dan Povenmire</director>
+      <director>Zac Moncrief</director>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418010000 +0500" stop="20260418013000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Shark Objects; Dream Weaver</sub-title>
+    <desc>When the Greens try to spend an eventful day at the beach, Cricket tries to prank the beach-goers; Cricket discovers he can influence the family's dreams, to disastrous real-life results.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418013000 +0500" stop="20260418020000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Level Up; Wild Side</sub-title>
+    <desc>Bill gets addicted to a farm-simulating video game; Cricket's feral wild side takes over when Bill is unable to replicate their old camping trips.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418020000 +0500" stop="20260418023000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Garage Tales; Animal Farm</sub-title>
+    <desc>After finding a box of mementos, Gramma tells the kids the story of her greatest adventure; while the Greens are away, the animals compete to see who will rule the farm.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418023000 +0500" stop="20260418030000 +0500">
+    <title>Bluey</title>
+    <sub-title>The Quiet Game / Postman / Cafe</sub-title>
+    <desc>Bluey and Bingo play The Quiet Game; when Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum; in the park, Bluey meets a new playmate, Winnie.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418030000 +0500" stop="20260418033000 +0500">
+    <title>Bluey</title>
+    <sub-title>Muffin Cone; Circus; Road Trip</sub-title>
+    <desc>The Heelers go on a road trip! Mum bans the girls from saying the word 'dunny.' Bluey wants to help Dad make Bingo's birthday cake.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418033000 +0500" stop="20260418040000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Time Crisis; Gramma Driver</sub-title>
+    <desc>Remy's plan for his whole life is thrown into question when he is unprepared for a violin recital; Gramma becomes a rideshare driver, only to find her best customers are robbers.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418040000 +0500" stop="20260418043000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Tilly Style; I, Farmbot</sub-title>
+    <desc>Tilly searches the mall for a new look to reflect her maturity; Cricket persuades Bill to buy a farming robot to get out of chores.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418043000 +0500" stop="20260418050000 +0500">
+    <title>Big City Greens</title>
+    <sub-title />
+    <desc>The mischievous Cricket Green and his family pick up their lives in the country to start anew in the big city.</desc>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418050000 +0500" stop="20260418065000 +0500">
+    <title>Moana</title>
+    <sub-title />
+    <desc>An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder. Together they sail across the open ocean on an action-packed voyage, encountering enormous monsters and impossible odds. Along the way, Moana fulfills the ancient quest of her ancestors and discovers the one thing she always sought: her own identity.</desc>
+    <credits>
+      <director>John Musker</director>
+      <director>Ron Clements</director>
+      <actor>Auli'i Cravalho</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Rachel House</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Musical comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12628458_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418065000 +0500" stop="20260418071500 +0500">
+    <title>Lilo &amp; Stitch</title>
+    <sub-title>Snafu</sub-title>
+    <desc>Lilo plans a rescue mission.</desc>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <credits>
+      <actor>Daveigh Chase</actor>
+      <actor>Christopher Michael Sanders</actor>
+      <actor>Tia Carrere</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9149109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418071500 +0500" stop="20260418074000 +0500">
+    <title>Lilo &amp; Stitch</title>
+    <sub-title>Shush</sub-title>
+    <desc>Lilo winds up in trouble after an experiment helps her eavesdrop on conversations.</desc>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <credits>
+      <actor>Daveigh Chase</actor>
+      <actor>Christopher Michael Sanders</actor>
+      <actor>Tia Carrere</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9149109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418074000 +0500" stop="20260418080500 +0500">
+    <title>Lilo &amp; Stitch</title>
+    <sub-title>Morpholomew</sub-title>
+    <desc>Lilo enters a skateboarding contest; Jake Long and his grandfather visit the island.</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <credits>
+      <actor>Daveigh Chase</actor>
+      <actor>Christopher Michael Sanders</actor>
+      <actor>Tia Carrere</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9149109_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418080500 +0500" stop="20260418083000 +0500">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Mister Agreste</sub-title>
+    <desc>Marinette finds it increasingly difficult to keep a secret from Adrien... and the arrival of a supervillain who looks just like her old enemy won't help!</desc>
+    <episode-num system="onscreen">S6</episode-num>
+    <credits>
+      <director>Thomas Astruc</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29234963_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418083000 +0500" stop="20260418090000 +0500">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>The Dark Castle</sub-title>
+    <desc>To allow Alix to celebrate her birthday with her friends and family, Marinette gets the Rabbit Miraculous back and becomes the Keeper of Time for a few hours.</desc>
+    <episode-num system="onscreen">S6</episode-num>
+    <credits>
+      <director>Thomas Astruc</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29234963_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418090000 +0500" stop="20260418093000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Freebie Frenzy; TP'd</sub-title>
+    <desc>The Greens cause trouble during free sample day at the Farmers Market; Cricket and Nancy toilet paper all of Smalton in a quest for pranking glory.</desc>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418093000 +0500" stop="20260418100000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Chocolate Santa; Meadow Mania</sub-title>
+    <desc>In summer, Cricket impulsively eats Bill's chocolate Santa and must replace it; when Gramma's serene country retreat is disrupted by an outdoor festival, she resolves to stop it.</desc>
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418100000 +0500" stop="20260418103000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Split Decision; Skipped Over</sub-title>
+    <desc>Cricket gets dumped by his girlfriend, so he tries to change to win her back; Bill becomes hyper-competitive when Cricket starts to be better at things than him.</desc>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418103000 +0500" stop="20260418110000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>One Hundred</sub-title>
+    <desc>The Greens are determined to make their 100th adventure their best, even if that means unleashing monstrous chickens, journeying beyond death and delivering a mysterious package.</desc>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418110000 +0500" stop="20260418113000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Chip's Revenge</sub-title>
+    <desc>Chip enacts his ultimate revenge plan by framing the Green family for ruining Big City and turning everyone against them.</desc>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418113000 +0500" stop="20260418120000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Charity Case; Like Father</sub-title>
+    <desc>When Tilly sees a manipulative ad, she goes to extremes to save all moths; after spending a week with Bill, Cricket fears he's infected with Billness.</desc>
+    <episode-num system="onscreen">S4 E22</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25599706_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418120000 +0500" stop="20260418123000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Locked In; City Wayne</sub-title>
+    <desc>Identity crises abound; Wayne wants city excitement.</desc>
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418123000 +0500" stop="20260418130000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Saxon Saxability; Remy Dillemy</sub-title>
+    <desc>Saxon finds love; Remy's parents bond with him.</desc>
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418130000 +0500" stop="20260418133000 +0500">
+    <title>Kiff</title>
+    <sub-title>Rock Kick; The Macaroni Affair</sub-title>
+    <desc>Kiff and Barry attempt to kick a rock all the way home; on a Saturday, Kiff and Barry decide to attend school.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <credits>
+      <actor>Kimiko Glenn</actor>
+      <actor>H. Michael Croner</actor>
+      <actor>Orville Peck</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29655387_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418133000 +0500" stop="20260418140000 +0500">
+    <title>Kiff</title>
+    <sub-title>Kiff And Barry Save Halfway There Day</sub-title>
+    <desc>While watching holiday specials on TV with Barry on Halfway There Day Eve, Kiff notices that Barry is not his usual self, which leads him to admit that he is not in the Halfway There Day spirit; they go on an adventure outside of Table Town.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <credits>
+      <actor>Kimiko Glenn</actor>
+      <actor>H. Michael Croner</actor>
+      <actor>Tim Heidecker</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29655387_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418140000 +0500" stop="20260418143000 +0500">
+    <title>Bluey</title>
+    <sub-title>Pirates; Chickenrat; Neighbours</sub-title>
+    <desc>Bluey and Bingo play pirates on the hammock swing; Bingo's favorite toy goes missing; Bluey needs advice on dealing with noisy neighbors.</desc>
+    <episode-num system="onscreen">S1</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418143000 +0500" stop="20260418150000 +0500">
+    <title>Bluey</title>
+    <sub-title>Early Baby; Hospital; Daddy Putdown</sub-title>
+    <desc>Rusty interrupts Bluey's game at playgroup; Doctor Bluey operates on a cat in Dad's tummy; Bluey misses Mum when she goes out for the night.</desc>
+    <episode-num system="onscreen">S1</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418150000 +0500" stop="20260418153000 +0500">
+    <title>Mickey Mouse Clubhouse+</title>
+    <sub-title>Minnie's Dinner Party</sub-title>
+    <desc>The pals help Minnie throw a dinner party for Clara Cluck; using Mousekatools, they set the table, dress up in hats and finish cooking before guests arrive.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <actor>Bret Iwan</actor>
+      <actor>Kaitlyn Robrock</actor>
+      <actor>Tony Anselmo</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30506415_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418153000 +0500" stop="20260418160000 +0500">
+    <title>SuperKitties</title>
+    <sub-title>Diamond Duckie; Mystery Monster</sub-title>
+    <desc>The Kitties and Willa stop Mr. Puppypaws from stealing a special duckie diamond hidden in the Wild Jungle; the SuperKitties and Willa help Zsa-Zsa, who says she saw a monster.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <director>Chad Van De Keere</director>
+      <actor>Emma Berman</actor>
+      <actor>Cruz Flateau</actor>
+      <actor>JeCobi Swain</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31242543_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418160000 +0500" stop="20260418163000 +0500">
+    <title>Marvel's Spidey and His Amazing Friends</title>
+    <sub-title>Campout Chaos; Panther Pod to the Rescue</sub-title>
+    <desc>Green Goblin and Rhino steal the Dino-Webs Tree House gem and turn into dinosaurs; Spin and his abuela go on an unexpected adventure with Black Panther in his new Panther Pod.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <director>Darren Bachynski</director>
+      <director>Chris Gilligan</director>
+      <director>Chris Moreno</director>
+      <actor>Alkaio Thiele</actor>
+      <actor>Carter Young</actor>
+      <actor>Audrey Bennett</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20327168_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418163000 +0500" stop="20260418170500 +0500">
+    <title>Iron Man and His Awesome Friends</title>
+    <sub-title>Baby Vision; Ironheart's Racing Adventure</sub-title>
+    <desc>When Ultron turns Vision into a baby, the Iron Friends must retrieve the device to fix him; the Iron Friends team up to stop Swarm and her Slime Bugs from ruining a car show.</desc>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <credits>
+      <director>Michael Dowding</director>
+      <actor>Mason Blomberg</actor>
+      <actor>Kapri Ladd</actor>
+      <actor>Aidyn Ahn</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30527279_b_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418170500 +0500" stop="20260418173000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>No Service; Takened</sub-title>
+    <desc>Cricket is halted at a convenience store due to its no shoes, no service policy; when Remy throws Vasquez a surprise party, Bill's secret-keeping is put to the test.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418173000 +0500" stop="20260418180000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Green Greens; Truce Bomb</sub-title>
+    <desc>Tilly and Bill set off on an epic journey to recycle a fluorescent light bulb at an e-waste center; Tilly tries to solve a long-standing feud between Gramma and Mr. Grigorian.</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418180000 +0500" stop="20260418183000 +0500">
+    <title>Big City Greens</title>
+    <sub-title>Trivia Night; Big Trouble</sub-title>
+    <desc>Cricket wants to prove to his family that he is not dumb during trivia night at the café; Tilly gets punished for the first time and decides to break bad.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <actor>Chris Houghton</actor>
+      <actor>Artemis Pebdani</actor>
+      <actor>Marieve Herington</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14788469_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418183000 +0500" stop="20260418190000 +0500">
+    <title>Phineas and Ferb</title>
+    <sub-title>Space Adventure; Droogenfest</sub-title>
+    <desc>While Buford is sick, Baljeet makes him watch an episode of his favorite show, "Space Adventure!"; Isabella works with Doof to bake a giant pastry to impress foreign emissaries.</desc>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <credits>
+      <director>Dan Povenmire</director>
+      <director>Zac Moncrief</director>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418190000 +0500" stop="20260418193000 +0500">
+    <title>Phineas and Ferb</title>
+    <sub-title>Doofercise; Croquet Y-8</sub-title>
+    <desc>Doof gathers energy from people exercising while the kids pilot a boat that surfs concrete; Candace and Jeremy make a Perry documentary as the kids play an extreme game of croquet.</desc>
+    <episode-num system="onscreen">S5</episode-num>
+    <credits>
+      <director>Dan Povenmire</director>
+      <director>Zac Moncrief</director>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418193000 +0500" stop="20260418200000 +0500">
+    <title>Phineas and Ferb</title>
+    <sub-title>Dinner Reservations; Bread Bowl Hot Tub</sub-title>
+    <desc>Vanessa and Monty bring their warring fathers, Doof and Monogram, to a "meet the parents" dinner; Buford goes on a whimsical adventure with a bread bowl hot tub.</desc>
+    <episode-num system="onscreen">S5</episode-num>
+    <credits>
+      <director>Dan Povenmire</director>
+      <director>Zac Moncrief</director>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p186178_b_h8_bm.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418200000 +0500" stop="20260418203000 +0500">
+    <title>Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title>Sadnansi</sub-title>
+    <desc>Seemingly normal students Marinette and Adrien are chosen to save Paris from evil.</desc>
+    <episode-num system="onscreen">S6</episode-num>
+    <credits>
+      <director>Thomas Astruc</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29234963_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVY7</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>C8</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418203000 +0500" stop="20260418220000 +0500">
+    <title>The Peanuts Movie</title>
+    <sub-title />
+    <desc>Life always seems complicated for good ol' Charlie Brown (Noah Schnapp), the boy who always tries his best against seemingly impossible odds. When the Little Red-Haired Girl moves into his neighborhood, Charlie Brown develops a crush on her. Meanwhile, his best friend Snoopy embarks on an epic adventure in a fantasy world. As a World War I flying ace, the lovable beagle pursues his nemesis, the Red Baron, while also trying to win the heart of a beautiful poodle named Fifi (Kristin Chenoweth).</desc>
+    <credits>
+      <director>Steve Martino</director>
+      <actor>Noah Schnapp</actor>
+      <actor>Hadley Belle Miller</actor>
+      <actor>Mariel Sheets</actor>
+    </credits><date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11394221_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418220000 +0500" stop="20260418223000 +0500">
+    <title>Bluey</title>
+    <sub-title>Squash; Charades; Bingo</sub-title>
+    <desc>Bluey and Bingo help Uncle Stripe and Bandit play squash and spend the day with Nana; Bingo has to learn to play alone.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418223000 +0500" stop="20260418230000 +0500">
+    <title>Bluey</title>
+    <sub-title>Sleepytime; Daddy Dropoff; Favorite Thing</sub-title>
+    <desc>The Heelers take turns remembering their favorite thing from the day; it's Dad's turn to give the kids breakfast and drop them off at school; Bingo promises to wake up in her own bed.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <director>Joe Brumm</director>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418230000 +0500" stop="20260418233000 +0500">
+    <title>Bluey</title>
+    <sub-title>Rug Island; Hairdressers; Sticky Gecko</sub-title>
+    <desc>Dad washes up on the beach of a desert island; hairdressers Bluey and Bingo discover that their customer has nits; Bluey and Bingo wait for a rubber gecko to fall from the ceiling.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVY</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Disney-Channel-East-US" start="20260418233000 +0500" stop="20260419000000 +0500">
+    <title>Bluey</title>
+    <sub-title>Flat Pack; Queens; Train</sub-title>
+    <desc>Bluey and Bingo construct a mini-civilization; Mum is crowned Queen with the girls as her butlers; Bluey and Bingo commute on the Dad-Train.</desc>
+    <episode-num system="onscreen">S2</episode-num>
+    <credits>
+      <actor>David McCormack</actor>
+      <actor>Melanie Zanetti</actor>
+      <actor>Dan Brumm</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animated</category>
+    <category lang="en">Children</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animals</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16030422_b_h10_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>

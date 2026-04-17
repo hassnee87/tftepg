@@ -3,19 +3,7 @@
   <channel id="TYT-US">
     <display-name>TYT</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TYT-US.png" />
-  </channel><programme channel="TYT-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>Old School</title>
-    <sub-title />
-    <desc>TYT's “throwback” show where our hosts debate everything from geopolitics to sports to proper sock length.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8fb4d3933b447b16a9657339705e91a/rokuFeed/assets/bd575f2f259c5d12b1cd99aac908f002.jpeg" />
-  </programme><programme channel="TYT-US" start="20260417030000 +0500" stop="20260417050000 +0500">
-    <title>The Young Turks</title>
-    <sub-title />
-    <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e14c8152b830a908f52a49f5603f54ee/rokuFeed/assets/5306589625fa5ed88f306883c33ed3f3.jpeg" />
-  </programme><programme channel="TYT-US" start="20260417050000 +0500" stop="20260417070000 +0500">
+  </channel><programme channel="TYT-US" start="20260417050000 +0500" stop="20260417070000 +0500">
     <title>The Young Turks</title>
     <sub-title />
     <desc>TYT's juggernaut daily show breaking down each day's critical news stories.</desc>

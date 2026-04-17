@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-US">
     <display-name>Movie Hub</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
-  </channel><programme channel="Movie-Hub-US" start="20260417015500 +0500" stop="20260417034000 +0500">
-    <title>The Stepfather</title>
-    <sub-title />
-    <desc>A young man (Penn Badgley) suspects that his mother's new lover (Dylan Walsh) is up to no good.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ea78a1037085396afdf63c957241e2d/rokuFeed/assets/0ecc89772ef35bb1acbde07f1991f3b4.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260417034000 +0500" stop="20260417052200 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260417034000 +0500" stop="20260417052200 +0500">
     <title>When a Stranger Calls</title>
     <sub-title />
     <desc>A sadistic phone caller terrorizes a teenage babysitter (Camilla Belle).</desc>
@@ -87,12 +81,12 @@
     <desc>A woman (Virginia Madsen) turns to a priest for help in ridding a new home of ghosts.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c4389f1a2a85f91a7d5e28401f0b2dd/rokuFeed/assets/20c23340a155598e9b60c553bea5f125.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260418014300 +0500" stop="20260418034500 +0500">
-    <title>The Haunting in Connecticut</title>
+  </programme><programme channel="Movie-Hub-US" start="20260418034500 +0500" stop="20260418054100 +0500">
+    <title>It Follows</title>
     <sub-title />
-    <desc>A woman (Virginia Madsen) turns to a priest for help in ridding a new home of ghosts.</desc>
+    <desc>After a sexual encounter, a teen has the inescapable feeling that something is after her.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9c4389f1a2a85f91a7d5e28401f0b2dd/rokuFeed/assets/20c23340a155598e9b60c553bea5f125.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d6a81e7ea0dc5f9a90295ac0fb4fab8c/images/gracenote/assets/p10822144_v_h8_am.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260418034500 +0500" stop="20260418054100 +0500">
     <title>It Follows</title>
     <sub-title />

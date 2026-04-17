@@ -3,19 +3,7 @@
   <channel id="Universal-Movies-US">
     <display-name>Universal Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Universal-Movies-US.png" />
-  </channel><programme channel="Universal-Movies-US" start="20260417002900 +0500" stop="20260417021900 +0500">
-    <title>Bring It On: Worldwide #Cheersmack</title>
-    <sub-title />
-    <desc>Destiny leads The Rebels in a virtual cheer competition after a rival team challenges them.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d1605ccb72856bb86b0e213db375acf/images/gracenote/assets/p14357226_v_h8_ab.jpg" />
-  </programme><programme channel="Universal-Movies-US" start="20260417021900 +0500" stop="20260417041100 +0500">
-    <title>Bring It On</title>
-    <sub-title />
-    <desc>Champion cheerleaders (Kirsten Dunst, Eliza Dushku, Jesse Bradford) compete against an urban squad.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b155b9d821335996800b7533c4bf70e8/rokuFeed/assets/fcdc81a6b9aa5040adfade90038f47cb.jpg" />
-  </programme><programme channel="Universal-Movies-US" start="20260417041100 +0500" stop="20260417055300 +0500">
+  </channel><programme channel="Universal-Movies-US" start="20260417041100 +0500" stop="20260417055300 +0500">
     <title>Bring It On Again</title>
     <sub-title />
     <desc>College cheerleaders (Anne Judson-Yager, Faune A. Chambers) compete against the varsity team.</desc>
@@ -93,12 +81,12 @@
     <desc>In a future society, the government holds an annual 12-hour period during which all crime is legal.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3a212245d9d5182ab6575c3af61573b/rokuFeed/assets/154aa48097d052218028521c4b38314d.jpg" />
-  </programme><programme channel="Universal-Movies-US" start="20260418014700 +0500" stop="20260418031900 +0500">
-    <title>The Purge</title>
+  </programme><programme channel="Universal-Movies-US" start="20260418031900 +0500" stop="20260418052000 +0500">
+    <title>The Purge: Election Year</title>
     <sub-title />
-    <desc>In a future society, the government holds an annual 12-hour period during which all crime is legal.</desc>
+    <desc>A senator and her head of security must survive an annual night of terror where all crime is legal.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b3a212245d9d5182ab6575c3af61573b/rokuFeed/assets/154aa48097d052218028521c4b38314d.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f6f05fda689f54ec99cd05f7b80027ee/rokuFeed/assets/69284a32cf3c596397effc54082fbb8b.jpg" />
   </programme><programme channel="Universal-Movies-US" start="20260418031900 +0500" stop="20260418052000 +0500">
     <title>The Purge: Election Year</title>
     <sub-title />

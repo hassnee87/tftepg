@@ -3,205 +3,7 @@
   <channel id="BBC-One-UK">
     <display-name>BBC One</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-One-UK.png" />
-  </channel><programme channel="BBC-One-UK" start="20260416000000 +0500" stop="20260416010000 +0500">
-    <title>The Repair Shop</title>
-    <sub-title />
-    <desc>The team revive a powered football wheelchair, some meticulously handcrafted jewellery, a bagatelle board, and a speedway flag that tells a remarkable Glaswegian love story.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Antiques</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4a5621fe-fc3d-4505-aa8c-b1f911581642/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416010000 +0500" stop="20260416020000 +0500">
-    <title>Ambulance</title>
-    <sub-title />
-    <desc>Specialist paramedic Alistair is first on scene to treat severe injuries after a 20ft fall. Contains scenes which some viewers may find upsetting.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c368bba5-bd3c-4756-aba0-9d6989e52a1c/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416020000 +0500" stop="20260416023000 +0500">
-    <title>BBC News and Weather</title>
-    <sub-title />
-    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6fdac166-9030-470c-8f66-853733617411/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416023000 +0500" stop="20260416024000 +0500">
-    <title>BBC London News</title>
-    <sub-title />
-    <desc>The latest news, sport and weather from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ba8e97c4-6558-49ef-89b0-2abde6ee7470/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416024000 +0500" stop="20260416034000 +0500">
-    <title>MOTD: UEFA Champions League Highlights</title>
-    <sub-title />
-    <desc>Highlights of the second-leg matches in the 2025/26 UEFA Champions League quarter-finals.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c2f9903a-05b0-4619-ba21-5983b3a76297/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416034000 +0500" stop="20260416042500 +0500">
-    <title>Celebrity Bridge of Lies</title>
-    <sub-title />
-    <desc>Ross Kemp presents a celebrity special of the high-stakes quiz, featuring athletes Kriss Akabusi, Sammi Kinghorn, Matt Baker and Gladiator Karenjeet Kaur Bains.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ab59d11f-7731-4b29-9f7c-8c63b4c63680/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416042500 +0500" stop="20260416050000 +0500">
-    <title>Blankety Blank</title>
-    <sub-title />
-    <desc>The celebrities joining Bradley Walsh include Richard Ayoade, Alex Jones and Nadia Jae.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/23cda430-f18a-4d45-b96b-0d7455716be9/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416050000 +0500" stop="20260416050500 +0500">
-    <title>Weather for the Week Ahead</title>
-    <sub-title />
-    <desc>Detailed weather forecast.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0c152e92-f9ec-47df-b618-bd43b7a15cf0/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416050500 +0500" stop="20260416100000 +0500">
-    <title>BBC News</title>
-    <sub-title />
-    <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5053e569-2972-469f-96a6-7ec23d84101d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416100000 +0500" stop="20260416133000 +0500">
-    <title>Breakfast</title>
-    <sub-title />
-    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/fe177e9d-a73e-4265-82e7-87a71e275ca9/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416133000 +0500" stop="20260416144500 +0500">
-    <title>Morning Live</title>
-    <sub-title />
-    <desc>Join Gethin Jones, Helen Skelton, Michelle Ackerley and the team for conversation, advice and tips to make your day that little bit easier.</desc>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ee104b30-4679-49fd-ad45-e4955f3cb83d/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416144500 +0500" stop="20260416151500 +0500">
-    <title>Farm 999</title>
-    <sub-title />
-    <desc>Police catch wildlife poachers targeting farmland in the Midlands, teams take on a challenging cow rescue in Scotland, and Paul Colgan explores rural crime tech in Humberside.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b74e9c75-8ce1-4f24-a3b9-326be7943bc9/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416151500 +0500" stop="20260416161500 +0500">
-    <title>Homes Under the Hammer</title>
-    <sub-title />
-    <desc>Dion has to navigate his way through an eight bedroom behemoth in Bangor. Jacqui takes in the views in Dover. And Tommy is in Lincolnshire to look around a bungalow.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/102fafec-671b-40d5-97d8-352e26828053/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416161500 +0500" stop="20260416170000 +0500">
-    <title>Bargain Hunt: Art Deco Special</title>
-    <sub-title />
-    <desc>Dapper Eric Knowles celebrates the art deco era that brought style and glamour to 1920s and 30s collectibles.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/12f0750e-ccb9-306c-86ac-2d695b3eb408/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416170000 +0500" stop="20260416180000 +0500">
-    <title>BBC News at One including BBC London News</title>
-    <sub-title />
-    <desc>The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/78cc9634-a55d-4df9-8c36-d37a47efda17/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416180000 +0500" stop="20260416183000 +0500">
-    <title>Shift the Thrift</title>
-    <sub-title />
-    <desc>In Llandudno, Anne and Lenka race to turn charity shop bargains into profit, taking bold risks on furniture, jewellery and creative upcycles - all for charity.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Antiques</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d640a1e4-3adf-4c85-920e-ced12f46a23b/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416183000 +0500" stop="20260416190000 +0500">
-    <title>Designing the Hebrides</title>
-    <sub-title />
-    <desc>Banjo redesigns a castle turret room and a bedroom at a lighthouse.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gradening</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/13f339b0-467e-3553-b1e7-e8f82e809aef/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416190000 +0500" stop="20260416194500 +0500">
-    <title>Escape to the Country</title>
-    <sub-title />
-    <desc>A couple with four kids searches for outdoor adventures and fresh air in North Yorkshire, where Briony May Williams helps them find a family home with room to spread their wings.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Gradening</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/91c7f4a6-d8d2-4577-a17d-f0732f2ff006/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416194500 +0500" stop="20260416203000 +0500">
-    <title>I Made It at Market</title>
-    <sub-title />
-    <desc>Dom revisits talented makers Sarah and Emmy to see their life-changing businesses and find out what they are earning now after coming to his business boot camp in spring 2022.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/290bcc74-dbb1-4dc0-8993-72013401d584/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416203000 +0500" stop="20260416211500 +0500">
-    <title>The Finish Line</title>
-    <sub-title />
-    <desc>Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4fd15580-aca9-4bfd-af35-a0dc0bfacea2/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416211500 +0500" stop="20260416220000 +0500">
-    <title>Pointless</title>
-    <sub-title />
-    <desc>Alexander Armstrong is joined by co-host Tom Allen for the quiz where contestants try to score as few points as possible by coming up with the answers no-one else could think of.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/99d078e7-da5c-408f-b573-3c2779d72f44/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416220000 +0500" stop="20260416223000 +0500">
-    <title>BBC News</title>
-    <sub-title />
-    <desc>The latest national and international news from the BBC.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/10fda4ec-59b0-4654-b41b-45115d260a81/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416223000 +0500" stop="20260416230000 +0500">
-    <title>BBC London News</title>
-    <sub-title />
-    <desc>The latest news, sport and weather from London.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c47cc6f6-cda9-462a-b3d4-ee65e8384d1f/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416230000 +0500" stop="20260416233000 +0500">
-    <title>The One Show</title>
-    <sub-title />
-    <desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ebf7035f-b465-444d-a786-dc35472e506c/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260416233000 +0500" stop="20260417000000 +0500">
-    <title>EastEnders</title>
-    <sub-title />
-    <desc>Vicki is out of options, and Max and Lauren continue to compete.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soap</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5d167645-e9b5-4dec-9069-91c1f7e99045/16-9" />
-  </programme><programme channel="BBC-One-UK" start="20260417000000 +0500" stop="20260417010000 +0500">
+  </channel><programme channel="BBC-One-UK" start="20260417000000 +0500" stop="20260417010000 +0500">
     <title>Race Across the World</title>
     <sub-title />
     <desc>The five teams bid farewell to Europe and head into Asia, racing toward the remote riverside town of Halfeti, where the last to arrive will be eliminated from the competition.</desc>
@@ -382,5 +184,195 @@
     <category lang="en">Arts</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/a924e8c3-3714-42b8-a48c-faa25a3134ea/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418000000 +0500" stop="20260418010000 +0500">
+    <title>Beyond Paradise</title>
+    <sub-title />
+    <desc>When a seaweed farm is targeted in an act of sabotage, all the evidence points to the legendary mermaid of Shipton Abbott.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/925ace1e-dc4c-4ff0-b0c8-0c52f7e2fcbe/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418010000 +0500" stop="20260418013000 +0500">
+    <title>Have I Got News for You</title>
+    <sub-title />
+    <desc>Gabby Logan hosts, with guest panellists comedians Miles Jupp and Michelle Wolf joining team captains Paul Merton and Ian Hislop.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a9be1f21-37d1-4288-8d48-07f315b50a79/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418013000 +0500" stop="20260418020000 +0500">
+    <title>The Young Offenders</title>
+    <sub-title />
+    <desc>Linda Walsh, Conor's one true love, is getting married to another man, which can only lead to chaos at the wedding. Contains some strong language.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d2792ccb-cda6-4313-abdf-87bd0eb32cdd/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418020000 +0500" stop="20260418023000 +0500">
+    <title>BBC News and Weather</title>
+    <sub-title />
+    <desc>The latest national and international news, with reports from BBC correspondents worldwide.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/76d1e187-00b9-436d-b54e-d1a1d706a786/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418023000 +0500" stop="20260418024000 +0500">
+    <title>BBC London News</title>
+    <sub-title />
+    <desc>The latest news, sport and weather from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e8a86b46-f8bd-4fd6-829e-a18db5e986ad/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418024000 +0500" stop="20260418032500 +0500">
+    <title>The Claudia Winkleman Show</title>
+    <sub-title />
+    <desc>Claudia is joined by actor and writer Dan Levy, actor Phil Dunster, star of stage and screen Cush Jumbo and comedian Josh Widdicombe.</desc>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/676ab066-1282-49f6-aa97-3484a72629d1/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418032500 +0500" stop="20260418045000 +0500">
+    <title>The Royal Hotel</title>
+    <sub-title />
+    <desc>Work in a macho outback community's pub proves problematic for two female backpackers. Contains very strong language and some scenes of a sexual nature.</desc>
+    <category lang="en">Movie</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4a4559e3-f236-31ee-8121-caf1f35882ad/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418045000 +0500" stop="20260418045500 +0500">
+    <title>Weather for the Week Ahead</title>
+    <sub-title />
+    <desc>Detailed weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/82a7ab45-1623-45f1-b1d6-56428b8df858/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418045500 +0500" stop="20260418100000 +0500">
+    <title>BBC News</title>
+    <sub-title />
+    <desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/238ee507-e8b1-4aea-a2ed-27d149c04cfd/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418100000 +0500" stop="20260418140000 +0500">
+    <title>Breakfast</title>
+    <sub-title />
+    <desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a810226e-58e2-4ff5-b02b-7ae4665eb12a/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418140000 +0500" stop="20260418153000 +0500">
+    <title>Saturday Kitchen Live</title>
+    <sub-title />
+    <desc>Matt Tebbutt is joined by chefs Nathan Outlaw, Andi Oliver and Sophia Handschuh aka Sourdough Sophia, and by special guest Judi Love. Olly Smith picks the wines to go with the studio dishes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b70186b5-0ce7-4530-9c25-2bcd5fe65a10/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418153000 +0500" stop="20260418160000 +0500">
+    <title>Homes Under the Hammer</title>
+    <sub-title />
+    <desc>Dion creates a great drum beat on an old kitchen sink in Stoke.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/67cc94b3-be5b-3726-bf1c-f40f52e3fc44/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418160000 +0500" stop="20260418164500 +0500">
+    <title>Football Focus</title>
+    <sub-title />
+    <desc>Alex Scott is joined by Martin Keown and Dion Dublin to discuss the weekend's football, including a Premier League clash between Man City and Arsenal, and the Merseyside derby.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d1cd3316-30a7-4e9d-b516-7ebc6ec88621/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418164500 +0500" stop="20260418165500 +0500">
+    <title>BBC News</title>
+    <sub-title />
+    <desc>The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/34592926-defc-49e7-9be2-f9753bf05877/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418165500 +0500" stop="20260418170000 +0500">
+    <title>Weather</title>
+    <sub-title />
+    <desc>The latest weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fd89849e-ad97-43a7-a881-e3128e8bc197/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418170000 +0500" stop="20260418180000 +0500">
+    <title>Bargain Hunt</title>
+    <sub-title />
+    <desc>Join Danny Sebastian for today's show from Harrogate, North Yorkshire, with experts Izzie Balmer and John Cameron. Danny gets some upcycling tips before heading to the auction.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f673765e-514c-3852-a2ba-d82950274d60/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418180000 +0500" stop="20260418203000 +0500">
+    <title>Snooker: World Championship</title>
+    <sub-title />
+    <desc>Coverage of day 1 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/50328dd2-0ee8-4193-989e-82bb61fa5965/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418203000 +0500" stop="20260418212000 +0500">
+    <title>Final Score</title>
+    <sub-title />
+    <desc>Jason Mohammad and guests bring you all the goals, latest news, analysis, reaction and interviews from the afternoon's biggest football matches.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e807e9a1-5907-467f-9a5f-6c1b8c8c7dec/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418212000 +0500" stop="20260418213000 +0500">
+    <title>BBC News</title>
+    <sub-title />
+    <desc>The latest national and international news from the BBC.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/783f09fa-cda9-4074-8bbb-0845f78c7daa/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418213000 +0500" stop="20260418213500 +0500">
+    <title>BBC London News</title>
+    <sub-title />
+    <desc>The latest news, sport and weather from London.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/525893eb-8bf5-4637-8ac6-6d63acd0c2db/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418213500 +0500" stop="20260418214000 +0500">
+    <title>Weather</title>
+    <sub-title />
+    <desc>The latest weather forecast.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/861caaac-b558-428e-9c2b-b7b9336bff27/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418214000 +0500" stop="20260418222500 +0500">
+    <title>Celebrity Bridge of Lies</title>
+    <sub-title />
+    <desc>Ross Kemp presents a celebrity special of the high-stakes quiz, featuring dancer Amy Dowden, actor Nina Wadia, Gladiator Montell Douglas and actress and musician Toyah Willcox.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1acc8707-21ca-4b64-8145-834a5d52180f/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418222500 +0500" stop="20260418230000 +0500">
+    <title>Blankety Blank</title>
+    <sub-title />
+    <desc>Bradley Walsh hosts as Rhod Gilbert, Jill Scott, Aisling Bea, Guz Khan, Nitro and the Rev Kate Bottley try to fill in the missing blanks and win prizes for some lucky contestants.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ab235e71-43a5-4cc5-8c79-0da7baa84fdd/16-9" />
+  </programme><programme channel="BBC-One-UK" start="20260418230000 +0500" stop="20260419000000 +0500">
+    <title>Michael McIntyre's Big Show</title>
+    <sub-title />
+    <desc>With a guest appearance by Lewis Capaldi.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/440af3ca-fa26-4886-bf6f-c33de6c878a0/16-9" />
   </programme>
 </tv>

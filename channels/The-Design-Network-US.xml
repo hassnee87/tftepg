@@ -3,35 +3,7 @@
   <channel id="The-Design-Network-US">
     <display-name>The Design Network</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/The-Design-Network-US.png" />
-  </channel><programme channel="The-Design-Network-US" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Buying Back Home</title>
-    <sub-title>Choosing Chappaqua &amp; Collingswood</sub-title>
-    <desc>Follow couples as they return to their roots to weigh their home-buying options in their beloved hometown.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Buying%2520Back%2520Home_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Celebrity House Sitting</title>
-    <sub-title>Dana Spinola &amp; Matt Schaub</sub-title>
-    <desc>Leah heads to Dana Spinola's posh pad and NFL veteran Matt Schaub's mega mansion.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Celebrity%2520House%2520Sitting_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>Celebrity House Sitting</title>
-    <sub-title>Zac Brown &amp; Toya Wright</sub-title>
-    <desc>Leah stops by recording artist Zac Brown's wilderness retreat and TV star Toya Wright's pristine palace.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Celebrity%2520House%2520Sitting_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>Celebrity House Sitting</title>
-    <sub-title>Rickey Smiley &amp; Phaedra Parks</sub-title>
-    <desc>Leah house sits for comic and radio host Rickey Smiley and Real Housewives of Atlanta legend Phaedra Parks.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://d2irp9idlufd6d.cloudfront.net/Celebrity%2520House%2520Sitting_Vimeo%2520Package.jpg" />
-  </programme><programme channel="The-Design-Network-US" start="20260417040000 +0500" stop="20260417043000 +0500">
+  </channel><programme channel="The-Design-Network-US" start="20260417040000 +0500" stop="20260417043000 +0500">
     <title>Hometown Heroes</title>
     <sub-title>The Imagination Library's Magical Makeover</sub-title>
     <desc>Danica McKellar and Julie Couch give Dolly Parton's Imagination Library a magical makeover.</desc>
@@ -346,5 +318,33 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://d2irp9idlufd6d.cloudfront.net/NinasGarden_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260418023000 +0500" stop="20260418030000 +0500">
+    <title>Nina's Garden</title>
+    <sub-title>A Bountiful Harvest</sub-title>
+    <desc>Nina gets back to the basics of gardening with tips and tricks anyone can adopt.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/NinasGarden_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260418030000 +0500" stop="20260418033000 +0500">
+    <title>Nina's Garden</title>
+    <sub-title>Creating a Family Homestead</sub-title>
+    <desc>Nina heads to Nashville, Tennessee to turn a 37-acre farm into a family homestead.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/NinasGarden_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260418033000 +0500" stop="20260418040000 +0500">
+    <title>Holistic Home</title>
+    <sub-title>Office</sub-title>
+    <desc>Anne is an entrepreneur whose home office headquarters is having an identity crisis.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/HolisticHome_Vimeo%2520Package.jpg" />
+  </programme><programme channel="The-Design-Network-US" start="20260418040000 +0500" stop="20260418043000 +0500">
+    <title>Holistic Home</title>
+    <sub-title>Master Bedroom Retreat</sub-title>
+    <desc>Hollie’s bland master bedroom lacks any sense of tranquility.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://d2irp9idlufd6d.cloudfront.net/HolisticHome_Vimeo%2520Package.jpg" />
   </programme>
 </tv>

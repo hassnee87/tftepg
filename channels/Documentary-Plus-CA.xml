@@ -3,15 +3,7 @@
   <channel id="Documentary-Plus-CA">
     <display-name>Documentary+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-Plus-CA.png" />
-  </channel><programme channel="Documentary-Plus-CA" start="20260417011259 +0500" stop="20260417025552 +0500">
-    <title>The Power of Pickleball</title>
-    <sub-title />
-    <desc>A heartfelt documentary detailing how a backyard game from 1965 became a bold movement uniting generations.</desc>
-    <date>20260316</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0ce99f82b35a2006a6f0401b37989047.jpg" />
-  </programme><programme channel="Documentary-Plus-CA" start="20260417025552 +0500" stop="20260417044145 +0500">
+  </channel><programme channel="Documentary-Plus-CA" start="20260417025552 +0500" stop="20260417044145 +0500">
     <title>Sweet Micky for President</title>
     <sub-title />
     <desc>Music and politics collide when music star, Pras Michel of the Fugees, returns to his homeland of Haiti.</desc>
@@ -171,5 +163,29 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7440515694038871366/Texted/rectangle/104808cyw7vf41gttgcixi7l3p.png" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418022117 +0500" stop="20260418025753 +0500">
+    <title>ifine</title>
+    <sub-title />
+    <desc>The beauty of Blackness through the eyes of youth coming of age amid a skin bleaching epidemic.</desc>
+    <date>20230915</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/pjCT8aisSBdY8SNn0LPUIB5UqBW.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418025753 +0500" stop="20260418031004 +0500">
+    <title>Brotherhood of Skiing</title>
+    <sub-title />
+    <desc>The first Black Ski Summit took place in 1973 and was attended by over 350 skiers.</desc>
+    <date>20251024</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7402836729183167157/Texted/rectangle/1p14sc1fyhqty15yjpybrbs23f.jpg" />
+  </programme><programme channel="Documentary-Plus-CA" start="20260418031004 +0500" stop="20260418044220 +0500">
+    <title>Lost Arcade</title>
+    <sub-title />
+    <desc>The history of NYC's Chinatown Fair and the legendary arcade that housed dozens of gamers and onlookers.</desc>
+    <date>20260201</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7424930238890794622/Texted/rectangle/153hid0ck8pxx19zgveivxsp9j.jpg" />
   </programme>
 </tv>

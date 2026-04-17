@@ -3,39 +3,7 @@
   <channel id="CBC-Comedy-CA">
     <display-name>CBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBC-Comedy-CA.png" />
-  </channel><programme channel="CBC-Comedy-CA" start="20260417021000 +0500" stop="20260417023600 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>To Lure a Squirrel</sub-title>
-    <desc>Kate and Nathan struggle with their new living arrangement; Frankie and Juniper take their investigation of Sean too far; Anne looks at her relationship with Alice in a new light.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20200317</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/10f0ffc5be112fffdad60f670be236a2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417023600 +0500" stop="20260417030100 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Lice</sub-title>
-    <desc>A lice outbreak at camp becomes everyone's worst nightmare; Kate's interview soon proves somewhat uncomfortable. Anne quarantines her house while Frankie tries to sell a home under false pretences.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20200324</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c1ae7818371de16bc29d763b2cbd207b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417030100 +0500" stop="20260417032700 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Bad Reputation</sub-title>
-    <desc>Kate finds herself in the middle of a PR crisis for her new client Après; Anne is inspired by a new book idea; Frankie and Bianca discover the truth about Sean.</desc>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <date>20200331</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9298b6e89e70458d40c454764aaf4d28.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417032700 +0500" stop="20260417035300 +0500">
-    <title>Mr. D</title>
-    <sub-title>Formative Bulls...</sub-title>
-    <desc>Gerry discovers that teaching phys ed comes up a lot of paperwork; Bobbi tries to juggle work and a newborn; Lisa becomes friends with some moms who may have dirt on Xavier.</desc>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <date>20171024</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9a6eea6b73883cfa5e2281710e222801.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260417035300 +0500" stop="20260417041800 +0500">
+  </channel><programme channel="CBC-Comedy-CA" start="20260417035300 +0500" stop="20260417041800 +0500">
     <title>Mr. D</title>
     <sub-title>Gerry Pay to Play</sub-title>
     <desc>Gerry ends up in a compromising situation after the teacher auction; Emma enlists Dwyer to do some repairs in the library; Trudy gets a surprise visit.</desc>
@@ -442,5 +410,37 @@
     <date>20210216</date>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/d/gracenote/df1349568c0ccee784ce73efac82a20c.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418024300 +0500" stop="20260418030600 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Mama Mia Meatboy</sub-title>
+    <desc>Kate feels the pressure to land a major new client; Anne is torn between hanging on to her ambition and succumbing to the rhythm of life as a Cochrane mom; with Bianca away, Frankie buys Rhoda a strange new pet.</desc>
+    <episode-num system="onscreen">S05E02</episode-num>
+    <date>20210223</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/164098e22e0eaaf40d73a94b27850499.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418030600 +0500" stop="20260418033200 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Pleasure Yourself</sub-title>
+    <desc>Kate walks farther into the lioness's den with Sloane; Anne starts her new job; Alice gets closer with her new boyfriend; Jenny discovers her secret office romance with MCP might not be exactly what she expected.</desc>
+    <episode-num system="onscreen">S05E03</episode-num>
+    <date>20210302</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7469916e102d78c3f20690f112dc82b0.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418033200 +0500" stop="20260418035800 +0500">
+    <title>Mr. D</title>
+    <sub-title>Gerry Wants What He Can't Trans</sub-title>
+    <desc>Gerry takes control of the girl's soccer team to get back at Coach Meyers; an ambitious mom seduces Frank; Lisa's reign of terror seemingly comes to an end.</desc>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <date>20171114</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/789878d4c4742ba72e407a0df5b965df.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260418035800 +0500" stop="20260418042300 +0500">
+    <title>Mr. D</title>
+    <sub-title>Principal for a Day</sub-title>
+    <desc>Gerry's least-favorite student becomes Principal for a Day; a harmless prank goes sour; Bobbi accidentally ruins a student's life.</desc>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <date>20171121</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/645353381a6ee5aed1cedd2c4bed97ca.jpg" />
   </programme>
 </tv>

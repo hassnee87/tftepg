@@ -3,23 +3,7 @@
   <channel id="Real-Disaster-Channel-US">
     <display-name>Real Disaster Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Disaster-Channel-US.png" />
-  </channel><programme channel="Real-Disaster-Channel-US" start="20260417013603 +0500" stop="20260417023045 +0500">
-    <title>Mayday: The Accident Files</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>Distracted and in a rush, three flight crews make deadly decisions.</desc>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <date>20231023</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1q1xipdqgus4b11657llf9h2q/w1920_h1080/1q1xipdqgus4b11657llf9h2q.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260417023045 +0500" stop="20260417032518 +0500">
-    <title>Mayday: Air Disaster</title>
-    <sub-title>Episode 8</sub-title>
-    <desc>Investigators dig into the history of a troubled airline and reach a conclusion that’s almost beyond belief.</desc>
-    <episode-num system="onscreen">S15E08</episode-num>
-    <date>20230508</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/1ul0e0qb3igcu1pzja6gosdo1/w1920_h1080/1ul0e0qb3igcu1pzja6gosdo1.jpg" />
-  </programme><programme channel="Real-Disaster-Channel-US" start="20260417032518 +0500" stop="20260417041951 +0500">
+  </channel><programme channel="Real-Disaster-Channel-US" start="20260417032518 +0500" stop="20260417041951 +0500">
     <title>Mayday: Air Disaster</title>
     <sub-title>Episode 1</sub-title>
     <desc>Investigators uncover a shocking cause for a fiery collision.</desc>
@@ -219,5 +203,21 @@
     <date>20230612</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/1jogshnm705l414fo1sixfest/w1920_h1080/1jogshnm705l414fo1sixfest.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260418022637 +0500" stop="20260418032118 +0500">
+    <title>Mayday: The Accident Files</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>When decisions are made in the heat of the moment, even minor issues can turn deadly.</desc>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <date>20230731</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/dq85cc6q0g1u1p3bk9ju7yucf/w1920_h1080/dq85cc6q0g1u1p3bk9ju7yucf.jpg" />
+  </programme><programme channel="Real-Disaster-Channel-US" start="20260418032118 +0500" stop="20260418041551 +0500">
+    <title>Mayday: Air Disaster</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>A dangerous test flight may be the only way to uncover a startling truth.</desc>
+    <episode-num system="onscreen">S15E09</episode-num>
+    <date>20230508</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/ni3qg6pkr5bt1lg77osgcbbth/w1920_h1080/ni3qg6pkr5bt1lg77osgcbbth.jpg" />
   </programme>
 </tv>

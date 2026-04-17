@@ -3,304 +3,7 @@
   <channel id="ABC-TV-AU">
     <display-name>ABC TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC-TV-AU.png" />
-  </channel><programme channel="ABC-TV-AU" start="20260416002900 +0500" stop="20260416010000 +0500">
-    <title>7.30</title>
-    <sub-title />
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
-    <episode-num system="onscreen">E59</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/264720/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416010000 +0500" stop="20260416040000 +0500">
-    <title>News Breakfast</title>
-    <sub-title />
-    <desc>Start your Thursday with all the news you need. James Glenday and Emma Rebellato bring you the latest overnight news, interviews and the top stories this morning, plus Catherine Murphy with sport and Nate Byrne with weather.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/231375/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416040000 +0500" stop="20260416050000 +0500">
-    <title>ABC News Mornings</title>
-    <sub-title />
-    <desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Lorna Dunkley.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/311312/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416050000 +0500" stop="20260416053000 +0500">
-    <title>Tonight At The Museum</title>
-    <sub-title>The Ice Is Right</sub-title>
-    <desc>An after-hours adventure at the museum as Alex Lee welcomes Pete Helliar, Danielle Walker, Alex Ward and Briggs for laughs and exhibition glory.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441432/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416053000 +0500" stop="20260416060000 +0500">
-    <title>The Weekly with Charlie Pickering</title>
-    <sub-title />
-    <desc>The news has never been more of a mess, but Charlie Pickering tries to make sense of the nonsense. We watch the week so that you don't have to. With special guests Rhys Nicholson, Nicolette Minster and Felicity Ward.</desc>
-    <episode-num system="onscreen">S12 E14</episode-num>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/327885/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416060000 +0500" stop="20260416063000 +0500">
-    <title>Creative Types with Virginia Trioli</title>
-    <sub-title>David Hallberg</sub-title>
-    <desc>American Ballet Dancer, now artistic director, David Hallberg shows how he has taken The Australian Ballet company to a new level of power and style, sharing lessons from a catastrophic foot injury.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428452/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416063000 +0500" stop="20260416070000 +0500">
-    <title>Can You Keep A Secret?</title>
-    <sub-title />
-    <desc>Debbie takes pity on blackmailer Marcus and invites him for lunch. She discovers that he and Pamela aren't in cahoots after all. The Fendons had two separate blackmail threats, and Pam is still at large and wants her money!</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441660/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416070000 +0500" stop="20260416080000 +0500">
-    <title>ABC News at Noon</title>
-    <sub-title />
-    <desc>Ros Childs presents the leading news at lunchtime, including the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/323110/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416080000 +0500" stop="20260416085800 +0500">
-    <title>Frauds</title>
-    <sub-title />
-    <desc>Sam enlists an old friend's help leaving Bert feeling betrayed. With the heist imminent, Bert and Sam struggle to keep their secrets hidden and their partnership intact.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441661/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416085800 +0500" stop="20260416092900 +0500">
-    <title>Tonight At The Museum</title>
-    <sub-title>The Land Before Your Time Starts Now</sub-title>
-    <desc>Alex Lee unleashes Becky Lucas, Takashi Wakasugi, Bron Lewis and Dilruk Jayasinha after dark at the museum, where personal treasures go on display.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441432/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416092900 +0500" stop="20260416095900 +0500">
-    <title>Back Roads</title>
-    <sub-title>Gayndah, Qld</sub-title>
-    <desc>Back Roads travels to Gayndah, Queensland's oldest town, where citrus is the lifeblood of the community.</desc>
-    <episode-num system="onscreen">S12 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416095900 +0500" stop="20260416105800 +0500">
-    <title>Grand Designs Transformations</title>
-    <sub-title>Glenbrook and North Balgowlah</sub-title>
-    <desc>A dilapidated 1960s duplex in the Blue Mountains gets a Moroccan makeover, while in Sydney can a giant boulder the size of a backyard be transformed into a rock top, poolside paradise?</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/426829/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416105800 +0500" stop="20260416114400 +0500">
-    <title>Sister Boniface Mysteries</title>
-    <sub-title>Stiff Competition</sub-title>
-    <desc>Sister Boniface investigates a deadly magical mishap at the local talent show.</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410231/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416114400 +0500" stop="20260416123000 +0500">
-    <title>Long Lost Family: What Happened Next</title>
-    <sub-title />
-    <desc>Davina and Nicky discover what it's like to build a relationship after a lifetime apart. Twins Jennifer and Kathleen had been living 5km apart for 60 years. We also revisit Polly and Steve, a mother and son reunited after 50 years.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/328432/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416123000 +0500" stop="20260416132900 +0500">
-    <title>Antiques Roadshow</title>
-    <sub-title>Somerleyton 2</sub-title>
-    <desc>The team head to Suffolk to Somerleyton Hall near Lowestoft. As ever, there's a fascinating array of objects and stories under scrutiny, including a picture painted by a suffragette artist who had arsonist tendencies.</desc>
-    <episode-num system="onscreen">S33 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/130628/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416132900 +0500" stop="20260416140000 +0500">
-    <title>Hard Quiz</title>
-    <sub-title />
-    <desc>Where does Tom Gleeson find these oddballs? Tonight's Hard Quiz expert topics are blood, Russell Coight's All Aussie Adventures, Britpop legends Blur, and road cycling race the Giro D'Italia. Let the hardest quizzer win!</desc>
-    <episode-num system="onscreen">S9 E32</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/351164/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416140000 +0500" stop="20260416143000 +0500">
-    <title>ABC News</title>
-    <sub-title />
-    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Jeremy Fernandez, plus weather with Tom Saunders.</desc>
-    <episode-num system="onscreen">E106</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/100662/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416143000 +0500" stop="20260416150100 +0500">
-    <title>7.30</title>
-    <sub-title />
-    <desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
-    <episode-num system="onscreen">E60</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/264720/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416150100 +0500" stop="20260416153100 +0500">
-    <title>Back Roads</title>
-    <sub-title>Outback Kids' Choir, NSW</sub-title>
-    <desc>Guest Presenter Jeremy Fernandez joins the Sydney Youth Orchestras on an unforgettable musical journey to outback Wilcannia, where they'll perform with local singers, musicians and form new friendships.</desc>
-    <episode-num system="onscreen">S12 E7</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/337460/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416153100 +0500" stop="20260416161900 +0500">
-    <title>Grand Designs</title>
-    <sub-title>Worthing</sub-title>
-    <desc>Howard and Sarah build a sleek metallic floating home on a tidal estuary near Worthing. The structure sits on a polystyrene slab to deal with high tides.</desc>
-    <episode-num system="onscreen">S23 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/179254/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416161900 +0500" stop="20260416171000 +0500">
-    <title>The Piano</title>
-    <sub-title>Dandenong Market, Melbourne</sub-title>
-    <desc>At Melbourne's Dandenong Market, people from all walks of life take a seat at the piano, sharing their stories and musical passion while master musicians Guy Sebastian and Andrea Lam observe.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <category lang="en">Music</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/436063/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416171000 +0500" stop="20260416172500 +0500">
-    <title>ABC Late News</title>
-    <sub-title />
-    <desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Jade Barker.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/369217/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416172500 +0500" stop="20260416174200 +0500">
-    <title>The Business</title>
-    <sub-title />
-    <desc>Alicia Barry presents Australia's leading daily business and finance show, bringing viewers up to date on market moves, economic trends and the forces affecting consumers, investors, employees, and businesses big and small.</desc>
-    <episode-num system="onscreen">E44</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/277532/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416174200 +0500" stop="20260416182900 +0500">
-    <title>Sister Boniface Mysteries</title>
-    <sub-title>Stiff Competition</sub-title>
-    <desc>Sister Boniface investigates a deadly magical mishap at the local talent show.</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410231/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416182900 +0500" stop="20260416191600 +0500">
-    <title>Long Lost Family: What Happened Next</title>
-    <sub-title />
-    <desc>Davina and Nicky discover what it's like to build a relationship after a lifetime apart. Twins Jennifer and Kathleen had been living 5km apart for 60 years. We also revisit Polly and Steve, a mother and son reunited after 50 years.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/328432/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416191600 +0500" stop="20260416230000 +0500">
-    <title>rage</title>
-    <sub-title />
-    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <category lang="en">Music</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260416230000 +0500" stop="20260417000000 +0500">
-    <title>Gardening Australia</title>
-    <sub-title>Edible Petals, Stem Cuttings &amp; Oz Wildlife</sub-title>
-    <desc>Jerry Coleby-Williams suggests unusual indoor plants; Costa Georgiadis visits a nursery helping migrants; Clarence Slockee meets a family who started gardening in lockdown; Jane Edmanson gets a taste for edible flowers.</desc>
-    <episode-num system="onscreen">S32 E7</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131270/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC-TV-AU" start="20260417000000 +0500" stop="20260417002900 +0500">
+  </channel><programme channel="ABC-TV-AU" start="20260417000000 +0500" stop="20260417002900 +0500">
     <title>A Bite to Eat with Alice</title>
     <sub-title>Jo Weston</sub-title>
     <desc>Commonwealth Games gold-medal-winning netballer Jo Weston drops by and she and Alice turn a fruity dessert on its head as they get baking in the kitchen. Alice surprises her with a nutty treat, as Jo is nuts over nuts!</desc>
@@ -579,6 +282,258 @@
     <title>rage</title>
     <sub-title>New Music</sub-title>
     <desc>Your weekend begins with an all-night music video marathon. rage brings you New Releases showcasing the latest in buzzed-about and boundary-pushing music videos.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
+    <rating system="AU">
+      <value>MA</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418000000 +0500" stop="20260418010000 +0500">
+    <title>rage</title>
+    <sub-title />
+    <desc>Keep the party vibe going as the sun comes up with continuous music videos, from new releases to classics and the songs we've long forgotten.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418010000 +0500" stop="20260418020000 +0500">
+    <title>rage</title>
+    <sub-title>Charts</sub-title>
+    <desc>Counts down the hottest music videos of the week, with the latest chart-toppers and brand-new hit predictions.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418020000 +0500" stop="20260418040000 +0500">
+    <title>Weekend Breakfast</title>
+    <sub-title />
+    <desc>All the news you need to start your day. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <episode-num system="onscreen">E31</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/272143/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418040000 +0500" stop="20260418053000 +0500">
+    <title>rage</title>
+    <sub-title />
+    <desc>Keep the party vibe going with wall-to-wall music videos, from classic hits and long-forgotten tracks from the vault, to the latest new releases and special features.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418053000 +0500" stop="20260418070000 +0500">
+    <title>rage</title>
+    <sub-title>Guest Programmer</sub-title>
+    <desc>Australia's longest running music TV show is home to the biggest vault of music videos from a diverse range of artists, genres and eras. Guest programmers curate a playlist of their all-time favourite clips.</desc>
+    <episode-num system="onscreen">E16</episode-num>
+    <category lang="en">Music</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131482/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418070000 +0500" stop="20260418073000 +0500">
+    <title>ABC News at Noon</title>
+    <sub-title />
+    <desc>Lorna Dunkley presents the latest from ABC News on the weekend bringing you today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport, weather and information.</desc>
+    <episode-num system="onscreen">E31</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/323110/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418073000 +0500" stop="20260418081600 +0500">
+    <title>Blue Murder Motel</title>
+    <sub-title>Cat Amongst the Pigeons</sub-title>
+    <desc>Local councillor Gordon has been stabbed to death in his home, with his cat - the only witness. Vinny and Cole's investigation is thwarted by the arrival of a homicide detective from the city.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440662/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418081600 +0500" stop="20260418090500 +0500">
+    <title>Patience</title>
+    <sub-title />
+    <desc>The father of an autistic girl is killed in front of her and her mother goes missing. Patience connects with the girl and helps uncover the truth.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/437213/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418090500 +0500" stop="20260418095900 +0500">
+    <title>Whale Wisdom</title>
+    <sub-title />
+    <desc>A revealing documentary that uncovers the profound mystery of whales. Their environment's different, their senses are different, their relationships are different. How might such almost alien creatures see the world?</desc>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/422023/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418095900 +0500" stop="20260418102200 +0500">
+    <title>Shaun Tan's Tales from Outer Suburbia</title>
+    <sub-title>Badlands</sub-title>
+    <desc>Klara and Pim go with Grandma and Grandpa on a thrilling treasure hunt, beyond the borders of suburbia. Faced with perplexing challenges, can they stick together and find their way home?</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <category lang="en">Kids &amp; Family</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440464/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418102200 +0500" stop="20260418104500 +0500">
+    <title>Shaun Tan's Tales from Outer Suburbia</title>
+    <sub-title>The Dugong</sub-title>
+    <desc>Klara's self-doubt threatens to swallow her whole, while Pim's birthday takes a strange turn when a dugong inexplicably appears on the front lawn, far from the ocean and in desperate need of help.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <category lang="en">Kids &amp; Family</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440464/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418104500 +0500" stop="20260418111000 +0500">
+    <title>Shaun Tan's Tales from Outer Suburbia</title>
+    <sub-title>Turning Back</sub-title>
+    <desc>Klara nervously heads to the city for her art competition with supportive Pim. When the journey doesn't go as planned, her despair leads to a confrontation that will change her and her neighbourhood forever.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <category lang="en">Kids &amp; Family</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440464/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418111000 +0500" stop="20260418120000 +0500">
+    <title>Judgment: Cases That Changed Australia</title>
+    <sub-title>Love</sub-title>
+    <desc>Two men walk into Hobart police station, confess to a crime and begin High Court battles for justice, respect and marriage equality.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442082/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418120000 +0500" stop="20260418123200 +0500">
+    <title>Australian Story</title>
+    <sub-title>Lost (Part 1) Celine Cremer</sub-title>
+    <desc>Belgian backpacker Celine Cremer was on the trip of a lifetime but on a hike in Tasmania she took a wrong turn and was never seen again. Friends and volunteers set out looking for answers.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132026/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418123200 +0500" stop="20260418130200 +0500">
+    <title>Landline</title>
+    <sub-title />
+    <desc>A tasty sampler of stories from the land, covering food, agriculture, crops, climate, business and innovation, and meeting the fascinating people who make rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <episode-num system="onscreen">E9</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/131336/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418130200 +0500" stop="20260418132900 +0500">
+    <title>Kath &amp; Kim</title>
+    <sub-title>The Moon</sub-title>
+    <desc>Brett is working 48 hours straight and a bored Kim makes a nuisance of herself at Kath's. Sharon is reunited with old school friend Lisa-Marie, making Kim jealous.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/104042/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418132900 +0500" stop="20260418140000 +0500">
+    <title>Tonight At The Museum</title>
+    <sub-title>Who Wants to be a Millipede</sub-title>
+    <desc>The museum is closed... but Alex Lee is just getting started, joined by Alan Davies, Tegan Higginbotham, Zoe Coombs Marr and Brett Blake.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441432/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418140000 +0500" stop="20260418143100 +0500">
+    <title>ABC News</title>
+    <sub-title />
+    <desc>News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Lydia Feng, plus sport with Jared Coote.</desc>
+    <episode-num system="onscreen">E108</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/100662/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418143100 +0500" stop="20260418151700 +0500">
+    <title>Blue Murder Motel</title>
+    <sub-title>Radio Silence</sub-title>
+    <desc>Mowai Bay is in the path of a ferocious summer storm, forcing stranded holidaymakers to bunk down in the Blue Motel conference room. Vinny and Cole investigate the death of a local radio DJ.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440662/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418151700 +0500" stop="20260418154300 +0500">
+    <title>Top End Bub</title>
+    <sub-title />
+    <desc>With Ned living at Leroy's, Lauren and Ned have never felt more distant, and Taya struggles with life without Ned. Trevor gets a makeover and Daffy unveils her song.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441529/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418154300 +0500" stop="20260418164300 +0500">
+    <title>Death in Paradise</title>
+    <sub-title />
+    <desc>The team attempt to investigate the mysterious death of a British tourist. On the surface, it looks like a clear-cut accident, but they realise nothing is quite what it seems in this case.</desc>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/283024/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418164300 +0500" stop="20260418173000 +0500">
+    <title>Frauds</title>
+    <sub-title />
+    <desc>Sam enlists an old friend's help leaving Bert feeling betrayed. With the heist imminent, Bert and Sam struggle to keep their secrets hidden and their partnership intact.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441661/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="ABC-TV-AU" start="20260418173000 +0500" stop="20260419000000 +0500">
+    <title>rage</title>
+    <sub-title>Guest Programmer</sub-title>
+    <desc>Australia's longest-running music show is home to the biggest vault of music videos from a diverse range of artists, genres, and eras. They curate the best clips of all-time to entertain for hours.</desc>
     <episode-num system="onscreen">E16</episode-num>
     <category lang="en">Music</category>
     <language>en</language>

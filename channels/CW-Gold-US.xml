@@ -3,25 +3,7 @@
   <channel id="CW-Gold-US">
     <display-name>CW Gold</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CW-Gold-US.png" />
-  </channel><programme channel="CW-Gold-US" start="20260417020000 +0500" stop="20260417025110 +0500">
-    <title>NUMB3RS</title>
-    <desc>When the team foils a robbery of an armored car, they call on Agent Roger Bloom for help in the investigation.</desc>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417025110 +0500" stop="20260417033921 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don and the team investigate the theft of scratch-off lottery tickets.</desc>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417033921 +0500" stop="20260417043020 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team searches for a lost shipment of high-caliber firearms when one of the weapons was used in killings.</desc>
-    <episode-num system="onscreen">S06E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260417043020 +0500" stop="20260417051841 +0500">
+  </channel><programme channel="CW-Gold-US" start="20260417043020 +0500" stop="20260417051841 +0500">
     <title>NUMB3RS</title>
     <desc>The team searches for a serial killer who is targeting men who solicit prostitutes.</desc>
     <episode-num system="onscreen">S06E13</episode-num>
@@ -177,12 +159,6 @@
     <episode-num system="onscreen">S01E11</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260418011254 +0500" stop="20260418020032 +0500">
-    <title>NUMB3RS</title>
-    <desc>An independent computer researcher with a contract with the Defense Department is found murdered</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260418020032 +0500" stop="20260418024839 +0500">
     <title>NUMB3RS</title>
     <desc>When a UFO is spotted close to Los Angeles, Don recruits Charlie to help locate the point of origin</desc>
@@ -199,6 +175,12 @@
     <title>NUMB3RS</title>
     <desc>Don taps the expertise of Megan and Charlie when a federal judge's wife is murdered.</desc>
     <episode-num system="onscreen">S02E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260418042758 +0500" stop="20260418051853 +0500">
+    <title>NUMB3RS</title>
+    <desc>Robbers kidnap a jewelry store owner's wife and daughter.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260418042758 +0500" stop="20260418051853 +0500">

@@ -3,15 +3,7 @@
   <channel id="MGM-Presents-Action-US">
     <display-name>MGM Presents: Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Action-US.png" />
-  </channel><programme channel="MGM-Presents-Action-US" start="20260417015156 +0500" stop="20260417035617 +0500">
-    <title>Mulholland Falls</title>
-    <sub-title />
-    <desc>In the 1950s, an elite squad of detectives becomes embroiled in a conspiracy and faces a secret the U.S. government is determined to keep hidden.</desc>
-    <date>20260225</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/originals/7432684817271899926/Unspecified/rectangle/kej86fvgdxl11ve04ghtio66o.jpg" />
-  </programme><programme channel="MGM-Presents-Action-US" start="20260417035617 +0500" stop="20260417060118 +0500">
+  </channel><programme channel="MGM-Presents-Action-US" start="20260417035617 +0500" stop="20260417060118 +0500">
     <title>Dillinger</title>
     <sub-title />
     <desc>Starring Warren Oates, Ben Johnson, Cloris Leachman and Richard Dreyfuss, this electrifying crime saga about one of the most notorious gangsters of the 1930's sets the screen ablaze with explosive shootouts, daring escapes and stellar performances.</desc>
@@ -99,5 +91,13 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://images.frequency.com/video/originals/7036224044469675874/Texted/rectangle/ialbo22xmn99197sqxit8tgws.jpg" />
+  </programme><programme channel="MGM-Presents-Action-US" start="20260418021849 +0500" stop="20260418042331 +0500">
+    <title>Lone Wolf Mcquade</title>
+    <sub-title />
+    <desc>Chuck Norris is Lone Wolf McQuade, a Texas Ranger feared by outlaws and respected by other lawmen. When McQuade uncovers a gun smuggling operation, the action explodes, with McQuade wreaking havoc on all those who come between him and the law.</desc>
+    <date>19830101</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/originals/7036323195470759242/Texted/rectangle/175eil142cvfm1rw6jlkw5tjgn.jpg" />
   </programme>
 </tv>

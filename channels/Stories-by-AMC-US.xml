@@ -3,22 +3,7 @@
   <channel id="Stories-by-AMC-US">
     <display-name>Stories by AMC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Stories-by-AMC-US.png" />
-  </channel><programme channel="Stories-by-AMC-US" start="20260417015300 +0500" stop="20260417030500 +0500">
-    <title>The Audacity</title>
-    <sub-title>Episode 101</sub-title>
-    <desc>In a world of jaded billionaires, psychiatrist-gurus, bio-hacked tech bros, AI labs and disillusioned teens being optimized in elite private schools, an audacious data-mining CEO strives to turn insight and influence into profit and power.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20260412</date>
-    <language>en</language>
-  </programme><programme channel="Stories-by-AMC-US" start="20260417030500 +0500" stop="20260417035900 +0500">
-    <title>Mad Men</title>
-    <sub-title>A Little Kiss</sub-title>
-    <desc>Megan throws Don a surprise birthday party; The war between Pete Campbell and Roger Sterling intensifies; New mother Joan begins to wonder if she still has a job when she's ready to come back.</desc>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <date>20120325</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/41df2cc2cb45ce17e8bdb31c24232559.jpg" />
-  </programme><programme channel="Stories-by-AMC-US" start="20260417035900 +0500" stop="20260417045300 +0500">
+  </channel><programme channel="Stories-by-AMC-US" start="20260417035900 +0500" stop="20260417045300 +0500">
     <title>Mad Men</title>
     <sub-title>A Little Kiss</sub-title>
     <desc>Megan is hurt by Don's negative response to the surprise party; Lane finds a missing wallet in a cab; Joan makes an unexpected visit to the office; Pete makes a play for a bigger office.</desc>
@@ -200,5 +185,21 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://metadata-static.plex.tv/a/gracenote/a55252231bb207561fffa57f5cd31446.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260418022900 +0500" stop="20260418032500 +0500">
+    <title>Mad Men</title>
+    <sub-title>Lady Lazarus</sub-title>
+    <desc>Megan has second thoughts about the path that she's taken, but doesn't tell Don; When Megan's lie comes to light, Peggy lets her frustrations be known.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20120506</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8949d6a36b11c1b1e9ef761f53f0d42f.jpg" />
+  </programme><programme channel="Stories-by-AMC-US" start="20260418032500 +0500" stop="20260418042100 +0500">
+    <title>Mad Men</title>
+    <sub-title>Dark Shadows</sub-title>
+    <desc>Betty attempts to ruffle feathers in Don and Megan's relationship; Roger recruits Michael Ginsberg to help him with a potential new account.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20120513</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5f75d071afe456d6283b41af73d05d96.jpg" />
   </programme>
 </tv>

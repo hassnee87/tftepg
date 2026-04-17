@@ -3,23 +3,7 @@
   <channel id="Sony-One-Thriller-TV-UK">
     <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417015551 +0500" stop="20260417024706 +0500">
-    <title>Missing</title>
-    <sub-title>Basic Training</sub-title>
-    <desc>Jess goes undercover at a prestigious military academy to investigate the disappearance of a new cadet.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7372010011014455868/solid/rectangle/w1920_h1080/o712gkrw28261fg1pfbui94hr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417024706 +0500" stop="20260417033852 +0500">
-    <title>Missing</title>
-    <sub-title>Father Figure</sub-title>
-    <desc>The disappearance of a prominent biochemist who holds the key to a valuable weight loss drug brings Brooke face-to-face with her estranged father.</desc>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <date>20250911</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7372009734592942184/solid/rectangle/w1920_h1080/29m8lw2bw1sm14stsxb4jflnb.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260417033852 +0500" stop="20260417043008 +0500">
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260417033852 +0500" stop="20260417043008 +0500">
     <title>Missing</title>
     <sub-title>Lost Sister</sub-title>
     <desc>With Jess working on an undercover sting with Burgess, Brooke worries that an old friend at the Bureau may be behind a controversial author's kidnapping.</desc>
@@ -235,5 +219,21 @@
     <date>20080120</date>
     <language>en</language>
     <icon src="https://images.frequency.com/video/7237196786318906224/solid/rectangle/w1920_h1080/o51nu544t81u1qgxeb0rf2et5.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418031100 +0500" stop="20260418040643 +0500">
+    <title>Breaking Bad</title>
+    <sub-title>Problem Dog</sub-title>
+    <desc>Upset at being ordered to return the car he bought for their son, Walt (Bryan Cranston) strikes back by placing Skyler (Anna Gunn) in a difficult spot with their new money laundering operation. And as Walt looks to protect himself by getting rid of Gus (Giancarlo Esposito), Jesse (Aaron Paul) agrees to be the hit man.</desc>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <date>20080120</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7237199982700039360/solid/rectangle/w1920_h1080/g273pwgcq8g31k5zmu1l3xajx.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260418040643 +0500" stop="20260418050225 +0500">
+    <title>Breaking Bad</title>
+    <sub-title>Hermanos</sub-title>
+    <desc>As the ripple effect spreads from the attempt on Hank's life, Gus remains cool when Albuquerque PD Detective Tim Roberts, Hank and his former colleagues at the DEA question him about Gale Boetticher's murder.</desc>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <date>20080120</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7237198267641591137/solid/rectangle/w1920_h1080/1jhqthv8cnnvc1txqgnlzns531.jpg" />
   </programme>
 </tv>

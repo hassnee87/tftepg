@@ -3,13 +3,7 @@
   <channel id="Movie-Hub-Action-US">
     <display-name>Movie Hub Action</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-Action-US.png" />
-  </channel><programme channel="Movie-Hub-Action-US" start="20260417014500 +0500" stop="20260417033000 +0500">
-    <title>The Happytime Murders</title>
-    <sub-title />
-    <desc>Two detectives -- one human and the other a puppet -- work together to find a killer in Los Angeles.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/744995e659345f8996f397d1c72b97cc/images/gracenote/assets/p15320979_v_h8_ac.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260417033000 +0500" stop="20260417052700 +0500">
+  </channel><programme channel="Movie-Hub-Action-US" start="20260417033000 +0500" stop="20260417052700 +0500">
     <title>Dr. G: Medical Examiner</title>
     <desc>A dead man is thought to be a victim of a hit-and-run accident; a mother requests an autopsy.</desc>
     <episode-num system="onscreen">S01E02</episode-num>
@@ -87,12 +81,12 @@
     <desc>A man (Wesley Snipes) must find the antidote to a mind-controlling drug.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/007d458796475addb5051684b0ac3b0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2F71356e6b93814186bef8893f459f9626%2Fposter%2F16_9%2FNone%2F1721334747181_e3aac3b03a7052baad4f81a47c296630.jpg" />
-  </programme><programme channel="Movie-Hub-Action-US" start="20260418014500 +0500" stop="20260418033700 +0500">
-    <title>Nine Lives</title>
+  </programme><programme channel="Movie-Hub-Action-US" start="20260418033700 +0500" stop="20260418053200 +0500">
+    <title>End Game</title>
     <sub-title />
-    <desc>A man (Wesley Snipes) must find the antidote to a mind-controlling drug.</desc>
+    <desc>A Secret Service agent (Cuba Gooding Jr.) investigates a presidential assassination.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/007d458796475addb5051684b0ac3b0f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2F71356e6b93814186bef8893f459f9626%2Fposter%2F16_9%2FNone%2F1721334747181_e3aac3b03a7052baad4f81a47c296630.jpg" />
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb431dd49cca57458910585a070f7344/rokuFeed/assets/2256e61509e357159de395ff387c41cc.jpg" />
   </programme><programme channel="Movie-Hub-Action-US" start="20260418033700 +0500" stop="20260418053200 +0500">
     <title>End Game</title>
     <sub-title />

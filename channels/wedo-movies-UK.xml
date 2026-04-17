@@ -3,13 +3,7 @@
   <channel id="wedo-movies-UK">
     <display-name>wedo movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/wedo-movies-UK.png" />
-  </channel><programme channel="wedo-movies-UK" start="20260417024720 +0500" stop="20260417052416 +0500">
-    <title>The Great Dictator</title>
-    <sub-title />
-    <desc>Dictator Adenoid Hynkel is busy trying to grow his empire, while a poor Jewish barber is doing everything he can to dodge persecution from Hynkel's rule.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1741749400_0_20260401T080416426Z_1_imageprocessorclient-tvplus-linear-74d4c47476-szmf6.jpeg" />
-  </programme><programme channel="wedo-movies-UK" start="20260417052416 +0500" stop="20260417072438 +0500">
+  </channel><programme channel="wedo-movies-UK" start="20260417052416 +0500" stop="20260417072438 +0500">
     <title>While We're Young</title>
     <sub-title />
     <desc>Josh and Cornelia are a happily married middle aged couple, who seem content with where their life is going. One day whilst teaching, Josh meets Jamie and Darby, a free-spirited young couple, who are spontaneous and untethered. Before long, Josh and Cornelia throw aside their age to trail after the young hipsters and feel the zest for life they once had.</desc>
@@ -21,5 +15,17 @@
     <desc>Wealthy rancher G. W. McLintock uses his power and influence in the territory to keep the peace between farmers, ranchers, land-grabbers, Indians and corrupt government officials.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1761017812_0_20260408T170427256Z_43_imageprocessorclient-tvplus-linear-74d4c47476-pkcwb.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417100005 +0500" stop="20260417114442 +0500">
+    <title>A Love to Remember</title>
+    <sub-title />
+    <desc>After a year of interacting exclusively online, Tenley, an eco-conscious horticulturist, finally works up the courage to meet her online crush, Jared. When Jared doesn't show because of a bike accident, Tenley gets mistaken for his wife at the hospital. Soon, she's forced to keep the lie up with Jared's entire family and his annoyingly charming best friend, Everett in order to save Jared's company... You've Got Mail meets While You Were Sleeping!</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1200803965_1_20250918T082851952Z_51_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.jpeg" />
+  </programme><programme channel="wedo-movies-UK" start="20260417114442 +0500" stop="20260417133301 +0500">
+    <title>Wedding Wonderland</title>
+    <sub-title />
+    <desc>When family conflicts arise between happy couple Hallie and Lucas during the week before their big day, their plans for a breezy wedding in the tropics take a turn and their love is tested when they are forced to put on a small-town winter wedding in the snow.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1275308632_0_20251023T092934580Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-grwzd.jpeg" />
   </programme>
 </tv>

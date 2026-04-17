@@ -3,37 +3,7 @@
   <channel id="BBC-Food-US">
     <display-name>BBC Food</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Food-US.png" />
-  </channel><programme channel="BBC-Food-US" start="20260417015830 +0500" stop="20260417023148 +0500">
-    <title>Rick Stein's Seafood Odyssey</title>
-    <desc>Rick's off to Galicia in Spain to sample some rare shellfish.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/384188f352da5a8aa31dfb05b2f4d670/images/gracenote/assets/p477113_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417023148 +0500" stop="20260417030518 +0500">
-    <title>Rick Stein's Seafood Odyssey</title>
-    <desc>A spicy shark vindaloo and the making of an authentic dhal with lentils.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/384188f352da5a8aa31dfb05b2f4d670/images/gracenote/assets/p477113_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417030518 +0500" stop="20260417033837 +0500">
-    <title>Rick Stein's Seafood Odyssey</title>
-    <desc>Seafood king Rick travels to Queensland, Australia.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/384188f352da5a8aa31dfb05b2f4d670/images/gracenote/assets/p477113_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417033837 +0500" stop="20260417041202 +0500">
-    <title>Rick Stein's Seafood Odyssey</title>
-    <desc>Chesapeake Bay in the U.S., cooking traditional oyster dishes.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/384188f352da5a8aa31dfb05b2f4d670/images/gracenote/assets/p477113_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417041202 +0500" stop="20260417044521 +0500">
-    <title>Rick Stein's Seafood Odyssey</title>
-    <desc>Rick is in Cornwall, where he fries fish and jazzes it up with red curry and steamed jasmine rice.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/384188f352da5a8aa31dfb05b2f4d670/images/gracenote/assets/p477113_b_h10_aa.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260417044521 +0500" stop="20260417051842 +0500">
+  </channel><programme channel="BBC-Food-US" start="20260417044521 +0500" stop="20260417051842 +0500">
     <title>Rick Stein's Seafood Odyssey</title>
     <desc>Rick visits America, Naples and the UK in Whitby, with good old English fish and chips.</desc>
     <episode-num system="onscreen">S01E08</episode-num>
@@ -275,12 +245,6 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/186d81c3cf765324b49642a5df906a1e/images/gracenote/assets/p8137850_b_h10_ac.jpg" />
-  </programme><programme channel="BBC-Food-US" start="20260418014926 +0500" stop="20260418022232 +0500">
-    <title>Raymond Blanc's Kitchen Secrets</title>
-    <desc>Chef Blanc makes a French version of a pasty called pithivier and a cep mushroom tortellini.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/186d81c3cf765324b49642a5df906a1e/images/gracenote/assets/p8137850_b_h10_ac.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260418022232 +0500" stop="20260418025530 +0500">
     <title>Raymond Blanc's Kitchen Secrets</title>
     <desc>Legendary chef Raymond Blanc focuses on recipes that use bread as an ingredient.</desc>
@@ -303,6 +267,12 @@
     <title>Raymond Blanc's Kitchen Secrets</title>
     <desc>Chef Blanc celebrates the best of British shellfish as he cooks dishes including Moules Mariniere.</desc>
     <episode-num system="onscreen">S02E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/186d81c3cf765324b49642a5df906a1e/images/gracenote/assets/p8137850_b_h10_ac.jpg" />
+  </programme><programme channel="BBC-Food-US" start="20260418043445 +0500" stop="20260418050756 +0500">
+    <title>Raymond Blanc's Kitchen Secrets</title>
+    <desc>Chef Raymond pays tribute to the sweetly satisfying extravagance of cakes and pastries.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/186d81c3cf765324b49642a5df906a1e/images/gracenote/assets/p8137850_b_h10_ac.jpg" />
   </programme><programme channel="BBC-Food-US" start="20260418043445 +0500" stop="20260418050756 +0500">

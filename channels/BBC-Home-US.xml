@@ -3,27 +3,7 @@
   <channel id="BBC-Home-US">
     <display-name>BBC Home &amp;amp; Garden</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Home-US.png" />
-  </channel><programme channel="BBC-Home-US" start="20260417013314 +0500" stop="20260417023741 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <desc>It’s Medals Day at Chelsea!</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417023741 +0500" stop="20260417034050 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Emotions are running high at Chelsea as the all-important medals are revealed.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417034050 +0500" stop="20260417044315 +0500">
-    <title>Chelsea Flower Show: 2025</title>
-    <sub-title />
-    <desc>Nicki Chapman and Angellica Bell launch the BBC RHS People's Choice Award.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/311d844ddac4d464061789e8a51635ca/images/gracenote/assets/p31777034_b_h8_aa.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260417044315 +0500" stop="20260417054711 +0500">
+  </channel><programme channel="BBC-Home-US" start="20260417044315 +0500" stop="20260417054711 +0500">
     <title>Chelsea Flower Show: 2025</title>
     <sub-title />
     <desc>Monty Don and Arit Anderson celebrate the power of gardening to bring people together.</desc>
@@ -164,12 +144,6 @@
     <episode-num system="onscreen">S04E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
-  </programme><programme channel="BBC-Home-US" start="20260418011359 +0500" stop="20260418020902 +0500">
-    <title>Phil Spencer: Secret Agent</title>
-    <desc>Phil Spencer is helping a family whose house has been on the market for an incredible five years.</desc>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/474600d7fa7059a188d1bb37157931c4/images/gracenote/assets/p8872164_b_h10_af.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418020902 +0500" stop="20260418030351 +0500">
     <title>Phil Spencer: Secret Agent</title>
     <desc>Phil has a tough job selling a family home that's bursting with clutter and every color of the rainbow.</desc>
@@ -182,6 +156,12 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c245be484538279b589750155211186f/rokuFeed/assets/66868eef77ba50bebfb8cedee5ed3a94.jpg" />
+  </programme><programme channel="BBC-Home-US" start="20260418040113 +0500" stop="20260418050017 +0500">
+    <title>World's Weirdest Homes</title>
+    <desc>Charlie explores a giant sandcastle and a farm that floats on the ocean.</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/977242fa5e5bd1a91dee7d4ae230d475/rokuFeed/assets/71f35b80544355f1ae4950047c868766.jpg" />
   </programme><programme channel="BBC-Home-US" start="20260418040113 +0500" stop="20260418050017 +0500">
     <title>World's Weirdest Homes</title>
     <desc>Charlie explores a giant sandcastle and a farm that floats on the ocean.</desc>

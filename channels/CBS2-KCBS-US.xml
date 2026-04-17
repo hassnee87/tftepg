@@ -187,8 +187,8 @@
     <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
   </programme><programme channel="CBS2-KCBS-US" start="20260417070000 +0500" stop="20260417073000 +0500">
     <title>Inside Edition</title>
-    <sub-title />
-    <desc>A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <sub-title>RFK Jr. Book</sub-title>
+    <desc>The new book that is raising questions about the state of Robert F. Kennedy Jr. and Cheryl Hines' marriage.</desc>
     <episode-num system="onscreen">S38 E159</episode-num>
     <credits>
       <actor>Eva Pilgrim</actor>
@@ -1002,11 +1002,13 @@
     <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
   </programme><programme channel="CBS2-KCBS-US" start="20260418153500 +0500" stop="20260418160000 +0500">
     <title>Made in Hollywood</title>
-    <sub-title />
-    <desc>Stay up-to-date with the latest releases in theaters and on DVD with this syndicated series that features interviews with all the big-name stars and a behind-the-screen segment filled with inside information.</desc>
+    <sub-title>Normal; Thrash; The Miniature Wife; Ballistic; Lorne</sub-title>
+    <desc>Elizabeth Banks; Phoebe Dynevor; Matthew Macfadyen; Djimon Hounsou; Bob Odenkirk; Henry Winkler; Lena Headey; director Morgan Neville.</desc>
+    <episode-num system="onscreen">S21 E27</episode-num>
     <credits>
       <actor>Kylie Erica Mar</actor>
-    </credits><date>2005</date>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Newsmagazine</category>
     <category lang="en">Entertainment</category>
     <language>en</language>
@@ -1142,12 +1144,14 @@
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p32581451_b_h8_aa.jpg?w=960&amp;h=540" />
   </programme><programme channel="CBS2-KCBS-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>Sports Spectacular</title>
-    <sub-title />
-    <desc>Athletic event.</desc>
-    <date>1998</date>
-    <category lang="en">Anthology</category>
+    <title>SailGP Racing</title>
+    <sub-title>KPMG Sydney Sail Grand Prix, Highlights</sub-title>
+    <desc>From Feb. 28- March 1, 2026 in Sydney.</desc>
+    <episode-num system="onscreen">E22</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sailing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p290639_b_h10_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20221797_b_h8_ag.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

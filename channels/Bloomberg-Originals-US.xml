@@ -3,61 +3,7 @@
   <channel id="Bloomberg-Originals-US">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-Originals-US.png" />
-  </channel><programme channel="Bloomberg-Originals-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>The Circuit</title>
-    <sub-title />
-    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>The Circuit</title>
-    <sub-title />
-    <desc>The Circuit Emily Chang speaks with Microsoft titans Bill Gates, Steve Ballmer and Satya Nadella about the company's journey from scrappy startup to global powerhouse.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417040000 +0500" stop="20260417043000 +0500">
-    <title>The Circuit With Emily Chang</title>
-    <sub-title />
-    <desc>The Circuit With Emily Chang Emily Chang meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his consumer hardware bet.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417043000 +0500" stop="20260417050000 +0500">
-    <title>The Circuit With Emily Chang</title>
-    <sub-title />
-    <desc>The Circuit With Emily Chang Emily Chang goes inside Stargate, a $500 billion bet on the future of AI  she speaks with OpenAI CEO Sam Altman and Softbank CEO Masayoshi Son about their hopes for the project.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417050000 +0500" stop="20260417053000 +0500">
-    <title>The Circuit</title>
-    <sub-title />
-    <desc>The Circuit Emily Chang meets Reese Witherspoon and the Hello Sunshine executive team to discuss the company's founding mission and what's next for Hollywood.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417053000 +0500" stop="20260417060000 +0500">
-    <title>The Deal With Alex Rodriguez and Jason Kelly</title>
-    <sub-title />
-    <desc>The Deal With Alex Rodriguez and Jason Kelly Alex Rodriguez and Jason Kelly talk with USC Annenberg School for Communication and Journalism Dean Willow Bay about her investment in Angel City Football Club and her tenure on NBA Inside Stuff.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme><programme channel="Bloomberg-Originals-US" start="20260417060000 +0500" stop="20260417063000 +0500">
+  </channel><programme channel="Bloomberg-Originals-US" start="20260417060000 +0500" stop="20260417063000 +0500">
     <title>The Deal With Alex Rodriguez and Jason Kelly</title>
     <sub-title />
     <desc>The Deal With Alex Rodriguez and Jason Kelly Alex Rodriguez and Jason Kelly sit with Super Bowl winner and Goldman Sachs Managing Director Justin Tuck to talk about the pressure of playing in New York and his transition from football to finance.</desc>
@@ -99,6 +45,33 @@
     <desc>An Optimist's Guide to the Planet Nikolaj Coster-Waldau begins season two, and we're reminded of the delicate balance between human progress and protecting our planet.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2101263640_0_20251031T161453383Z_111_imageprocessorclient-tvplus-linear-76c46fff7-ff6pn.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417100000 +0500" stop="20260417110000 +0500">
+    <title>An Optimist's Guide to the Planet</title>
+    <sub-title />
+    <desc>An Optimist's Guide to the Planet Nikolaj travels the world to meet people transforming waste into resources  showing that waste isn't something to hide -- it's something we can rethink as valuable raw material.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2394855068_3_20260109T012819199Z_66_imageprocessorclient-tvplus-linear-584c967455-ntwwh.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417110000 +0500" stop="20260417120000 +0500">
+    <title>An Optimist's Guide to the Planet</title>
+    <sub-title />
+    <desc>An Optimist's Guide to the Planet From transforming concrete into a carbon sink to mining nickel from genetically enhanced plants, we meet the bold inventors preserving and adapting to nature's offerings to help humanity thrive.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2182026457_0_20251120T041209079Z_1_imageprocessorclient-tvplus-linear-584c967455-nmqz5.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="Bloomberg-Originals-US" start="20260417120000 +0500" stop="20260417130000 +0500">
+    <title>An Optimist's Guide to the Planet</title>
+    <sub-title />
+    <desc>An Optimist's Guide to the Planet Meeting humanity's insatiable demand for energy while still curbing greenhouse emissions will require creative solutions both big and small.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2098041047_0_20251030T185215359Z_50_imageprocessorclient-tvplus-linear-76c46fff7-vhhxw.png" />
     <rating>
       <value>TV-PG</value>
     </rating>

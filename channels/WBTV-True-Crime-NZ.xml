@@ -3,34 +3,7 @@
   <channel id="WBTV-True-Crime-NZ">
     <display-name>WBTV True Crime NZ</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-True-Crime-NZ.png" />
-  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417030500 +0500" stop="20260417035000 +0500">
-    <title>Murder In The Heartland</title>
-    <sub-title>Uncomfortable Truths</sub-title>
-    <desc />
-    <episode-num system="onscreen">S06E10</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35794/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417035000 +0500" stop="20260417044000 +0500">
-    <title>Evil Lives Here</title>
-    <sub-title>A Demon On Her Back</sub-title>
-    <desc />
-    <episode-num system="onscreen">S09E14</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011430/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417044000 +0500" stop="20260417052500 +0500">
-    <title>Murder Chose Me</title>
-    <sub-title>Bloodbath In The Bottoms</sub-title>
-    <desc />
-    <episode-num system="onscreen">S02E06</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/90012838/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-True-Crime-NZ" start="20260417052500 +0500" stop="20260417061500 +0500">
+  </channel><programme channel="WBTV-True-Crime-NZ" start="20260417052500 +0500" stop="20260417061500 +0500">
     <title>The Perfect Murder</title>
     <sub-title>Death In The Family</sub-title>
     <desc />
@@ -309,5 +282,41 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/90045871/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418070500 +0500" stop="20260418075000 +0500">
+    <title>Nightmare Next Door</title>
+    <sub-title>Devils In The Detail</sub-title>
+    <desc />
+    <episode-num system="onscreen">S02E20</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90004861/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418075000 +0500" stop="20260418084000 +0500">
+    <title>American Monster</title>
+    <sub-title>With Honours</sub-title>
+    <desc />
+    <episode-num system="onscreen">S07E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011730/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418084000 +0500" stop="20260418092500 +0500">
+    <title>Murder In The Heartland</title>
+    <sub-title>Murder On The Mountain</sub-title>
+    <desc />
+    <episode-num system="onscreen">S06E11</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35794/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-True-Crime-NZ" start="20260418092500 +0500" stop="20260418101000 +0500">
+    <title>Evil Lives Here</title>
+    <sub-title>Thirty Years Of Hell</sub-title>
+    <desc />
+    <episode-num system="onscreen">S09E15</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/90011430/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
   </programme>
 </tv>

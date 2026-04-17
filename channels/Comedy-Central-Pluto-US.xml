@@ -3,70 +3,15 @@
   <channel id="Comedy-Central-Pluto-US">
     <display-name>Comedy Central Pluto TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Comedy-Central-Pluto-US.png" />
-  </channel><programme channel="Comedy-Central-Pluto-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>Nathan For You</title>
-    <sub-title>Nathan For You: A Celebration</sub-title>
-    <desc>Anthony Napoli and Nathan revisit some of the people the show has helped, including a ghost realtor, a teen vandal and a centerfold-turned-private eye.</desc>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <date>20170921</date>
-    <category>Variety</category>
-    <category>Series</category>
-    <category>Comedy</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Nathan For You</title>
-    <sub-title>The Richards Tip</sub-title>
-    <desc>Nathan stages an elaborate stunt to make it seem like comedian Michael Richards left a $10,000 tip at a deli.</desc>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <date>20170928</date>
-    <category>Variety</category>
-    <category>Series</category>
-    <category>Comedy</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Nathan For You</title>
-    <sub-title>Chili Shop/Massage Parlor</sub-title>
-    <desc>Nathan devises a method of selling chili in secret and founds a charity to help a massage parlor upsell its clients.</desc>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <date>20171005</date>
-    <category>Variety</category>
-    <category>Series</category>
-    <category>Comedy</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>RENO 911!</title>
-    <sub-title>Jet Ski Blues</sub-title>
-    <desc>The Reno Sheriff's Department inherits a beautiful, cursed jet ski from a fallen deputy.</desc>
-    <episode-num system="onscreen">S04E407</episode-num>
-    <date>20060723</date>
-    <category>Mockumentaries</category>
-    <category>Series</category>
-    <category>Comedy</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>RENO 911!</title>
-    <sub-title>Corporate Sponsor</sub-title>
-    <desc>Hotty's Restaurants sponsors the Reno Sheriff's Department, and the gang gets burned by the deal.</desc>
-    <episode-num system="onscreen">S04E408</episode-num>
-    <date>20070401</date>
-    <category>Mockumentaries</category>
-    <category>Series</category>
-    <category>Comedy</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417040000 +0500" stop="20260417043000 +0500">
+  </channel><programme channel="Comedy-Central-Pluto-US" start="20260417040000 +0500" stop="20260417043000 +0500">
     <title>RENO 911!</title>
     <sub-title>Rick's On It</sub-title>
     <desc>Rick the Citizens' Patrolman one-ups the Sheriff's Department in investigating a crime spree, and Garcia receives a visit from an old, unpredictable friend.</desc>
     <episode-num system="onscreen">S04E409</episode-num>
     <date>20060730</date>
-    <category>Mockumentaries</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Mockumentaries</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417043000 +0500" stop="20260417050000 +0500">
@@ -86,8 +31,8 @@
     <episode-num system="onscreen">S05E514</episode-num>
     <date>20011212</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417053000 +0500" stop="20260417060000 +0500">
@@ -97,8 +42,8 @@
     <episode-num system="onscreen">S01E101</episode-num>
     <date>19970813</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417060000 +0500" stop="20260417063000 +0500">
@@ -108,8 +53,8 @@
     <episode-num system="onscreen">S01E105</episode-num>
     <date>19970910</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417063000 +0500" stop="20260417070000 +0500">
@@ -119,8 +64,8 @@
     <episode-num system="onscreen">S01E106</episode-num>
     <date>19970917</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417070000 +0500" stop="20260417073000 +0500">
@@ -130,8 +75,8 @@
     <episode-num system="onscreen">S01E108</episode-num>
     <date>19980204</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417073000 +0500" stop="20260417080000 +0500">
@@ -151,8 +96,8 @@
     <episode-num system="onscreen">S01E111</episode-num>
     <date>19980211</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417083000 +0500" stop="20260417090000 +0500">
@@ -162,8 +107,8 @@
     <episode-num system="onscreen">S01E112</episode-num>
     <date>19980218</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417090000 +0500" stop="20260417093000 +0500">
@@ -172,9 +117,9 @@
     <desc>An Italian handyman steals the "Mona Lisa," the "Santa bandits" rob a bank in Texas, and Mossad agents capture a Nazi general in Argentina. Featuring Jack Black, Johnny Knoxville, Tony Hale, "Weird Al" Yankovic and Rachel Bloom.</desc>
     <episode-num system="onscreen">S05E10</episode-num>
     <date>20180626</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417093000 +0500" stop="20260417100000 +0500">
@@ -183,9 +128,9 @@
     <desc>Joan of Arc leads the French during the Hundred Years' War, Mongol leader Genghis Khan rises to power, and Mansa Musa leads a pilgrimage to Mecca. Featuring Vanessa Hudgens, Randall Park and Donald Faison.</desc>
     <episode-num system="onscreen">S05E11</episode-num>
     <date>20180710</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417100000 +0500" stop="20260417103000 +0500">
@@ -194,9 +139,9 @@
     <desc>Colin Hanks, David Harbour and Kimiko Glenn celebrate Fred Rogers and his fight for government-funded children's TV, the female journalist who helped take down John D. Rockefeller's oil monopoly and the designer of the Vietnam Veterans Memorial.</desc>
     <episode-num system="onscreen">S05E12</episode-num>
     <date>20180227</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417103000 +0500" stop="20260417110000 +0500">
@@ -205,9 +150,9 @@
     <desc>Tatiana Maslany, Kat Dennings and Ali Stroker salute Suffragettes who fought for their rights with jujitsu, the Birmingham Children's March and disability rights activists who organized America's longest sit-in of a federal building.</desc>
     <episode-num system="onscreen">S05E13</episode-num>
     <date>20180220</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417110000 +0500" stop="20260417113000 +0500">
@@ -216,9 +161,9 @@
     <desc>Drunk History investigates Agatha Christie's disappearance, the anonymous letter writer who terrorized Circleville and the mastermind behind America's only unsolved airplane hijacking, with Kirsten Dunst, Vanessa Bayer and Taran Killam.</desc>
     <episode-num system="onscreen">S05E14</episode-num>
     <date>20180306</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417113000 +0500" stop="20260417120000 +0500">
@@ -227,9 +172,9 @@
     <desc>Will Ferrell and Seth Rogen star in this episode about how teenage writer Mary Shelley created her legendary novel, "Frankenstein."</desc>
     <episode-num system="onscreen">S06E01</episode-num>
     <date>20190115</date>
-    <category>Political Comedies</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Political Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417120000 +0500" stop="20260417123000 +0500">
@@ -318,9 +263,9 @@
     <desc>Sarah decides to follow through with an engagement to her dog, and Brian and Steve find an old fart jar.</desc>
     <episode-num system="onscreen">S02E216</episode-num>
     <date>20081211</date>
-    <category>Screwball</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Screwball</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417163000 +0500" stop="20260417170000 +0500">
@@ -329,9 +274,9 @@
     <desc>Brian and Steve's genitals have an unpleasant odor, and Sarah makes her own children's television show.</desc>
     <episode-num system="onscreen">S03E301</episode-num>
     <date>20100211</date>
-    <category>Screwball</category>
     <category>Series</category>
     <category>Comedy</category>
+    <category>Screwball</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme><programme channel="Comedy-Central-Pluto-US" start="20260417170000 +0500" stop="20260417173000 +0500">
@@ -341,9 +286,75 @@
     <episode-num system="onscreen">S04E01</episode-num>
     <date>20140226</date>
     <category>Series</category>
-    <category>Late Night Comedies</category>
     <category>Comedy</category>
+    <category>Late Night Comedies</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417173000 +0500" stop="20260417180000 +0500">
+    <title>Workaholics</title>
+    <sub-title>Snackers</sub-title>
+    <desc>The guys campaign for Jillian to become break room manager so that they can get access to Alice's Costco card, but Jillian quickly turns into a snack tyrant.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <date>20140205</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417180000 +0500" stop="20260417183000 +0500">
+    <title>Workaholics</title>
+    <sub-title>Fry Guys</sub-title>
+    <desc>After Alice gets mad at Adam, Blake and Ders for trying to have an office fish fry, the guys go in search of a male prostitute to sex her out of her bad mood.</desc>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <date>20140129</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417183000 +0500" stop="20260417190000 +0500">
+    <title>Workaholics</title>
+    <sub-title>Orgazmo Birth</sub-title>
+    <desc>Montez offers to buy the guys tickets to an electronic music festival, but Colleen's baby shower threatens to ruin their good time.</desc>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <date>20140122</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417190000 +0500" stop="20260417193000 +0500">
+    <title>Workaholics</title>
+    <sub-title>We Be Clownin'</sub-title>
+    <desc>The guys are riding high after taking side jobs as a clown troupe, but the prestige of their new lifestyle quickly goes to their heads.</desc>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <date>20140305</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417193000 +0500" stop="20260417200000 +0500">
+    <title>Workaholics</title>
+    <sub-title>Three and a Half Men</sub-title>
+    <desc>When Karl agrees to give Blake his penis, Ders begins filming the process as a documentary while Adam undertakes his own project to eat a thousand hot dogs.</desc>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <date>20140219</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260417200000 +0500" stop="20260417203000 +0500">
+    <title>Key &amp; Peele</title>
+    <sub-title>Killer Concept Album</sub-title>
+    <desc>A senator tries to quash a scandal at a press conference, a police officer interrogates a well-known rapper, and Levi shows Cedric his collection of oddities.</desc>
+    <episode-num system="onscreen">S05E505</episode-num>
+    <date>20150805</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Variety</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1770074646643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

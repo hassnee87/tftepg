@@ -3,37 +3,7 @@
   <channel id="CNN-Originals-US">
     <display-name>CNN Originals</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CNN-Originals-US.png" />
-  </channel><programme channel="CNN-Originals-US" start="20260417011400 +0500" stop="20260417020400 +0500">
-    <title>Space Shuttle Columbia: The Final Flight</title>
-    <desc>Seven astronauts go on Space Shuttle Columbia mission, unaware of the tragic fate that awaits.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fae01e46f4555554a64fc9874b5f96ca/images/gracenote/assets/p27042598_b_h8_aa.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260417020400 +0500" stop="20260417025400 +0500">
-    <title>Space Shuttle Columbia: The Final Flight</title>
-    <desc>A debris strike on the shuttle's left wing raises alarms at NASA; the crew continues their mission.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fae01e46f4555554a64fc9874b5f96ca/images/gracenote/assets/p27042598_b_h8_aa.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260417025400 +0500" stop="20260417034400 +0500">
-    <title>Space Shuttle Columbia: The Final Flight</title>
-    <desc>Mission Control loses contact with the crew; East Texas residents mobilize.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fae01e46f4555554a64fc9874b5f96ca/images/gracenote/assets/p27042598_b_h8_aa.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260417034400 +0500" stop="20260417043400 +0500">
-    <title>Space Shuttle Columbia: The Final Flight</title>
-    <desc>NASA is under pressure as their failures are highlighted in the disaster's investigation.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fae01e46f4555554a64fc9874b5f96ca/images/gracenote/assets/p27042598_b_h8_aa.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260417043400 +0500" stop="20260417045500 +0500">
-    <title>Forensic Files II</title>
-    <desc>A young woman sets out on her bike and never returns; her body is found a few miles from her house.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/68b37740ce725582b53c9820f6cb0492/images/gracenote/assets/p17847753_b_h8_an.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260417045500 +0500" stop="20260417051600 +0500">
+  </channel><programme channel="CNN-Originals-US" start="20260417045500 +0500" stop="20260417051600 +0500">
     <title>Forensic Files II</title>
     <desc>A single mom vanishes without a trace; foul play is confirmed when her body is found.</desc>
     <episode-num system="onscreen">S02E03</episode-num>
@@ -213,12 +183,6 @@
     <episode-num system="onscreen">S01E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3815cb7ca79654a9b8824a89480590c9/images/gracenote/assets/p22303734_b_h10_aa.jpg" />
-  </programme><programme channel="CNN-Originals-US" start="20260418014800 +0500" stop="20260418023800 +0500">
-    <title>Eva Longoria: Searching for Mexico</title>
-    <desc>In Yucatan State, on the eastern edge of Mexico, Longoria explores the home of the ancient Maya.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3815cb7ca79654a9b8824a89480590c9/images/gracenote/assets/p22303734_b_h10_aa.jpg" />
   </programme><programme channel="CNN-Originals-US" start="20260418023800 +0500" stop="20260418032800 +0500">
     <title>Eva Longoria: Searching for Mexico</title>
     <desc>Longoria discovers the hidden magic of Oaxaca that boasts some of the finest ingredients in Mexico.</desc>
@@ -229,6 +193,12 @@
     <title>Eva Longoria: Searching for Mexico</title>
     <desc>Eva Longoria visits the northeastern state of Nuevo Leon, bordering her home state of Texas. As little grows there, and with meat on every menu, inventive and resourceful chefs transform simple ingredients into culinary delights.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3815cb7ca79654a9b8824a89480590c9/images/gracenote/assets/p22303734_b_h10_aa.jpg" />
+  </programme><programme channel="CNN-Originals-US" start="20260418041800 +0500" stop="20260418050800 +0500">
+    <title>Eva Longoria: Searching for Mexico</title>
+    <desc>Eva Longoria visits the state of Jalisco, where much of what is seen is quintessentially 'Mexican' originated. She also discovers that the state capital, Guadalajara, boasts some of the country's most cutting-edge restaurants.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3815cb7ca79654a9b8824a89480590c9/images/gracenote/assets/p22303734_b_h10_aa.jpg" />
   </programme><programme channel="CNN-Originals-US" start="20260418041800 +0500" stop="20260418050800 +0500">

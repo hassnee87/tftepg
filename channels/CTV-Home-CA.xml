@@ -3,39 +3,7 @@
   <channel id="CTV-Home-CA">
     <display-name>CTV @Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Home-CA.png" />
-  </channel><programme channel="CTV-Home-CA" start="20260417021418 +0500" stop="20260417023939 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Guests to Impress</sub-title>
-    <desc>Mary recommends a retro theme for impressing guests, and these old-school recipes with a special Mary twist.</desc>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417023939 +0500" stop="20260417030459 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>B-B-Q’s and A’s</sub-title>
-    <desc>Allow Mary to bring your kitchen outside with delicious recipes that will demystify the grill and keep your eyebrows intact.</desc>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417030459 +0500" stop="20260417033021 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>When Life Gives You Lemons</sub-title>
-    <desc>A lemon raspberry loaf with a bright pink glaze, lemon Parmesan chicken.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20251203</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417033021 +0500" stop="20260417035544 +0500">
-    <title>Mary Makes It Easy</title>
-    <sub-title>Cheese Please</sub-title>
-    <desc>If cheese was a food group, it would be Mary’s favourite. This week Mary pays homage to fromage with four recipes where cheese is the star.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50523_2024_2_28_bdd15374-1461-4ffc-a2e4-9c7a356028f9_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260417035544 +0500" stop="20260417042104 +0500">
+  </channel><programme channel="CTV-Home-CA" start="20260417035544 +0500" stop="20260417042104 +0500">
     <title>Mary Makes It Easy</title>
     <sub-title>Meatless Mondays</sub-title>
     <desc>Not every meal needs to have meat as the star. Mary shows how simple and delicious Meatless Mondays can be.</desc>
@@ -451,5 +419,45 @@
     <date>20250923</date>
     <language>en</language>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418021741 +0500" stop="20260418024348 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Lasagna Night</sub-title>
+    <desc>It’s all about lasagna with Chef Spencer Watts’ delicious and nutritious 30-minute meal.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418024348 +0500" stop="20260418030954 +0500">
+    <title>Spencer's Big 30</title>
+    <sub-title>Chicken Bake Night</sub-title>
+    <desc>Chef Spencer Watts cooks up a quick and nutritious chicken bake meal for four.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20250923</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m42739_2024_2_28_9bb6c145-c0ca-4986-8f23-ee93734b8059_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418030954 +0500" stop="20260418033601 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Handheld Party Foods</sub-title>
+    <desc>Chef Spencer Watts gets the party started with mouth-watering grilled recipes!</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418033601 +0500" stop="20260418040207 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Fire &amp; Spice</sub-title>
+    <desc>Chef Spencer Watts kicks things up a notch with four spicy recipes on the grill.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260418040207 +0500" stop="20260418042814 +0500">
+    <title>Watts on the Grill</title>
+    <sub-title>Spanish Flare</sub-title>
+    <desc>Chef Spencer Watts explores the barbeque culture of Spain with classic recipes.</desc>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <date>20251019</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m43082_2024_2_28_f26e6f75-8ff5-476d-af93-7438dd34bed3_JPG_2000x1125.jpg" />
   </programme>
 </tv>

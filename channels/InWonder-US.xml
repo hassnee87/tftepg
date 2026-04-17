@@ -3,15 +3,7 @@
   <channel id="InWonder-US">
     <display-name>InWonder</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/InWonder-US.png" />
-  </channel><programme channel="InWonder-US" start="20260417020626 +0500" stop="20260417031148 +0500">
-    <title>Wildest India S1 - "Western Ghats: Monsoon Mountains'"</title>
-    <sub-title>Western Ghats: Monsoon Mountains'</sub-title>
-    <desc>The Western Ghats are a spine of mountains that lay claim to being one of the most biodiverse places in the world. In the east, tigers and wild dogs compete for prey. All the while, the western Ghats hold the key to life across southern India.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20110101</date>
-    <language>en</language>
-    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/3cad4169b8bf645e/IN00003993_01_0004_Episodic_3840x2160.jpg" />
-  </programme><programme channel="InWonder-US" start="20260417031148 +0500" stop="20260417041711 +0500">
+  </channel><programme channel="InWonder-US" start="20260417031148 +0500" stop="20260417041711 +0500">
     <title>Wildest India S1 - "India’s Lost World"</title>
     <sub-title>India’s Lost World</sub-title>
     <desc>Northeast India is an anthropological paradise; there is no other place on Earth with so many different ethnic groups. The forests are filled with mysterious tribes whose lives are dictated by the rain and the seasonal fruits of the forest.</desc>
@@ -321,5 +313,37 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/6eabd028d078da9f/IN00009365_01_0005_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418022712 +0500" stop="20260418025618 +0500">
+    <title>Angry Planet S1 - "Avalanche"</title>
+    <sub-title>Avalanche</sub-title>
+    <desc>Avalanche danger is very high in the Rogers Pass area of the Trans Canada Highway in British Columbia. Host of Angry Planet George Kourounis travels with a variety of experts to bring down huge avalanches in the Rocky Mountains.</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <date>20070101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/31d52546828e48a1/IN00009355_01_0009_Episodic_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418025618 +0500" stop="20260418032526 +0500">
+    <title>Angry Planet S1 - "Blizzard"</title>
+    <sub-title>Blizzard</sub-title>
+    <desc>Our host George becomes a “human popsicle”, encased in ice in at the National Resarch Council’s high speed wind tunnel. Then he and his sidekick Mark Robinson climb to the top of the mountain in mid-January and brave their way into a summit blizzard.</desc>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <date>20070101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/84181d541ed45787/IN00009355_01_0000_Title_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418032526 +0500" stop="20260418035433 +0500">
+    <title>Angry Planet S1 - "Fin del Mundo"</title>
+    <sub-title>Fin del Mundo</sub-title>
+    <desc>Some of the fiercest weather on the planet can be experienced at the southern tip of Argentina and Chile– the area the South Americans call the “Fin del Mundo” – the end of the world.</desc>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <date>20070101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/b6a990e12568419a/IN00009355_03_0000_Hero_Title_3840x2160.jpg" />
+  </programme><programme channel="InWonder-US" start="20260418035433 +0500" stop="20260418042229 +0500">
+    <title>Xploration Awesome Planet S6 - "Slovenia"</title>
+    <sub-title>Slovenia</sub-title>
+    <desc>In this episode, we travel to the country of Slovenia and look at how karst rock has led to the formation of over 12,000 caves across the country.</desc>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <date>20200101</date>
+    <language>en</language>
+    <icon src="https://d31l2nn7dlh4li.cloudfront.net/amg00861/asset_artifacts/image/fetch_media/d12cfd7586ac8cb8/IN00004121_06_0005_Episodic_3840x2160.jpg" />
   </programme>
 </tv>

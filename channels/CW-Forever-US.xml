@@ -3,25 +3,7 @@
   <channel id="CW-Forever-US">
     <display-name>CW Forever</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CW-Forever-US.png" />
-  </channel><programme channel="CW-Forever-US" start="20260417014300 +0500" stop="20260417023351 +0500">
-    <title>Rookie Blue</title>
-    <desc>When a car bomb explodes in a parking garage, Duncan goes rogue in an effort to prove himself.</desc>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Forever-US" start="20260417023351 +0500" stop="20260417032428 +0500">
-    <title>Rookie Blue</title>
-    <desc>The officers of Division 15 work to track down Ted McDonald; Ted has more targets set to explode.</desc>
-    <episode-num system="onscreen">S05E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Forever-US" start="20260417032428 +0500" stop="20260417041444 +0500">
-    <title>Charmed</title>
-    <desc>When Paige tries to hire a new professor for the Magic School, an ex-demon applies.</desc>
-    <episode-num system="onscreen">S07E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d16fc1969f6e502e82672eb1efcd20f4/images/gracenote/assets/p184399_b_h8_aw.jpg" />
-  </programme><programme channel="CW-Forever-US" start="20260417041444 +0500" stop="20260417050357 +0500">
+  </channel><programme channel="CW-Forever-US" start="20260417041444 +0500" stop="20260417050357 +0500">
     <title>Charmed</title>
     <desc>When Inspector Morris believes his friend is possessed, he asks the Charmed Ones to investigate.</desc>
     <episode-num system="onscreen">S07E15</episode-num>
@@ -183,12 +165,6 @@
     <episode-num system="onscreen">S08E19</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d16fc1969f6e502e82672eb1efcd20f4/images/gracenote/assets/p184399_b_h8_aw.jpg" />
-  </programme><programme channel="CW-Forever-US" start="20260418013933 +0500" stop="20260418022749 +0500">
-    <title>Charmed</title>
-    <desc>Phoebe and Piper plot to get Leo back; Paige saves her new charge.</desc>
-    <episode-num system="onscreen">S08E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d16fc1969f6e502e82672eb1efcd20f4/images/gracenote/assets/p184399_b_h8_aw.jpg" />
   </programme><programme channel="CW-Forever-US" start="20260418022749 +0500" stop="20260418031544 +0500">
     <title>Charmed</title>
     <desc>Billie and Christy use magic in an effort to destroy the reputations of the Charmed Ones.</desc>
@@ -205,6 +181,12 @@
     <title>Charmed</title>
     <desc>Piper travels back in time to change the events leading to the deaths of Paige and Phoebe.</desc>
     <episode-num system="onscreen">S08E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d16fc1969f6e502e82672eb1efcd20f4/images/gracenote/assets/p184399_b_h8_aw.jpg" />
+  </programme><programme channel="CW-Forever-US" start="20260418045324 +0500" stop="20260418054407 +0500">
+    <title>Charmed</title>
+    <desc>Three sisterly witches band together to battle the supernatural.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d16fc1969f6e502e82672eb1efcd20f4/images/gracenote/assets/p184399_b_h8_aw.jpg" />
   </programme><programme channel="CW-Forever-US" start="20260418045324 +0500" stop="20260418054407 +0500">

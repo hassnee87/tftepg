@@ -3,13 +3,7 @@
   <channel id="Tribeca-Channel-US">
     <display-name>Tribeca Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Tribeca-Channel-US.png" />
-  </channel><programme channel="Tribeca-Channel-US" start="20260417013300 +0500" stop="20260417032000 +0500">
-    <title>Monty Python and the Holy Grail</title>
-    <sub-title />
-    <desc>A lackey follows as King Arthur (Graham Chapman) goes questing.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f63e0da1e7ba50699aa927493fa83d2a/images/gracenote/assets/p629_v_h10_am.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417032000 +0500" stop="20260417054100 +0500">
+  </channel><programme channel="Tribeca-Channel-US" start="20260417032000 +0500" stop="20260417054100 +0500">
     <title>The Host</title>
     <sub-title />
     <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
@@ -69,18 +63,18 @@
     <desc>College dropout Steve Jobs co-founds Apple Inc. and sparks a revolution in personal computing.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8a81122e011a5983aa345e7031d26fb6/rokuFeed/assets/90c9fdf9020a517f924cf8bc0a1a779b.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260417235300 +0500" stop="20260418021700 +0500">
-    <title>Jobs</title>
-    <sub-title />
-    <desc>College dropout Steve Jobs co-founds Apple Inc. and sparks a revolution in personal computing.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8a81122e011a5983aa345e7031d26fb6/rokuFeed/assets/90c9fdf9020a517f924cf8bc0a1a779b.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260418021700 +0500" stop="20260418042100 +0500">
     <title>The Marksman</title>
     <sub-title />
     <desc>A former Marine tries to protect a boy on the run from members of a vicious Mexican cartel.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6d53f71a5def51ce8e163252205d039a/images/gracenote/assets/p19191241_v_h8_aa.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260418042100 +0500" stop="20260418061300 +0500">
+    <title>London Has Fallen</title>
+    <sub-title />
+    <desc>Secret Service agent Mike Banning must save captive U.S. President Benjamin Asher from terrorists.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ffd1452533c5646b2cb441ce3e5d09a/rokuFeed/assets/1e171e73c1f85cf6af8f8d78b4ff7e24.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260418042100 +0500" stop="20260418061300 +0500">
     <title>London Has Fallen</title>
     <sub-title />

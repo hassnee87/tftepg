@@ -3,23 +3,7 @@
   <channel id="True-Crime-UK">
     <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260417015817 +0500" stop="20260417025329 +0500">
-    <title>Murder in Paradise</title>
-    <sub-title>Stranger Danger</sub-title>
-    <desc>Stranger Danger</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417025329 +0500" stop="20260417034840 +0500">
-    <title>Murder in Paradise</title>
-    <sub-title>Shallow Grave</sub-title>
-    <desc>Shallow Grave</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260417034840 +0500" stop="20260417043800 +0500">
+  </channel><programme channel="True-Crime-UK" start="20260417034840 +0500" stop="20260417043800 +0500">
     <title>Real Detective</title>
     <sub-title>Retribution</sub-title>
     <desc>Retribution</desc>
@@ -243,5 +227,21 @@
     <date>20260401</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418031236 +0500" stop="20260418040743 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Arturo Gatti</sub-title>
+    <desc>Arturo Gatti</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20250722</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260418040743 +0500" stop="20260418050254 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Ghost Ship of Bimini</sub-title>
+    <desc>Ghost Ship of Bimini</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20250724</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
   </programme>
 </tv>

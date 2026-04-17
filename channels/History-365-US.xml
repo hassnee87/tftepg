@@ -3,34 +3,7 @@
   <channel id="History-365-US">
     <display-name>History 365</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/History-365-US.png" />
-  </channel><programme channel="History-365-US" start="20260417030000 +0500" stop="20260417035159 +0500">
-    <title>Dark Marvels</title>
-    <sub-title>Death Devices</sub-title>
-    <desc>The dark origin stories behind some of the most notorious methods of execution.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260417035159 +0500" stop="20260417044327 +0500">
-    <title>Dark Marvels</title>
-    <sub-title>Temples of Doom</sub-title>
-    <desc>The gates are open to some of history's most sinister structures.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260417044327 +0500" stop="20260417053427 +0500">
-    <title>Dark Marvels</title>
-    <sub-title>Treacherous Traps</sub-title>
-    <desc>Booby traps are diabolical devices just waiting to kill.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260417053427 +0500" stop="20260417062540 +0500">
+  </channel><programme channel="History-365-US" start="20260417053427 +0500" stop="20260417062540 +0500">
     <title>Dark Marvels</title>
     <sub-title>Pain and Punishment</sub-title>
     <desc>The twisted origin stories of some of history's most brutal torture devices.</desc>
@@ -70,6 +43,33 @@
     <title>Dark Marvels</title>
     <sub-title>Death Devices</sub-title>
     <desc>The dark origin stories behind some of the most notorious methods of execution.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260417095159 +0500" stop="20260417104327 +0500">
+    <title>Dark Marvels</title>
+    <sub-title>Temples of Doom</sub-title>
+    <desc>The gates are open to some of history's most sinister structures.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260417104327 +0500" stop="20260417113427 +0500">
+    <title>Dark Marvels</title>
+    <sub-title>Treacherous Traps</sub-title>
+    <desc>Booby traps are diabolical devices just waiting to kill.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260417113427 +0500" stop="20260417122541 +0500">
+    <title>Dark Marvels</title>
+    <sub-title>Pain and Punishment</sub-title>
+    <desc>The twisted origin stories of some of history's most brutal torture devices.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2269713544_4_20251211T022919292Z_99_imageprocessorclient-tvplus-linear-584c967455-nhhtv.jpeg" />
     <rating>

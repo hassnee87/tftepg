@@ -3,19 +3,7 @@
   <channel id="Great-Movies-UK">
     <display-name>Great! Movies</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Great-Movies-UK.png" />
-  </channel><programme channel="Great-Movies-UK" start="20260417024724 +0500" stop="20260417043408 +0500">
-    <title>Redemption Day</title>
-    <sub-title />
-    <desc>(2021) Action thriller with Gary Dourdan, Serinda Swan and Andy Garcia. A war hero embarks on a daring rescue mission when his wife is kidnapped. As the clock counts down, can he get to her in time?</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1156832325_0_20250828T153521646Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cnnbq.jpeg" />
-  </programme><programme channel="Great-Movies-UK" start="20260417043408 +0500" stop="20260417060640 +0500">
-    <title>Trigger Point</title>
-    <sub-title />
-    <desc>(2015) Thriller starring Jordan Hinson. After her father is laid off, a passionate college student joins activists to stop a corporation from ruining more lives.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
-  </programme><programme channel="Great-Movies-UK" start="20260417060640 +0500" stop="20260417075518 +0500">
+  </channel><programme channel="Great-Movies-UK" start="20260417060640 +0500" stop="20260417075518 +0500">
     <title>Last Days Of Frank and Jesse James, The</title>
     <sub-title />
     <desc>A western about the notorious bank robbers, Frank and Jesse James</desc>
@@ -27,5 +15,35 @@
     <desc>(1948) Western starring Rod Cameron. A former Texas marshal is determined to prove a powerful casino owner is behind his brother's murder.</desc>
     <language>en</language>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_885921095_0_20250514T154448007Z_60_imageprocessorclient-tvplus-linear-6fb5b47f79-j48bz.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417093037 +0500" stop="20260417095721 +0500">
+    <title>Airline USA</title>
+    <sub-title />
+    <desc>There is frustration for the Airline staff as passengers turn up late and irate, and a passenger faces an anxious wait as she tries to get to her dying mother in time. S1Ep17</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
+  </programme><programme channel="Great-Movies-UK" start="20260417095721 +0500" stop="20260417102430 +0500">
+    <title>Airline USA</title>
+    <sub-title />
+    <desc>Two unaccompanied minors are close to boarding the wrong flight, and team members audition for the staff holiday cabaret - with the winners performing for passengers at the departure gates. S1Ep18</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
+  </programme><programme channel="Great-Movies-UK" start="20260417102430 +0500" stop="20260417105129 +0500">
+    <title>Airline USA</title>
+    <sub-title />
+    <desc>Staff have to handle a drunken passenger at 7am in the morning, stormy weather causes severe delays, and a supervisor has to inform a customer that he is too big for a plane seat. S1Ep1</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
+  </programme><programme channel="Great-Movies-UK" start="20260417105129 +0500" stop="20260417114102 +0500">
+    <title>Coast Guard Alaska</title>
+    <sub-title />
+    <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
+  </programme><programme channel="Great-Movies-UK" start="20260417114102 +0500" stop="20260417122745 +0500">
+    <title>Coast Guard Alaska</title>
+    <sub-title />
+    <desc>Witness the U.S. Coastguard at work as they battle the elements to perform daring sea rescues and save the lives of those in danger.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654603134_0_20260225T161837337Z_122_imageprocessorclient-tvplus-linear-85d7d49859-rclz9.jpeg" />
   </programme>
 </tv>

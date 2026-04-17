@@ -3,25 +3,7 @@
   <channel id="Real-Crime-US">
     <display-name>Real Crime</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Real-Crime-US.png" />
-  </channel><programme channel="Real-Crime-US" start="20260417014700 +0500" stop="20260417024600 +0500">
-    <title>FBI Files Movie Of The Week</title>
-    <desc>Dr. Glennon Engleman holds a deadly secret</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417024600 +0500" stop="20260417034400 +0500">
-    <title>FBI Files Movie Of The Week</title>
-    <desc>Dr. Glennon Engleman holds a deadly secret</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417034400 +0500" stop="20260417044100 +0500">
-    <title>FBI Files Movie Of The Week</title>
-    <desc>A modern day Jack the Ripper runs riot through the US.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260417044100 +0500" stop="20260417054200 +0500">
+  </channel><programme channel="Real-Crime-US" start="20260417044100 +0500" stop="20260417054200 +0500">
     <title>FBI Files Movie Of The Week</title>
     <desc>A modern day Jack the Ripper runs riot through the US.</desc>
     <episode-num system="onscreen">S01E04</episode-num>
@@ -147,12 +129,6 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
-  </programme><programme channel="Real-Crime-US" start="20260418015200 +0500" stop="20260418025000 +0500">
-    <title>FBI Files Movie Of The Week</title>
-    <desc>Secret Services struggle to capture one of the world's notorious counterfeiters</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260418025000 +0500" stop="20260418034700 +0500">
     <title>FBI Files Movie Of The Week</title>
     <desc>The counterfeiter case takes a bizarre turn, revealing darker crimes</desc>
@@ -163,6 +139,12 @@
     <title>FBI Files Movie Of The Week</title>
     <desc>In prison for a crime he might not have committed, Richard McCoy goes on the run</desc>
     <episode-num system="onscreen">S01E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
+  </programme><programme channel="Real-Crime-US" start="20260418044500 +0500" stop="20260418054300 +0500">
+    <title>FBI Files Movie Of The Week</title>
+    <desc>The dramatic conclusion to the Richard McCoy escape</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/638ecc9318f1557dab3abd59adf3f566/rokuFeed/assets/ec2cc01d516354c8aab1f7b089e9a367.jpg" />
   </programme><programme channel="Real-Crime-US" start="20260418044500 +0500" stop="20260418054300 +0500">
