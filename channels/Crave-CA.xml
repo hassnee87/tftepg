@@ -3,100 +3,132 @@
   <channel id="Crave-CA">
     <display-name>Crave</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Crave-CA.png" />
-  </channel><programme channel="Crave-CA" start="20260417001500 +0500" stop="20260417015000 +0500">
-    <title>No One Will Save You</title>
+  </channel><programme channel="Crave-CA" start="20260419092500 +0500" stop="20260419105500 +0500">
+    <title>Kill 'Em All 2</title>
     <sub-title />
-    <desc>Brynn finds solace within the walls of the home where she grew up until she's awakened one night by strange noises from unearthly intruders.</desc>
+    <desc>A retired spy and his long-lost daughter are living peacefully off the grid in Italy. When their whereabouts are discovered by the vengeful brother of their previous target, they must do whatever it takes to escape from his army of thugs.</desc>
     <credits>
-      <director>Brian Duffield</director>
-      <actor>Kaitlyn Dever</actor>
-      <actor>Zack Duhame</actor>
-      <actor>Ginger Cressman</actor>
-    </credits><date>2023</date>
+      <director>Valeri Milev</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Maria Conchita Alonso</actor>
+    </credits><date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25298623_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417015000 +0500" stop="20260417034500 +0500">
-    <title>The Lost City</title>
-    <sub-title />
-    <desc>Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to an ancient city's lost treasure from her latest story. Determined to prove he can be a hero in real life and not just on the pages of her books, Alan sets off to rescue her.</desc>
-    <credits>
-      <director>Adam Nee</director>
-      <director>Aaron Nee</director>
-      <actor>Sandra Bullock</actor>
-      <actor>Channing Tatum</actor>
-      <actor>Daniel Radcliffe</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <category lang="en">Adventure</category>
     <category lang="en">Action</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19549414_v_h8_ao.jpg?w=960&amp;h=540" />
-    <rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
+    <icon src="http://dtil.tmsimg.com/assets/p27972910_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>I12</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
+      <value>15</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417034500 +0500" stop="20260417060000 +0500">
+      <value>A16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260419105500 +0500" stop="20260419132500 +0500">
+    <title>Balestra</title>
+    <sub-title />
+    <desc>Joanna is a competitive fencer who is desperate to be the world's best. In order to gain an edge, she pursues an experimental technology, allowing her to train through lucid dreaming, where she begins a tumultuous affair with her instructor.</desc>
+    <credits>
+      <director>Nicole Dorsey</director>
+      <actor>Manny Jacinto</actor>
+      <actor>James Badge Dale</actor>
+      <actor>Cush Jumbo</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27975573_v_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crave-CA" start="20260419132500 +0500" stop="20260419150000 +0500">
+    <title>Die Alone</title>
+    <sub-title />
+    <desc>A young man with amnesia bands together with a rugged survivalist after a devastating virus causes a zombie-like outbreak.</desc>
+    <credits>
+      <director>Lowell Dean</director>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Frank Grillo</actor>
+      <actor>Douglas Smith</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27974693_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260419150000 +0500" stop="20260419162500 +0500">
+    <title>A Zest for Death: A Hannah Swensen Mystery</title>
+    <sub-title />
+    <desc>Hannah Swensen is determined to get to the bottom of the mystery after her mother finds the dead body of a homeowner, and frequent patron of The Cookie Jar, while house-hunting for her sister Michelle.</desc>
+    <credits>
+      <director>Shannon Kohli</director>
+      <actor>Alison Sweeney</actor>
+      <actor>Cameron Mathison</actor>
+      <actor>Barbara Niven</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25915823_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260419162500 +0500" stop="20260419175000 +0500">
+    <title>A Sprinkle of Deceit: A Hannah Swensen Mystery</title>
+    <sub-title />
+    <desc>Hannah and Chad flirt with their own paths to solve the same murder while working to clear a colleague who is implicated in the crime. Meanwhile, Delores gets her big break.</desc>
+    <credits>
+      <director>Kevin Leslie</director>
+      <actor>Alison Sweeney</actor>
+      <actor>Barbara Niven</actor>
+      <actor>Tess Atkins</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28459315_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260419175000 +0500" stop="20260419200500 +0500">
     <title>The Lord of the Rings: The War of the Rohirrim</title>
     <sub-title />
     <desc>A sudden attack by Wulf, a ruthless Dunlending lord, forces Helm Hammerhand and his people to make a daring last stand in the ancient stronghold of the Hornburg. Finding herself in an increasingly desperate situation, Helm's daughter, Héra, must lead the resistance against a deadly enemy who's intent on total destruction.</desc>
@@ -142,930 +174,691 @@
     </rating><star-rating>
       <value>5.0/10</value>
     </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417060000 +0500" stop="20260417063500 +0500">
-    <title>Hacks</title>
+  </programme><programme channel="Crave-CA" start="20260419200500 +0500" stop="20260419220000 +0500">
+    <title>All Light, Everywhere</title>
     <sub-title />
-    <desc>The duo returns to the Palmetto to reclaim their territory.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
+    <desc>Filmmaker Theo Anthony offers a far-ranging look at the biases in how people see things, focusing on the recorded image.</desc>
     <credits>
-      <actor>Jean Smart</actor>
-      <actor>Hannah Einbinder</actor>
-      <actor>Carl Clemons-Hopkins</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32778250_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>19</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417063500 +0500" stop="20260417081500 +0500">
-    <title>Oh, Hi!</title>
-    <sub-title />
-    <desc>Iris is enjoying her first romantic getaway with Isaac, until he tells her he's not interested in a serious relationship.</desc>
-    <credits>
-      <director>Sophie Brooks</director>
-      <actor>Molly Gordon</actor>
-      <actor>Logan Lerman</actor>
-      <actor>Geraldine Viswanathan</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30431352_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417081500 +0500" stop="20260417094500 +0500">
-    <title>Border Hunters</title>
-    <sub-title />
-    <desc>In Puerto Vallarta, Mexico, a fentanyl overdose claims the lives of an American youth and a paramedic, drawing the U.S. ambassador into a desperate mission to dismantle the cartels. When former spy Abraham Woodhill enlists imprisoned ex-operative Jake Byrne, a violent, high-stakes game unfolds across jungles, villages and cartel strongholds.</desc>
-    <credits>
-      <director>Ruben Islas</director>
-      <actor>Dean Norris</actor>
-      <actor>Julio Macias</actor>
-      <actor>Danforth Comins</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31536230_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417094500 +0500" stop="20260417113000 +0500">
-    <title>Drive Back Home</title>
-    <sub-title />
-    <desc>In the winter of 1970, a cantankerous, small town plumber from rural New Brunswick, must drive his beat-up work truck 1000 miles to Toronto to get his estranged, gay brother out of jail after being arrested for having sex in a public park. The two men are then forced to drive back home together at the behest of their hard-nosed mother before they kill each other.</desc>
-    <credits>
-      <director>Michael Clowater</director>
-      <actor>Alan Cumming</actor>
-      <actor>Charlie Creed-Miles</actor>
-      <actor>Clare Coulter</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28867184_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417113000 +0500" stop="20260417131000 +0500">
-    <title>Adulthood</title>
-    <sub-title />
-    <desc>When siblings Noah and Megan find a long-buried corpse in their parents' basement, they stumble into a wildly escalating web of crime, cover-ups and murder. The deeper they dig, the harder it becomes to escape.</desc>
-    <credits>
-      <director>Alex Winter</director>
-      <actor>Josh Gad</actor>
-      <actor>Kaya Scodelario</actor>
-      <actor>Billie Lourd</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Dark comedy</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30867655_v_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417131000 +0500" stop="20260417144500 +0500">
-    <title>In a Violent Nature</title>
-    <sub-title />
-    <desc>When a group of teens takes a locket from a collapsed fire tower in the woods, they unwittingly resurrect the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year-old crime. The undead killer soon embarks on a bloody rampage to retrieve the stolen locket, methodically slaughtering anyone who gets in his way.</desc>
-    <credits>
-      <director>Chris Nash</director>
-      <actor>Ry Barrett</actor>
-      <actor>Andrea Pavlovic</actor>
-      <actor>Cameron Love</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26881855_v_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>18</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="映倫">
-      <value>R18+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>18</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417144500 +0500" stop="20260417150000 +0500">
-    <title>Paseo</title>
-    <sub-title />
-    <desc>A woman becomes displaced and alienated by her surroundings while traveling through Spain. She begins to lose control of her emotional and psychological self as she explores another possible life.</desc>
-    <credits>
-      <director>Matthew Hannam</director>
-      <actor>Sarah Gadon</actor>
-      <actor>Peter Mooney</actor>
-      <actor>Alex Cadilla</actor>
-    </credits><date>2018</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847204_v_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crave-CA" start="20260417150000 +0500" stop="20260417162500 +0500">
-    <title>A Zest for Death: A Hannah Swensen Mystery</title>
-    <sub-title />
-    <desc>Hannah Swensen is determined to get to the bottom of the mystery after her mother finds the dead body of a homeowner, and frequent patron of The Cookie Jar, while house-hunting for her sister Michelle.</desc>
-    <credits>
-      <director>Shannon Kohli</director>
-      <actor>Alison Sweeney</actor>
-      <actor>Cameron Mathison</actor>
-      <actor>Barbara Niven</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25915823_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417162500 +0500" stop="20260417175500 +0500">
-    <title>Elli and Her Monster Team</title>
-    <sub-title />
-    <desc>A homeless ghost seeking belonging at a Ghost Train draws unwanted outside attention, forcing her and its monster residents to embark on a quest to save their home and her chance at finding family.</desc>
-    <credits>
-      <director>Piet De Rycker</director>
-      <director>Jesper Moller</director>
-      <director>Jens Møller</director>
-      <actor>Sophie Nélisse</actor>
-      <actor>Caroline Dhavernas</actor>
-      <actor>Terrence Scammell</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Family</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30961044_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417175500 +0500" stop="20260417192500 +0500">
-    <title>PAW Patrol: The Movie</title>
-    <sub-title />
-    <desc>When their biggest rival, Humdinger, starts wreaking havoc as the mayor of Adventure City, Ryder and everyone's favorite heroic pups kick into high gear to face the challenge. Armed with exciting new gadgets and gear, the PAW Patrol joins forces with a savvy dachshund to save the citizens of Adventure City.</desc>
-    <credits>
-      <director>Cal Brunker</director>
-      <actor>Iain Armitage</actor>
-      <actor>Marsai Martin</actor>
-      <actor>Ron Pardo</actor>
+      <director>Theo Anthony</director>
+      <actor>Keaver Brenai</actor>
     </credits><date>2021</date>
     <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18759865_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Barntillåten</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>All</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="UK Content Provider">
-      <value>U</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417192500 +0500" stop="20260417210000 +0500">
-    <title>PAW Patrol: The Mighty Movie</title>
-    <sub-title />
-    <desc>The PAW Patrol pups magically gain superpowers after a meteor strikes Adventure City. However, things take a turn for the worse when Humdinger and a mad scientist steal their powers and turn themselves into supervillains. As the team springs into action to save the city, Skye soon learns that even the smallest pup can make the biggest difference.</desc>
-    <credits>
-      <director>Cal Brunker</director>
-      <actor>Kristen Bell</actor>
-      <actor>James Marsden</actor>
-      <actor>Mckenna Grace</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24256388_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
+    <icon src="http://dtil.tmsimg.com/assets/p20035160_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
       <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Alberta's Film Classification Board">
+    </rating><rating system="B.C. Film Classification Office">
       <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="UK Content Provider">
-      <value>U</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Statens medieråd">
-      <value>Barntillåten</value>
-    </rating><rating system="영상물등급위원회">
-      <value>All</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417210000 +0500" stop="20260417231000 +0500">
-    <title>Moonraker</title>
-    <sub-title />
-    <desc>Agent 007 blasts into orbit in this action-packed adventure that takes him to Venice, Rio de Janeiro and outer space. When Bond investigates the hijacking of an American space shuttle, he and beautiful CIA agent Holly Goodhead are soon locked in a life-or-death struggle against Hugo Drax, a power-mad industrialist whose horrific scheme may destroy all human life on Earth!</desc>
-    <credits>
-      <director>Lewis Gilbert</director>
-      <actor>Roger Moore</actor>
-      <actor>Lois Chiles</actor>
-      <actor>Michael Lonsdale</actor>
-    </credits><date>1979</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7270_v_h10_aw.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>PG</value>
     </rating><rating system="Ontario Film Authority">
       <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
+    </rating><rating system="Manitoba Film Classification Board">
       <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>10</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
     </rating><rating system="Australian Classification Board">
-      <value>PG</value>
+      <value>MA 15+</value>
     </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+      <value>AL</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260419220000 +0500" stop="20260420001500 +0500">
+    <title>Top Gun: Maverick</title>
+    <sub-title />
+    <desc>After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Tom Cruise</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jennifer Connelly</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14325539_v_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating><rating system="Medierådet">
-      <value>15</value>
+      <value>11</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
     </rating><star-rating>
       <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="Crave-CA" start="20260417231000 +0500" stop="20260417233000 +0500">
-    <title>One Day This Kid</title>
+  </programme><programme channel="Crave-CA" start="20260420001500 +0500" stop="20260420030500 +0500">
+    <title>Mission: Impossible -- Dead Reckoning Part One</title>
     <sub-title />
-    <desc>A first-generation Afghan-Canadian navigates personal growth and cultural identity while grappling with his father's influence through life's subtle but defining moments.</desc>
+    <desc>Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most.</desc>
     <credits>
-      <director>Alexander Farah</director>
-      <actor>Massey Ahmar</actor>
-      <actor>Justin Cardas</actor>
-      <actor>Navid Charkhi</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29436386_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260417233000 +0500" stop="20260418020000 +0500">
-    <title>Casino Royale</title>
-    <sub-title />
-    <desc>After receiving a license to kill, British Secret Service agent James Bond heads to Madagascar, where he uncovers a link to Le Chiffre, a man who finances terrorist organizations. Learning that Le Chiffre plans to raise money in a high-stakes poker game, MI6 sends Bond to play against him, gambling that their newest "00" operative will topple the man's organization.</desc>
-    <credits>
-      <director>Martin Campbell</director>
-      <actor>Daniel Craig</actor>
-      <actor>Eva Green</actor>
-      <actor>Mads Mikkelsen</actor>
-    </credits><date>2006</date>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Hayley Atwell</actor>
+      <actor>Ving Rhames</actor>
+    </credits><date>2023</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
     <category lang="en">Adventure</category>
     <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p159167_v_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
+    <icon src="http://dtil.tmsimg.com/assets/p16493930_v_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Motion Picture Association">
       <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Crave-CA" start="20260420030500 +0500" stop="20260420060000 +0500">
+    <title>It: Chapter Two</title>
+    <sub-title />
+    <desc>Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways. But when people start disappearing, Mike Hanlon calls the others home for one final stand. Damaged by scars from the past, the united Losers must conquer their deepest fears to destroy the shape-shifting Pennywise -- now more powerful than ever.</desc>
+    <credits>
+      <director>Andy Muschietti</director>
+      <actor>Jessica Chastain</actor>
+      <actor>James McAvoy</actor>
+      <actor>Bill Hader</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14624901_v_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
     </rating><rating system="B.C. Film Classification Office">
       <value>14A</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>14A</value>
     </rating><rating system="Manitoba Film Classification Board">
       <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
     </rating><rating system="Statens medieråd">
       <value>Från 15 år</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418020000 +0500" stop="20260418034000 +0500">
-    <title>Flamin' Hot</title>
-    <sub-title />
-    <desc>Richard Montanez, the son of a Mexican immigrant, was a janitor at Frito-Lay when he came up with the idea for Flamin' Hot Cheetos. His creation, inspired by the flavors of his community, revitalized Frito-Lay and disrupted the food industry.</desc>
-    <credits>
-      <director>Eva Longoria</director>
-      <actor>Jesse Garcia</actor>
-      <actor>Annie Gonzalez</actor>
-      <actor>Tony Shalhoub</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22982426_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B15</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260418034000 +0500" stop="20260418060000 +0500">
-    <title>Never Say Never Again</title>
-    <sub-title />
-    <desc>An aging James Bond (Sean Connery) makes an uncharacteristic mistake during a routine training mission, leading M (Edward Fox) to believe that the legendary British Intelligence spy is now past his prime. M indefinitely suspends Bond from active duty. However, when SPECTRE member Fatima Bush (Barbara Carrera) and her fellow terrorists successfully steal two nuclear missiles from the U.S. military, M must reinstate Bond, as he is the only agent who can beat SPECTRE at their own game of espionage.</desc>
-    <credits>
-      <director>Irvin Kershner</director>
-      <actor>Sean Connery</actor>
-      <actor>Klaus Maria Brandauer</actor>
-      <actor>Barbara Carrera</actor>
-    </credits><date>1983</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7582_v_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
+      <value>15</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418060000 +0500" stop="20260418075000 +0500">
-    <title>The Long Walk</title>
-    <sub-title />
-    <desc>Teens participate in a grueling high-stakes contest where they must continuously walk or be shot by a member of their military escort.</desc>
-    <credits>
-      <director>Francis Lawrence</director>
-      <actor>Cooper Hoffman</actor>
-      <actor>Mark Hamill</actor>
-      <actor>Judy Greer</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30269633_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><rating system="映倫">
       <value>R15+</value>
-    </rating><rating system="Arcom">
-      <value>-16</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418075000 +0500" stop="20260418094500 +0500">
-    <title>Soul on Fire</title>
-    <sub-title />
-    <desc>A tragic accident leaves 9-year-old John O'Leary with burns covering 100% of his body. He soon embarks on a miraculous road to recovery with support from family, the community, and baseball announcer Jack Buck. Grateful for the gift of life, John becomes a motivational speaker who inspires millions of people to make the world a better place.</desc>
-    <credits>
-      <director>Sean McNamara</director>
-      <actor>Joel Courtney</actor>
-      <actor>John Corbett</actor>
-      <actor>Stephanie Szostak</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30772406_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418094500 +0500" stop="20260418112500 +0500">
-    <title>Black Ice</title>
-    <sub-title />
-    <desc>Exploring the history of Black hockey players, from the creation of Canada's Colored Hockey League to their inclusion into the NHL, highlighting their often-overlooked and marginalized contributions to the game.</desc>
-    <credits>
-      <director>Hubert Davis</director>
-      <actor>P.K. Subban</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23867729_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Motion Picture Association">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260418112500 +0500" stop="20260418125500 +0500">
-    <title>Hell of a Summer</title>
-    <sub-title />
-    <desc>Camp counselor Jason Hochberg thinks his biggest problem is feeling out of touch with his teenage co-workers. What he doesn't know is that a mysterious masked killer is lurking on the campgrounds, brutally picking off victims one by one.</desc>
-    <credits>
-      <director>Finn Wolfhard</director>
-      <director>Billy Bryk</director>
-      <actor>Fred Hechinger</actor>
-      <actor>Abby Quinn</actor>
-      <actor>Billy Bryk</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29328979_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
+    </rating><rating system="Medierådet">
       <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating><rating system="Kijkwijzer">
       <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A16</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418125500 +0500" stop="20260418150000 +0500">
-    <title>The Shrouds</title>
-    <sub-title />
-    <desc>Karsh, a creative entrepreneur who lost his spouse, develops a machine designed to communicate with deceased individuals.</desc>
-    <credits>
-      <director>David Cronenberg</director>
-      <actor>Vincent Cassel</actor>
-      <actor>Diane Kruger</actor>
-      <actor>Guy Pearce</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27167539_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
     </rating><rating system="Arcom">
       <value>-12</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260418150000 +0500" stop="20260418163000 +0500">
-    <title>The Christmas Retreat</title>
-    <sub-title />
-    <desc>When Kim's boyfriend breaks up with her instead of proposing, Kim's mom takes her away to a Christmas retreat to reconnect with the spirit of the holiday. When she gets there, she meets newly unemployed Mark.</desc>
-    <credits>
-      <director>Jason Bourque</director>
-      <actor>Rhiannon Fish</actor>
-      <actor>Lynn Whyte</actor>
-      <actor>Vincent Ross</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Family</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23134199_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Crave-CA" start="20260418163000 +0500" stop="20260418175500 +0500">
-    <title>Air Bud: World Pup</title>
-    <sub-title />
-    <desc>The golden retriever helps his young owner (Kevin Zegers) and his coed soccer team to shine while outsmarting a wily dogcatcher.</desc>
-    <credits>
-      <director>Bill Bannerman</director>
-      <actor>Kevin Zegers</actor>
-      <actor>Dale Midkiff</actor>
-      <actor>Caitlin Wachs</actor>
-    </credits><date>2000</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26529_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>U</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418175500 +0500" stop="20260418193000 +0500">
-    <title>Air Bud: Seventh Inning Fetch</title>
-    <sub-title />
-    <desc>The golden retriever joins a middle-school baseball team and searches for his missing offspring.</desc>
-    <credits>
-      <director>Robert Vince</director>
-      <actor>Kevin Zegers</actor>
-      <actor>Caitlin Wachs</actor>
-      <actor>Cynthia Stevenson</actor>
-    </credits><date>2002</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30400_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>F</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
     </rating><star-rating>
       <value>5.0/10</value>
     </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418193000 +0500" stop="20260418210000 +0500">
-    <title>Air Bud: Spikes Back</title>
-    <sub-title />
-    <desc>A dog that plays volleyball helps investigators solve a rash of mysterious crimes.</desc>
+  </programme><programme channel="Crave-CA" start="20260420060000 +0500" stop="20260420065500 +0500">
+    <title>The Pitt</title>
+    <sub-title>9:00 P.M</sub-title>
+    <desc>Al-Hashimi reveals details from her medical history, forcing Robby to face an ethical dilemma as he prepares to leave for his sabbatical.</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
     <credits>
-      <director>Mike Southon</director>
-      <actor>Robert Tinkler</actor>
-      <actor>Cynthia Stevenson</actor>
-      <actor>Katija Pevec</actor>
-    </credits><date>2003</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Adventure</category>
+      <actor>Noah Wyle</actor>
+      <actor>Tracy Ifeachor</actor>
+      <actor>Fiona Dourif</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32768_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>F</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
+    <icon src="http://dtil.tmsimg.com/assets/p31936894_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="Crave-CA" start="20260418210000 +0500" stop="20260418223000 +0500">
-    <title>Under the Boardwalk</title>
-    <sub-title />
-    <desc>Two crabs embark on an epic journey to get home after a storm sweeps them away. Their courage soon unites their families, paving the way for great summers to come.</desc>
-    <credits>
-      <director>David Soren</director>
-      <actor>Keke Palmer</actor>
-      <actor>Michael Cera</actor>
-      <actor>Bobby Cannavale</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Animated</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20838251_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>12</value>
     </rating><rating system="Australian Classification Board">
-      <value>G</value>
+      <value>MA 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
+      <value>14</value>
     </rating>
-  </programme><programme channel="Crave-CA" start="20260418223000 +0500" stop="20260419001500 +0500">
-    <title>80 for Brady</title>
-    <sub-title />
-    <desc>Four best friends live life to the fullest when they embark on a wild trip to see their hero, Tom Brady, play in the 2017 Super Bowl.</desc>
+  </programme><programme channel="Crave-CA" start="20260420065500 +0500" stop="20260420072500 +0500">
+    <title>The Trades</title>
+    <sub-title>Meat Sweats</sub-title>
+    <desc>Chaos ensues when Taser invites everyone to his house for dinner, but really to move his furniture; Jenn and Janet hire strippers for Chelsea's birthday at The Leaky Pipe.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
     <credits>
-      <director>Kyle Marvin</director>
-      <actor>Lily Tomlin</actor>
-      <actor>Jane Fonda</actor>
-      <actor>Rita Moreno</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
+      <director>Warren P. Sonoda</director>
+      <actor>Robb Wells</actor>
+      <actor>Anastasia Phillips</actor>
+      <actor>Jennifer Spence</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
     <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22962782_v_h8_ah.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32416627_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420072500 +0500" stop="20260420090000 +0500">
+    <title>Sisu: Road to Revenge</title>
+    <sub-title />
+    <desc>Korpi dismantles the house where his family was murdered and loads it on a truck to rebuild it somewhere safe. He soon finds himself in a violent cross-country chase as the Red Army commander who killed his family comes back to finish the job.</desc>
+    <credits>
+      <director>Jalmari Helander</director>
+      <actor>Jorma Tommila</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Richard Brake</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27142500_v_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Crave-CA" start="20260420090000 +0500" stop="20260420111500 +0500">
+    <title>Top Gun: Maverick</title>
+    <sub-title />
+    <desc>After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.</desc>
+    <credits>
+      <director>Joseph Kosinski</director>
+      <actor>Tom Cruise</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jennifer Connelly</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14325539_v_h8_al.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>PG-13</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating><rating system="Maritime Film Classification Board">
       <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
     </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating><rating system="UK Content Provider">
       <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Crave-CA" start="20260420111500 +0500" stop="20260420131000 +0500">
+    <title>Longing</title>
+    <sub-title />
+    <desc>Daniel, a wealthy bachelor in his 60s, learns that a former girlfriend gave birth to a child 20 years ago and that his son has just died. Daniel explores his deceased son's life, getting to know him vicariously through those closest to him, and he reevaluates his life choices.</desc>
+    <credits>
+      <director>Savi Gabizon</director>
+      <actor>Richard Gere</actor>
+      <actor>Diane Kruger</actor>
+      <actor>Suzanne Clément</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24342898_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420131000 +0500" stop="20260420150000 +0500">
+    <title>Subjects of Desire</title>
+    <sub-title />
+    <desc>Exploring the cultural shift in North American beauty standards toward embracing Black female aesthetics and features while exposing the deliberate and often dangerous portrayals of Black women in the media.</desc>
+    <credits>
+      <director>Jennifer Holness</director>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20698939_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420150000 +0500" stop="20260420152500 +0500">
+    <title>Corner Gas</title>
+    <sub-title>Spin Cycle</sub-title>
+    <desc>Karen remembers what it feels like to be a school kid again when she takes up a new form of exercise.</desc>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <credits>
+      <actor>Brent Butt</actor>
+      <actor>Eric Peterson</actor>
+      <actor>Janet Wright</actor>
+    </credits><date>2007</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8495814_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420152500 +0500" stop="20260420155000 +0500">
+    <title>Corner Gas</title>
+    <sub-title>Whiner Takes All</sub-title>
+    <desc>An initially fun game of golf between Brent, Lacey and Hank quickly turns into a round robin of aggravation.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <credits>
+      <actor>Brent Butt</actor>
+      <actor>Eric Peterson</actor>
+      <actor>Janet Wright</actor>
+    </credits><date>2007</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8495814_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420155000 +0500" stop="20260420164000 +0500">
+    <title>Transplant</title>
+    <sub-title>Fever Dream</sub-title>
+    <desc>The York Memorial team deals with the life changing-surgery of one of their own.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <credits>
+      <actor>Hamza Haq</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Ayisha Issa</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25649001_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420164000 +0500" stop="20260420181500 +0500">
+    <title>Stop Making Sense</title>
+    <sub-title />
+    <desc>Filmmaker Jonathan Demme captures Talking Heads and an ecstatic ensemble of musicians at their exhilarating best in this iconic live performance.</desc>
+    <credits>
+      <director>Jonathan Demme</director>
+      <actor>David Byrne</actor>
+      <actor>Chris Frantz</actor>
+      <actor>Jerry Harrison</actor>
+    </credits><date>1984</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Music</category>
+    <category lang="en">Rock</category>
+    <category lang="en">Pop</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p46235_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><star-rating>
+      <value>8.0/10</value>
+    </star-rating>
+  </programme><programme channel="Crave-CA" start="20260420181500 +0500" stop="20260420183000 +0500">
+    <title>H.appiness</title>
+    <sub-title />
+    <desc>An app designed to bring its users happiness helps a man build the perfect life, which he ends up destroying when he learns the app is faulty.</desc>
+    <credits>
+      <director>Luvia Petersen</director>
+      <actor>Josephine Agho</actor>
+      <actor>Dani Alvarado</actor>
+      <actor>Susan Arntsen</actor>
+    </credits><date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20157713_v_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crave-CA" start="20260420183000 +0500" stop="20260420192000 +0500">
+    <title>Icons Unearthed: Harry Potter</title>
+    <sub-title>A Race to the Finish</sub-title>
+    <desc>The team races to the finish line on the first film, while kicking off the second; just as everything starts to come together, the team loses a family member.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27888222_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420192000 +0500" stop="20260420205500 +0500">
+    <title>Strong Fathers, Strong Daughters</title>
+    <sub-title />
+    <desc>When a wealthy businessman learns of his daughter's engagement, he struggles to give up control and trust God with her future.</desc>
+    <credits>
+      <director>David de Vos</director>
+      <actor>Maria Canals-Barrera</actor>
+      <actor>David Barrera</actor>
+      <actor>Brandon Prado</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22813866_v_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="Crave-CA" start="20260420205500 +0500" stop="20260420232000 +0500">
+    <title>Devotion</title>
+    <sub-title />
+    <desc>The inspirational true story of Jesse Brown, the first Black aviator in U.S. Navy history, and his enduring friendship with fellow fighter pilot Tom Hudner. Helping to turn the tide in the most brutal battle in the Korean War, their heroic sacrifices ultimately make them the Navy's most celebrated wingmen.</desc>
+    <credits>
+      <director>JD Dillard</director>
+      <actor>Jonathan Majors</actor>
+      <actor>Glen Powell</actor>
+      <actor>Christina Jackson</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">War</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22483622_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
     </rating><rating system="British Board of Film Classification">
       <value>12</value>
     </rating><star-rating>
       <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Crave-CA" start="20260420232000 +0500" stop="20260421013000 +0500">
+    <title>For Your Eyes Only</title>
+    <sub-title />
+    <desc>When a British ship is sunk in foreign waters, the world's superpowers begin a feverish race to find its cargo: a nuclear submarine control system. And 007 (Roger Moore) is thrust into one of his most riveting adventures as he rushes to join the search ... and prevent global devastation!</desc>
+    <credits>
+      <director>John Glen</director>
+      <actor>Roger Moore</actor>
+      <actor>Carole Bouquet</actor>
+      <actor>Topol</actor>
+    </credits><date>1981</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1577_v_h8_bb.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
 </tv>

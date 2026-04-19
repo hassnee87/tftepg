@@ -3,82 +3,846 @@
   <channel id="MGM-Presents-Horror-US">
     <display-name>MGM Presents: Horror</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MGM-Presents-Horror-US.png" />
-  </channel><programme channel="MGM-Presents-Horror-US" start="20260417012600 +0500" stop="20260417031100 +0500">
-    <title>Howling II: Your Sister Is a Werewolf</title>
+  </channel><programme channel="MGM-Presents-Horror-US" start="20260419001600 +0500" stop="20260419020400 +0500">
+    <title>Amityville 3-D</title>
     <sub-title />
-    <desc>After his sister is turned into a werewolf and subsequently killed, Ben White (Reb Brown) decides to help the enigmatic Stefan Crosscoe (Christopher Lee) fight the growing population of lupine monsters, along with the lovely Jenny Templeton (Annie McEnroe). Traveling to Transylvania, Ben, Jenny and Crosscoe attempt to hunt down the powerful werewolf queen, Stirba (Sybil Danning), and must face her furry followers, as well as other supernatural forces.</desc>
+    <desc>Investigative reporter John Baxter (Tony Roberts) buys a notorious house in the Long Island suburb of Amityville, N.Y., in an attempt to prove that stories about its being inhabited by demons are fraudulent. But soon his daughter, Susan (Lori Loughlin), and her friend Lisa (Meg Ryan) are experiencing inexplicable terrors, while his estranged wife, Nancy (Tess Harper), and supernatural expert Elliot West (Robert Joy) fear that the evil has begun to spread outside the house's walls.</desc>
     <credits>
-      <director>Philippe Mora</director>
-      <actor>Christopher Lee</actor>
-      <actor>Annie McEnroe</actor>
-      <actor>Sybil Danning</actor>
-    </credits><date>1985</date>
+      <director>Richard Fleischer</director>
+      <actor>Tony Roberts</actor>
+      <actor>Tess Harper</actor>
+      <actor>Robert Joy</actor>
+    </credits><date>1983</date>
     <category lang="en">Movie</category>
     <category lang="en">Horror</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19360_v_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16709_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419020400 +0500" stop="20260419034700 +0500">
+    <title>The Amityville Horror</title>
+    <sub-title />
+    <desc>When George Lutz (Ryan Reynolds) and his wife, Kathy (Melissa George), find a beautiful new house in the small town of Amityville, N.Y., they think the place is too good to be true. After they move in with their kids, they find out the cheap price tag is thanks to the house's sordid history: The former tenant murdered his family after supposedly being possessed by the devil. Believing the home is haunted, the couple find a priest (Philip Baker Hall) to help them rid the place of evil spirits.</desc>
+    <credits>
+      <director>Andrew Douglas</director>
+      <actor>Ryan Reynolds</actor>
+      <actor>Melissa George</actor>
+      <actor>Jesse James</actor>
+    </credits><date>2005</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p35685_v_h10_ae.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>18A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>18A</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
-      <value>R 18+</value>
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating><rating system="Arcom">
+      <value>-16</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419034700 +0500" stop="20260419053700 +0500">
+    <title>Night of the Comet</title>
+    <sub-title />
+    <desc>After a rare comet sighting, teen sisters Regina (Catherine Mary Stewart) and Samantha (Kelli Maroney) find that they're among the only survivors of a zombie attack. The girls partner with another survivor, Hector (Robert Beltran), but as they try to avoid the zombies, they're sought by scientists who want to experiment on their bodies in the hope of finding an antidote. Dodging both the doctors and the undead, they keep moving in the hope that they can continue to stay alive.</desc>
+    <credits>
+      <director>Thom Eberhardt</director>
+      <actor>Catherine Mary Stewart</actor>
+      <actor>Kelli Maroney</actor>
+      <actor>Robert Beltran</actor>
+    </credits><date>1984</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8570_v_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419053700 +0500" stop="20260419071700 +0500">
+    <title>Killer Klowns From Outer Space</title>
+    <sub-title />
+    <desc>When teenagers Mike (Grant Cramer) and Debbie (Suzanne Snyder) see a comet crash outside their sleepy small town, they investigate and discover a pack of murderous aliens who look very much like circus clowns. They try to warn the local authorities, but everyone assumes their story is a prank. Meanwhile, the clowns set about harvesting and eating as many people as they can. It's not until they kidnap Debbie that Mike decides it's up to him to stop the clowns' bloody rampage.</desc>
+    <credits>
+      <director>Stephen Chiodo</director>
+      <actor>Grant Cramer</actor>
+      <actor>Suzanne Snyder</actor>
+      <actor>John Allen Nelson</actor>
+    </credits><date>1988</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10884_v_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419071700 +0500" stop="20260419092300 +0500">
+    <title>Lord of Illusions</title>
+    <sub-title />
+    <desc>Private eye Harry D'Amour (Scott Bakula) travels to Los Angeles and meets with a new client, Dorothea Swann (Famke Janssen). Swann reveals that she and her husband -- famed magician Philip Swann (Kevin J. O'Connor) -- have been targeted by a religious cult experimenting with reincarnation. After Philip dies on stage in the midst of a dangerous trick, D'Amour must struggle to protect Dorothea from the ruthless cult members and their newly reanimated religious leader, Nix (Daniel Von Bargen).</desc>
+    <credits>
+      <director>Clive Barker</director>
+      <actor>Scott Bakula</actor>
+      <actor>Kevin J. O'Connor</actor>
+      <actor>Famke Janssen</actor>
+    </credits><date>1995</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17045_v_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>R</value>
+    </rating><rating system="Régie du cinéma">
+      <value>16+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419092300 +0500" stop="20260419112000 +0500">
+    <title>Lifeforce</title>
+    <sub-title />
+    <desc>When a space mission involving American and British astronauts encounters an alien craft, the humanoids within are brought aboard the shuttle. Back on Earth, one of the extraterrestrials, who appears to be a gorgeous woman (Mathilda May), proceeds to suck the life force out of various Londoners, turning the town into a city of roaming half-dead people. When Tom Carlsen (Steve Railsback), a surviving astronaut, realizes what is happening, he sets out to stop the ruthless alien presence.</desc>
+    <credits>
+      <director>Tobe Hooper</director>
+      <actor>Steve Railsback</actor>
+      <actor>Peter Firth</actor>
+      <actor>Mathilda May</actor>
+    </credits><date>1985</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8857_v_h10_ag.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>R</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419112000 +0500" stop="20260419125900 +0500">
+    <title>The Incredible Melting Man</title>
+    <sub-title />
+    <desc>An astronaut is transformed into a murderous gelatinous mass after returning from an ill-fated space voyage.</desc>
+    <credits>
+      <director>William Sachs</director>
+      <actor>Alex Rebar</actor>
+      <actor>Burr DeBenning</actor>
+      <actor>Myron Healey</actor>
+    </credits><date>1977</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p5175_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><star-rating>
+      <value>2.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419125900 +0500" stop="20260419144200 +0500">
+    <title>The Town That Dreaded Sundown</title>
+    <sub-title />
+    <desc>A hooded madman stalks the lovers' lanes of Texarkana in this fact-based account of a 1946 killing spree.</desc>
+    <credits>
+      <director>Charles B. Pierce</director>
+      <actor>Ben Johnson</actor>
+      <actor>Andrew Prine</actor>
+      <actor>Dawn Wells</actor>
+    </credits><date>1976</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27820_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419144200 +0500" stop="20260419162200 +0500">
+    <title>The Town That Dreaded Sundown</title>
+    <sub-title />
+    <desc>A masked maniac terrorizes the same small community where a murderer known as the Phantom Killer struck decades earlier.</desc>
+    <credits>
+      <director>Alfonso Gomez-Rejon</director>
+      <actor>Addison Timlin</actor>
+      <actor>Travis Tope</actor>
+      <actor>Spencer Treat Clark</actor>
+    </credits><date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11052118_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
+    </rating><rating system="Australian Classification Board">
+      <value>R 18+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>18</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
     </rating><star-rating>
-      <value>3.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417031100 +0500" stop="20260417050400 +0500">
-    <title>Blood and Chocolate</title>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419162200 +0500" stop="20260419181300 +0500">
+    <title>The Blood on Satan's Claw</title>
     <sub-title />
-    <desc>Young Vivian (Agnes Bruckner) has a secret: She is a werewolf and has spent her entire life concealing it. She faces divided loyalties when she finds love with a human male named Aiden (Hugh Dancy), much to the disapproval of some of her fellow packmates, especially Gabriel (Olivier Martinez), who also desires her. But Aiden may no longer love her when she reveals her inner wolf.</desc>
+    <desc>When a mysterious corpse is accidentally dug up by a boy in a small town, a group of local teens starts acting very strangely. The adolescents, led by a girl named Angel (Linda Hayden), are convinced the corpse was once possessed. Hoping to get in touch with the devil through the body, the teens act out a series of demonic rituals that causes a stir among the townspeople. When word of the satanic activity spreads, certain parents start trying to lock up the kids behind the spooky stunts.</desc>
     <credits>
-      <director>Katja von Garnier</director>
-      <actor>Agnes Bruckner</actor>
-      <actor>Hugh Dancy</actor>
-      <actor>Olivier Martinez</actor>
-    </credits><date>2007</date>
+      <director>Piers Haggard</director>
+      <actor>Patrick Wymark</actor>
+      <actor>Linda Hayden</actor>
+      <actor>Barry Andrews</actor>
+    </credits><date>1971</date>
     <category lang="en">Movie</category>
-    <category lang="en">Fantasy</category>
     <category lang="en">Horror</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p162832_v_h10_ag.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p5406_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419181300 +0500" stop="20260419201200 +0500">
+    <title>The Bloody Judge</title>
+    <sub-title />
+    <desc>A sadistic witch hunter carves a path of terror through the once-peaceful countryside in 17th-century England.</desc>
+    <credits>
+      <director>Jesus Franco</director>
+      <actor>Christopher Lee</actor>
+      <actor>Leo Genn</actor>
+      <actor>Maria Schell</actor>
+    </credits><date>1969</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1771_v_h11_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
       <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419201200 +0500" stop="20260419215600 +0500">
+    <title>The Vampire Lovers</title>
+    <sub-title />
+    <desc>A general (Peter Cushing) and a baron hunt a vampire named Carmilla (Ingrid Pitt) who seduces and bites their daughters.</desc>
+    <credits>
+      <director>Roy Ward Baker</director>
+      <actor>Peter Cushing</actor>
+      <actor>Ingrid Pitt</actor>
+      <actor>George Cole</actor>
+    </credits><date>1970</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">LGBTQ</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p42065_v_h10_af.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>18</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419215600 +0500" stop="20260419233600 +0500">
+    <title>The Conqueror Worm</title>
+    <sub-title />
+    <desc>A disturbing tale of evil set during the English Civil War. When Matthew Hopkins is appointed Witchfinder General by the Puritans under Cromwell, he is empowered to travel the countryside with his henchmen and collect a fee for each witch from whom he extracts a confession - a policy which is exploited to the full.</desc>
+    <credits>
+      <director>Michael Reeves</director>
+      <actor>Vincent Price</actor>
+      <actor>Ian Ogilvy</actor>
+      <actor>Hilary Heath</actor>
+    </credits><date>1968</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p2086_v_h11_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260419233600 +0500" stop="20260420011600 +0500">
+    <title>The Last Man on Earth</title>
+    <sub-title />
+    <desc>The survivor (Vincent Price) of a global epidemic battles a race of zombie vampires in an adaptation of Richard Matheson's "I Am Legend.".</desc>
+    <credits>
+      <director>Ubaldo Ragona</director>
+      <director>Sidney Salkow</director>
+      <actor>Vincent Price</actor>
+      <actor>Franca Bettoia</actor>
+      <actor>Emma Danieli</actor>
+    </credits><date>1964</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p4533_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
       <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420011600 +0500" stop="20260420025200 +0500">
+    <title>The Fall of the House of Usher</title>
+    <sub-title />
+    <desc>Based on the classic story "The Fall of the House of Usher" by Edgar Allan Poe and directed by legendary filmmaker Roger Corman, this thriller features Vincent Price as Roderick Usher, a man who believes his family to be cursed by incurable madness. So sure is he of his family's doom, that when his sister Madeline (Myrna Fahey) announces her engagement to Philip Winthrop (Mark Damon), Roderick will stop at nothing to prevent their marriage and keep the Usher bloodline from continuing.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Myrna Fahey</actor>
+      <actor>Mark Damon</actor>
+    </credits><date>1960</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3447_v_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420025200 +0500" stop="20260420043400 +0500">
+    <title>Tales of Terror</title>
+    <sub-title />
+    <desc>Locke (Vincent Price) mourns his late wife, Morella (Leona Gage), but has resentment toward his daughter that manifests itself in terrible ways; Fortunato Luchresi (also Price) is challenged to a wine tasting by his rival, Montresor (Peter Lorre), who has deadly fantasies about Fortunato's wife (Joyce Jameson) ; and Ernest Valdemar (also Price) is dying and, with the help of a duplicitous hypnotist (Basil Rathbone), finds a way to cheat death. Based on the works of Edgar Allan Poe.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Peter Lorre</actor>
+      <actor>Basil Rathbone</actor>
+    </credits><date>1962</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p2184_v_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420043400 +0500" stop="20260420060500 +0500">
+    <title>The Pit and the Pendulum</title>
+    <sub-title />
+    <desc>Elizabeth Barnard Medina (Barbara Steele) has died in the prime of life, and her brother, Francis (John Kerr), wants to know why. Elizabeth's husband, Nicholas (Vincent Price), and her doctor offer differing explanations, but when Francis learns that Nicholas' mother may have been buried alive, he begins to wonder if his sister met the same fate. And when he comes to believe that Elizabeth's spirit wanders about Nicholas' castle, Francis investigates -- and is stunned by what he finds.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>John Kerr</actor>
+      <actor>Barbara Steele</actor>
+    </credits><date>1961</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1757_v_h10_ah.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420060500 +0500" stop="20260420074400 +0500">
+    <title>The Raven</title>
+    <sub-title />
+    <desc>Magician Erasmus Craven (Vincent Price) is still deeply depressed two years after the death of his beloved wife, Lenore (Hazel Court). One day, he's visited by Adolphus Bedlo (Peter Lorre), who has been transformed into a raven after losing a duel to Dr. Scarabus (Boris Karloff), an evil wizard. After Craven transforms Bedlo back into a human, Bedlo claims to have seen Lenore's ghost at Scarabus' castle, prompting the two to head to Scarabus' castle to seek Craven's lost love.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Peter Lorre</actor>
+      <actor>Boris Karloff</actor>
+    </credits><date>1963</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p5886_v_h10_af.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420074400 +0500" stop="20260420092400 +0500">
+    <title>The Haunted Palace</title>
+    <sub-title />
+    <desc>Condemned warlock Joseph Curwen (Vincent Price) curses a New England village just before being burned alive. More than a century later, Curwen's kindly great-great grandson Charles Ward (also Price) arrives in town and moves into Curwen's old mansion. Caretaker Simon Orne (Lon Chaney Jr.) helps Charles and his wife Ann (Debra Paget) adjust to their new home. The ancient curse, however, takes hold of Joseph, awakening inside him a long-dormant evil passed on through blood.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Debra Paget</actor>
+      <actor>Lon Chaney</actor>
+    </credits><date>1963</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3109_v_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420092400 +0500" stop="20260420110600 +0500">
+    <title>The Masque of the Red Death</title>
+    <sub-title />
+    <desc>A tyrannical 12th-century prince is intrigued by a girl and takes her to live amid the immorality of his court.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Hazel Court</actor>
+      <actor>Jane Asher</actor>
+    </credits><date>1964</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p5177_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420110600 +0500" stop="20260420124100 +0500">
+    <title>The Tomb of Ligeia</title>
+    <sub-title />
+    <desc>Verden Fell (Vincent Price) is shattered after the death of his lovely wife. But, after an unexpected encounter with Lady Rowena Trevanion (Elizabeth Shepherd), Fell soon finds himself married again. Nevertheless, his late wife's spirit seems to hang over the dilapidated abbey that Fell shares with his new bride. Lady Rowena senses that something is amiss and, when she investigates, makes a horrifying discovery -- learning that Fell's dead wife is closer than she ever imagined possible.</desc>
+    <credits>
+      <director>Roger Corman</director>
+      <actor>Vincent Price</actor>
+      <actor>Elizabeth Shepherd</actor>
+      <actor>John Westbrook</actor>
+    </credits><date>1964</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1971_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420124100 +0500" stop="20260420142400 +0500">
+    <title>Dr. Phibes Rises Again</title>
+    <sub-title />
+    <desc>The sinister Dr. Phibes (Vincent Price) has returned and is once again determined to resurrect his deceased wife. Assisted by the beautiful Vulnavia (Valli Kemp), Phibes must retrieve a set of ancient scrolls before he can complete his plan, leading to a trek across Egypt. Among those crossing the villain's path is Darius Biederbeck (Robert Quarry), an explorer who seeks immortality. Phibes plots the deaths of his pursuers, making sure that they are dispatched in unusual and gory ways.</desc>
+    <credits>
+      <director>Robert Fuest</director>
+      <actor>Vincent Price</actor>
+      <actor>Robert Quarry</actor>
+      <actor>Valli Kemp</actor>
+    </credits><date>1972</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3919_v_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420142400 +0500" stop="20260420162300 +0500">
+    <title>Theater of Blood</title>
+    <sub-title />
+    <desc>Edward Lionheart (Vincent Price) is incensed that his last season of performances in Shakespearean plays did not win him a prestigious acting award from critics. After an unsuccessful attempt at suicide, Lionheart is rescued by a group of drug-addicted bums. He then sets out to murder all of his critics, each with a different style of death taken from a Shakespeare play. When Lionheart faces head critic Peregrine Devlin (Ian Hendry), he offers Devlin a second chance to bestow the award.</desc>
+    <credits>
+      <director>Douglas Hickox</director>
+      <actor>Vincent Price</actor>
+      <actor>Diana Rigg</actor>
+      <actor>Robert Morley</actor>
+    </credits><date>1973</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Dark comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p1818_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420162300 +0500" stop="20260420180500 +0500">
+    <title>H.G. Wells' The Food Of The Gods</title>
+    <sub-title />
+    <desc>Get ready for a taste of hell! Legendary creature-feature director Bert I. Gordon delivers the biggest installment of his career with this spine-tingling tale of ecology grown big and gone berserk. Based on H.G. Wells' classic horror novel.</desc>
+    <date>2023</date>
+    <category lang="en">Special</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25651128_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420180500 +0500" stop="20260420194800 +0500">
+    <title>Frogs</title>
+    <sub-title />
+    <desc>Unsurprisingly, grumpy Southern chemical baron Jason Crockett (Ray Milland) is not terribly concerned with the environment. When Pickett Smith (Sam Elliott), a wildlife photographer in the area, stumbles upon the snake bitten corpse of Crockett's gardener, who was sent out to spray pesticide, he knows something is amiss. Smith attempts to warn Crockett and his family to postpone their Fourth of July celebrations as local animals begin behaving strangely, but Crockett stubbornly refuses.</desc>
+    <credits>
+      <director>George McCowan</director>
+      <actor>Ray Milland</actor>
+      <actor>Sam Elliott</actor>
+      <actor>Joan Van Ark</actor>
+    </credits><date>1972</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p2365_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
       <value>PG</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
     </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+      <value>A12</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420194800 +0500" stop="20260420213400 +0500">
+    <title>Squirm</title>
+    <sub-title />
+    <desc>A freak accident leads to wriggling horror when thousands of hungry, electrified worms lay siege to a Georgia community.</desc>
+    <credits>
+      <director>Jeff Lieberman</director>
+      <actor>Don Scardino</actor>
+      <actor>Patricia Pearcy</actor>
+      <actor>R.A. Dow</actor>
+    </credits><date>1976</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p37825_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420213400 +0500" stop="20260420232900 +0500">
+    <title>The Island of Dr. Moreau</title>
+    <sub-title />
+    <desc>After his ship sinks, Andrew Braddock (Michael York) washes ashore on a tropical island owned by Dr. Moreau (Burt Lancaster). While waiting for a ship to return him to civilization, Braddock becomes disturbed by the strange creatures roaming the island, and at the same time falls for the lovely Maria (Barbara Carrera), who lives with Moreau. Soon Braddock discovers that the creatures are the results of Moreau's sinister experiments, and plots to escape before he himself becomes a victim.</desc>
+    <credits>
+      <director>Don Taylor</director>
+      <actor>Burt Lancaster</actor>
+      <actor>Michael York</actor>
+      <actor>Barbara Carrera</actor>
+    </credits><date>1977</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p2313_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
     </rating><star-rating>
-      <value>3.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417050400 +0500" stop="20260417064100 +0500">
+  </programme><programme channel="MGM-Presents-Horror-US" start="20260420232900 +0500" stop="20260421010500 +0500">
     <title>Disturbing Behavior</title>
     <sub-title />
     <desc>Steve Clark (James Marsden) is a newcomer in the town of Cradle Bay, and he quickly realizes that there's something odd about his high school classmates. The clique known as the Blue Ribbons are the eerie embodiment of academic excellence and clean living. But, like the rest of the town, they're a little too perfect. When Steve's rebellious friend Gavin (Nick Stahl) mysteriously joins their ranks, Steve searches for the truth with fellow misfit Rachel (Katie Holmes).</desc>
@@ -120,787 +884,6 @@
       <value>12</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417064100 +0500" stop="20260417083900 +0500">
-    <title>Stigmata</title>
-    <sub-title />
-    <desc>A young woman with no strong religious beliefs, Frankie Paige (Patricia Arquette) begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal (Jonathan Pryce) requests that the Rev. Andrew Kiernan (Gabriel Byrne) investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her.</desc>
-    <credits>
-      <director>Rupert Wainwright</director>
-      <actor>Patricia Arquette</actor>
-      <actor>Gabriel Byrne</actor>
-      <actor>Jonathan Pryce</actor>
-    </credits><date>1999</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23018_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417083900 +0500" stop="20260417101100 +0500">
-    <title>Ghoulies</title>
-    <sub-title />
-    <desc>As a child, Jonathan (Peter Liapis) was almost killed by his father, Malcolm (Michael Des Barres), during a satanic ritual. After being saved and raised by Wolfgang (Jack Nance), who has kept him unaware of his background, Jonathan inherits Malcolm's house and moves in with girlfriend Rebecca (Lisa Pelikan). During a party, he jokingly performs a ceremony described in one of his father's books on black magic, not realizing he has unleashed small, demonic creatures known as "Ghoulies.".</desc>
-    <credits>
-      <director>Luca Bercovici</director>
-      <actor>Peter Liapis</actor>
-      <actor>Lisa Pelikan</actor>
-      <actor>Michael Des Barres</actor>
-    </credits><date>1985</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8585_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417101100 +0500" stop="20260417115300 +0500">
-    <title>Ghoulies II</title>
-    <sub-title />
-    <desc>Pint-sized monsters known as ghoulies hop aboard a traveling carnival, where their violent behavior and grotesque looks are most likely to go unnoticed. There, the gremlin-like creatures find a new home in a haunted house attraction. As the creatures earn their keep by scaring visitors, the carnival finds itself running in the black for the first time in years. But things quickly turn sour when, to the shock of carny Uncle Ned (Royal Dano), the ghoulies start taking bites out of the customers.</desc>
-    <credits>
-      <director>Albert Band</director>
-      <actor>Damon Martin</actor>
-      <actor>Royal Dano</actor>
-      <actor>Phil Fondacaro</actor>
-    </credits><date>1988</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11073_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417115300 +0500" stop="20260417133900 +0500">
-    <title>Count Yorga, Vampire</title>
-    <sub-title />
-    <desc>Weeks after her mother dies, Donna (Donna Anders) and her boyfriend, Michael (Michael Macready), invite Bulgarian émigré Count Yorga (Robert Quarry) to conduct what turns out to be a failed séance. Donna's friends Erica (Judith Lang) and Paul (Michael Murphy) give the count a ride back to his estate and are attacked while leaving. The next day, Erica visits blood specialist Dr. Jim Hayes (Roger Perry), who finds bite marks on her neck and concludes that Yorga is a vampire and must be stopped.</desc>
-    <credits>
-      <director>Bob Kelljan</director>
-      <actor>Robert Quarry</actor>
-      <actor>Roger Perry</actor>
-      <actor>Donna Anders</actor>
-    </credits><date>1970</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p3108_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417133900 +0500" stop="20260417153200 +0500">
-    <title>The Return of Count Yorga</title>
-    <sub-title />
-    <desc>A San Francisco orphanage becomes the site of strange disappearances when a vampire moves into the neighborhood.</desc>
-    <credits>
-      <director>Bob Kelljan</director>
-      <actor>Robert Quarry</actor>
-      <actor>Mariette Hartley</actor>
-      <actor>Roger Perry</actor>
-    </credits><date>1971</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p2236_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417153200 +0500" stop="20260417171600 +0500">
-    <title>The Vampire Lovers</title>
-    <sub-title />
-    <desc>A general (Peter Cushing) and a baron hunt a vampire named Carmilla (Ingrid Pitt) who seduces and bites their daughters.</desc>
-    <credits>
-      <director>Roy Ward Baker</director>
-      <actor>Peter Cushing</actor>
-      <actor>Ingrid Pitt</actor>
-      <actor>George Cole</actor>
-    </credits><date>1970</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">LGBTQ</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p42065_v_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>18</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417171600 +0500" stop="20260417185600 +0500">
-    <title>The Last Man on Earth</title>
-    <sub-title />
-    <desc>The survivor (Vincent Price) of a global epidemic battles a race of zombie vampires in an adaptation of Richard Matheson's "I Am Legend.".</desc>
-    <credits>
-      <director>Ubaldo Ragona</director>
-      <director>Sidney Salkow</director>
-      <actor>Vincent Price</actor>
-      <actor>Franca Bettoia</actor>
-      <actor>Emma Danieli</actor>
-    </credits><date>1964</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p4533_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417185600 +0500" stop="20260417205200 +0500">
-    <title>Dead of Winter</title>
-    <sub-title />
-    <desc>Struggling actress Katie McGovern (Mary Steenburgen) is approached by the mysterious Mr. Murray (Roddy McDowall) and invited to an upstate New York mansion to film a screen test. There she meets Dr. Joseph Lewis (Jan Rubes), who is eager to hire Katie as a replacement for an actress who's suffered a nervous breakdown. But the film shoot takes a sordid turn as Katie begins to understand that her role is simply a pawn in Lewis' twisted blackmail games.</desc>
-    <credits>
-      <director>Arthur Penn</director>
-      <actor>Mary Steenburgen</actor>
-      <actor>Roddy McDowall</actor>
-      <actor>Jan Rubes</actor>
-    </credits><date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p6239_v_h11_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417205200 +0500" stop="20260417224900 +0500">
-    <title>Motel Hell</title>
-    <sub-title />
-    <desc>Vincent Smith (Rory Calhoun) and his sister Ida (Nancy Parsons) run a rural hotel, but they earn most of their cash operating a food stand that specializes in world-famous sausages. After years of success, however, the duo's upstanding brother, Sheriff Bruce (Paul Linke), eventually discovers the grotesque details of his siblings' booming business: Vincent and Ida are actually plumping up their hotel patrons, killing and dismembering them and then grinding them into frankfurters.</desc>
-    <credits>
-      <director>Kevin Connor</director>
-      <actor>Rory Calhoun</actor>
-      <actor>Nancy Parsons</actor>
-      <actor>Paul Linke</actor>
-    </credits><date>1980</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Dark comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p1382_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260417224900 +0500" stop="20260418004300 +0500">
-    <title>The Beast Within</title>
-    <sub-title />
-    <desc>Driving near a small Mississippi town in 1964, newlyweds Eli (Ronny Cox) and Caroline (Bibi Besch) experience car trouble. When Eli goes off to look for help, Caroline gets raped and is made pregnant by a horrible creature. Years later the child, now teenager Michael (Paul Clemens), finds himself undergoing an inexplicable physical change that compels him to return to that area in Mississippi. Soon dead bodies start piling up while his desperate parents struggle to understand what's happening.</desc>
-    <credits>
-      <director>Philippe Mora</director>
-      <actor>Ronny Cox</actor>
-      <actor>Bibi Besch</actor>
-      <actor>Paul Clemens</actor>
-    </credits><date>1982</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p4890_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>18A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418004300 +0500" stop="20260418023800 +0500">
-    <title>Invaders From Mars</title>
-    <sub-title />
-    <desc>A boy sees his parents and neighbors act like zombies after a flying saucer lands in his backyard.</desc>
-    <credits>
-      <director>Tobe Hooper</director>
-      <actor>Karen Black</actor>
-      <actor>Hunter Carson</actor>
-      <actor>Laraine Newman</actor>
-    </credits><date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9281_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418023800 +0500" stop="20260418041600 +0500">
-    <title>From Beyond</title>
-    <sub-title />
-    <desc>Obsessive scientist Dr. Pretorius (Ted Sorel) successfully discovers a way to access a parallel universe of pleasure by tapping into the brain's pineal gland. When he is seemingly killed by forces from this other dimension, his assistant, Dr. Crawford Tillinghast (Jeffrey Combs), is accused of the murder. After psychiatrist Katherine McMichaels (Barbara Crampton) and detective Bubba Brownlee (Ken Foree) take the case, the trio risks a return to the other world in order to solve the mystery.</desc>
-    <credits>
-      <director>Stuart Gordon</director>
-      <actor>Jeffrey Combs</actor>
-      <actor>Barbara Crampton</actor>
-      <actor>Ted Sorel</actor>
-    </credits><date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9606_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A18</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418041600 +0500" stop="20260418060000 +0500">
-    <title>The Woods</title>
-    <sub-title />
-    <desc>A tormented teen (Agnes Bruckner) has terrifying visions, while her classmates at a remote boarding-school for girls go missing.</desc>
-    <credits>
-      <director>Lucky McKee</director>
-      <actor>Patricia Clarkson</actor>
-      <actor>Bruce Campbell</actor>
-      <actor>Agnes Bruckner</actor>
-    </credits><date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p89359_v_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418060000 +0500" stop="20260418075400 +0500">
-    <title>Carrie</title>
-    <sub-title />
-    <desc>In this chilling adaptation of Stephen King's horror novel, withdrawn and sensitive teen Carrie White (Sissy Spacek) faces taunting from classmates at school and abuse from her fanatically pious mother (Piper Laurie) at home. When strange occurrences start happening around Carrie, she begins to suspect that she has supernatural powers. Invited to the prom by the empathetic Tommy Ross (William Katt), Carrie tries to let her guard down, but things eventually take a dark and violent turn.</desc>
-    <credits>
-      <director>Brian De Palma</director>
-      <actor>Sissy Spacek</actor>
-      <actor>Piper Laurie</actor>
-      <actor>William Katt</actor>
-    </credits><date>1976</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p825_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="UK Content Provider">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Arcom">
-      <value>-16</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="映倫">
-      <value>R15+</value>
-    </rating><rating system="Medietilsynet">
-      <value>18 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>18</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418075400 +0500" stop="20260418095400 +0500">
-    <title>The Rage: Carrie 2</title>
-    <sub-title />
-    <desc>When her closest friend commits suicide after being manipulated by the popular crowd, quiet and bookish Rachel Lang (Emily Bergl) decides to get back at the guilty parties. Although Rachel falls for sensitive football player Jesse Ryan (Jason London), she remains determined to punish his callous friends. When Rachel discovers that she has superhuman abilities, it ups the stakes for her revenge, echoing a supernatural incident that occurred decades before.</desc>
-    <credits>
-      <director>Katt Shea</director>
-      <actor>Emily Bergl</actor>
-      <actor>Jason London</actor>
-      <actor>Dylan Bruno</actor>
-    </credits><date>1999</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22711_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418095400 +0500" stop="20260418114900 +0500">
-    <title>Carrie</title>
-    <sub-title />
-    <desc>High school can be tough for many teenagers, but for Carrie White (Chloë Grace Moretz), it's especially hellish. A shy and awkward teen being raised by a religious zealot (Julianne Moore), Carrie is frequently the target of bullies. But Carrie has a secret talent: She can make things move with her mind. One fateful night, an especially cruel prank at her senior prom pushes her over the edge, and Carrie unleashes her telekinetic powers on all who get in her way.</desc>
-    <credits>
-      <director>Kimberly Peirce</director>
-      <actor>Chloë Grace Moretz</actor>
-      <actor>Julianne Moore</actor>
-      <actor>Judy Greer</actor>
-    </credits><date>2013</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9418024_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418114900 +0500" stop="20260418133300 +0500">
-    <title>The Return of the Living Dead</title>
-    <sub-title />
-    <desc>When foreman Frank (James Karen) shows new employee Freddy (Thom Mathews) a secret military experiment in a supply warehouse, the two klutzes accidentally release a gas that reanimates corpses into flesh-eating zombies. As the epidemic spreads throughout Louisville, Ky., and the creatures satisfy their hunger in gory and outlandish ways, Frank and Freddy fight to survive with the help of their boss (Clu Gulager) and a mysterious mortician (Don Calfa).</desc>
-    <credits>
-      <director>Dan O'Bannon</director>
-      <actor>Clu Gulager</actor>
-      <actor>James Karen</actor>
-      <actor>Don Calfa</actor>
-    </credits><date>1985</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8718_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418133300 +0500" stop="20260418151600 +0500">
-    <title>The Video Dead</title>
-    <sub-title />
-    <desc>Ghouls from the movie "Zombie Blood Nightmare" emerge from a brother (Rocky Duvall) and sister's (Roxanna Augesen) TV.</desc>
-    <credits>
-      <director>Robert Scott</director>
-      <actor>Roxanna Augesen</actor>
-      <actor>Rocky Duvall</actor>
-      <actor>Vickie Bastel</actor>
-    </credits><date>1987</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p49632_v_h11_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418151600 +0500" stop="20260418164900 +0500">
-    <title>Reptilicus</title>
-    <sub-title />
-    <desc>Copenhagen is terrorized by a prehistoric beast that has regenerated itself from a recently discovered tail segment.</desc>
-    <credits>
-      <director>Sidney Pink</director>
-      <actor>Carl Ottosen</actor>
-      <actor>Ann Smyrner</actor>
-      <actor>Mimi Heinrich</actor>
-    </credits><date>1962</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p2952_v_h11_aa.jpg?w=960&amp;h=540" />
-    <rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418164900 +0500" stop="20260418182500 +0500">
-    <title>Troll</title>
-    <sub-title />
-    <desc>When an ancient troll is awakened in a Norwegian mountain, a ragtag group of heroes must come together to try and stop it from wreaking deadly havoc.</desc>
-    <credits>
-      <director>Roar Uthaug</director>
-      <actor>Ine Marie Wilmann</actor>
-      <actor>Kim S. Falck-Jørgensen</actor>
-      <actor>Mads Sjøgård Pettersen</actor>
-    </credits><date>2022</date>
-    <category lang="no">Movie</category>
-    <category lang="no">Action</category>
-    <category lang="no">Adventure</category>
-    <category lang="no">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22936349_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418182500 +0500" stop="20260418201500 +0500">
-    <title>Troll 2</title>
-    <sub-title />
-    <desc>When young Joshua (Michael Stephenson) learns that he will be going on vacation with his family to a small town called Nilbog, he protests adamantly. He is warned by the spirit of his deceased grandfather that goblins populate the town. His parents, Michael (George Hardy) and Diana (Margo Prey), dismiss his apprehensions, but soon learn to appreciate their son's warnings. Guided by his grandfather's ghost, will Joshua and his family stand a chance in fighting off these evil beings?</desc>
-    <credits>
-      <director>Drago Floyd</director>
-      <actor>Michael Stephenson</actor>
-      <actor>Connie McFarland</actor>
-      <actor>George Hardy</actor>
-    </credits><date>1990</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14047_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><star-rating>
-      <value>2.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418201500 +0500" stop="20260418215700 +0500">
-    <title>American Gothic</title>
-    <sub-title />
-    <desc>Ma (Yvonne De Carlo), Pa (Rod Steiger) and their backwoods brood show stranded teens some hospitality, then kill them.</desc>
-    <credits>
-      <director>John Hough</director>
-      <actor>Rod Steiger</actor>
-      <actor>Yvonne De Carlo</actor>
-      <actor>Sarah Torgov</actor>
-    </credits><date>1988</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10043_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="MGM-Presents-Horror-US" start="20260418215700 +0500" stop="20260419001600 +0500">
-    <title>The Amityville Horror</title>
-    <sub-title />
-    <desc>Chiller about a family who is terrorized by supernatural forces when they move into a new house in New York State which was the scene of a recent mass killing and the home of an 18th-century satanist. When swarms of flies appear from nowhere and the pipes and walls begin to ooze slime and blood, they call on a local priest to exorcise the evil spirits.</desc>
-    <credits>
-      <director>Stuart Rosenberg</director>
-      <actor>James Brolin</actor>
-      <actor>Margot Kidder</actor>
-      <actor>Rod Steiger</actor>
-    </credits><date>1979</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p511_v_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K18</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Arcom">
-      <value>-16</value>
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>

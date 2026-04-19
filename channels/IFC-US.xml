@@ -3,1370 +3,226 @@
   <channel id="IFC-US">
     <display-name>IFC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/IFC-US.png" />
-  </channel><programme channel="IFC-US" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Apartment</sub-title>
-    <desc>Debra learns that beautiful neighbors are the real reason Ray is spending so much time at Robert's apartment.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Toaster</sub-title>
-    <desc>Marie and Frank devastate Ray by trading in their gift, a personally engraved toaster, for a coffee maker.</desc>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <credits>
-      <director>Steve Zuckerman</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Ping Pong</sub-title>
-    <desc>Ray challenges his father to a game of table tennis after learning that the elder Barone purposely let him win.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Pants on Fire</sub-title>
-    <desc>Robert jumps into the "favorite son" position after Marie learns about a wild party Ray held 20 years ago.</desc>
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Ray Romano</actor>
-      <actor>Patricia Heaton</actor>
-      <actor>Doris Roberts</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417040000 +0500" stop="20260417043000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>My Damn Stalker</sub-title>
-    <desc>Charlie must face his feelings when Rose announces she is moving to London; Alan fudges his online dating profile, only to wind up with a fellow profile-embellisher.</desc>
-    <episode-num system="onscreen">S4 E15</episode-num>
-    <credits>
-      <director>James Widdoes</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417043000 +0500" stop="20260417050000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Young People Have Phlegm Too</sub-title>
-    <desc>A more mature woman helps rebuild Charlie's ego after he becomes insecure about his age.</desc>
-    <episode-num system="onscreen">S4 E16</episode-num>
-    <credits>
-      <director>Andrew Weyman</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417050000 +0500" stop="20260417053000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>I Merely Slept With a Commie</sub-title>
-    <desc>Evelyn makes Charlie and Alan regret saying that she will not have any mourners at her funeral.</desc>
-    <episode-num system="onscreen">S4 E17</episode-num>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417053000 +0500" stop="20260417060000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>It Never Rains in Hooterville</sub-title>
-    <desc>After realizing that Jake's childhood is almost over, Alan makes a last-minute try at father-son bonding; Kandi embarks on a new career.</desc>
-    <episode-num system="onscreen">S4 E18</episode-num>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417060000 +0500" stop="20260417063000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Smooth as a Ken Doll</sub-title>
-    <desc>Charlie gets close to Herb's witty sister, as Judith and Herb's wedding nears.</desc>
-    <episode-num system="onscreen">S4 E19 P1/2</episode-num>
-    <credits>
-      <director>Gary Halvorson</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417063000 +0500" stop="20260417070000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Aunt Myra Doesn't Pee a Lot</sub-title>
-    <desc>Alan prepares Jake for Judith's wedding; Charlie continues his fling with Herb's sister.</desc>
-    <episode-num system="onscreen">S4 E20 P2/2</episode-num>
-    <credits>
-      <director>Jerry Zaks</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417070000 +0500" stop="20260417073000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Tucked, Taped and Gorgeous</sub-title>
-    <desc>Alan's friendship with a gay single dad prompts both Alan and Charlie to re-examine their sexual identities.</desc>
-    <episode-num system="onscreen">S4 E21</episode-num>
-    <credits>
-      <director>Jerry Zaks</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417073000 +0500" stop="20260417080000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Mr. McGlue's Feedbag</sub-title>
-    <desc>Jake has a windfall when Charlie takes him to the track; Alan finds himself stuck at the Department of Motor Vehicles.</desc>
-    <episode-num system="onscreen">S4 E22</episode-num>
-    <credits>
-      <director>Jon Cryer</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417080000 +0500" stop="20260417083000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Anteaters. They're Just Crazy-Lookin'</sub-title>
-    <desc>Charlie loses a woman to the young, handsome handyman (guest star Enrique Iglesias) working at his house.</desc>
-    <episode-num system="onscreen">S4 E23</episode-num>
-    <credits>
-      <director>Lee Aronsohn</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417083000 +0500" stop="20260417090000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Prostitutes and Gelato</sub-title>
-    <desc>Charlie and Alan must confront their "daddy issues" when Evelyn's new boyfriend (Robert Wagner) invites them to Las Vegas on his private jet.</desc>
-    <episode-num system="onscreen">S4 E24</episode-num>
-    <credits>
-      <director>Ted Wass</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417090000 +0500" stop="20260417093000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>For Whom the Booty Calls</sub-title>
-    <desc>When Walden joins a support group for adoptive fathers, he discovers that it is a nice getaway from Alan.</desc>
-    <episode-num system="onscreen">S12 E11</episode-num>
-    <credits>
-      <director>James Widdoes</director>
-      <actor>Jon Cryer</actor>
-      <actor>Ashton Kutcher</actor>
-      <actor>Conchata Ferrell</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10692668_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417093000 +0500" stop="20260417100000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>A Beer-Battered Rip-Off</sub-title>
-    <desc>Walden worries that Louis' adoption will be impacted when Alan breaks up with their social worker in order to get back together with Lyndsey.</desc>
-    <episode-num system="onscreen">S12 E12</episode-num>
-    <credits>
-      <director>James Widdoes</director>
-      <actor>Jon Cryer</actor>
-      <actor>Ashton Kutcher</actor>
-      <actor>Conchata Ferrell</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10692668_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260417100000 +0500" stop="20260417130000 +0500">
-    <title>Point Break</title>
+  </channel><programme channel="IFC-US" start="20260419013000 +0500" stop="20260419033000 +0500">
+    <title>Half Baked</title>
     <sub-title />
-    <desc>After a string of bizarre bank robberies in Southern California, with the crooks donning masks of various former presidents, a federal agent, Johnny Utah (Keanu Reeves), infiltrates the suspected gang. But this is no ordinary group of robbers. They're surfers -- led by the charismatic Bodhi (Patrick Swayze) -- who are addicted to the rush of thievery. But when Utah falls in love with a female surfer, Tyler (Lori Petty), who is close to the gang, it complicates his sense of duty.</desc>
+    <desc>When a member of their crew gets arrested for killing a New York City police horse by feeding it junk food, three slackin' stoners are forced to get off their butts and raise bail by selling pot stolen from a pharmaceutical lab. It's a risky plan but, hey, these are stand-up guys who would do anything to help out a friend in need.</desc>
     <credits>
-      <director>Kathryn Bigelow</director>
-      <actor>Patrick Swayze</actor>
-      <actor>Keanu Reeves</actor>
-      <actor>Gary Busey</actor>
-    </credits><date>1991</date>
+      <director>Tamra Davis</director>
+      <actor>Dave Chappelle</actor>
+      <actor>Guillermo Diaz</actor>
+      <actor>Jim Breuer</actor>
+    </credits><date>1998</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13324_v_h8_ag.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20480_v_h10_ap.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
     </rating><rating system="Ontario Film Authority">
       <value>14A</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE+7</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260417130000 +0500" stop="20260417153000 +0500">
-    <title>High Plains Drifter</title>
-    <sub-title />
-    <desc>In this Western, a drifter with no name wanders into a small town, where his gun-slinging abilities are in high demand. When the drifter rides into Lago, he is met with incredulity and disapproval by the townspeople. But once he shows his skills with a pistol, the locals realize he may be able to help them fend off a band of criminals who have been terrorizing the town. He agrees to help the townspeople, but does so with his own secret agenda.</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <actor>Clint Eastwood</actor>
-      <actor>Verna Bloom</actor>
-      <actor>Marianna Hill</actor>
-    </credits><date>1973</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Western</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p3464_v_h10_at.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="UK Content Provider">
-      <value>18</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260417153000 +0500" stop="20260417180000 +0500">
-    <title>The Quick and the Dead</title>
-    <sub-title />
-    <desc>A mysterious woman gunslinger, Ellen (Sharon Stone), saunters into the town of Redemption looking for revenge. Her father was killed by the town's sadistic mayor, Herod (Gene Hackman), who is in the midst of organizing a quick-draw tournament. The lady enters, joining a cast of miscreants and outlaws for a brutal competition in which the loser dies. Among the competitors is "The Kid" (Leonardo DiCaprio), an upstart who has his own score to settle with Herod.</desc>
-    <credits>
-      <director>Sam Raimi</director>
-      <actor>Sharon Stone</actor>
-      <actor>Gene Hackman</actor>
-      <actor>Russell Crowe</actor>
-    </credits><date>1995</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Western</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16466_v_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260419033000 +0500" stop="20260419054500 +0500">
+    <title>Mallrats</title>
+    <sub-title />
+    <desc>T.S. (Jeremy London) and his best friend, Brodie (Jason Lee), take a trip to the mall after their girlfriends break up with them. T.S.'s girlfriend, Brandi (Claire Forlani), is participating in a dating game show at the mall, which was the initial cause of their breakup. Meanwhile, Brodie's ex, Rene (Shannen Doherty), has begun dating sleazy store manager Shannon (Ben Affleck). T.S. and Brodie seek out ways to ruin the game show, hunted all the while by Brandi's father, Jared (Michael Rooker).</desc>
+    <credits>
+      <director>Kevin Smith</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Jeremy London</actor>
+      <actor>Jason Lee</actor>
+    </credits><date>1995</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17278_v_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260417180000 +0500" stop="20260417200000 +0500">
-    <title>The Money Pit</title>
-    <sub-title />
-    <desc>Young lovers Walter (Tom Hanks) and Anna (Shelley Long) are house-sitting the New York City apartment owned by Max (Alexander Godunov), Anna's ex-husband, who suddenly decides to toss them out. Needing a new home, they settle on buying a country estate outside the city, which is available for a suspiciously low price. It soon becomes apparent why, as doors fall off their hinges, staircases come tumbling down and a bathtub falls through the floor. The couple's relationship suffers similarly.</desc>
-    <credits>
-      <director>Richard Benjamin</director>
-      <actor>Tom Hanks</actor>
-      <actor>Shelley Long</actor>
-      <actor>Alexander Godunov</actor>
-    </credits><date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9141_v_h11_ap.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
     </rating><rating system="Kijkwijzer">
       <value>6</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating><star-rating>
-      <value>4.0/10</value>
+      <value>3.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260417200000 +0500" stop="20260417221500 +0500">
-    <title>The Jerk</title>
+  </programme><programme channel="IFC-US" start="20260419054500 +0500" stop="20260419080000 +0500">
+    <title>Dazed and Confused</title>
     <sub-title />
-    <desc>Navin (Steve Martin) believes he was born a poor black child in Mississippi. He is, however, actually white. Upon figuring this out, he heads north to St. Louis to find himself. After landing a job at a gas station, Navin is excited to discover his name printed in the new phone book. This ratification of his existence leads him from one misadventure to another -- as he invents gadgets, dodges bullets, joins the carnival and seeks love in the arms of beautiful Marie (Bernadette Peters).</desc>
+    <desc>This coming-of-age film follows the mayhem of a group of rowdy teenagers in Austin, Texas, celebrating the last day of high school in 1976. The graduating class heads for a popular pool hall and joins an impromptu keg party, however star football player Randall Pink Floyd has promised to focus on the championship game and abstain from partying. Meanwhile, the incoming freshmen try to avoid being hazed by the seniors, most notably the sadistic bully Fred O'Bannion.</desc>
     <credits>
-      <director>Carl Reiner</director>
-      <actor>Steve Martin</actor>
-      <actor>Bernadette Peters</actor>
-      <actor>Catlin Adams</actor>
-    </credits><date>1979</date>
+      <director>Richard Linklater</director>
+      <actor>Jason London</actor>
+      <actor>Wiley Wiggins</actor>
+      <actor>Sasha Jenson</actor>
+    </credits><date>1993</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p3698_v_h8_ag.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14845_v_h8_aj.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
     </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
+      <value>14A</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260417221500 +0500" stop="20260418001500 +0500">
-    <title>Spaceballs</title>
-    <sub-title />
-    <desc>In a distant galaxy, planet Spaceball has depleted its air supply, leaving its citizens reliant on a product called "Perri-Air." In desperation, Spaceball's leader President Skroob (Mel Brooks) orders the evil Dark Helmet (Rick Moranis) to kidnap Princess Vespa (Daphne Zuniga) of oxygen-rich Druidia and hold her hostage in exchange for air. But help arrives for the Princess in the form of renegade space pilot Lone Starr (Bill Pullman) and his half-man, half-dog partner, Barf (John Candy).</desc>
-    <credits>
-      <director>Mel Brooks</director>
-      <actor>Mel Brooks</actor>
-      <actor>John Candy</actor>
-      <actor>Rick Moranis</actor>
-    </credits><date>1987</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10115_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418001500 +0500" stop="20260418023000 +0500">
-    <title>Brewster's Millions</title>
-    <sub-title />
-    <desc>After losing his position as a minor-league pitcher, Montgomery Brewster (Richard Pryor) learns his great-uncle has left him $300 million. To inherit it, Brewster must spend $30 million in 30 days under a complicated set of rules that forbid him from donating too much to charity or retaining any new assets when the period is up. Unable to share details about the will's odd conditions with anyone, Brewster sets out to spend his money under the stern eye of paralegal Angela Drake (Lonette McKee).</desc>
-    <credits>
-      <director>Walter Hill</director>
-      <actor>Richard Pryor</actor>
-      <actor>John Candy</actor>
-      <actor>Lonette McKee</actor>
-    </credits><date>1985</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8679_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
     </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
+      <value>15</value>
     </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
+      <value>13+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>K16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
     </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>15 år</value>
     </rating><star-rating>
-      <value>4.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260418023000 +0500" stop="20260418043000 +0500">
-    <title>The Great Outdoors</title>
+  </programme><programme channel="IFC-US" start="20260419080000 +0500" stop="20260419104500 +0500">
+    <title>The Big Lebowski</title>
     <sub-title />
-    <desc>It's vacation time for outdoorsy Chicago man Chet Ripley (John Candy), along with his wife, Connie (Stephanie Faracy), and their two kids, Buck (Chris Young) and Ben (Ian Giatti). But a serene weekend of fishing at a Wisconsin lakeside cabin gets crashed by Connie's obnoxious brother-in-law, Roman Craig (Dan Aykroyd), his wife, Kate (Annette Bening), and the couple's two daughters. As the excursion wears on, the Ripleys find themselves at odds with the stuffy Craig family.</desc>
+    <desc>Jeff Bridges plays Jeff Lebowski who insists on being called "the Dude," a laid-back, easygoing burnout who happens to have the same name as a millionaire whose wife owes a lot of dangerous people a whole bunch of money -- resulting in the Dude having his rug soiled, sending him spiraling into the Los Angeles underworld.</desc>
     <credits>
-      <director>Howard Deutch</director>
-      <actor>Dan Aykroyd</actor>
-      <actor>John Candy</actor>
-      <actor>Stephanie Faracy</actor>
-    </credits><date>1988</date>
+      <director>Joel Coen</director>
+      <actor>Jeff Bridges</actor>
+      <actor>John Goodman</actor>
+      <actor>Julianne Moore</actor>
+    </credits><date>1998</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10908_v_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418043000 +0500" stop="20260418064500 +0500">
-    <title>Uncle Buck</title>
-    <sub-title />
-    <desc>When Cindy (Elaine Bromka) and her husband, Bob (Garrett M. Brown), have to leave town for a family emergency, there is only one person available to babysit for their three kids: Bob's lazy, carefree brother, Buck (John Candy). While he immediately gets along with the two younger children (Gaby Hoffman, Macaulay Culkin), Buck must change his bachelor lifestyle if he wants to be a responsible caregiver for the angst-filled teenager, Tia (Jean Louisa Kelly).</desc>
-    <credits>
-      <director>John Hughes</director>
-      <actor>John Candy</actor>
-      <actor>Amy Madigan</actor>
-      <actor>Jean Louisa Kelly</actor>
-    </credits><date>1989</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11784_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418064500 +0500" stop="20260418084500 +0500">
-    <title>Spaceballs</title>
-    <sub-title />
-    <desc>In a distant galaxy, planet Spaceball has depleted its air supply, leaving its citizens reliant on a product called "Perri-Air." In desperation, Spaceball's leader President Skroob (Mel Brooks) orders the evil Dark Helmet (Rick Moranis) to kidnap Princess Vespa (Daphne Zuniga) of oxygen-rich Druidia and hold her hostage in exchange for air. But help arrives for the Princess in the form of renegade space pilot Lone Starr (Bill Pullman) and his half-man, half-dog partner, Barf (John Candy).</desc>
-    <credits>
-      <director>Mel Brooks</director>
-      <actor>Mel Brooks</actor>
-      <actor>John Candy</actor>
-      <actor>Rick Moranis</actor>
-    </credits><date>1987</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10115_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418084500 +0500" stop="20260418110000 +0500">
-    <title>The Jerk</title>
-    <sub-title />
-    <desc>Navin (Steve Martin) believes he was born a poor black child in Mississippi. He is, however, actually white. Upon figuring this out, he heads north to St. Louis to find himself. After landing a job at a gas station, Navin is excited to discover his name printed in the new phone book. This ratification of his existence leads him from one misadventure to another -- as he invents gadgets, dodges bullets, joins the carnival and seeks love in the arms of beautiful Marie (Bernadette Peters).</desc>
-    <credits>
-      <director>Carl Reiner</director>
-      <actor>Steve Martin</actor>
-      <actor>Bernadette Peters</actor>
-      <actor>Catlin Adams</actor>
-    </credits><date>1979</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p3698_v_h8_ag.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20484_v_h8_av.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12</value>
+      <value>18</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
     </rating><rating system="Statens medieråd">
       <value>Från 15 år</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418110000 +0500" stop="20260418130000 +0500">
-    <title>The Money Pit</title>
-    <sub-title />
-    <desc>Young lovers Walter (Tom Hanks) and Anna (Shelley Long) are house-sitting the New York City apartment owned by Max (Alexander Godunov), Anna's ex-husband, who suddenly decides to toss them out. Needing a new home, they settle on buying a country estate outside the city, which is available for a suspiciously low price. It soon becomes apparent why, as doors fall off their hinges, staircases come tumbling down and a bathtub falls through the floor. The couple's relationship suffers similarly.</desc>
-    <credits>
-      <director>Richard Benjamin</director>
-      <actor>Tom Hanks</actor>
-      <actor>Shelley Long</actor>
-      <actor>Alexander Godunov</actor>
-    </credits><date>1986</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9141_v_h11_ap.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
     </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
+      <value>13+</value>
     </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418130000 +0500" stop="20260418133000 +0500">
-    <title>Night Court</title>
-    <sub-title>Halloween II: The Return of Leon</sub-title>
-    <desc>Leon, a runaway, returns just as Harry's putting the finishing touches on his annual Halloween party.</desc>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260418133000 +0500" stop="20260418140000 +0500">
-    <title>Night Court</title>
-    <sub-title>Dan's Operation</sub-title>
-    <desc>Dan collapses when he returns to work too soon after having an operation.</desc>
-    <episode-num system="onscreen">S4 E5 P1/2</episode-num>
-    <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260418140000 +0500" stop="20260418143000 +0500">
-    <title>Night Court</title>
-    <sub-title>Dan's Operation</sub-title>
-    <desc>Dan (John Larroquette) slips into a coma after an amorous former girlfriend (Leslie Bevis) pays him a visit in the hospital.</desc>
-    <episode-num system="onscreen">S4 E6 P2/2</episode-num>
-    <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260418143000 +0500" stop="20260418150000 +0500">
-    <title>Night Court</title>
-    <sub-title>The New Judge</sub-title>
-    <desc>While Harry is away, the replacement judge offers Dan a bribe.</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <credits>
-      <actor>Harry Anderson</actor>
-      <actor>John Larroquette</actor>
-      <actor>Richard Moll</actor>
-    </credits><date>1986</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="IFC-US" start="20260418150000 +0500" stop="20260418170000 +0500">
-    <title>Spaceballs</title>
-    <sub-title />
-    <desc>In a distant galaxy, planet Spaceball has depleted its air supply, leaving its citizens reliant on a product called "Perri-Air." In desperation, Spaceball's leader President Skroob (Mel Brooks) orders the evil Dark Helmet (Rick Moranis) to kidnap Princess Vespa (Daphne Zuniga) of oxygen-rich Druidia and hold her hostage in exchange for air. But help arrives for the Princess in the form of renegade space pilot Lone Starr (Bill Pullman) and his half-man, half-dog partner, Barf (John Candy).</desc>
-    <credits>
-      <director>Mel Brooks</director>
-      <actor>Mel Brooks</actor>
-      <actor>John Candy</actor>
-      <actor>Rick Moranis</actor>
-    </credits><date>1987</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10115_v_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
+      <value>18</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
+      <value>B15</value>
     </rating><rating system="Medierådet">
-      <value>A</value>
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+      <value>16</value>
     </rating><rating system="Kijkwijzer">
-      <value>6</value>
+      <value>12</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260418170000 +0500" stop="20260418191500 +0500">
-    <title>Brewster's Millions</title>
+  </programme><programme channel="IFC-US" start="20260419104500 +0500" stop="20260419130000 +0500">
+    <title>Wet Hot American Summer</title>
     <sub-title />
-    <desc>After losing his position as a minor-league pitcher, Montgomery Brewster (Richard Pryor) learns his great-uncle has left him $300 million. To inherit it, Brewster must spend $30 million in 30 days under a complicated set of rules that forbid him from donating too much to charity or retaining any new assets when the period is up. Unable to share details about the will's odd conditions with anyone, Brewster sets out to spend his money under the stern eye of paralegal Angela Drake (Lonette McKee).</desc>
+    <desc>Set on the last day of camp, in the hot summer of 1981, "Wet Hot American Summer" follows a group of counselors who are each trying to complete their unfinished business before the day ends. The entire summer of pent-up sexual frustrations, unresolved post-traumatic stress, pending separations and of course, the talent show, all weigh heavily on the minds and groins of counselors and campers alike.</desc>
     <credits>
-      <director>Walter Hill</director>
-      <actor>Richard Pryor</actor>
-      <actor>John Candy</actor>
-      <actor>Lonette McKee</actor>
-    </credits><date>1985</date>
+      <director>David Wain</director>
+      <actor>Janeane Garofalo</actor>
+      <actor>David Hyde Pierce</actor>
+      <actor>Michael Showalter</actor>
+    </credits><date>2001</date>
     <category lang="en">Movie</category>
     <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8679_v_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28134_v_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>R</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
+      <value>R</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>A14</value>
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="IFC-US" start="20260418191500 +0500" stop="20260418211500 +0500">
-    <title>The Great Outdoors</title>
-    <sub-title />
-    <desc>It's vacation time for outdoorsy Chicago man Chet Ripley (John Candy), along with his wife, Connie (Stephanie Faracy), and their two kids, Buck (Chris Young) and Ben (Ian Giatti). But a serene weekend of fishing at a Wisconsin lakeside cabin gets crashed by Connie's obnoxious brother-in-law, Roman Craig (Dan Aykroyd), his wife, Kate (Annette Bening), and the couple's two daughters. As the excursion wears on, the Ripleys find themselves at odds with the stuffy Craig family.</desc>
-    <credits>
-      <director>Howard Deutch</director>
-      <actor>Dan Aykroyd</actor>
-      <actor>John Candy</actor>
-      <actor>Stephanie Faracy</actor>
-    </credits><date>1988</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10908_v_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418211500 +0500" stop="20260418233000 +0500">
-    <title>Uncle Buck</title>
-    <sub-title />
-    <desc>When Cindy (Elaine Bromka) and her husband, Bob (Garrett M. Brown), have to leave town for a family emergency, there is only one person available to babysit for their three kids: Bob's lazy, carefree brother, Buck (John Candy). While he immediately gets along with the two younger children (Gaby Hoffman, Macaulay Culkin), Buck must change his bachelor lifestyle if he wants to be a responsible caregiver for the angst-filled teenager, Tia (Jean Louisa Kelly).</desc>
-    <credits>
-      <director>John Hughes</director>
-      <actor>John Candy</actor>
-      <actor>Amy Madigan</actor>
-      <actor>Jean Louisa Kelly</actor>
-    </credits><date>1989</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11784_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="IFC-US" start="20260418233000 +0500" stop="20260419013000 +0500">
+  </programme><programme channel="IFC-US" start="20260419130000 +0500" stop="20260419150000 +0500">
     <title>Up in Smoke</title>
     <sub-title />
     <desc>An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner (Tommy Chong) ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas (Cheech Marin). While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune "Earache My Eye.".</desc>
@@ -1403,5 +259,1251 @@
     </rating><star-rating>
       <value>5.0/10</value>
     </star-rating>
+  </programme><programme channel="IFC-US" start="20260419150000 +0500" stop="20260419153000 +0500">
+    <title>Night Court</title>
+    <sub-title>Contempt of Courting</sub-title>
+    <desc>A replacement judge (Ann Turkel) jails Christine on contempt charges.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <credits>
+      <actor>Harry Anderson</actor>
+      <actor>John Larroquette</actor>
+      <actor>Richard Moll</actor>
+    </credits><date>1986</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260419153000 +0500" stop="20260419160000 +0500">
+    <title>Night Court</title>
+    <sub-title>Earthquake</sub-title>
+    <desc>A minor earthquake leaves Dan, Roz and two sumo wrestlers trapped in an elevator.</desc>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <credits>
+      <actor>Harry Anderson</actor>
+      <actor>John Larroquette</actor>
+      <actor>Richard Moll</actor>
+    </credits><date>1986</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260419160000 +0500" stop="20260419163000 +0500">
+    <title>Night Court</title>
+    <sub-title>Prince of a Guy</sub-title>
+    <desc>While Harry (Harry Anderson) is attempting to help a South Pacific princess avoid an arranged marriage, her brother pursues Christine (Markie Post). Jeanne Mori guest stars.</desc>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <credits>
+      <actor>Harry Anderson</actor>
+      <actor>John Larroquette</actor>
+      <actor>Richard Moll</actor>
+    </credits><date>1986</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184004_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260419163000 +0500" stop="20260419184500 +0500">
+    <title>Wet Hot American Summer</title>
+    <sub-title />
+    <desc>Set on the last day of camp, in the hot summer of 1981, "Wet Hot American Summer" follows a group of counselors who are each trying to complete their unfinished business before the day ends. The entire summer of pent-up sexual frustrations, unresolved post-traumatic stress, pending separations and of course, the talent show, all weigh heavily on the minds and groins of counselors and campers alike.</desc>
+    <credits>
+      <director>David Wain</director>
+      <actor>Janeane Garofalo</actor>
+      <actor>David Hyde Pierce</actor>
+      <actor>Michael Showalter</actor>
+    </credits><date>2001</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28134_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>R</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260419184500 +0500" stop="20260419204500 +0500">
+    <title>Half Baked</title>
+    <sub-title />
+    <desc>When a member of their crew gets arrested for killing a New York City police horse by feeding it junk food, three slackin' stoners are forced to get off their butts and raise bail by selling pot stolen from a pharmaceutical lab. It's a risky plan but, hey, these are stand-up guys who would do anything to help out a friend in need.</desc>
+    <credits>
+      <director>Tamra Davis</director>
+      <actor>Dave Chappelle</actor>
+      <actor>Guillermo Diaz</actor>
+      <actor>Jim Breuer</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20480_v_h10_ap.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260419204500 +0500" stop="20260419233000 +0500">
+    <title>The Big Lebowski</title>
+    <sub-title />
+    <desc>Jeff Bridges plays Jeff Lebowski who insists on being called "the Dude," a laid-back, easygoing burnout who happens to have the same name as a millionaire whose wife owes a lot of dangerous people a whole bunch of money -- resulting in the Dude having his rug soiled, sending him spiraling into the Los Angeles underworld.</desc>
+    <credits>
+      <director>Joel Coen</director>
+      <actor>Jeff Bridges</actor>
+      <actor>John Goodman</actor>
+      <actor>Julianne Moore</actor>
+    </credits><date>1998</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20484_v_h8_av.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="UK Content Provider">
+      <value>18</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260419233000 +0500" stop="20260420014500 +0500">
+    <title>Mallrats</title>
+    <sub-title />
+    <desc>T.S. (Jeremy London) and his best friend, Brodie (Jason Lee), take a trip to the mall after their girlfriends break up with them. T.S.'s girlfriend, Brandi (Claire Forlani), is participating in a dating game show at the mall, which was the initial cause of their breakup. Meanwhile, Brodie's ex, Rene (Shannen Doherty), has begun dating sleazy store manager Shannon (Ben Affleck). T.S. and Brodie seek out ways to ruin the game show, hunted all the while by Brandi's father, Jared (Michael Rooker).</desc>
+    <credits>
+      <director>Kevin Smith</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Jeremy London</actor>
+      <actor>Jason Lee</actor>
+    </credits><date>1995</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17278_v_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260420014500 +0500" stop="20260420040000 +0500">
+    <title>Dazed and Confused</title>
+    <sub-title />
+    <desc>This coming-of-age film follows the mayhem of a group of rowdy teenagers in Austin, Texas, celebrating the last day of high school in 1976. The graduating class heads for a popular pool hall and joins an impromptu keg party, however star football player Randall Pink Floyd has promised to focus on the championship game and abstain from partying. Meanwhile, the incoming freshmen try to avoid being hazed by the seniors, most notably the sadistic bully Fred O'Bannion.</desc>
+    <credits>
+      <director>Richard Linklater</director>
+      <actor>Jason London</actor>
+      <actor>Wiley Wiggins</actor>
+      <actor>Sasha Jenson</actor>
+    </credits><date>1993</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14845_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>18</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="IFC-US" start="20260420040000 +0500" stop="20260420043000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Robert's Date</sub-title>
+    <desc>Robert undergoes a radical change when he starts hanging out with his partner and her friends.</desc>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420043000 +0500" stop="20260420050000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Frank's Tribute</sub-title>
+    <desc>Ray and Robert create a testimonial video for their father after he is elected the lodge's "Man of the Year.".</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420050000 +0500" stop="20260420053000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Cruising With Marie</sub-title>
+    <desc>Ray goes on a Caribbean cruise with Marie after Frank hurts his knee.</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <credits>
+      <director>Richard Marion</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420053000 +0500" stop="20260420060000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Ray Home Alone</sub-title>
+    <desc>Doug Heffernan comes over to hang out with Ray while Debra and the kids are away for the weekend.</desc>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <credits>
+      <director>Steve Zuckerman</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420060000 +0500" stop="20260420063000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Big Shots</sub-title>
+    <desc>Ray's press pass is refused when he and Robert visit the Baseball Hall of Fame; with former New York Mets Bud Harrelson, Ron Swoboda, Cleon Jones, Tug McGraw, Tommie Agee, Jerry Grote, Ed Kranepool and Art Shamsky.</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <credits>
+      <director>Steve Zuckerman</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420063000 +0500" stop="20260420070000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Move Over</sub-title>
+    <desc>Ray confesses to Debra that her cuddly sleeping position is preventing him from getting his rest.</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420070000 +0500" stop="20260420073000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Getaway</sub-title>
+    <desc>Debra and Ray feel pressure to show each other a good time on a romantic weekend getaway.</desc>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <credits>
+      <director>Steve Zuckerman</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420073000 +0500" stop="20260420080000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Working Girl</sub-title>
+    <desc>Debra gets a part-time job, leaving Ray to fend for himself.</desc>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <credits>
+      <director>Michael Zinberg</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420080000 +0500" stop="20260420083000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Be Nice</sub-title>
+    <desc>Ray and Debra try to be nicer to each other; Ray meets Doug at Dr. Becker's office.</desc>
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <credits>
+      <director>Steve Zuckerman</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420083000 +0500" stop="20260420090000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Dancing With Debra</sub-title>
+    <desc>Ray urges Debra to go dancing with Robert but becomes increasingly jealous of the situation.</desc>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <credits>
+      <director>Brian K. Roberts</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420090000 +0500" stop="20260420093000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Robert Moves Back</sub-title>
+    <desc>Ray offers his basement office to Robert and Amy when they want to be alone.</desc>
+    <episode-num system="onscreen">S3 E25</episode-num>
+    <credits>
+      <director>Brian K. Roberts</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420093000 +0500" stop="20260420100000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>How They Met</sub-title>
+    <desc>Ray and Debra prepare Ally for her first play date and reflect on their own first meeting and kiss.</desc>
+    <episode-num system="onscreen">S3 E26</episode-num>
+    <credits>
+      <director>Gary Halvorson</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896309_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Boob Job</sub-title>
+    <desc>After a PTA meeting Debra makes a comment about a mother who had a breast enhancement and gets upset after seeing Ray's reaction; when Ray returns home from a trip, Debra has a "big" surprise for him.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420103000 +0500" stop="20260420110000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Can Opener</sub-title>
+    <desc>The family is forced to take sides when Ray and Debra have a fight over a new can opener and each relates the story of what happened with radically different viewpoints.</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420110000 +0500" stop="20260420113000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>You Bet</sub-title>
+    <desc>After an accidental tip-off from Ray which allows him to win a bet, Frank makes everyone suspicious when he begins to show an unusual interest in Ray's work.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420113000 +0500" stop="20260420120000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Sex Talk</sub-title>
+    <desc>Tired and dispirited, Ray and Debra ask Ray's parents about their sex life, and are surprised at their response.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420120000 +0500" stop="20260420123000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Will</sub-title>
+    <desc>Ray and Debra try to decide who should care for their children in case anything should happen to them.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420123000 +0500" stop="20260420130000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Sister</sub-title>
+    <desc>Debra is upset when her sister, Jennifer, decides to become a nun.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Cousin Gerard</sub-title>
+    <desc>Debra points out that Ray is just like his annoying cousin Gerard, a charge his family gleefully reinforces.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Debra's Workout</sub-title>
+    <desc>Ray is happily surprised, and curious, when Debra starts initiating sex more often.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Ray Romano</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Doris Roberts</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7896310_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Coach</title>
+    <sub-title>Don't Get Mad, Get Cooley</sub-title>
+    <desc>Luther believes Hayden deliberately sold him a broken-down truck and reports him to a consumer affairs watchdog.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Coach</title>
+    <sub-title>A Real Guy's Guy</sub-title>
+    <desc>Hayden arranges a date for Kelly with his star player (Rob Youngblood).</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+    <title>Coach</title>
+    <sub-title>Any Place I Hang Myself Is Home</sub-title>
+    <desc>Hayden grudgingly agrees to go house hunting with Christine, then upsets her when he buys a house without consulting her.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420153000 +0500" stop="20260420160000 +0500">
+    <title>Coach</title>
+    <sub-title>Requiem for a Groundskeeper</sub-title>
+    <desc>Hayden must plan a memorial for someone he barely knew because the man died and left everything to the coach.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420160000 +0500" stop="20260420163000 +0500">
+    <title>Coach</title>
+    <sub-title>I Think I Can't, I Think I Can't</sub-title>
+    <desc>Hayden endures an excruciating train trip when Luther trades in their plane tickets following a dream about a plane crash.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420163000 +0500" stop="20260420170000 +0500">
+    <title>Coach</title>
+    <sub-title>I Hate Barbara</sub-title>
+    <desc>Hayden regrets his honesty when Christine learns how he feels about her best friend (Lee Garlington).</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420170000 +0500" stop="20260420173000 +0500">
+    <title>Coach</title>
+    <sub-title>Pineapple Bowl</sub-title>
+    <desc>Hayden is beaten before he plays his first bowl game when he learns the opposing coach is his former mentor.</desc>
+    <episode-num system="onscreen">S4 E10 P1/2</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420173000 +0500" stop="20260420180000 +0500">
+    <title>Coach</title>
+    <sub-title>Pineapple Bowl</sub-title>
+    <desc>A bizarre limbo accident sidelines the team's star player prior to the Pineapple Bowl.</desc>
+    <episode-num system="onscreen">S4 E11 P2/2</episode-num>
+    <credits>
+      <director>Alan Rafkin</director>
+      <actor>Craig T. Nelson</actor>
+      <actor>Jerry Van Dyke</actor>
+      <actor>Shelley Fabares</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184626_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420180000 +0500" stop="20260420183000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>The Puerto Ricans Are Coming!</sub-title>
+    <desc>Fred is beside himself when his new Puerto Rican neighbor opens a competing junkyard.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <credits>
+      <director>Peter Baldwin</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Gregory Sierra</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420183000 +0500" stop="20260420190000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>The Shootout</sub-title>
+    <desc>Fred accidentally fires an antique gun and fears the worst when his neighbor doesn't answer.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <director>Peter Baldwin</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Hal Williams</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420190000 +0500" stop="20260420193000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>Blood Is Thicker Than Junk</sub-title>
+    <desc>Fred is forced to find a new partner for the junkyard when Lamont seeks employment elsewhere.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <director>Peter Baldwin</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Roger E. Mosley</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420193000 +0500" stop="20260420200000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>Sanford and Son and Sister Makes Three</sub-title>
+    <desc>Lamont discovers that his new fiancee may actually be his half sister.</desc>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <credits>
+      <director>Rick Edelstein</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Ja'net DuBois</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420200000 +0500" stop="20260420203000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>A Guest in the Yard</sub-title>
+    <desc>A bum threatens to sue Fred when he accidentally injures himself in the junkyard.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <credits>
+      <director>Jack Shea</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Davis Roberts</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420203000 +0500" stop="20260420210000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>Fred &amp; Carol &amp; Fred &amp; Donna</sub-title>
+    <desc>Fred invites his fiancee and a door-to-door saleswoman to dinner on the same evening.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <credits>
+      <director>Rick Edelstein</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Lynn Hamilton</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420210000 +0500" stop="20260420213000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>The Light Housekeeper</sub-title>
+    <desc>When Fred receives a slight injury in a car mishap, Lamont hires a housekeeper to help out.</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <credits>
+      <director>Peter Baldwin</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Beah Richards</actor>
+    </credits><date>1972</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420213000 +0500" stop="20260420220000 +0500">
+    <title>Sanford &amp; Son</title>
+    <sub-title>The Big Party</sub-title>
+    <desc>Fred and Lamont throw a neighborhood party in an effort to raise money to pay their bills.</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <credits>
+      <director>Jack Shea</director>
+      <actor>Redd Foxx</actor>
+      <actor>Demond Wilson</actor>
+      <actor>Don Bexley</actor>
+    </credits><date>1973</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184079_b_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420220000 +0500" stop="20260420223000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Make Room for Daddy</sub-title>
+    <desc>Jack plays cupid for his date's widowed father.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Jenilee Harrison</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420223000 +0500" stop="20260420230000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Janet's Secret</sub-title>
+    <desc>Janet tells her parents she and Jack are married.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Jenilee Harrison</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420230000 +0500" stop="20260420233000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Father of the Bride</sub-title>
+    <desc>Jack and Janet try to thwart a wealthy man's efforts to make Cindy his bride.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Jenilee Harrison</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="IFC-US" start="20260420233000 +0500" stop="20260421000000 +0500">
+    <title>Three's Company</title>
+    <sub-title>Furley vs. Furley</sub-title>
+    <desc>Fired Furley moves in with the roommates.</desc>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <credits>
+      <director>Dave Powers</director>
+      <actor>John Ritter</actor>
+      <actor>Joyce DeWitt</actor>
+      <actor>Jenilee Harrison</actor>
+    </credits><date>1981</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7894988_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
   </programme>
 </tv>

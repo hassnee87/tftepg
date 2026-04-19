@@ -3,731 +3,121 @@
   <channel id="FX-East-US">
     <display-name>FX East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/FX-East-US.png" />
-  </channel><programme channel="FX-East-US" start="20260417013000 +0500" stop="20260417040000 +0500">
-    <title>Spy</title>
+  </channel><programme channel="FX-East-US" start="20260419020000 +0500" stop="20260419050000 +0500">
+    <title>Guardians of the Galaxy Vol. 2</title>
     <sub-title />
-    <desc>Despite having solid field training, CIA analyst Susan Cooper (Melissa McCarthy) has spent her entire career as a desk jockey, working hand-in-hand with dashing agent Bradley Fine (Jude Law). Using high-tech equipment and a hidden earpiece, Susan is the guardian angel who helps Bradley avoid danger. However, when Bradley is assassinated by Bulgarian arms dealer Rayna Boyanov (Rose Byrne), Susan wrangles her way into her first undercover assignment to help capture Boyanov and avenge Bradley.</desc>
+    <desc>Peter Quill and his fellow Guardians are hired by a powerful alien race, the Sovereign, to protect their precious batteries from invaders. When it is discovered that Rocket has stolen the items they were sent to guard, the Sovereign dispatch their armada to search for vengeance. As the Guardians try to escape, the mystery of Peter's parentage is revealed.</desc>
     <credits>
-      <director>Paul Feig</director>
-      <actor>Melissa McCarthy</actor>
-      <actor>Jason Statham</actor>
-      <actor>Rose Byrne</actor>
-    </credits><date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11421676_v_h8_as.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="UK Content Provider">
-      <value>18</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>15A</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417040000 +0500" stop="20260417063000 +0500">
-    <title>Jumanji: The Next Level</title>
-    <sub-title />
-    <desc>When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter the game to bring him home. But the game is now broken -- and fighting back. Everything the friends know about Jumanji is about to change, as they soon discover there's more obstacles and more danger to overcome.</desc>
-    <credits>
-      <director>Jake Kasdan</director>
-      <actor>Dwayne Johnson</actor>
-      <actor>Kevin Hart</actor>
-      <actor>Jack Black</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15446613_v_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>I12</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417063000 +0500" stop="20260417090000 +0500">
-    <title>Uncharted</title>
-    <sub-title />
-    <desc>Treasure hunter Victor "Sully" Sullivan recruits street-smart Nathan Drake to help him recover a 500-year-old lost fortune amassed by explorer Ferdinand Magellan. What starts out as a heist soon becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it. If Sully and Nate can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure -- but only if they can learn to work together.</desc>
-    <credits>
-      <director>Ruben Fleischer</director>
-      <actor>Tom Holland</actor>
-      <actor>Mark Wahlberg</actor>
-      <actor>Sophia Ali</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19458781_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417090000 +0500" stop="20260417113000 +0500">
-    <title>Bad Boys for Life</title>
-    <sub-title />
-    <desc>The wife and son of a Mexican drug lord embark on a vengeful quest to kill all those involved in his trial and imprisonment -- including Miami Detective Mike Lowrey. When Mike gets wounded, he teams up with partner Marcus Burnett and AMMO -- a special tactical squad -- to bring the culprits to justice. But the old-school cops must soon learn to get along with their new elite counterparts if they are to take down the vicious cartel that threatens their lives.</desc>
-    <credits>
-      <director>Adil El Arbi</director>
-      <director>Bilall Fallah</director>
-      <actor>Will Smith</actor>
-      <actor>Martin Lawrence</actor>
-      <actor>Vanessa Hudgens</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12028834_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="映倫">
-      <value>R15+</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417113000 +0500" stop="20260417120000 +0500">
-    <title>According to Jim</title>
-    <sub-title>About a Girl</sub-title>
-    <desc>Dana pretends to be Ruby's mother to attract the attention of a single father she met in the park.</desc>
-    <episode-num system="onscreen">S2 E25</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260417120000 +0500" stop="20260417123000 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417123000 +0500" stop="20260417130000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417130000 +0500" stop="20260417133000 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
-    <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417133000 +0500" stop="20260417140000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417140000 +0500" stop="20260417143000 +0500">
-    <title>2026 Silver Eagle Is Here... &amp; It is a Once-In-A-Lifetime Coin!</title>
-    <sub-title />
-    <desc>Join your hosts Kevin Cash &amp; Cory Cady as we discuss the 250th Anniversary of America with the official "America 250" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32414007_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417143000 +0500" stop="20260417150000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417150000 +0500" stop="20260417153000 +0500">
-    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
-    <sub-title />
-    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417153000 +0500" stop="20260417160000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260417160000 +0500" stop="20260417163000 +0500">
-    <title>According to Jim</title>
-    <sub-title>Mom's Boyfriend</sub-title>
-    <desc>Cheryl's recently widowed mother (guest star Kathleen Noone) introduces her fiance to the family, drawing disapproval of the whirlwind romance.</desc>
-    <episode-num system="onscreen">S2 E26</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260417163000 +0500" stop="20260417170000 +0500">
-    <title>According to Jim</title>
-    <sub-title>Vegas, Baby: Part 1</sub-title>
-    <desc>Cheryl secretly plans a reunion between Jim and his estranged sister (Jennifer Coolidge) when the family takes a trip to Las Vegas.</desc>
-    <episode-num system="onscreen">S2 E27 P1/2</episode-num>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260417170000 +0500" stop="20260417203000 +0500">
-    <title>Nightmare Alley</title>
-    <sub-title />
-    <desc>In the 1940s New York, down-on-his-luck Stanton Carlisle endears himself to a clairvoyant and her mentalist husband at a traveling carnival. Using newly acquired knowledge, Carlisle crafts a golden ticket to success by swindling the elite and wealthy. Hoping for a big score, he soon hatches a scheme to con a dangerous tycoon with help from a mysterious psychologist who might be his most formidable opponent yet.</desc>
-    <credits>
-      <director>Guillermo del Toro</director>
+      <director>James Gunn</director>
+      <actor>Chris Pratt</actor>
+      <actor>Zoe Saldana</actor>
       <actor>Bradley Cooper</actor>
-      <actor>Rooney Mara</actor>
-      <actor>Cate Blanchett</actor>
-    </credits><date>2021</date>
+    </credits><date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19962439_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417203000 +0500" stop="20260417230000 +0500">
-    <title>Bad Boys for Life</title>
-    <sub-title />
-    <desc>The wife and son of a Mexican drug lord embark on a vengeful quest to kill all those involved in his trial and imprisonment -- including Miami Detective Mike Lowrey. When Mike gets wounded, he teams up with partner Marcus Burnett and AMMO -- a special tactical squad -- to bring the culprits to justice. But the old-school cops must soon learn to get along with their new elite counterparts if they are to take down the vicious cartel that threatens their lives.</desc>
-    <credits>
-      <director>Adil El Arbi</director>
-      <director>Bilall Fallah</director>
-      <actor>Will Smith</actor>
-      <actor>Martin Lawrence</actor>
-      <actor>Vanessa Hudgens</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12028834_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="映倫">
-      <value>R15+</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260417230000 +0500" stop="20260418013000 +0500">
-    <title>Uncharted</title>
-    <sub-title />
-    <desc>Treasure hunter Victor "Sully" Sullivan recruits street-smart Nathan Drake to help him recover a 500-year-old lost fortune amassed by explorer Ferdinand Magellan. What starts out as a heist soon becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada can get his hands on it. If Sully and Nate can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure -- but only if they can learn to work together.</desc>
-    <credits>
-      <director>Ruben Fleischer</director>
-      <actor>Tom Holland</actor>
-      <actor>Mark Wahlberg</actor>
-      <actor>Sophia Ali</actor>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
     <category lang="en">Adventure</category>
     <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19458781_v_h8_ad.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11714883_v_h10_ay.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>PG-13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
-    </rating><rating system="映倫">
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="British Board of Film Classification">
       <value>12</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
       <value>12</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>SAM 13</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418013000 +0500" stop="20260418040000 +0500">
-    <title>Jumanji: The Next Level</title>
-    <sub-title />
-    <desc>When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter the game to bring him home. But the game is now broken -- and fighting back. Everything the friends know about Jumanji is about to change, as they soon discover there's more obstacles and more danger to overcome.</desc>
-    <credits>
-      <director>Jake Kasdan</director>
-      <actor>Dwayne Johnson</actor>
-      <actor>Kevin Hart</actor>
-      <actor>Jack Black</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15446613_v_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
     </rating><rating system="Maritime Film Classification Board">
       <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating><rating system="UK Content Provider">
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating><rating system="映倫">
       <value>G</value>
     </rating><rating system="Medierådet">
       <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
     </rating><rating system="영상물등급위원회">
       <value>12+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>I12</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418040000 +0500" stop="20260418073000 +0500">
-    <title>Indiana Jones and the Dial of Destiny</title>
+  </programme><programme channel="FX-East-US" start="20260419050000 +0500" stop="20260419083000 +0500">
+    <title>Guardians of the Galaxy Vol. 3</title>
     <sub-title />
-    <desc>Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history. Accompanied by his goddaughter, he soon finds himself squaring off against Jürgen Voller, a former Nazi who works for NASA.</desc>
+    <desc>Still reeling from the loss of Gamora, Peter Quill must rally his team to defend the universe and protect one of their own. If the mission is not completely successful, it could possibly lead to the end of the Guardians as we know them.</desc>
     <credits>
-      <director>James Mangold</director>
-      <actor>Harrison Ford</actor>
-      <actor>Phoebe Waller-Bridge</actor>
-      <actor>Antonio Banderas</actor>
+      <director>James Gunn</director>
+      <actor>Chris Pratt</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Dave Bautista</actor>
     </credits><date>2023</date>
     <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
     <category lang="en">Adventure</category>
     <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13685443_v_h8_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p17845781_v_h8_ar.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>PG-13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
     </rating><rating system="Medierådet">
       <value>11</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating><rating system="Arcom">
@@ -736,162 +126,137 @@
       <value>12</value>
     </rating><rating system="Statens medieråd">
       <value>Från 11 år</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418073000 +0500" stop="20260418103000 +0500">
-    <title>Fast &amp; Furious Presents: Hobbs &amp; Shaw</title>
+  </programme><programme channel="FX-East-US" start="20260419083000 +0500" stop="20260419110000 +0500">
+    <title>Alien: Romulus</title>
     <sub-title />
-    <desc>Brixton Lore is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lore from destroying humanity.</desc>
+    <desc>Space colonizers come face to face with the most terrifying life-form in the universe while scavenging the deep ends of a derelict space station.</desc>
     <credits>
-      <director>David Leitch</director>
-      <actor>Dwayne Johnson</actor>
-      <actor>Jason Statham</actor>
-      <actor>Idris Elba</actor>
-    </credits><date>2019</date>
+      <director>Fede Alvarez</director>
+      <actor>Cailee Spaeny</actor>
+      <actor>David Jonsson</actor>
+      <actor>Archie Renaux</actor>
+    </credits><date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Horror</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15512904_v_h8_aw.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p26633571_v_h8_af.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260419110000 +0500" stop="20260419130000 +0500">
+    <title>65</title>
+    <sub-title />
+    <desc>After a catastrophic crash on an unknown planet, pilot Mills quickly discovers he's actually stranded on Earth -- 65 million years ago. Now, with only one chance at a rescue, Mills and the only other survivor, Koa, must make their way across an unknown terrain riddled with dangerous prehistoric creatures.</desc>
+    <credits>
+      <director>Scott Beck</director>
+      <director>Bryan Woods</director>
+      <actor>Adam Driver</actor>
+      <actor>Ariana Greenblatt</actor>
+      <actor>Chloe Coleman</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21472315_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Motion Picture Association">
       <value>PG-13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="B.C. Film Classification Office">
       <value>PG</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
       <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
       <value>PG</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
     </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>TE+7</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
     </rating><rating system="映倫">
       <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418103000 +0500" stop="20260418133000 +0500">
-    <title>Fast &amp; Furious Presents: Hobbs &amp; Shaw</title>
-    <sub-title />
-    <desc>Brixton Lore is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lore from destroying humanity.</desc>
-    <credits>
-      <director>David Leitch</director>
-      <actor>Dwayne Johnson</actor>
-      <actor>Jason Statham</actor>
-      <actor>Idris Elba</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15512904_v_h8_aw.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
+      <value>16</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418133000 +0500" stop="20260418140000 +0500">
+  </programme><programme channel="FX-East-US" start="20260419130000 +0500" stop="20260419133000 +0500">
     <title>According to Jim</title>
-    <sub-title>Vegas, Baby: Part 2</sub-title>
-    <desc>Cheryl secretly plans a reunion between Jim and his estranged sister (Jennifer Coolidge) when the family takes a trip to Las Vegas.</desc>
-    <episode-num system="onscreen">S2 E28 P2/2</episode-num>
+    <sub-title>The Errand</sub-title>
+    <desc>Jim starts to resent being Cheryl's errand boy; Andy thinks flashing his wedding ring around will make him a "chick magnet.".</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
     <credits>
-      <director>Mark Cendrowski</director>
+      <director>Philip Charles MacKenzie</director>
       <actor>Jim Belushi</actor>
       <actor>Courtney Thorne-Smith</actor>
       <actor>Kimberly Williams-Paisley</actor>
@@ -899,46 +264,67 @@
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895280_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>0</value>
     </rating><rating system="Kijkwijzer">
       <value>6</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>12</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="FX-East-US" start="20260418140000 +0500" stop="20260418143000 +0500">
-    <title>America 250th Anniversary Coins: Enduring Liberty Half Dollars</title>
-    <sub-title />
-    <desc>Join Mike Mezack for a special presentation of the 1776-2026 Enduring Liberty Half Dollars-one-year-only U.S. Mint issues honoring America's 250th Anniversary, including rare rolls and certified MS67 collectibles.</desc>
-    <category lang="en">Consumer</category>
+  </programme><programme channel="FX-East-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>According to Jim</title>
+    <sub-title>The Packer Ball</sub-title>
+    <desc>Jim panics when his son becomes a Green Bay Packers fan, and he tries to convert him to a Chicago Bears fan.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32753655_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260418143000 +0500" stop="20260418150000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260419140000 +0500" stop="20260419143000 +0500">
     <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
     <sub-title />
     <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260418150000 +0500" stop="20260418153000 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+  </programme><programme channel="FX-East-US" start="20260419143000 +0500" stop="20260419153000 +0500">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
     <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260418153000 +0500" stop="20260418160000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260419153000 +0500" stop="20260419160000 +0500">
     <title>Inogen Portable Oxygen - No More Tanks!</title>
     <sub-title />
     <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
@@ -949,199 +335,310 @@
     <category lang="en">Technology</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260418160000 +0500" stop="20260418183000 +0500">
-    <title>X-Men</title>
+  </programme><programme channel="FX-East-US" start="20260419160000 +0500" stop="20260419180000 +0500">
+    <title>65</title>
     <sub-title />
-    <desc>They are children of the atom, homo superior, the next link in the chain of evolution. Each was born with a unique genetic mutation, which at puberty manifested itself in extraordinary powers. In a world filled with hate and prejudice, they are feared by those who cannot accept their differences. Led by Xavier the X-Men fight to protect a world that fears them. They are locked in a battle with former colleague and friend, Magneto who believes humans and mutants should never co-exist.</desc>
+    <desc>After a catastrophic crash on an unknown planet, pilot Mills quickly discovers he's actually stranded on Earth -- 65 million years ago. Now, with only one chance at a rescue, Mills and the only other survivor, Koa, must make their way across an unknown terrain riddled with dangerous prehistoric creatures.</desc>
     <credits>
-      <director>Bryan Singer</director>
-      <actor>Hugh Jackman</actor>
-      <actor>Patrick Stewart</actor>
-      <actor>Ian McKellen</actor>
-    </credits><date>2000</date>
+      <director>Scott Beck</director>
+      <director>Bryan Woods</director>
+      <actor>Adam Driver</actor>
+      <actor>Ariana Greenblatt</actor>
+      <actor>Chloe Coleman</actor>
+    </credits><date>2023</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
     <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25028_v_h10_ag.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
+    <icon src="http://dtil.tmsimg.com/assets/p21472315_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Motion Picture Association">
       <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
       <value>PG</value>
     </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
       <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
     </rating><rating system="Central Board of Film Certification">
       <value>UA</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418183000 +0500" stop="20260418213000 +0500">
-    <title>X2</title>
+  </programme><programme channel="FX-East-US" start="20260419180000 +0500" stop="20260419210000 +0500">
+    <title>Star Wars: The Phantom Menace</title>
     <sub-title />
-    <desc>Stryker (Brian Cox), a villainous former Army commander, holds the key to Wolverine's (Hugh Jackman) past and the future of the X-Men. This threat re-ignites the call for a mutant registration act. Stryker starts a full-out assault on Professor Xavier's (Patrick Stewart) mansion and school. After escaping his plastic cell, Magneto (Ian McKellen) proposes a partnership with Xavier and the X-Men to combat this new formidable enemy they both have in common.</desc>
+    <desc>Obi-Wan Kenobi (Ewan McGregor) is a young apprentice Jedi knight under the tutelage of Qui-Gon Jinn (Liam Neeson) ; Anakin Skywalker (Jake Lloyd), who will later father Luke Skywalker and become known as Darth Vader, is just a 9-year-old boy. When the Trade Federation cuts off all routes to the planet Naboo, Qui-Gon and Obi-Wan are assigned to settle the matter.</desc>
     <credits>
-      <director>Bryan Singer</director>
-      <actor>Patrick Stewart</actor>
-      <actor>Hugh Jackman</actor>
-      <actor>Ian McKellen</actor>
-    </credits><date>2003</date>
+      <director>George Lucas</director>
+      <actor>Liam Neeson</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Natalie Portman</actor>
+    </credits><date>1999</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
     <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31889_v_h8_ag.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p23143_v_h8_ap.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
+      <value>PG</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
       <value>PG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
+      <value>G</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>6</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>PG</value>
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
     </rating><rating system="Medierådet">
       <value>11</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418213000 +0500" stop="20260418233000 +0500">
-    <title>X-Men: The Last Stand</title>
+  </programme><programme channel="FX-East-US" start="20260419210000 +0500" stop="20260420000000 +0500">
+    <title>Star Wars: Attack of the Clones</title>
     <sub-title />
-    <desc>The discovery of a cure for mutations leads to a turning point for Mutants (Hugh Jackman, Halle Berry, Famke Janssen, Anna Paquin, Rebecca Romijn, Kelsey Grammer). They may now choose to give up their powers and become fully human or retain their uniqueness and remain isolated. War looms between the followers of Charles Xavier (Patrick Stewart), who preaches tolerance, and those of Magneto (Ian McKellen), who advocates survival of the fittest.</desc>
+    <desc>Set ten years after the events of "The Phantom Menace," the Republic continues to be mired in strife and chaos. A separatist movement encompassing hundreds of planets and powerful corporate alliances poses new threats to the galaxy that even the Jedi cannot stem. These moves, long planned by an as yet unrevealed and powerful force, lead to the beginning of the Clone Wars -- and the beginning of the end of the Republic.</desc>
     <credits>
-      <director>Brett Ratner</director>
-      <actor>Hugh Jackman</actor>
-      <actor>Patrick Stewart</actor>
-      <actor>Ian McKellen</actor>
-    </credits><date>2006</date>
+      <director>George Lucas</director>
+      <actor>Ewan McGregor</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Hayden Christensen</actor>
+    </credits><date>2002</date>
     <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
     <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p159376_v_h8_bf.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28914_v_h8_af.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating><rating system="B.C. Film Classification Office">
       <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
       <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
     </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420000000 +0500" stop="20260420030000 +0500">
+    <title>Star Wars: The Force Awakens</title>
+    <sub-title />
+    <desc>Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi knights.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Harrison Ford</actor>
+      <actor>Mark Hamill</actor>
+      <actor>Carrie Fisher</actor>
+    </credits><date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10989070_v_h8_bb.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
       <value>PG</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="British Board of Film Classification">
       <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420030000 +0500" stop="20260420060000 +0500">
+    <title>The Avengers</title>
+    <sub-title />
+    <desc>When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's "dream team" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).</desc>
+    <credits>
+      <director>Joss Whedon</director>
+      <actor>Robert Downey</actor>
+      <actor>Chris Evans</actor>
+      <actor>Mark Ruffalo</actor>
+    </credits><date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8815512_v_h10_ac.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating><rating system="Ministero della Cultura">
       <value>T</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
@@ -1150,70 +647,69 @@
       <value>B</value>
     </rating><rating system="Statens medieråd">
       <value>Från 11 år</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
+      <value>G</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>7</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating><rating system="Medietilsynet">
       <value>11 år</value>
     </rating><star-rating>
-      <value>5.0/10</value>
+      <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="FX-East-US" start="20260418233000 +0500" stop="20260419020000 +0500">
-    <title>Guardians of the Galaxy</title>
+  </programme><programme channel="FX-East-US" start="20260420060000 +0500" stop="20260420093000 +0500">
+    <title>Captain America: Civil War</title>
     <sub-title />
-    <desc>Brash space adventurer Peter Quill finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.</desc>
+    <desc>Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side.</desc>
     <credits>
-      <director>James Gunn</director>
-      <actor>Chris Pratt</actor>
-      <actor>Zoe Saldana</actor>
-      <actor>Dave Bautista</actor>
-    </credits><date>2014</date>
+      <director>Anthony Russo</director>
+      <director>Joe Russo</director>
+      <actor>Chris Evans</actor>
+      <actor>Robert Downey</actor>
+      <actor>Scarlett Johansson</actor>
+    </credits><date>2016</date>
     <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
     <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
     <category lang="en">Fantasy</category>
-    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10108283_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Motion Picture Association">
+    <icon src="http://dtil.tmsimg.com/assets/p10989225_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
       <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating><rating system="Ontario Film Authority">
       <value>PG</value>
     </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="UK Content Provider">
       <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating><rating system="Arcom">
       <value>-10</value>
-    </rating><rating system="Maritime Film Classification Board">
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>PG</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
@@ -1221,22 +717,411 @@
       <value>Från 11 år</value>
     </rating><rating system="Irish Film Classification Office">
       <value>12A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="영상물등급위원회">
       <value>12+</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420093000 +0500" stop="20260420120000 +0500">
+    <title>The Incredible Hulk</title>
+    <sub-title />
+    <desc>Scientist Bruce Banner (Edward Norton) desperately seeks a cure for the gamma radiation that contaminated his cells and turned him into The Hulk. Cut off from his true love Betty Ross (Liv Tyler) and forced to hide from his nemesis, Gen. Thunderbolt Ross (William Hurt), Banner soon comes face-to-face with a new threat: a supremely powerful enemy known as The Abomination (Tim Roth).</desc>
+    <credits>
+      <director>Louis Leterrier</director>
+      <actor>Edward Norton</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Tim Roth</actor>
+    </credits><date>2008</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p176337_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
     </rating><rating system="Medierådet">
       <value>11</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><rating system="Medietilsynet">
       <value>11 år</value>
     </rating><star-rating>
       <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420120000 +0500" stop="20260420123000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420123000 +0500" stop="20260420130000 +0500">
+    <title>2026 Proof Silver Eagle: America's 250th Anniversary Release</title>
+    <sub-title />
+    <desc>Join Mike Mezack for a historic release - the first-ever 1776-2026 dual-date Proof Silver Eagle with Liberty Bell privy mark, struck in .999 silver for America's 250th Anniversary. A one-year-only issue collectors won't want to miss.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32753687_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>Accident Compensation: Get Help Now!</title>
+    <sub-title />
+    <desc>Helping injured individuals get the compensation they are owed.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Car accident? Free Legal Consultation</title>
+    <sub-title />
+    <desc>Legal professionals standing by to answer your questions.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23642783_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420153000 +0500" stop="20260420160000 +0500">
+    <title>2026 Silver Eagle is here &amp; it is a once-in-a-lifetime coin!</title>
+    <sub-title />
+    <desc>Join your hosts Kevin Cash &amp; Cory Cady as we discuss the 250th Anniversary of America with the official "America 250" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32414007_st_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260420160000 +0500" stop="20260420180000 +0500">
+    <title>Big</title>
+    <sub-title />
+    <desc>At a carnival, young Josh Baskin wishes he were big, only to wake up the next morning and discover his wish came true. But the more Josh experiences life as an adult, the more he longs for the simple joys of childhood.</desc>
+    <credits>
+      <director>Penny Marshall</director>
+      <actor>Tom Hanks</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Robert Loggia</actor>
+    </credits><date>1988</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10873_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420180000 +0500" stop="20260420200000 +0500">
+    <title>Bringing Down the House</title>
+    <sub-title />
+    <desc>Lawyer Peter Sanderson (Steve Martin) wants to dive back into dating after his divorce and has a hard time meeting the right women. But he lucks out with online dating and meets a fellow lawyer. The two agree to meet in the flesh, but the woman he meets -- an escaped African-American convict named Charlene (Queen Latifah) -- is not what he expected. Peter is freaked out, but Charlene convinces him to take her case and prove her innocence, and along the way they learn to become friends.</desc>
+    <credits>
+      <director>Adam Shankman</director>
+      <actor>Steve Martin</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Eugene Levy</actor>
+    </credits><date>2003</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31618_v_h8_am.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420200000 +0500" stop="20260420223000 +0500">
+    <title>Me, Myself and Irene</title>
+    <sub-title />
+    <desc>Meet Charlie Baileygates, a 17-year veteran of the Rhode Island police force. Charlie is mild-mannered, hard-working, always helpful, and a devoted and loving father to three sons. Unfortunately, Charlie has Split Personality Disorder, and when he runs out of his medication ... Meet Hank Baileygates (Jim Carrey), Charlie's hyper-aggressive alter-ego. Hank's got a filthy mouth, drinks like a fish, breaks skulls and loves dirty, dirty sex.</desc>
+    <credits>
+      <director>Bobby Farrelly</director>
+      <director>Peter Farrelly</director>
+      <actor>Jim Carrey</actor>
+      <actor>Renée Zellweger</actor>
+      <actor>Chris Cooper</actor>
+    </credits><date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25564_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>18A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>18A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>18A</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260420223000 +0500" stop="20260421003000 +0500">
+    <title>Wild Hogs</title>
+    <sub-title />
+    <desc>Tired of their humdrum lives, some middle-aged friends decide to temporarily ditch their responsibilities and take a motorcycle trip. The freedom of the open road holds many surprises for the group, including an encounter with the Del Fuegos, a hardcore gang, who take a dim view of the novice bikers.</desc>
+    <credits>
+      <director>Walt Becker</director>
+      <actor>Tim Allen</actor>
+      <actor>John Travolta</actor>
+      <actor>Martin Lawrence</actor>
+    </credits><date>2007</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p163196_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
     </star-rating>
   </programme>
 </tv>

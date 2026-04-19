@@ -3,349 +3,956 @@
   <channel id="History-East-US">
     <display-name>History East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/History-East-US.png" />
-  </channel><programme channel="History-East-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Dark &amp; Deadly</sub-title>
-    <desc>From a Chinese curse that turns out to be real, to human remains in a Founding Father's basement, or even a mysterious island in Central Asia with enough pathogens to kill the entire global population several times over.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
+  </channel><programme channel="History-East-US" start="20260419030000 +0500" stop="20260419040000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>The Bermuda Triangle and Beyond</sub-title>
+    <desc>All over the world are forbidden triangles that are mysterious regions where ships, planes and people enter and then just disappear; they are found in Bermuda, Alaska, Japan and elsewhere.</desc>
+    <episode-num system="onscreen">S4 E18</episode-num>
     <credits>
-      <actor>Dustin Rubin</actor>
-    </credits><date>2025</date>
+      <actor>William Shatner</actor>
+    </credits><date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
+    <category lang="en">Paranormal</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Famous Finds</sub-title>
-    <desc>A forgotten manuscript in a dusty trunk; a priceless painting discovered in plain sight; a royal tomb hidden for millennia beneath the sands; these famous finds prove history's greatest treasures often resurface when least expected.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme><programme channel="History-East-US" start="20260419040000 +0500" stop="20260419050000 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of the Immortals</sub-title>
+    <desc>Sacred waters with remarkable healing powers; ancient mystics who lived for hundreds of years; a scientific breakthrough may provide the answers to eternal life.</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
     <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
+      <actor>William Shatner</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419050000 +0500" stop="20260419060200 +0500">
+    <title>The UnXplained</title>
+    <sub-title>The Lost</sub-title>
+    <desc>People go missing every day, but throughout history, there have been strange and eerie disappearances that continue to capture the world's attention.</desc>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419060200 +0500" stop="20260419070500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Alien Contagion</sub-title>
+    <desc>While modern science has stopped many dangerous viruses and bacteria in their tracks, there is a concern that contagious germs could be traveling through the vacuum of space.</desc>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419070500 +0500" stop="20260419080500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Mysterious Urban Legends</sub-title>
+    <desc>From the eerie reports of spontaneous human combustion and the hunt for the Highgate Vampire, to the unsettling boogeymen known as the Men in Black appearing after UFO sightings, could these legends be more than just stories?</desc>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <credits>
+      <director>Susan Leventhal</director>
+      <actor>William Shatner</actor>
     </credits><date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419080500 +0500" stop="20260419090300 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of Ancient Structures</sub-title>
+    <desc>Age-old mysterious ruins stand as silent sentinels from the past, with their true history seemingly erased by time; modern archaeology attempts to unravel the enigma of how and why the ancient structures were built.</desc>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419090300 +0500" stop="20260419100400 +0500">
+    <title>The UnXplained</title>
+    <sub-title>The Lost</sub-title>
+    <desc>People go missing every day, but throughout history, there have been strange and eerie disappearances that continue to capture the world's attention.</desc>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419100400 +0500" stop="20260419110600 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Alien Contagion</sub-title>
+    <desc>While modern science has stopped many dangerous viruses and bacteria in their tracks, there is a concern that contagious germs could be traveling through the vacuum of space.</desc>
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419110600 +0500" stop="20260419120500 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Mysterious Urban Legends</sub-title>
+    <desc>From the eerie reports of spontaneous human combustion and the hunt for the Highgate Vampire, to the unsettling boogeymen known as the Men in Black appearing after UFO sightings, could these legends be more than just stories?</desc>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <credits>
+      <director>Susan Leventhal</director>
+      <actor>William Shatner</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419120500 +0500" stop="20260419130100 +0500">
+    <title>The UnXplained</title>
+    <sub-title>Secrets of Ancient Structures</sub-title>
+    <desc>Age-old mysterious ruins stand as silent sentinels from the past, with their true history seemingly erased by time; modern archaeology attempts to unravel the enigma of how and why the ancient structures were built.</desc>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <credits>
+      <actor>William Shatner</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17027962_b_h8_bs.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419130100 +0500" stop="20260419150000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>CSN Mint</title>
+    <sub-title />
+    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Tortilla Takeover</sub-title>
+    <desc>Bold visionaries risk bringing Mexican food to Americans, creating the top-selling condiment, famous snack chip brands and pairing chips and salsa.</desc>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>You Don't Know Jack</sub-title>
+    <desc>A farmhand named Jack Daniel and a distiller in Tennessee look to bring their quality bootleg whiskey out of the shadows into a larger market; a new recipe and Daniel's revolutionary branding tactics pave the way for an American whiskey.</desc>
+    <episode-num system="onscreen">S6 E10</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Peanut Butter Battle</sub-title>
+    <desc>When an entrepreneur creates shelf-stable peanut butter out of his garage, it leads to the birth of an iconic sandwich; as competition heats up to be America's favorite peanut butter, three famous brands battle it out to be number one.</desc>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419190000 +0500" stop="20260419200000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>When Food Freezes Over</sub-title>
+    <desc>Four intrepid food entrepreneurs race to harness emerging technologies, like the home freezer and microwave, to bring revolutionary frozen snack icons to a waiting world, and forever change everything about eating.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419200000 +0500" stop="20260419210000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Cookie Fortunes</sub-title>
+    <desc>Hollywood agent Wally Amos transforms his professional life when he decides to make and sell his own gourmet chocolate chip cookies, and opens America's first cookie store; housewife Debbi Fields opens her homestyle cookie shop in a mall.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>National Treasures</sub-title>
-    <desc>From a bat swung by one of baseball's boldest pioneers, to an iconic painting hidden behind a false wall, and even a relic tied to our nation's first president, these astonishing finds prove that America's greatest treasures can turn up in the most unlikely places.</desc>
+  </programme><programme channel="History-East-US" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Asian Food Invasion</sub-title>
+    <desc>A down-on-his-luck Japanese businessman and a Chinese immigrant and her son change the American palette when they introduce instant noodles in a cup, Peking Duck, and a big Chinese restaurant chain in the nation.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Perilous Play</sub-title>
+    <desc>Remember when childhood came with a side of danger? Think back to the toys and daredevil playground antics that once defined growing up; uncovering explosive science kits, high-flying kite tubes and more.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Spectacular Stunts</sub-title>
+    <desc>A wild journey into the world of vintage daredevils who risked it all for a rush; from the enigmatic Human Fly to skateboard speed demons and diving horses, these stunts are as reckless as they are unforgettable.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Precarious Products</sub-title>
+    <desc>The everyday products that are way more dangerous than meets the unsuspecting eye; what were the most ill-advised and risky household products?</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420010000 +0500" stop="20260420020000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Mad Medicine</sub-title>
+    <desc>There was a time when any and all cures could be sold to the public indiscriminately; diving into a world where animal skin can replace your own, where doctors give coffee enemas and a world of heroin-laced cough syrup.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Very Extreme Sports</sub-title>
+    <desc>The modern concept of extreme sports is a product of marketing, but back in the old days, the lack of rules made them truly extreme; from bone-crushing football and deadly baseball games to wild events like auto polo.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420030000 +0500" stop="20260420040000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Treacherous Travel</sub-title>
+    <desc>Exploding cars and blimp disasters to kids sent through the mail and doomed personal helicopters; the past is packed with travel tales and the misfires that paved the road to modern transportation.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+      <actor>Jason Liebig</actor>
+      <actor>Edward T. O'Donnell</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420040000 +0500" stop="20260420050000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Food Fiascos</sub-title>
+    <desc>Snack on a feast of food horrors from the past; from radioactive energy drinks, to scandalous snacks made with Olestra, to the additives in your milk and bread, uncovering the things people once ate without a second thought.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+      <actor>Henry Winkler</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Occupational Hazards</sub-title>
+    <desc>Uncovering the downright dangerous gigs of the past, from mercury-poisoned hatmakers to kids crawling through chimneys and projectionists fleeing fiery blazes.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420060000 +0500" stop="20260420070300 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Killer Crazes</sub-title>
+    <desc>Remember when "everybody's doing it" was the reason enough to dive in headfirst?; from gravity-defying flagpole sitting and phone booth cramming, to pet skunks and goldfish gulpers, revealing the crazes that are sweeping the nation; these obsessions are risky and impossible to resist; it is a trip back to the fads that push the limits and make hazardous history must-see mayhem.</desc>
     <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Monstrous Marvels</sub-title>
-    <desc>Forget the monsters under your bed; the real ones, from dinosaurs to mythic beasts, are out there just waiting to be unearthed.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Digging Up Trouble</sub-title>
-    <desc>Some discoveries come with consequences; gold that ruins lives, a cursed wreck beneath the sea, and a hidden safe linked to a famous burglar, show how the past can be as dangerous as it is tempting.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Powerful Discoveries</sub-title>
-    <desc>From Mussolini's hidden bunker, to a warship built to dominate, and coins bearing Henry VIII's authority, these discoveries reveal how power leaves its mark long after its rulers are gone.</desc>
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <credits>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417060000 +0500" stop="20260417070300 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Big &amp; Bad</sub-title>
-    <desc>History's biggest discoveries aren't always its best. A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "Gateway to Hell," and an island dominated by venomous vipers prove that when finds go big, they can also go very bad.</desc>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <credits>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417070300 +0500" stop="20260417080500 +0500">
-    <title>The Proof Is Out There: Alien Edition</title>
-    <sub-title>Aliens Among Us</sub-title>
-    <desc>A shadowy figure appears inside a Miami mall; a group of hikers in Bolivia see a translucent figure walking along a remote riverbank. Caught on camera and witnessed up close, these chilling sightings raise a terrifying question: are aliens living among us? Tony Harris and his team investigate the evidence to uncover the truth.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <credits>
-      <actor>Tony Harris</actor>
+      <actor>Henry Winkler</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27388606_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32658523_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420070300 +0500" stop="20260420080500 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Pizza Power Play</sub-title>
+    <desc>Two pizza juggernauts expand their empires as a new contender turns the fight into a three-way race to become America's big pizza chain; they push the limits with promotions, creations and inventive sides, only to discover a fourth chain charging onto the battlefield.</desc>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A10</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417080500 +0500" stop="20260417090300 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Heavy Metals</sub-title>
-    <desc>From James Bond's legendary submarine car uncovered in a storage unit, to a rock-and-roll guitar with a past as loud as its sound, and locomotives resting side by side on the ocean floor, these heavy-metal marvels prove history's strongest secrets can't stay buried.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme><programme channel="History-East-US" start="20260420080500 +0500" stop="20260420090300 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Pizza Wars</sub-title>
+    <desc>In the 1950's, two brothers from Wichita, Kan., aim to build their restaurant, Pizza Hut, by introducing America to Italian dish-pizza; Americans soon fall in love with their pizza, but rival, Domino's, threatens to derail their success.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2021</date>
     <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
     <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417090300 +0500" stop="20260417100500 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Big &amp; Bad</sub-title>
-    <desc>History's biggest discoveries aren't always its best. A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "Gateway to Hell," and an island dominated by venomous vipers prove that when finds go big, they can also go very bad.</desc>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <credits>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
       <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417100500 +0500" stop="20260417110400 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Powerful Discoveries</sub-title>
-    <desc>From Mussolini's hidden bunker, to a warship built to dominate, and coins bearing Henry VIII's authority, these discoveries reveal how power leaves its mark long after its rulers are gone.</desc>
-    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme><programme channel="History-East-US" start="20260420090300 +0500" stop="20260420100500 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Killer Crazes</sub-title>
+    <desc>Remember when "everybody's doing it" was the reason enough to dive in headfirst?; from gravity-defying flagpole sitting and phone booth cramming, to pet skunks and goldfish gulpers, revealing the crazes that are sweeping the nation; these obsessions are risky and impossible to resist; it is a trip back to the fads that push the limits and make hazardous history must-see mayhem.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <credits>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417110400 +0500" stop="20260417120100 +0500">
-    <title>Mysteries Unearthed With Danny Trejo</title>
-    <sub-title>Heavy Metals</sub-title>
-    <desc>From James Bond's legendary submarine car uncovered in a storage unit, to a rock-and-roll guitar with a past as loud as its sound, and locomotives resting side by side on the ocean floor, these heavy-metal marvels prove history's strongest secrets can't stay buried.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <credits>
-      <director>Mary Donahue</director>
-      <actor>Danny Trejo</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">History</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28692015_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417120100 +0500" stop="20260417130100 +0500">
-    <title>The Proof Is Out There: Alien Edition</title>
-    <sub-title>Aliens Among Us</sub-title>
-    <desc>A shadowy figure appears inside a Miami mall; a group of hikers in Bolivia see a translucent figure walking along a remote riverbank. Caught on camera and witnessed up close, these chilling sightings raise a terrifying question: are aliens living among us? Tony Harris and his team investigate the evidence to uncover the truth.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <credits>
-      <actor>Tony Harris</actor>
+      <actor>Henry Winkler</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27388606_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32658523_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420100500 +0500" stop="20260420110600 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Pizza Power Play</sub-title>
+    <desc>Two pizza juggernauts expand their empires as a new contender turns the fight into a three-way race to become America's big pizza chain; they push the limits with promotions, creations and inventive sides, only to discover a fourth chain charging onto the battlefield.</desc>
+    <episode-num system="onscreen">S7 E1</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A10</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417130100 +0500" stop="20260417133100 +0500">
-    <title>Historic Silver Set</title>
+  </programme><programme channel="History-East-US" start="20260420110600 +0500" stop="20260420120300 +0500">
+    <title>The Food That Built America</title>
+    <sub-title>Pizza Wars</sub-title>
+    <desc>In the 1950's, two brothers from Wichita, Kan., aim to build their restaurant, Pizza Hut, by introducing America to Italian dish-pizza; Americans soon fall in love with their pizza, but rival, Domino's, threatens to derail their success.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <credits>
+      <actor>Campbell Scott</actor>
+      <actor>Adam Richman</actor>
+      <actor>Libby O'Connell</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17145484_b_h8_bv.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420120300 +0500" stop="20260420130100 +0500">
+    <title>Hazardous History With Henry Winkler</title>
+    <sub-title>Occupational Hazards</sub-title>
+    <desc>Uncovering the downright dangerous gigs of the past, from mercury-poisoned hatmakers to kids crawling through chimneys and projectionists fleeing fiery blazes.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <director>Jim Pasquarella</director>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220346_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A10</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420130100 +0500" stop="20260420133100 +0500">
+    <title>Freedom to Leave the House! Inogen Portable Oxygen</title>
     <sub-title />
-    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32879737_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260417133100 +0500" stop="20260417140100 +0500">
-    <title>Historic Silver Set</title>
+    <icon src="http://dtil.tmsimg.com/assets/p29463212_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260420133100 +0500" stop="20260420140000 +0500">
+    <title>1776 - 2026 250th Anniversary Quarter Celebration Program</title>
     <sub-title />
-    <desc>Add the stunning Set of 25 1878 San Francisco to 1921 Philadelphia Morgan Silver Dollars graded in Mint State 63 condition to your collection. Out of all Morgan Silver Dollars produced by the US Mint, only 1.7% have survived in Mint State condition!</desc>
+    <desc>2026 will be one of the most historic years ever in U.S. coinage; join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive P&amp;D Roll!</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32879737_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260417140100 +0500" stop="20260417143000 +0500">
-    <title>Rare Limited Silver</title>
+    <icon src="http://dtil.tmsimg.com/assets/p32501949_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Tired of Pain? Go Drug-Free</title>
     <sub-title />
-    <desc>Secure the lowest mintage Philadelphia Proof Silver Eagle ever issued by the US Mint with this 2026 Congratulations Set Silver Eagle graded PF70UCAM; this coin boasts a minuscule 60,000 mintage limit, housed in a signed First Day of Issue holder.</desc>
+    <desc>See how a drug-free patch is helping people find relief-without medication.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32838703_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260417143000 +0500" stop="20260417150000 +0500">
-    <title>Rare Limited Silver</title>
+    <icon src="http://dtil.tmsimg.com/assets/p32384250_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Interested in Gold? Learn More!</title>
     <sub-title />
-    <desc>Secure the lowest mintage Philadelphia Proof Silver Eagle ever issued by the US Mint with this 2026 Congratulations Set Silver Eagle graded PF70UCAM; this coin boasts a minuscule 60,000 mintage limit, housed in a signed First Day of Issue holder.</desc>
+    <desc>Gold has been the best long-term asset class for thousands of years; find out how you can protect your financial future by diversifying your nest-egg with physical gold today.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32838703_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260417150000 +0500" stop="20260417153000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p27818800_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="History-East-US" start="20260420150000 +0500" stop="20260420153000 +0500">
     <title>Amazing Facts With Doug Batchelor</title>
     <sub-title />
     <desc>Pastor Doug Batchelor reveals facts about biblical events and brings new insight to frequently asked questions in Christianity.</desc>
@@ -364,7 +971,7 @@
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+  </programme><programme channel="History-East-US" start="20260420153000 +0500" stop="20260420160000 +0500">
     <title>David Jeremiah</title>
     <sub-title />
     <desc>In this weekly program, Dr. David Jeremiah delivers practical messages to the congregation at the Shadow Mountain Community Church in San Diego. Also featured is music from the Shadow Mountain Community Church Choir and Orchestra, as well as performances by musical guests that have included Steve Green and Charles Billingsley. Men and women who have been impacted by the Turning Point ministry also share their stories with viewers. During the month of December, "Turning Point" usually features special Christmas programming.</desc>
@@ -383,923 +990,174 @@
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating>
-  </programme><programme channel="History-East-US" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>The Top Ten Unexplained Technologies</sub-title>
-    <desc>Counting down ten unexplainable technologies in history, from mysterious golden orbs discovered in Mexico and a sacred wooden box that could communicate with the heavens to an ancient tomb that is said to depict an astronaut.</desc>
-    <episode-num system="onscreen">S21 E4</episode-num>
-    <credits>
-      <director>Alex Hicks</director>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29419034_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>The Akashic Record</sub-title>
-    <desc>Researchers ask if Cloud computing represents the rediscovery of an ancient repository of knowledge known as the Akashic Record; neuroscientist Dr. Dario Nardi measures the brainwaves of Dr. Deepak Chopra as he enters a state of deep meditation.</desc>
-    <episode-num system="onscreen">S12 E10</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>The Alien Frequency</sub-title>
-    <desc>Researchers find that dozens of megalithic sites across the globe were designed to emanate the exact same frequency, causing them to speculate that certain frequencies may allow humans to connect with extraterrestrial forces.</desc>
-    <episode-num system="onscreen">S12 E8</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>The Alien Brain</sub-title>
-    <desc>A look at the possibility that the human brain possesses extraordinary untapped abilities granted by extraterrestrial beings -- such as telepathy, precognition and psychokinesis; abilities that will enable the next step in the evolution of humans.</desc>
-    <episode-num system="onscreen">S14 E16</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>The Harmonic Code</sub-title>
-    <desc>Archaeologists discover that many ancient sites were constructed with an acoustic purpose and often resonate at a frequency that has a profound effect on the human brain; questioning whether ancient people used these sites to contact alien beings.</desc>
-    <episode-num system="onscreen">S16 E10</episode-num>
-    <credits>
-      <director>Jon Levy</director>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>Edgar Cayce: The Sleeping Prophet</sub-title>
-    <desc>In the early 1900s, Edgar Cayce, a modern-day prophet from the hills of Kentucky, becomes a worldwide sensation; he claims to receive visions of the past and future, he heals the sick, and alleges to have encounters with otherworldly beings.</desc>
-    <episode-num system="onscreen">S19 E15</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>Secrets of Inner Earth</sub-title>
-    <desc>In the nearly 2,000-year-old text called "The Zohar," there is a curious passage that describes hidden realms beneath the surface of the Earth, each of which is said to be populated by both human and non-human intelligences.</desc>
-    <episode-num system="onscreen">S18 E19</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Ancient Aliens</title>
-    <sub-title>Aliens in Our Airspace</sub-title>
-    <desc>Terrifying encounters at 40,000 feet; pilot accounts of UFOs taking control of their aircraft; entire jumbo jets disappearing into thin air; since the dawn of aviation, pilots have experienced unexplainable events in the sky.</desc>
-    <episode-num system="onscreen">S19 E9</episode-num>
-    <credits>
-      <actor>Robert Clotworthy</actor>
-      <actor>Giorgio A. Tsoukalos</actor>
-      <actor>Erich von Däniken</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8039273_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unusual Places</sub-title>
-    <desc>A city where the commute requires a zipline; a town crawling with monkeys; a waterfall of blood.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unconventional Weapons</sub-title>
-    <desc>People has heard the tales of wars fought with groundbreaking weaponry; learning about everything else in between; from missiles manned by pigeons to an incendiary device made to look like one of America's favorite pastimes.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Strange Games</sub-title>
-    <desc>Toe wrestling; a competition between ugly pets; the origins of some schoolyard faceoffs; exploring the world of strange games.</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Astonishing Bodies</sub-title>
-    <desc>From a headless chicken that lives over one year, to an out-of-this-world "celestial body" where it rains molten glass, the team explores the most astonishing bodies through these truly unbelievable stories.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>A Thousand Ways to Die</sub-title>
-    <desc>Beards as cause of death; a lawnmower killing a spectator at a football game; discussing some unusual causes of death.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>When Darkness Falls</sub-title>
-    <desc>When the sun sets, strange things come alive. Imagine a full-scale war waged against thousands of invading frogs, an artist who only paints while sleepwalking, and battlefield wounds that literally glow in the dark. These bizarre and unbelievable moments all have one thing in common--they happen only when darkness falls.</desc>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418060000 +0500" stop="20260418070300 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unlikely Heroes</sub-title>
-    <desc>How did a pet pig spring into action to save its owner's life? Which mysterious spirits became the unlikely heroes that turned the tide for a doomed flight? And what shocking move did a carjacker make to rescue a baby trapped in a scorching car? These are the wild, unexpected stories of heroes you'd never see coming.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418070300 +0500" stop="20260418080500 +0500">
-    <title>The Proof Is Out There</title>
-    <sub-title>Volcano UFO Fleet, Nessie's Heartbeat, and Dark Web Alien Bodies</sub-title>
-    <desc>Is a famous volcano in Mexico actually home to a UFO base? Could a strange sound captured underwater in Loch Ness be the heartbeat of the legendary monster? Did a group of snowmobilers find the remains of an alien in the Canadian wilderness? Tony Harris and his team of experts dive into these claims to find the truth.</desc>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    <credits>
-      <director>Joe Gabriel</director>
-      <actor>Tony Harris</actor>
-      <actor>Michael Primeau</actor>
-      <actor>Marc D'Antonio</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19244671_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418080500 +0500" stop="20260418090300 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Against All Odds</sub-title>
-    <desc>Some of the world's most valiant figures overcome the most bizarre circumstances; like a man who survives the apocalypse, or a woman involved in not one, but three maritime disasters; these are the stories of survival against all odds.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418090300 +0500" stop="20260418100500 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Unlikely Heroes</sub-title>
-    <desc>How did a pet pig spring into action to save its owner's life? Which mysterious spirits became the unlikely heroes that turned the tide for a doomed flight? And what shocking move did a carjacker make to rescue a baby trapped in a scorching car? These are the wild, unexpected stories of heroes you'd never see coming.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418100500 +0500" stop="20260418110400 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>When Darkness Falls</sub-title>
-    <desc>When the sun sets, strange things come alive. Imagine a full-scale war waged against thousands of invading frogs, an artist who only paints while sleepwalking, and battlefield wounds that literally glow in the dark. These bizarre and unbelievable moments all have one thing in common--they happen only when darkness falls.</desc>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418110400 +0500" stop="20260418120100 +0500">
-    <title>The UnBelievable With Dan Aykroyd</title>
-    <sub-title>Against All Odds</sub-title>
-    <desc>Some of the world's most valiant figures overcome the most bizarre circumstances; like a man who survives the apocalypse, or a woman involved in not one, but three maritime disasters; these are the stories of survival against all odds.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <actor>Dan Aykroyd</actor>
-      <actor>Adam Richman</actor>
-      <actor>Hakeem Oluseyi</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">History</category>
-    <category lang="en">Anthology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26008905_b_h8_at.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418120100 +0500" stop="20260418130100 +0500">
-    <title>The Proof Is Out There</title>
-    <sub-title>Volcano UFO Fleet, Nessie's Heartbeat, and Dark Web Alien Bodies</sub-title>
-    <desc>Is a famous volcano in Mexico actually home to a UFO base? Could a strange sound captured underwater in Loch Ness be the heartbeat of the legendary monster? Did a group of snowmobilers find the remains of an alien in the Canadian wilderness? Tony Harris and his team of experts dive into these claims to find the truth.</desc>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    <credits>
-      <director>Joe Gabriel</director>
-      <actor>Tony Harris</actor>
-      <actor>Michael Primeau</actor>
-      <actor>Marc D'Antonio</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19244671_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418130100 +0500" stop="20260418150000 +0500">
-    <title>CSN Mint</title>
+  </programme><programme channel="History-East-US" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>Roanoke: A Mystery Carved in Stone</title>
     <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
+    <desc>Stonework experts Jim and Bill Vieira use cutting-edge technology to take a deeper look at a mysterious inscription which could lead to the truth about the disappearance of 117 colonists from Roanoke Island in the sixteenth century.</desc>
+    <date>2017</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>CSN Mint</title>
+    <icon src="http://dtil.tmsimg.com/assets/p13771419_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420170000 +0500" stop="20260420190000 +0500">
+    <title>Return to Roanoke: Search for the Seven</title>
     <sub-title />
-    <desc>Learn about the wonderful world of Coin Collecting with your host Mike Mezack and get the opportunity to build your own collection with the best coin deals on TV!</desc>
-    <category lang="en">Consumer</category>
+    <desc>Stonework experts Jim and Bill Vieira continue their hunt for the Lost Colony of Roanoke by analyzing the inscription on the mysterious Dare Stone against the 400-year-old historical record.</desc>
+    <date>2017</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11377439_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="History-East-US" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Danny Doubles Down</sub-title>
-    <desc>The auto extravaganza, SEMA, rolls into Las Vegas; Ryan and Mike travel to Borla Exhaust headquarters in Los Angeles; Danny throws budget and restraint out the window turning his old 1955 Chevy into a world class '70s era Gasser.</desc>
-    <episode-num system="onscreen">S8 E16</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p13771426_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Buried: Knights Templar and the Holy Grail</title>
+    <sub-title>Holy City, Holy Grail</sub-title>
+    <desc>An investigation into the true fate of the Knights Templar begins in Jerusalem, where tunnels and a safe house may have been used to move holy relics to safety during the fall of the city.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
     <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
+      <actor>Mikey Kay</actor>
+      <actor>Garth Baldwin</actor>
     </credits><date>2018</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Ancient history</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Miniseries</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Smokin Hot Corvette</sub-title>
-    <desc>Danny and the Count's Kustom Crew kick into overdrive, transforming a 25th anniversary 1978 Corvette pace car into a high octane street demon; it's up to Shannon and Ryan to resurrect a damaged 2005 American Ironhorse chopper for a client.</desc>
-    <episode-num system="onscreen">S10 E8</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20451087_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>Big Fin Caddy</sub-title>
-    <desc>The crew discovers unpleasant surprises hiding in a 1960 Cadillac Coupe de Ville; Ryan and Mike come up with a new twist on an old design for a 2019 Indian Motorcycle; Shannon transforms a '90s Harley-Davidson into a lean, mean dream machine.</desc>
-    <episode-num system="onscreen">S10 E5</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>Counting Cars</title>
-    <sub-title>The Magic Bus</sub-title>
-    <desc>Danny and the guys get to work transforming a 1960 Volkswagen Bus into a high-end luxury beach cruiser; an unexpected hiccup threatens to derail the whole project; Ryan and Ghetto Bob give a very rare 1963 split window Corvette a facelift.</desc>
-    <episode-num system="onscreen">S9 E6</episode-num>
-    <credits>
-      <actor>Danny Koker</actor>
-      <actor>Kevin Mack</actor>
-      <actor>Mike "Horny" Henry</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Auto</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9354925_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="History-East-US" start="20260418200000 +0500" stop="20260419030000 +0500">
-    <title>Barrett-Jackson Live Auction</title>
-    <sub-title>Palm Beach 2026 Super Saturday Day 3 Part 1</sub-title>
-    <desc>The best vehicles from all categories go under the hammer in high stakes, no reserve auction in Scottsdale, Ariz.</desc>
-    <episode-num system="onscreen">S20 E9</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Auction</category>
-    <category lang="en">Auto</category>
-    <category lang="en">Collectibles</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18921154_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14915443_b_h8_ag.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Buried: Knights Templar and the Holy Grail</title>
+    <sub-title>Last Stand in the Holy Land</sub-title>
+    <desc>In Acre, Israel, the team goes underground to investigate the purpose of the Templars' tunnel system, theorizing they may have contemplated a covert landing in sea caves.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <credits>
+      <actor>Mikey Kay</actor>
+      <actor>Garth Baldwin</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Ancient history</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14915443_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Buried: Knights Templar and the Holy Grail</title>
+    <sub-title>Surviving the End</sub-title>
+    <desc>Part 3/4. Armed with insight into two centuries of Templar survival strategies and battle tactics, the team turns their attention to the Templars moment of reckoning: the fall of the order in 1307; they find evidence of a Templar smuggling operation.</desc>
+    <credits>
+      <actor>Mikey Kay</actor>
+      <actor>Garth Baldwin</actor>
+      <actor>Erik Thompson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Ancient history</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14915443_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Buried: Knights Templar and the Holy Grail</title>
+    <sub-title>Land of Secrets</sub-title>
+    <desc>Part 4/4. Seven years after the alleged end of the Templars, signs the knights were rising again appear in Portugal.</desc>
+    <credits>
+      <actor>Mikey Kay</actor>
+      <actor>Garth Baldwin</actor>
+      <actor>Erik Thompson</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">History</category>
+    <category lang="en">Ancient history</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14915443_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="History-East-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>History's Greatest Mysteries</title>
+    <sub-title>Gardner Museum Robbery</sub-title>
+    <desc>In a perfectly planned robbery, thieves steal half a billion dollars in masterpieces from the Gardner Museum in Boston; it's been three decades since the brazen heist, and an exhaustive search has failed to recover the stolen goods.</desc>
+    <episode-num system="onscreen">S4 E25</episode-num>
+    <credits>
+      <actor>Laurence Fishburne</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">History</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18974386_b_h8_bx.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
     </rating>
   </programme>
 </tv>

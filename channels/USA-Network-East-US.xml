@@ -3,17 +3,487 @@
   <channel id="USA-Network-East-US">
     <display-name>USA Network East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/USA-Network-East-US.png" />
-  </channel><programme channel="USA-Network-East-US" start="20260417000000 +0500" stop="20260417010000 +0500">
+  </channel><programme channel="USA-Network-East-US" start="20260419000000 +0500" stop="20260419010000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>You Never Know Who's Who</sub-title>
+    <desc>Ruzek's future with the unit is in question after a botched undercover job; a corpse is discovered in an SUV; Lindsay and Halstead move forward with their relationship.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419010000 +0500" stop="20260419020000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>A Dead Kid, a Notebook and a Lot of Maybes</sub-title>
+    <desc>Intelligence searches for a missing teen who they believe poses a threat to students at his school; Atwater wants to make a good impression on a police captain.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419020000 +0500" stop="20260419030000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Forget My Name</sub-title>
+    <desc>When Intelligence follows up on a tip Antonio and Halstead received from a reliable informant about an upcoming drug trade, the team is shocked to discover the mutilated body of a man; upon further investigation, the body is identified as a government official and when Olinsky, Ruzek, Lindsay and Halstead question the man's acquaintances they discover he had access to very important devices; Burgess helps plan a surprise for Platt.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419030000 +0500" stop="20260419040000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Never Forget I Love You</sub-title>
+    <desc>A decapitated corpse found in Lake Michigan is connected to Voight's social circle; Roman makes a grave error; Antonio makes a decision that could impact Michelle's future -- without consulting Olinsky.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419040000 +0500" stop="20260419050000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Now I'm God</sub-title>
+    <desc>A doctor connected to Voight is investigated after four patients with chemo overdoses are sent to Chicago Med; Platt and Burgess work to clear Roman's name.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419050000 +0500" stop="20260419070000 +0500">
+    <title>Live: League One Volleyball</title>
+    <sub-title />
+    <desc>Game 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Volleyball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032G6VW.jpg?w=960&amp;h=540" />
+  </programme><programme channel="USA-Network-East-US" start="20260419070000 +0500" stop="20260419080000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Knocked the Family Right Out</sub-title>
+    <desc>A teenage girl is violated during a home invasion; Voight helps a former acquaintance; Platt and Mouch receive upsetting news regarding their upcoming wedding.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419080000 +0500" stop="20260419090000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Looking Out for Stateville</sub-title>
+    <desc>Voight wants to make his former cellmate a confidential informant as the unit tries to take down a big cocaine supplier and local dealers; Burgess makes a decision about her relationship with Ruzek; Roman works with Firehouse 51 to fund a wedding.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419090000 +0500" stop="20260419100000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>Hit Me</sub-title>
+    <desc>Lindsay goes undercover in hopes of finding a police officer who targets women leaving a local casino; Burgess needs Platt's approval to move forward with her plan; Antonio offers to take Roman's place in an upcoming boxing match.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419100000 +0500" stop="20260419110000 +0500">
+    <title>Chicago P.D.</title>
+    <sub-title>The Song of Gregory Williams Yates</sub-title>
+    <desc>After escaping from a New York prison, convicted killer Gregory Yates (Dallas Roberts) heads to Chicago; SVU members Benson and Tutuola help investigate a triple homicide in Chicago; the team seeks a connection between Yates and a missing woman.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <credits>
+      <actor>Jason Beghe</actor>
+      <actor>Sophia Bush</actor>
+      <actor>Patrick John Flueger</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419110000 +0500" stop="20260419120000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Intimidation Game</sub-title>
-    <desc>When a female video game developer who has been receiving death threats refuses to delay the launch of her new game, the cops must work to protect her.</desc>
-    <episode-num system="onscreen">S16 E14</episode-num>
+    <sub-title>Wednesday's Child</sub-title>
+    <desc>The already frantic search for a missing diabetic boy becomes more urgent when he is spotted with a couple known for child endangerment and pornography.</desc>
+    <episode-num system="onscreen">S15 E14</episode-num>
+    <credits>
+      <director>Laura Belsey</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Dann Florek</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419120000 +0500" stop="20260419130000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Comic Perversion</sub-title>
+    <desc>When a controversial misogynistic comic is accused of rape, Benson is happy to arrest him, but Barba feels the case is weak.</desc>
+    <episode-num system="onscreen">S15 E15</episode-num>
+    <credits>
+      <director>Alex Chapple</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Dann Florek</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419130000 +0500" stop="20260419140000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Glasgowman's Wrath</sub-title>
+    <desc>Three young girls' search for a mythical character leads to one of them becoming injured and the other two disappearing.</desc>
+    <episode-num system="onscreen">S16 E6</episode-num>
     <credits>
       <director>Jean de Segonzac</director>
       <actor>Mariska Hargitay</actor>
       <actor>Ice-T</actor>
       <actor>Kelli Giddish</actor>
-    </credits><date>2015</date>
+    </credits><date>2014</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Drama</category>
@@ -26,14 +496,14 @@
       <value>TV14</value>
     </rating><rating system="Arcom">
       <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
@@ -51,7 +521,7 @@
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417010000 +0500" stop="20260417020000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260419140000 +0500" stop="20260419150000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
     <sub-title>December Solstice</sub-title>
     <desc>A feud between a famous author (Robert Vaughn) and his sixth wife, Charmaine (Marcia Cross), turns into a criminal case when Charmaine is faced with allegations of abuse; Barba winds up dealing with family drama of his own.</desc>
@@ -99,1044 +569,85 @@
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417020000 +0500" stop="20260417030000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260419150000 +0500" stop="20260419160000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Parole Violations</sub-title>
-    <desc>When Carisi's sister's fiancé falls back into bad habits and accuses his parole officer of rape, Carisi must investigate.</desc>
-    <episode-num system="onscreen">S16 E17</episode-num>
-    <credits>
-      <director>Jean de Segonzac</director>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Parents' Nightmare</sub-title>
-    <desc>Efforts to find an 8-year-old boy kidnapped for ransom are hindered by tension between the child's estranged parents; Sgt. Benson is asked to take the lieutenant's exam and officially become the leader of the squad.</desc>
-    <episode-num system="onscreen">S16 E22</episode-num>
-    <credits>
-      <director>Jean de Segonzac</director>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Surrendering Noah</sub-title>
-    <desc>When Johnny D (Charles Halford) is on trial for sex trafficking, rape, assault and kidnapping, Noah's adoption becomes involved with the case, causing Benson to fear for the child's future; a threat could permanently change the squad.</desc>
-    <episode-num system="onscreen">S16 E23</episode-num>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417050000 +0500" stop="20260417070000 +0500">
-    <title>Live: League One Volleyball</title>
-    <sub-title />
-    <desc>Game 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Playoff sports</category>
-    <category lang="en">Volleyball</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032G6X8.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260417070000 +0500" stop="20260417100000 +0500">
-    <title>Ghostbusters</title>
-    <sub-title />
-    <desc>Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer Jillian Holtzmann for help. Also joining the team is Patty Tolan, a lifelong New Yorker who knows the city inside and out. Armed with proton packs and plenty of attitude, the four women prepare for an epic battle as more than 1,000 mischievous ghouls descend on Times Square.</desc>
-    <credits>
-      <director>Paul Feig</director>
-      <actor>Melissa McCarthy</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Leslie Jones</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11471579_v_h10_au.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417100000 +0500" stop="20260417130000 +0500">
-    <title>Ghostbusters</title>
-    <sub-title />
-    <desc>Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer Jillian Holtzmann for help. Also joining the team is Patty Tolan, a lifelong New Yorker who knows the city inside and out. Armed with proton packs and plenty of attitude, the four women prepare for an epic battle as more than 1,000 mischievous ghouls descend on Times Square.</desc>
-    <credits>
-      <director>Paul Feig</director>
-      <actor>Melissa McCarthy</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Leslie Jones</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11471579_v_h10_au.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Betrayal's Climax</sub-title>
-    <desc>Amaro suspects the boyfriend of a missing girl is involved with a gang; Sgt. Benson becomes the SVU's new commanding officer.</desc>
-    <episode-num system="onscreen">S15 E13</episode-num>
-    <credits>
-      <director>Holly Dale</director>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Dann Florek</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Reasonable Doubt</sub-title>
-    <desc>Benson and Murphy question a television producer when he is accused of molesting his daughter; Benson strives to discover the truth as accusations fly in the media.</desc>
-    <episode-num system="onscreen">S15 E22</episode-num>
-    <credits>
-      <director>Alex Chapple</director>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Dann Florek</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417150000 +0500" stop="20260417160000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>You Know Where to Find Me</sub-title>
-    <desc>Mills works to save the life of a driver injured in a car wreck; Casey harbors doubts about Jack Nesbitt; Hermann, Otis, Cruz and Chaplain Orlovsky ready their team for the peewee hockey championship.</desc>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <credits>
-      <director>Jean de Segonzac</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>We Called Her Jellybean</sub-title>
-    <desc>An apartment fire with connections to a rape and attempted murder leads to a joint investigation with the CPD and Sgt. Benson of the NYPD's Special Victims Unit; Dawson risks her life during a call.</desc>
-    <episode-num system="onscreen">S3 E21</episode-num>
-    <credits>
-      <director>Joe Chappelle</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Category 5</sub-title>
-    <desc>Sgt. Voight encourages Lt. Casey to go undercover in order to obtain proof of Jack Nesbitt's shady dealings; tensions grow between Otis and Severide; Herrmann helps another member of the firehouse.</desc>
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <credits>
-      <director>Dan Lerner</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Spartacus</sub-title>
-    <desc>Lt. Casey ends up in danger as he continues to investigate Jack Nesbitt; Boden tries to create unity in the house; Cruz and Boden put their lives on the line to save their own when a warehouse blaze gets out of control; Dawson receives news.</desc>
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <credits>
-      <director>Michael Brandt</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Charlie Barnett</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Let It Burn</sub-title>
-    <desc>During an undercover operation, Lt. Casey lands in very dangerous territory; Dawson's suspicions are confirmed; a new candidate (Steven R. McQueen) makes an unusual first impression; a protest hinders firefighters who are trying to battle a blaze.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <credits>
-      <director>Joe Chappelle</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>A Taste of Panama City</sub-title>
-    <desc>Members of the firehouse are frustrated with their inability to help Chief Boden, whose job is on the line pending an internal investigation in the aftermath of a complicated call to a fire; Lt. Severide struggles to accept his smaller role and adjusts to the presence of Capt. Patterson, his new commanding officer; Dawson shakes things up on the work front and Casey attempts to find a crucial piece of evidence in his ongoing investigation against Nesbitt.</desc>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <credits>
-      <director>Sanford Bookstaver</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>I Walk Away</sub-title>
-    <desc>When new evidence appears in the internal affairs investigation that will clear Chief Boden, a twist puts him right back in the thick of it; Brett and Chili try to save a stabbing victim from bleeding to death.</desc>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <credits>
-      <director>Tom DiCillo</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Your Day Is Coming</sub-title>
-    <desc>Members of the firehouse band together to help one of their own; Herrmann looks for a way to reopen Molly's; Severide struggles to deal with one of his toughest days as he looks into the arson investigation.</desc>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <credits>
-      <director>Reza Tabrizi</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Regarding This Wedding</sub-title>
-    <desc>Boden steps up to host a neighborhood wedding that was ruined by a fire; Chief Riddle's political aspirations cause friction at the firehouse; Severide fights his way back to his old position.</desc>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <credits>
-      <director>Joe Chappelle</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>2112</sub-title>
-    <desc>Chief Boden's new neighbor asks him for a favor; tension escalates between Severide and Captain Patterson; Cruz receives a surprise visitor; Mouch and Herrmann are excited to receive concert tickets to see Rush.</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <credits>
-      <director>Holly Dale</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>Chicago Fire</title>
-    <sub-title>Sharp Elbows</sub-title>
-    <desc>Boden thinks he's being set up by his neighbor; Severide's father pays him an unexpected visit; romance is in the air at the Chicago Fire Department gala.</desc>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <credits>
-      <director>Dan Lerner</director>
-      <actor>Jesse Spencer</actor>
-      <actor>Taylor Kinney</actor>
-      <actor>Monica Raymund</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9257455_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418020000 +0500" stop="20260418050000 +0500">
-    <title>Ghostbusters</title>
-    <sub-title />
-    <desc>Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer Jillian Holtzmann for help. Also joining the team is Patty Tolan, a lifelong New Yorker who knows the city inside and out. Armed with proton packs and plenty of attitude, the four women prepare for an epic battle as more than 1,000 mischievous ghouls descend on Times Square.</desc>
-    <credits>
-      <director>Paul Feig</director>
-      <actor>Melissa McCarthy</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Leslie Jones</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11471579_v_h10_au.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418050000 +0500" stop="20260418080000 +0500">
-    <title>Live: WWE Friday Night SmackDown</title>
-    <sub-title />
-    <desc>The annual Andre the Giant Battle Royal ensues on the eve of WrestleMania 42 in Las Vegas; The Wyatt Sicks battle The MFTs in an Eight-Man Street Fight.</desc>
-    <episode-num system="onscreen">S28 E16</episode-num>
-    <credits>
-      <actor>Joe Tessitore</actor>
-      <actor>Wade Barrett</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Pro wrestling</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17350979_b_h8_bk.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418080000 +0500" stop="20260418083000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>If They Do Go Either Way, They're Usually Fake</sub-title>
-    <desc>For a school assignment, Jake draws the tattooed buttocks of Charlie's female friend.</desc>
+    <sub-title>Uncivilized</sub-title>
+    <desc>The state pursues a media-sensationalized case against a known pedophile who's suspected of assaulting and killing a youth.</desc>
     <episode-num system="onscreen">S1 E7</episode-num>
     <credits>
-      <director>Andy Ackerman</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2003</date>
+      <director>Michael Fields</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Dann Florek</actor>
+    </credits><date>1999</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>TV14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418083000 +0500" stop="20260418090000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Twenty-Five Little Pre-Pubers Without a Snoot-Ful</sub-title>
-    <desc>Charlie realizes Jake's classmates know the words to all of his jingles, and he is inspired to craft the fourth-grade musical with unusual results.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme><programme channel="USA-Network-East-US" start="20260419160000 +0500" stop="20260419180000 +0500">
+    <title>Live: Premier League Mornings</title>
+    <sub-title />
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
     <credits>
-      <director>Chuck Lorre</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+      <actor>Rebecca Lowe</actor>
+    </credits><date>2018</date>
+    <category lang="en">Soccer</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418090000 +0500" stop="20260418093000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p15841474_b_h10_aj.jpg?w=960&amp;h=540" />
+  </programme><programme channel="USA-Network-East-US" start="20260419180000 +0500" stop="20260419200000 +0500">
+    <title>Live: Premier League Soccer</title>
+    <sub-title />
+    <desc>Everton and Liverpool meet for a Merseyside derby as part of the Premier League Matchweek 33 at the Hill Dickinson Stadium. Entering this fixture, Liverpool is battling for a top-four finish, while Everton occupies a mid-table position.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032T5QR.jpg?w=960&amp;h=540" />
+  </programme><programme channel="USA-Network-East-US" start="20260419200000 +0500" stop="20260419203000 +0500">
+    <title>Live: Premier League Mornings</title>
+    <sub-title />
+    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
+    <credits>
+      <actor>Rebecca Lowe</actor>
+    </credits><date>2018</date>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15841474_b_h10_aj.jpg?w=960&amp;h=540" />
+  </programme><programme channel="USA-Network-East-US" start="20260419203000 +0500" stop="20260419210000 +0500">
     <title>Two and a Half Men</title>
-    <sub-title>Phase One, Complete</sub-title>
-    <desc>Jake and Evelyn befriend one of Charlie's one-night stands, causing her to stay longer than expected.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
+    <sub-title>Go East on Sunset Until You Reach the Gates of Hell</sub-title>
+    <desc>One drink too many emboldens the brothers to stand up to their controlling mother.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <credits>
       <director>Andy Ackerman</director>
       <actor>Charlie Sheen</actor>
@@ -1158,75 +669,6 @@
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418093000 +0500" stop="20260418100000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Merry Thanksgiving</sub-title>
-    <desc>In an attempt to prove that he is a family man, Charlie invites Lisa (Denise Richards) over for Thanksgiving dinner.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <credits>
-      <director>Jay Sandrich</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418100000 +0500" stop="20260418103000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Alan Harper, Frontier Chiropractor</sub-title>
-    <desc>Alan reluctantly agrees to a makeover after running into his ex-wife and her new beau; when the brothers go shopping, they clash over what to buy.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <credits>
-      <director>Brad Berlinger</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Kijkwijzer">
       <value>6</value>
@@ -1237,51 +679,207 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418103000 +0500" stop="20260418110000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Camel Filters and Pheremones</sub-title>
-    <desc>The housekeeper's beautiful granddaughter comes to work with her and attracts the attention of the men; Alan tries to convince Judith that Charlie's house is good for Jake.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme><programme channel="USA-Network-East-US" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Countdown</sub-title>
+    <desc>When a 7-year-old girl escapes from her rapist, detectives Benson and Stabler begin an intensive search for the predator.</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
     <credits>
-      <director>Bob Berlinger</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2004</date>
+      <director>Steve Shill</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2001</date>
     <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Pique</sub-title>
+    <desc>The murder of a software company employee leads Benson and Stabler to a fired co-worker who may have a horrifying motive for the slaying.</desc>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <credits>
+      <director>Steve Shill</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2001</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Mercy</sub-title>
+    <desc>Alexandra Cabot questions a pediatrician (Judd Hirsch) about a dead baby found in a cooler in the East River.</desc>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <credits>
+      <director>David Platt</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Transitions</sub-title>
+    <desc>A man is found badly beaten in a parking lot, with no memory of what happened, and detectives suspect his transgender teen may be responsible.</desc>
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418110000 +0500" stop="20260418120000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260420010000 +0500" stop="20260420020000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Chicago Crossover</sub-title>
-    <desc>Sgt. Voight and Detectives Lindsay and Halstead work with Sgt. Benson and the SVU as they investigate the roots of a child pornography site; tension between Benson and Voight threatens the investigation.</desc>
-    <episode-num system="onscreen">S16 E7</episode-num>
+    <sub-title>Sugar</sub-title>
+    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
+    <episode-num system="onscreen">S11 E2</episode-num>
     <credits>
-      <director>Steve Shill</director>
+      <director>Peter Leto</director>
+      <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2014</date>
+      <actor>Richard Belzer</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Drama</category>
@@ -1292,18 +890,60 @@
     <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Wet</sub-title>
+    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <credits>
+      <director>Jonathan Kaplan</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
@@ -1318,20 +958,24 @@
       <value>14</value>
     </rating><rating system="Consejo Nacional de Televisión">
       <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418120000 +0500" stop="20260418130000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260420030000 +0500" stop="20260420040000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Spousal Privilege</sub-title>
-    <desc>When detective Tutuola finds security footage of a sportscaster being physically abusive to his girlfriend, Benson seeks help from Assistant DA Barba to convince the victim to fight back.</desc>
-    <episode-num system="onscreen">S16 E8</episode-num>
+    <sub-title>Manhattan Vigil</sub-title>
+    <desc>The kidnapping of a young boy reminds Cragen, Munch and Benson of an unsolved case from 13 years earlier.</desc>
+    <episode-num system="onscreen">S14 E5</episode-num>
     <credits>
-      <director>Sharat Raju</director>
+      <director>Jean de Segonzac</director>
       <actor>Mariska Hargitay</actor>
       <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2014</date>
+      <actor>Dann Florek</actor>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Drama</category>
@@ -1342,40 +986,40 @@
     <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
     </rating><rating system="Consejo Nacional de Televisión">
       <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418130000 +0500" stop="20260418140000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260420040000 +0500" stop="20260420050000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Decaying Morality</sub-title>
-    <desc>After a teenage girl makes a rape accusation against a person with a criminal record, but little evidence is found, the girl's father takes matters into his own hands.</desc>
-    <episode-num system="onscreen">S16 E13</episode-num>
+    <sub-title>Institutional Fail</sub-title>
+    <desc>When a starving toddler is found wandering the streets, detectives are led to a home where another child is in grave condition; Chief Dodds (Peter Gallagher) suggests that Benson's squad may be undergoing changes.</desc>
+    <episode-num system="onscreen">S17 E4</episode-num>
     <credits>
-      <director>Michael Pressman</director>
+      <director>Martha Mitchell</director>
       <actor>Mariska Hargitay</actor>
       <actor>Ice-T</actor>
       <actor>Kelli Giddish</actor>
@@ -1390,10 +1034,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
     </rating><rating system="Arcom">
       <value>-12</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>American Disgrace</sub-title>
+    <desc>When a series of allegations are made against a superstar basketball player, Sgt. Benson and Detective Carisi (Peter Scanavino) do not agree on the authenticity of each woman's story; the investigation takes Rollins back to her former precinct.</desc>
+    <episode-num system="onscreen">S16 E2</episode-num>
+    <credits>
+      <director>Arthur W. Forney</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
     </rating><rating system="Régie du cinéma">
@@ -1417,17 +1109,214 @@
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418140000 +0500" stop="20260418150000 +0500">
+  </programme><programme channel="USA-Network-East-US" start="20260420060000 +0500" stop="20260420070000 +0500">
     <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Intimidation Game</sub-title>
-    <desc>When a female video game developer who has been receiving death threats refuses to delay the launch of her new game, the cops must work to protect her.</desc>
-    <episode-num system="onscreen">S16 E14</episode-num>
+    <sub-title>Decline and Fall</sub-title>
+    <desc>The powerful family behind a retail empire defends one of its own from a bartender's rape accusation.</desc>
+    <episode-num system="onscreen">S18 E9</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420070000 +0500" stop="20260420080000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Flight Risk</sub-title>
+    <desc>An airline pilot accuses her captain of sexual assault; Fin makes sure Benson is protected at work.</desc>
+    <episode-num system="onscreen">S19 E11</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420080000 +0500" stop="20260420090000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Solving for the Unknowns</sub-title>
+    <desc>The SVU struggles to find a serial predator who uses a date rape drug that leaves no evidence behind; Rollins receives some good news.</desc>
+    <episode-num system="onscreen">S21 E19</episode-num>
+    <credits>
+      <director>Christopher Misiano</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420090000 +0500" stop="20260420100000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>The Steps We Cannot Take</sub-title>
+    <desc>A home invasion and kidnapping lead the SVU to a shocking discovery; Muncy tries to fit in with the squad.</desc>
+    <episode-num system="onscreen">S24 E4</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420100000 +0500" stop="20260420110000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Prima Nocta</sub-title>
+    <desc>A runaway bride calls the SVU for help on the day of her wedding; Rollins pitches in on her day off.</desc>
+    <episode-num system="onscreen">S25 E11</episode-num>
     <credits>
       <director>Jean de Segonzac</director>
       <actor>Mariska Hargitay</actor>
       <actor>Ice-T</actor>
       <actor>Kelli Giddish</actor>
-    </credits><date>2015</date>
+    </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
     <category lang="en">Drama</category>
@@ -1444,12 +1333,258 @@
       <value>16</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating><rating system="Australian Classification Board">
       <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420110000 +0500" stop="20260420120000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Transitions</sub-title>
+    <desc>A man is found badly beaten in a parking lot, with no memory of what happened, and detectives suspect his transgender teen may be responsible.</desc>
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420120000 +0500" stop="20260420130000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Sugar</sub-title>
+    <desc>Stabler and Benson suspect a sugar daddy (Matt C. Burns) of murder when a young woman's body is found stuffed inside a suitcase.</desc>
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <credits>
+      <director>Peter Leto</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420130000 +0500" stop="20260420140000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Wet</sub-title>
+    <desc>A woman with a seemingly squeaky-clean image is found dead in a fountain; further investigation reveals a surprising motive and multiple suspects.</desc>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <credits>
+      <director>Jonathan Kaplan</director>
+      <actor>Christopher Meloni</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Richard Belzer</actor>
+    </credits><date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420140000 +0500" stop="20260420150000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Manhattan Vigil</sub-title>
+    <desc>The kidnapping of a young boy reminds Cragen, Munch and Benson of an unsolved case from 13 years earlier.</desc>
+    <episode-num system="onscreen">S14 E5</episode-num>
+    <credits>
+      <director>Jean de Segonzac</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Dann Florek</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420150000 +0500" stop="20260420160000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Transgender Bridge</sub-title>
+    <desc>When a 15-year-old who was part of a group of kids who put a transgender teen in the hospital is tried as an adult, the SVU team wonders whether the punishment fits the crime.</desc>
+    <episode-num system="onscreen">S17 E3</episode-num>
+    <credits>
+      <director>Arthur W. Forney</director>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -1465,208 +1600,355 @@
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Chicago P.D.</title>
-    <sub-title>Life Is Fluid</sub-title>
-    <desc>Intelligence pursues heroin kingpin Derek Keyes; Lindsay's downward spiral continues; Olinsky tells Platt about a secret from his past; Roman talks to Burgess about his concerns regarding Ruzek.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme><programme channel="USA-Network-East-US" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Patrimonial Burden</sub-title>
+    <desc>When the 13-year-old daughter of a reality-TV family discovers she's pregnant, the team investigates.</desc>
+    <episode-num system="onscreen">S17 E7</episode-num>
     <credits>
-      <actor>Jason Beghe</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Patrick John Flueger</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
     </credits><date>2015</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
     <category lang="en">Action</category>
     <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
     </rating><rating system="Arcom">
       <value>-12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418160000 +0500" stop="20260418163000 +0500">
-    <title>Live: Premier League Mornings</title>
-    <sub-title />
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <credits>
-      <actor>Rebecca Lowe</actor>
-    </credits><date>2018</date>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15841474_b_h10_aj.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260418163000 +0500" stop="20260418183000 +0500">
-    <title>Live: Premier League Soccer</title>
-    <sub-title />
-    <desc>Brentford (13-8-11) hosts Fulham (13-5-14) at Gtech Community Stadium for Matchweek 33. The Bees seek a top-seven finish after a 4-3 win over Burnley. The Cottagers sit four points behind their rivals and look to bounce back from a recent defeat.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032HMW8.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260418183000 +0500" stop="20260418190000 +0500">
-    <title>Live: Premier League Mornings</title>
-    <sub-title />
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <credits>
-      <actor>Rebecca Lowe</actor>
-    </credits><date>2018</date>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15841474_b_h10_aj.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260418190000 +0500" stop="20260418210000 +0500">
-    <title>Live: Premier League Soccer</title>
-    <sub-title />
-    <desc>Bournemouth (10-15-7) visits St. James' Park to play Newcastle (12-6-14). 11th-place Bournemouth has 45 points after a huge 2-1 win at Arsenal. 14th-place Newcastle has 42 points and lacks consistency after a 2-1 loss to Crystal Palace.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032HMFQ.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260418210000 +0500" stop="20260418213000 +0500">
-    <title>Live: Premier League Mornings</title>
-    <sub-title />
-    <desc>Stateside Premier League fan festival that includes a turf pitch, the Premier League trophy, club mascots, special guests, contests, and more.</desc>
-    <credits>
-      <actor>Rebecca Lowe</actor>
-    </credits><date>2018</date>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15841474_b_h10_aj.jpg?w=960&amp;h=540" />
-  </programme><programme channel="USA-Network-East-US" start="20260418213000 +0500" stop="20260418220000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Big Flappy Bastards</sub-title>
-    <desc>Charlie doesn't know how to discipline Jake for luring a flock of sea gulls into his room; Judith surprises Alan when he goes home to fix her sprinklers.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <director>Andy Ackerman</director>
-      <actor>Charlie Sheen</actor>
-      <actor>Jon Cryer</actor>
-      <actor>Angus T. Jones</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895741_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
     </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418220000 +0500" stop="20260418230000 +0500">
-    <title>Chicago P.D.</title>
-    <sub-title>Debts of the Past</sub-title>
-    <desc>Voight believes the man who tried to kill him is someone he and Olinsky once put away; Atwater unintentionally spills information about Ruzek's history that disturbs Burgess.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme><programme channel="USA-Network-East-US" start="20260420170000 +0500" stop="20260420180000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Melancholy Pursuit</sub-title>
+    <desc>The search for a missing teenager takes an emotional toll on Dodds; DNA evidence could lead to the teen's abductor.</desc>
+    <episode-num system="onscreen">S17 E8</episode-num>
     <credits>
-      <actor>Jason Beghe</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Patrick John Flueger</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
     </credits><date>2015</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
     <category lang="en">Action</category>
     <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
+      <value>12</value>
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
     </rating>
-  </programme><programme channel="USA-Network-East-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>Chicago P.D.</title>
-    <sub-title>Climbing Into Bed</sub-title>
-    <desc>Ruzek's future with the unit is in question after a botched undercover job; a corpse is discovered in an SUV; Lindsay and Halstead move forward with their relationship.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme><programme channel="USA-Network-East-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Depravity Standard</sub-title>
+    <desc>Barba relies on old evidence, and faces off against a former colleague, during the trial of child abductor Lewis Hodda.</desc>
+    <episode-num system="onscreen">S17 E9</episode-num>
     <credits>
-      <actor>Jason Beghe</actor>
-      <actor>Sophia Bush</actor>
-      <actor>Patrick John Flueger</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
     </credits><date>2015</date>
     <category lang="en">Series</category>
     <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
     <category lang="en">Action</category>
     <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9972948_b_h8_bz.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
       <value>16</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Catfishing Teacher</sub-title>
+    <desc>A high-school student plans a secret hookup with a female teacher, but ends up in a sinister situation.</desc>
+    <episode-num system="onscreen">S17 E10</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Townhouse Incident</sub-title>
+    <desc>When Sgt. Olivia Benson attempts to thwart a violent home invasion, she gets more than she bargains for and becomes a hostage.</desc>
+    <episode-num system="onscreen">S17 E11</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Nationwide Manhunt</sub-title>
+    <desc>Detectives Erin Lindsay and Antonio Dawson from Chicago P.D. help SVU when two convicted murderers escape.</desc>
+    <episode-num system="onscreen">S17 E14</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Collateral Damages</sub-title>
+    <desc>An online pedophile ring -- including two high-profile suspects -- is targeted in an undercover sting.</desc>
+    <episode-num system="onscreen">S17 E15</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184536_b_h8_dn.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="USA-Network-East-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Premier League Live</title>
+    <sub-title />
+    <desc>Discussion and analysis of Premier League soccer.</desc>
+    <date>2013</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10111467_b_h10_ab.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

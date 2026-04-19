@@ -3,245 +3,2163 @@
   <channel id="AMC-Plus-US">
     <display-name>AMC+</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/AMC-Plus-US.png" />
-  </channel><programme channel="AMC-Plus-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+  </channel><programme channel="AMC-Plus-US" start="20260419002100 +0500" stop="20260419010700 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>La Serpiente</sub-title>
+    <desc>A mission is launched to replenish the Ranch's water supply and save the Ranch.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <director>Josef Wladyka</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419010700 +0500" stop="20260419015100 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Brother's Keeper</sub-title>
+    <desc>Nick and Jake set out to handle a delicate situation; the Ranch prepares for a threat greater than any they've faced before.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <credits>
+      <director>Alrick Riley</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419015100 +0500" stop="20260419023700 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>This Land is Your Land</sub-title>
+    <desc>Alicia is thrust into a position of leadership where she's forced to make life-changing decisions.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <director>Meera Menon</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419023700 +0500" stop="20260419032600 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>El Matadero</sub-title>
+    <desc>Alicia encounters a potential ally; Ofelia fights for survival; Nick uses his skill set for profit.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <credits>
+      <director>Stefan Schwartz</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419032600 +0500" stop="20260419041500 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Things Bad Begun</sub-title>
+    <desc>Nick discovers a new threat descending on the dam; Madison faces a horrifying revelation.</desc>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <credits>
+      <director>Andrew Bernstein</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419041500 +0500" stop="20260419050000 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Sleigh Ride</sub-title>
+    <desc>Strand's loyalty is tested when the dam clashes with an adversary; the Clark family is pushed to new extremes; Madison reckons with her past.</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <credits>
+      <director>Andrew Bernstein</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419050000 +0500" stop="20260419055000 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Eye of the Beholder</sub-title>
+    <desc>The Clark family find themselves in a terrible predicament.</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419055000 +0500" stop="20260419064100 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>The New Frontier</sub-title>
+    <desc>After a long journey, the Clark family arrive at their new home; Strand attempts to hold power over his domain.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419064100 +0500" stop="20260419072600 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>TEOTWAWKI</sub-title>
+    <desc>Alicia and Nick fall in with new crowds; Madison discovers Otto's past mimics her own.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>18</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419072600 +0500" stop="20260419081100 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>100</sub-title>
+    <desc>A mysterious character searches for purpose and becomes tied to the struggle over an important resource in the apocalypse.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419081100 +0500" stop="20260419085600 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Burning in Water, Drowning in Flame</sub-title>
+    <desc>An oncoming threat disrupts peace; Madison and Troy search for answers; Alicia must reconcile with her past.</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <credits>
+      <director>Daniel Stamm</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419085600 +0500" stop="20260419094100 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Red Dirt</sub-title>
+    <desc>Loyalty wavers at the ranch; news of incoming danger spreads in the community; Madison struggles to keep everyone together; Nick grapples with a hard truth.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <director>Courtney Hunt</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419094100 +0500" stop="20260419102600 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>The Unveiling</sub-title>
+    <desc>An arrival at the ranch creates a divide as tensions run high and communities clash; Alicia forms a new relationship.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419102600 +0500" stop="20260419111900 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Children of Wrath</sub-title>
+    <desc>Madison negotiates a new agreement amid the ranch-wide turmoil; Nick and Alicia confront their mother's intentions.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419111900 +0500" stop="20260419120500 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Minotaur</sub-title>
+    <desc>New leadership assumes control of the Ranch; Daniel assists Lola in the distribution of water.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <director>Stefan Schwartz</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417150000 +0500" stop="20260417160000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419120500 +0500" stop="20260419125000 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>The Diviner</sub-title>
+    <desc>Madison and Walker leave in search of a solution; Nick and Alicia struggle to keep the peace.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <director>Paco Cabezas</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419125000 +0500" stop="20260419133500 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>La Serpiente</sub-title>
+    <desc>A mission is launched to replenish the Ranch's water supply and save the Ranch.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <director>Josef Wladyka</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419133500 +0500" stop="20260419141700 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>Brother's Keeper</sub-title>
+    <desc>Nick and Jake set out to handle a delicate situation; the Ranch prepares for a threat greater than any they've faced before.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <credits>
+      <director>Alrick Riley</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419141700 +0500" stop="20260419150000 +0500">
+    <title>Fear the Walking Dead</title>
+    <sub-title>This Land is Your Land</sub-title>
+    <desc>Alicia is thrust into a position of leadership where she's forced to make life-changing decisions.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <director>Meera Menon</director>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p11877956_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>18</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Régie du cinéma">
+      <value>18+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419150000 +0500" stop="20260419154800 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>High Plains Hardware</sub-title>
+    <desc>Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek the funds to make the new machine.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419154800 +0500" stop="20260419163600 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Close to the Metal</sub-title>
+    <desc>Cameron nearly completes the BIOS; when a crisis threatens the project's future, the entire team is needed to save it.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419163600 +0500" stop="20260419172400 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Adventure</sub-title>
+    <desc>Cameron chafes under new management; Joe and Gordon try to obtain an important piece of technology.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419172400 +0500" stop="20260419181200 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Landfall</sub-title>
+    <desc>After having a breakthrough, Cameron is at odds with Gordon; Joe must make a difficult decision; personal revelations are induced.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419181200 +0500" stop="20260419190000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Giant</sub-title>
+    <desc>When a person from Joe's past visits, his connection with Cameron is threatened; the cost Gordon's work catches up to him.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419190000 +0500" stop="20260419194800 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>The 214s</sub-title>
+    <desc>The team finalizes preparations for COMDEX amid scandal; Bosworth makes a sacrifice for the good of the program.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419194800 +0500" stop="20260419203600 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Up Helly Aa</sub-title>
+    <desc>Unanticipated adversaries and increased complications hinder the progress that the Cardiff Electric team has made.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419203600 +0500" stop="20260419212400 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>1984</sub-title>
+    <desc>Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership; Cameron takes control of her future.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419212400 +0500" stop="20260419221500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>I/O</sub-title>
+    <desc>A visionary, an engineer and a prodigy chart the changing culture of Texas' Silicon Prairie in the 1980s.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419221500 +0500" stop="20260419230000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>FUD</sub-title>
+    <desc>Joe's team must overcome internal differences and start building the new machine.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419230000 +0500" stop="20260419234500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>High Plains Hardware</sub-title>
+    <desc>Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek the funds to make the new machine.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418060000 +0500" stop="20260418070000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260419234500 +0500" stop="20260420003000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Close to the Metal</sub-title>
+    <desc>Cameron nearly completes the BIOS; when a crisis threatens the project's future, the entire team is needed to save it.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418070000 +0500" stop="20260418080000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420003000 +0500" stop="20260420011500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Adventure</sub-title>
+    <desc>Cameron chafes under new management; Joe and Gordon try to obtain an important piece of technology.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418080000 +0500" stop="20260418090000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420011500 +0500" stop="20260420020000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Landfall</sub-title>
+    <desc>After having a breakthrough, Cameron is at odds with Gordon; Joe must make a difficult decision; personal revelations are induced.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418090000 +0500" stop="20260418100000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420020000 +0500" stop="20260420024500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Giant</sub-title>
+    <desc>When a person from Joe's past visits, his connection with Cameron is threatened; the cost Gordon's work catches up to him.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418100000 +0500" stop="20260418110000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420024500 +0500" stop="20260420033000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>The 214s</sub-title>
+    <desc>The team finalizes preparations for COMDEX amid scandal; Bosworth makes a sacrifice for the good of the program.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420033000 +0500" stop="20260420041500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Up Helly Aa</sub-title>
+    <desc>Unanticipated adversaries and increased complications hinder the progress that the Cardiff Electric team has made.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418120000 +0500" stop="20260418130000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420041500 +0500" stop="20260420050000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>1984</sub-title>
+    <desc>Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership; Cameron takes control of her future.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418130000 +0500" stop="20260418140000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420050000 +0500" stop="20260420060500 +0500">
+    <title>The Audacity</title>
+    <sub-title>Best of All Possible Worlds</sub-title>
+    <desc>Duncan, almost tech titan, must prove he and his company are F-able; JoAnne provides therapy with benefits; Orson lands from Baltimore; the party for Dr. Green ends in a cat burglary.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Lucy Forbes</director>
+      <actor>Billy Magnussen</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Zach Galifianakis</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418140000 +0500" stop="20260418150000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p32164018_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420060500 +0500" stop="20260420071200 +0500">
+    <title>The Audacity</title>
+    <sub-title>Best of All Possible Worlds</sub-title>
+    <desc>Duncan, almost tech titan, must prove he and his company are F-able; JoAnne provides therapy with benefits; Orson lands from Baltimore; the party for Dr. Green ends in a cat burglary.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Lucy Forbes</director>
+      <actor>Billy Magnussen</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Zach Galifianakis</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p32164018_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVMA</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420071200 +0500" stop="20260420080400 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>I/O</sub-title>
+    <desc>A visionary, an engineer and a prodigy chart the changing culture of Texas' Silicon Prairie in the 1980s.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420080400 +0500" stop="20260420085100 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>FUD</sub-title>
+    <desc>Joe's team must overcome internal differences and start building the new machine.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420085100 +0500" stop="20260420093800 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>High Plains Hardware</sub-title>
+    <desc>Gordon and Cameron struggle to make Joe's vision a reality; Joe and Bosworth seek the funds to make the new machine.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420093800 +0500" stop="20260420102500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Close to the Metal</sub-title>
+    <desc>Cameron nearly completes the BIOS; when a crisis threatens the project's future, the entire team is needed to save it.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420102500 +0500" stop="20260420111200 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Adventure</sub-title>
+    <desc>Cameron chafes under new management; Joe and Gordon try to obtain an important piece of technology.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420111200 +0500" stop="20260420120000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Landfall</sub-title>
+    <desc>After having a breakthrough, Cameron is at odds with Gordon; Joe must make a difficult decision; personal revelations are induced.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420120000 +0500" stop="20260420124600 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Giant</sub-title>
+    <desc>When a person from Joe's past visits, his connection with Cameron is threatened; the cost Gordon's work catches up to him.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418220000 +0500" stop="20260418230000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420124600 +0500" stop="20260420133200 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>The 214s</sub-title>
+    <desc>The team finalizes preparations for COMDEX amid scandal; Bosworth makes a sacrifice for the good of the program.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
-  </programme><programme channel="AMC-Plus-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>AMC+ Show</title>
-    <sub-title />
-    <desc />
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420133200 +0500" stop="20260420141700 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Up Helly Aa</sub-title>
+    <desc>Unanticipated adversaries and increased complications hinder the progress that the Cardiff Electric team has made.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
     <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420141700 +0500" stop="20260420150000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>1984</sub-title>
+    <desc>Gordon and Joe prepare to transport the Giant; a suspicious defect causes a rift in the partnership; Cameron takes control of her future.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420150000 +0500" stop="20260420152100 +0500">
+    <title>Comic Book Men</title>
+    <sub-title>Stash Bashes</sub-title>
+    <desc>Walt and the guys throw a birthday party at the Stash; larger-than-life Darth Vader helmet.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <credits>
+      <actor>Kevin Smith</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9179962_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420152100 +0500" stop="20260420160600 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Play With Friends</sub-title>
+    <desc>Joe and Gordon reunite to turn Joe's vision into a reality; tensions run high between Cameron and Donna in the aftermath of Sonaris.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420160600 +0500" stop="20260420165000 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Extract and Defend</sub-title>
+    <desc>Cameron and Joe cross paths, sending Cameron into a tailspin; Gordon searches for connection as he absorbs difficult news.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420165000 +0500" stop="20260420173400 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>10Broad36</sub-title>
+    <desc>Gordon returns to California, in hopes of reconnecting with his brother; Joe uses his leverage to change Wheeler's thinking.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420173400 +0500" stop="20260420181800 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Working for the Clampdown</sub-title>
+    <desc>Gordon and Donna keep secrets from each other; Gordon launches a new venture; Cameron's principles are tested.</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420181800 +0500" stop="20260420190100 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Limbo</sub-title>
+    <desc>Cameron and Tom try to come to terms at Mutiny's user picnic; Gordon searches for answers; Joe and Sara leave Dallas.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420190100 +0500" stop="20260420194600 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Kali</sub-title>
+    <desc>Reeling after a rival's launch, Mutiny takes measures to ensure survival; Gordon pays a price to quell his paranoia.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420194600 +0500" stop="20260420203300 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Heaven Is a Place</sub-title>
+    <desc>When the Clark family descends into crisis, Gordon helps Joe; Cameron envisions a new future for Mutiny.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420203300 +0500" stop="20260420211700 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>SETI</sub-title>
+    <desc>Cameron and Donna's fledgling gaming company, Mutiny, reaches a critical stage; Joe and Gordon are reunited in the wake of Cardiff's sale.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420211700 +0500" stop="20260420220100 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>New Coke</sub-title>
+    <desc>Joe begins a new job after meeting Sara's father; Gordon grapples with his newfound freedom; Donna is jolted by Cameron's surprising hire at Mutiny.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420220100 +0500" stop="20260420224500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>The Way In</sub-title>
+    <desc>John tries to reconnect with his former life; Gordon and Donna receive a surprising invitation; a problem arises at Mutiny that threatens its survival.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420224500 +0500" stop="20260420233100 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Play With Friends</sub-title>
+    <desc>Joe and Gordon reunite to turn Joe's vision into a reality; tensions run high between Cameron and Donna in the aftermath of Sonaris.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="AMC-Plus-US" start="20260420233100 +0500" stop="20260421001500 +0500">
+    <title>Halt and Catch Fire</title>
+    <sub-title>Extract and Defend</sub-title>
+    <desc>Cameron and Joe cross paths, sending Cameron into a tailspin; Gordon searches for connection as he absorbs difficult news.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <credits>
+      <actor>Lee Pace</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Mackenzie Davis</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10492658_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
   </programme>
 </tv>

@@ -3,54 +3,324 @@
   <channel id="HBO3-PL">
     <display-name>HBO3</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/HBO3-PL.png" />
-  </channel><programme channel="HBO3-PL" start="20260417000000 +0500" stop="20260417004000 +0500">
-    <title>Last Week Tonight With John Oliver 13</title>
+  </channel><programme channel="HBO3-PL" start="20260419000000 +0500" stop="20260419004500 +0500">
+    <title>Nocny lot</title>
     <sub-title />
-    <desc>Another season of a show full of irony and sarcasm, hosted by John Oliver.In each episode, the host summarizes the events from the world of politics from the last week.</desc>
-    <episode-num system="onscreen">S13E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Talk-Show</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417004000 +0500" stop="20260417013500 +0500">
-    <title>The Pitt</title>
-    <sub-title />
-    <desc />
+    <desc>After returning from Beijing, British doctor Matthew Nolan (Richard Armitage) is accused of committing murder in the Chinese capital.He is sure that he was tricked into this crime.Meanwhile, due to the extradition provision, he must be transported back to the Middle Kingdom.He is to be escorted by London policewoman Hana Li (Jing Lusi).It is not possible for them to take a long flight in peace.The conspiracy in which the doctor is involved escalates on board the plane.There are also more murders.The series takes place during an overnight flight between London and Beijing
+Dr. Matthew Nolan goes to a medical conference in Beijing.While visiting a nightclub, he is involved in a life-threatening incident.After returning to London, at the airport, he is arrested by the British services.When officers find a stab wound on his body, the man is accused of killing a woman in Beijing, a woman named Shen Zhao.MI5 Director General Madeline Delaney reluctantly agrees to a request from the Chinese Trade Minister to extradite a man due to ongoing negotiations over the Sino-British nuclear energy program.Nolan is to be escorted to China by policewoman Hana Li.</desc>
     <episode-num system="onscreen">S1E1</episode-num>
     <credits>
-      <director>John Wells</director>
-      <actor>Dr. Michael Robinavitch - Noah Wyle</actor>
-      <actor>Dr. Cassie McKay - Fiona Dourif</actor>
-      <actor>Dana Evans - Katherine LaNasa</actor>
-      <actor>Dr. Dennis Whitaker - Gerran Howell</actor>
-      <actor>Dr. Trinity Santos - Isa Briones</actor>
-      <actor>Dr. Heather Collins - Tracy Ifeachor</actor>
-      <actor>Dr. Melissa King - Taylor Dearden</actor>
-      <actor>Mateo Diaz - Jalen Thomas Brooks</actor>
-      <actor>Dr. Victoria Javadi - Shabana Azeez</actor>
-      <actor>Dr. Samira Mohan - Supriya Ganesh</actor>
+      <director>Kieron Hawkes</director>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>Toni Zhang - Dan Li</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Rén Yúnxi - Tai Yin Chan</actor>
+      <actor>Captain Chén - Thomas Chaanhing</actor>
+      <actor>Mike Maxwell - Mido Hamada</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419004500 +0500" stop="20260419013000 +0500">
+    <title>Red Eye 2</title>
+    <sub-title />
+    <desc>A British doctor is arrested for murder on his way to Beijing.Three women become involved in a conspiracy.DS Hana Li and Agent Clay Brody must track down the killer to prevent the plane from being shot down.</desc>
+    <episode-num system="onscreen">S2E2</episode-num>
+    <credits>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Megan Campbell - Steph Lacey</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>John Tennant - Jonathan Aris</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Supt. Simon O'Brien - Robert Gilbert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419013000 +0500" stop="20260419022000 +0500">
+    <title>Red Eye 2</title>
+    <sub-title />
+    <desc>A British doctor is arrested for murder on his way to Beijing.Three women become involved in a conspiracy.DS Hana Li and Agent Clay Brody must track down the killer to prevent the plane from being shot down.</desc>
+    <episode-num system="onscreen">S2E3</episode-num>
+    <credits>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Megan Campbell - Steph Lacey</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>John Tennant - Jonathan Aris</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Supt. Simon O'Brien - Robert Gilbert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419022000 +0500" stop="20260419030500 +0500">
+    <title>Red Eye 2</title>
+    <sub-title />
+    <desc>A British doctor is arrested for murder on his way to Beijing.Three women become involved in a conspiracy.DS Hana Li and Agent Clay Brody must track down the killer to prevent the plane from being shot down.</desc>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <credits>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Megan Campbell - Steph Lacey</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>John Tennant - Jonathan Aris</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Supt. Simon O'Brien - Robert Gilbert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419030500 +0500" stop="20260419035500 +0500">
+    <title>Red Eye 2</title>
+    <sub-title />
+    <desc>A British doctor is arrested for murder on his way to Beijing.Three women become involved in a conspiracy.DS Hana Li and Agent Clay Brody must track down the killer to prevent the plane from being shot down.</desc>
+    <episode-num system="onscreen">S2E5</episode-num>
+    <credits>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Megan Campbell - Steph Lacey</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>John Tennant - Jonathan Aris</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Supt. Simon O'Brien - Robert Gilbert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419035500 +0500" stop="20260419044500 +0500">
+    <title>Red Eye 2</title>
+    <sub-title />
+    <desc>A British doctor is arrested for murder on his way to Beijing.Three women become involved in a conspiracy.DS Hana Li and Agent Clay Brody must track down the killer to prevent the plane from being shot down.</desc>
+    <episode-num system="onscreen">S2E6</episode-num>
+    <credits>
+      <actor>DC Hana Li - Jing Lusi</actor>
+      <actor>Madeline Delaney - Lesley Sharp</actor>
+      <actor>Ruth Banks - Cash Holland</actor>
+      <actor>Megan Campbell - Steph Lacey</actor>
+      <actor>Jess Li - Jemma Moore</actor>
+      <actor>John Tennant - Jonathan Aris</actor>
+      <actor>Dr. Matthew Nolan - Richard Armitage</actor>
+      <actor>Supt. Simon O'Brien - Robert Gilbert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Action Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419044500 +0500" stop="20260419073000 +0500">
+    <title>Kinds of Kindness</title>
+    <sub-title />
+    <desc>Three seemingly unrelated stories.Emma Stone, Jesse Plemons and Willem Dafoe play various roles.A corporate manager (Jesse Plemons) lives under the dictates of an eccentric boss (Willem Dafoe).She puts his well-being above her own and doesn't question any outlandish demands.Stripped of his dignity, he tries to free himself from total control.A policeman (Jesse Plemons) misses his wife (Emma Stone) - a biologist who disappeared during a research expedition.A woman who survived the disaster returns, but her marriage is put to the test.The husband becomes paranoid and is not sure whether this is the same beloved he once married.The heroes of the last story are members of a sect who are looking for a person with the power to resurrect the dead.The work of Yórgos Lánthimos - the director of "Poor Creatures", which won four Oscars.For his performance, Jesse Plemons was awarded the Palme d'Or at Cannes.</desc>
+    <credits>
+      <director>Yorgos Lanthimos</director>
+      <actor>Rita - Emma Stone</actor>
+      <actor>Robert - Jesse Plemons</actor>
+      <actor>Raymond - Willem Dafoe</actor>
+      <actor>Vivian - Margaret Qualley</actor>
+      <actor>Sarah - Hong Chau</actor>
+      <actor>Collectibles Appraise Man 1 - Joe Alwyn</actor>
+      <actor>Will - Mamoudou Athie</actor>
+      <actor>Anna - Hunter Schafer</actor>
+      <actor>Young Woman Driver - Susan Elle</actor>
+      <actor>Susan - Krystal Alayne Chambers</actor>
+    </credits><date>2024</date>
+    <category lang="en">Comedy Dramas</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419073000 +0500" stop="20260419090000 +0500">
+    <title>Shock Docs: Ghosts of Flight 401</title>
+    <sub-title />
+    <desc>On December 29, 1972, Eastern Airlines Flight 401 crashed in the Florida Everglades.100 people died.Soon after, there were reports of encounters with the spirits of people who died on that flight.For the first time, on the 50th anniversary of the crash, paranormal investigator Steve Shippy and medium Cindy Kaza will try to make contact with the spirits of Flight 401 and find out the truth about what really happened that fateful night.The Flight 401 case is one of the greatest supernatural mysteries in US history.</desc>
+    <credits>
+      <director>Greg Francis</director>
+    </credits><date>2022</date>
+    <category lang="en">Documentary Film</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419090000 +0500" stop="20260419113000 +0500">
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <sub-title />
+    <desc>Orphaned Harry Potter is raised by his Uncle Vernon and Aunt Petunia.His guardians don't care about him, and his cousin Dudley constantly teases him.One day, a mysterious letter arrives to Harry.His relatives do not allow him to read it because it reveals the secret of his origins.However, on his eleventh birthday, the boy learns the truth.It turns out that he is the son of a pair of magicians who were killed by the wizard Voldemort.To his surprise, Harry also discovers that he has inherited extraordinary abilities from his parents.He receives an invitation to study at Hogwarts, the school of magic.His life changes completely.Once there, Harry is surprised to discover that he is famous in the wizarding community.At school, he makes friends with his peers, Ron and Hermione.Together with them, he tries to discover the secret of the philosopher's stone hidden within the walls of the academy.They experience many adventures together.Potter must face the enemy who contributed to the death of his loved ones.</desc>
+    <credits>
+      <director>Chris Columbus</director>
+      <actor>Harry Potter - Daniel Radcliffe</actor>
+      <actor>Hermione Granger - Emma Watson</actor>
+      <actor>Ron Weasley - Rupert Grint</actor>
+      <actor>Albus Dumbledore - Richard Harris</actor>
+      <actor>Professor McGonagall - Maggie Smith</actor>
+      <actor>Hagrid - Robbie Coltrane</actor>
+      <actor>Baby Harry Potter - Saunders Triplets</actor>
+      <actor>Aunt Petunia Dursley - Fiona Shaw</actor>
+      <actor>Dudley Dursley - Harry Melling</actor>
+      <actor>Uncle Vernon Dursley - Richard Griffiths</actor>
+    </credits><date>2001</date>
+    <category lang="en">Adventure Movie</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419113000 +0500" stop="20260419125500 +0500">
+    <title>The Last Showgirl</title>
+    <sub-title />
+    <desc>After thirty years, dancer Shelly Gardner (Pamela Anderson) ends her career.For decades, she performed in a strip revue in Las Vegas, which was inspired by French burlesque.The stage, costumes and music are her passion, for which she sacrificed her family life and relationship with her daughter, Hannah (Billie Lourd).She shared her knowledge and experience with beginner friends Marianne (Brenda Song) and Jodie (Kiernan Shipka).One day, however, producer Eddie (Dave Bautista) announces that the show has been canceled.A devastated Shelly must re-plan her future.A similar fate will befall her friend Annette (Jamie Lee Curtis), a dealer at an arcade.Golden Globe for Pamela Anderson.</desc>
+    <credits>
+      <director>Gia Coppola</director>
+      <actor>Shelly - Pamela Anderson</actor>
+      <actor>Annette - Jamie Lee Curtis</actor>
+      <actor>Hannah - Billie Lourd</actor>
+      <actor>Jodie - Kiernan Shipka</actor>
+      <actor>Mary-Anne - Brenda Song</actor>
+      <actor>Eddie - Dave Bautista</actor>
+      <actor>Brad - Patrick Hilgart</actor>
+    </credits><date>2024</date>
+    <category lang="en">Social Drama</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419125500 +0500" stop="20260419151500 +0500">
+    <title>War for the Planet of the Apes</title>
+    <sub-title />
+    <desc>The situation of the mutant monkeys changes with the appearance of a formation led by the Colonel, which seeks to take control of the apes.Meanwhile, Blue Eyes informs his father that he has found a place for their tribe to live.The decision is made to march.Under the cover of darkness, an attack occurs.Caesar's son and wife are killed.Despite the tragedy, the primate leader believes in the success of a peaceful solution.On his own, he searches for the person responsible for the massacre, but falls into the hands of the enemy.He then finds out that his compatriots were forced to work as slaves.People are attacked by a virus that reverses the process of evolution.The final showdown is inevitably approaching.</desc>
+    <credits>
+      <director>Matt Reeves</director>
+      <actor>Caesar - Andy Serkis</actor>
+      <actor>The Colonel - Woody Harrelson</actor>
+      <actor>Bad Ape - Steve Zahn</actor>
+      <actor>Maurice - Karin Konoval</actor>
+      <actor>Nova - Amiah Miller</actor>
+      <actor>Rocket - Terry Notary</actor>
+      <actor>Red Donkey - Ty Olsson</actor>
+      <actor>Luca - Michael Adamthwaite</actor>
+      <actor>Koba - Toby Kebbell</actor>
+      <actor>Preacher - Gabriel Chavarria</actor>
+    </credits><date>2017</date>
+    <category lang="en">Film Sf</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419151500 +0500" stop="20260419154000 +0500">
+    <title>Georgie \u0026 Mandy's First Marriage</title>
+    <sub-title />
+    <desc>1990s.Young married couple Georgie Cooper (Montana Jordan) and Mandy McAllister (Emily Osment) living in Texas are taking care of their several-month-old daughter CeeCee.The couple lives with the woman's parents, Audrey (Rachel Bay Jones) and Jim (Will Sasso), and her younger brother Connor (Dougie Baldwin).Every day, young parents face the challenges of adulthood, relationship life and parenthood.The third television series in the series "The Big Bang Theory", a direct continuation of "Young Sheldon".</desc>
+    <episode-num system="onscreen">S1E22</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Georgie Cooper - Montana Jordan</actor>
+      <actor>Mandy McAllister - Emily Osment</actor>
+      <actor>Audrey McAllister - Rachel Bay Jones</actor>
+      <actor>Jim McAllister - Will Sasso</actor>
+      <actor>Connor McAllister - Dougie Baldwin</actor>
+      <actor>Ruben - Jessie Prez</actor>
+      <actor>Roy - Dale E. Turner</actor>
+      <actor>Mary - Zoe Perry</actor>
+      <actor>Meemaw - Annie Potts</actor>
+      <actor>Beth - Casey Wilson</actor>
+    </credits><date>2024</date>
+    <category lang="en">Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419154000 +0500" stop="20260419162500 +0500">
+    <title>Doc Ii.</title>
+    <sub-title />
+    <desc>Dr. Amy Larsen, former chief of internal medicine, is rebuilding her life after a tragic accident that left her with no memory.Now she is an intern.Her past still haunts me.</desc>
+    <episode-num system="onscreen">S2E11</episode-num>
+    <credits>
+      <director>Russell Lee Fine</director>
     </credits><date>2025</date>
     <category lang="en">Drama Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417013500 +0500" stop="20260417023500 +0500">
-    <title>Euphoria</title>
+  </programme><programme channel="HBO3-PL" start="20260419162500 +0500" stop="20260419165500 +0500">
+    <title>Dawn of the Dragon Racers</title>
     <sub-title />
-    <desc>The further fate of a group of friends who left school behind and entered adulthood.The action moves forward several years.Rue (Zendaya Coleman) is no longer a lost teenager, but a person involved in the criminal world.He goes to interrogation in connection with smuggling drugs from Mexico.Cassie (Sydney Sweeney) and Maddy's (Alexa Demie) relationship has improved, but old wounds haven't healed at all.The first woman's relationship with Nate (Jacob Elordi) develops, but not towards a happy ending.The remaining characters confront their own choices, addiction and violence.They are looking for redemption and answers to the question about their place in the world.</desc>
-    <episode-num system="onscreen">S3E1</episode-num>
+    <desc>The dragon riders are preparing for the next showdown.At Dragon Academy, Snotlout launches sheep into the air.However, the animals end up in various places in the village, disturbing its inhabitants in their daily activities.On Stoick's orders, the young trainers chase them around the island on the backs of their dragons.The activity quickly turns into a competition.Finally, a race is organized with the participation of fluffy creatures that are released from the pastures especially for this occasion.The competition becomes the new official sport for equestrians.In the Polish language version, the characters were voiced by, among others:Grzegorz Drojewski, Artur Pontek, Sebastian Cybulski and Julia Kołakowska-Bytner.</desc>
     <credits>
-      <actor>Rue Bennett - Zendaya Coleman</actor>
-      <actor>Jules Vaughn - Hunter Schafer</actor>
-      <actor>Lexi Howard - Maude Apatow</actor>
-      <actor>Nate Jacobs - Jacob Elordi</actor>
-      <actor>Maddy Perez - Alexa Demie</actor>
-      <actor>Cassie Howard - Sydney Sweeney</actor>
-      <actor>Leslie Bennett - Nika King</actor>
-      <actor>Cal Jacobs - Eric Dane</actor>
-      <actor>Suze - Alanna Ubach</actor>
-      <actor>Marsha Jacobs - Paula Marshall</actor>
-    </credits><date>2026</date>
+      <director>Elaine Bogan</director>
+      <director>John Sanford</director>
+    </credits><date>2014</date>
+    <category lang="en">Animated Film</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419165500 +0500" stop="20260419190000 +0500">
+    <title>Her</title>
+    <sub-title />
+    <desc>Los Angeles.Theodore makes a living by writing letters to order.He experiences a painful divorce from Catherine.His friend Amy supports him in difficult times.He spends his free time playing computer games and occasional dates.One day he buys a new operating system that can meet all user needs.She uses the software's capabilities by communicating with a virtual character with a sensual voice, Samantha.He quickly realizes that this cybernetic consciousness understands him perfectly.He has great knowledge, sense of humor and feelings.Theodore realizes that he has met the ideal woman.Attempts are made to create an unconventional relationship.</desc>
+    <credits>
+      <director>Spike Jonze</director>
+      <actor>Theodore - Joaquin Phoenix</actor>
+      <actor>Paul - Chris Pratt</actor>
+      <actor>Amy - Amy Adams</actor>
+      <actor>Catherine - Rooney Mara</actor>
+      <actor>Charles - Matt Letscher</actor>
+      <actor>Letter Writer #1 - Lynn Adrianna</actor>
+      <actor>Samantha - Scarlett Johansson</actor>
+      <actor>Letter Writer #2 - Lisa Renee Pitts</actor>
+      <actor>Letter Writer #3 - Gabe Gomez</actor>
+      <actor>Sexy Pregnant TV Star - May Lindstrom</actor>
+    </credits><date>2013</date>
+    <category lang="en">Melodrama</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419190000 +0500" stop="20260419200000 +0500">
+    <title>Ród smoka</title>
+    <sub-title />
+    <desc>The history of House Targaryen.Its leader, Viserys I (Paddy Considine), ruler of the Seven Kingdoms, decides to break with tradition.The king appoints his daughter, Princess Rhaenyra (Milly Alcock and Emma D'Arcy), as heir to the Iron Throne.This step leads to the initiation of a conflict within the family, called the Dance of Dragons.After the ruler's death, the fratricidal fight breaks out with renewed force.Also taking part in it are:Rhaenyra's brother, Aegon (Tom Glynn-Carney), and Alicent Hightower (Emily Carey and Olivia Cooke), the second wife of Viserys I. The events told in the series precede the action of "Game of Thrones" by 200 years.</desc>
+    <episode-num system="onscreen">S1E9</episode-num>
+    <credits>
+      <director>Clare Kilner</director>
+      <actor>King Viserys Targaryen - Paddy Considine</actor>
+      <actor>Prince Daemon Targaryen - Matt Smith</actor>
+      <actor>Lord Corlys Velaryon - Steve Toussaint</actor>
+      <actor>Princess Rhaenys Velaryon - Eve Best</actor>
+      <actor>Otto Hightower - Rhys Ifans</actor>
+      <actor>Mysaria - Sonoya Mizuno</actor>
+      <actor>Ser Criston Cole - Fabien Frankel</actor>
+      <actor>Ser Harwin 'Breakbones' Strong - Ryan Corr</actor>
+      <actor>Lord Jason Lannister - Jefferson Hall</actor>
+      <actor>Grand Maester Mellos - David Horovitch</actor>
+    </credits><date>2022</date>
+    <category lang="en">Serial Fantasy</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419200000 +0500" stop="20260419205000 +0500">
+    <title>Heated Rivalry</title>
+    <sub-title />
+    <desc>Two ice hockey players, Shane Hollander (Hudson Williams) and Ilya Rozanov (Connor Storrie), are united not only by ambition and the need for competition, but also by a magnetic attraction that neither of them fully understands.What begins as a secret romance between two debutants turns into an extraordinary love journey.Athletes spend eight years chasing fame on the ice rink while trying to deal with their feelings off it.They must decide whether there is room for something as fragile as love in a world of brutal competition.</desc>
+    <episode-num system="onscreen">S1E3</episode-num>
+    <credits>
+      <director>Jacob Tierney</director>
+      <actor>Shane Hollander - Hudson Williams</actor>
+      <actor>Ilya Rozanov - Connor Storrie</actor>
+      <actor>Scott Hunter - François Arnaud</actor>
+      <actor>Yuna Hollander - Christina Chang</actor>
+      <actor>Cliff Marleau - Franco Lo Presti</actor>
+      <actor>Hayden Pike - Callan Potter</actor>
+      <actor>Svetlana - Ksenia Daniela Kharlamova</actor>
+      <actor>Man in the Crease Host #2 - Shaun Starr</actor>
+      <actor>Man in the Crease Host #1 - Conor McKenna</actor>
+    </credits><date>2025</date>
     <category lang="en">Drama Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417023500 +0500" stop="20260417033500 +0500">
+  </programme><programme channel="HBO3-PL" start="20260419205000 +0500" stop="20260419212500 +0500">
+    <title>Comeback 3</title>
+    <sub-title />
+    <desc>Valerie Cherish, a once popular television actress, rose to fame as a sitcom star.After many years, he wants to return to the small screen at all costs.He decides to take part in a new reality show.</desc>
+    <episode-num system="onscreen">S3E4</episode-num>
+    <credits>
+      <director>Michael Patrick King</director>
+      <actor>Valerie Cherish - Lisa Kudrow</actor>
+      <actor>Jane Benson - Laura Silverman</actor>
+      <actor>Mark Berman - Damian Young</actor>
+      <actor>Billy Stanton - Dan Bucatinsky</actor>
+      <actor>Juna Millken - Malin Akerman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419212500 +0500" stop="20260419215500 +0500">
+    <title>Rooster</title>
+    <sub-title />
+    <desc>Greg Russo (Steve Carell) has written a best-selling series of books, and readers identify him with his literary hero nicknamed Rooster.A famous writer comes to the university campus to support his daughter (Charly Clive) who is going through a marital crisis in a difficult moment.Her partner has just left her for a student, which everyone knows perfectly well.The situation is further complicated by scandals involving a woman who are the subject of gossip in the academic community.The father declares help, but his presence quickly reveals old conflicts and uncomfortable topics, instead of bringing the expected solution.</desc>
+    <episode-num system="onscreen">E6</episode-num>
+    <credits>
+      <director>Bill Lawrence</director>
+      <director>Matt Tarses</director>
+      <actor>Greg Russo - Steve Carell</actor>
+      <actor>Walter Mann - John C. McGinley</actor>
+      <actor>Cristle - Annie Mumolo</actor>
+      <actor>Tommy - Maximo Salas</actor>
+      <actor>Spooner - Evan Jachelski</actor>
+      <actor>George - Xavier Beloved</actor>
+    </credits><date>2026</date>
+    <category lang="en">Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260419215500 +0500" stop="20260419225500 +0500">
     <title>DTF St. Louis</title>
     <sub-title />
     <desc />
@@ -69,249 +339,296 @@
     </credits><date>2026</date>
     <category lang="en">Comedy Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417033500 +0500" stop="20260417040500 +0500">
-    <title>Rooster</title>
+  </programme><programme channel="HBO3-PL" start="20260419225500 +0500" stop="20260420000000 +0500">
+    <title>Euphoria</title>
     <sub-title />
-    <desc>Greg Russo (Steve Carell) has written a best-selling series of books, and readers identify him with his literary hero nicknamed Rooster.A famous writer comes to the university campus to support his daughter (Charly Clive) who is going through a marital crisis in a difficult moment.Her partner has just left her for a student, which everyone knows perfectly well.The situation is further complicated by scandals involving a woman who are the subject of gossip in the academic community.The father declares help, but his presence quickly reveals old conflicts and uncomfortable topics, instead of bringing the expected solution.</desc>
-    <episode-num system="onscreen">E6</episode-num>
+    <desc>The further fate of a group of friends who left school behind and entered adulthood.The action moves forward several years.Rue (Zendaya Coleman) is no longer a lost teenager, but a person involved in the criminal world.He goes to interrogation in connection with smuggling drugs from Mexico.Cassie (Sydney Sweeney) and Maddy's (Alexa Demie) relationship has improved, but old wounds haven't healed at all.The first woman's relationship with Nate (Jacob Elordi) develops, but not towards a happy ending.The remaining characters confront their own choices, addiction and violence.They are looking for redemption and answers to the question about their place in the world.</desc>
+    <episode-num system="onscreen">S3E1</episode-num>
     <credits>
-      <director>Bill Lawrence</director>
-      <director>Matt Tarses</director>
-      <actor>Greg Russo - Steve Carell</actor>
-      <actor>Walter Mann - John C. McGinley</actor>
-      <actor>Cristle - Annie Mumolo</actor>
-      <actor>Tommy - Maximo Salas</actor>
-      <actor>Spooner - Evan Jachelski</actor>
-      <actor>George - Xavier Beloved</actor>
+      <actor>Rue Bennett - Zendaya Coleman</actor>
+      <actor>Jules Vaughn - Hunter Schafer</actor>
+      <actor>Lexi Howard - Maude Apatow</actor>
+      <actor>Nate Jacobs - Jacob Elordi</actor>
+      <actor>Maddy Perez - Alexa Demie</actor>
+      <actor>Cassie Howard - Sydney Sweeney</actor>
+      <actor>Leslie Bennett - Nika King</actor>
+      <actor>Cal Jacobs - Eric Dane</actor>
+      <actor>Suze - Alanna Ubach</actor>
+      <actor>Marsha Jacobs - Paula Marshall</actor>
     </credits><date>2026</date>
-    <category lang="en">Comedy Series</category>
+    <category lang="en">Drama Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417040500 +0500" stop="20260417044000 +0500">
-    <title>Comeback 3</title>
+  </programme><programme channel="HBO3-PL" start="20260420000000 +0500" stop="20260420004000 +0500">
+    <title>Peacemaker 2</title>
     <sub-title />
-    <desc>Valerie Cherish, a once popular television actress, rose to fame as a sitcom star.After many years, he wants to return to the small screen at all costs.He decides to take part in a new reality show.</desc>
-    <episode-num system="onscreen">S3E4</episode-num>
+    <desc>Two years have passed since the last events.Chris Smith (John Cena) considers himself a real hero.However, he must earn the recognition of other heroes.</desc>
+    <episode-num system="onscreen">S2E4</episode-num>
     <credits>
-      <director>Michael Patrick King</director>
-      <actor>Valerie Cherish - Lisa Kudrow</actor>
-      <actor>Jane Benson - Laura Silverman</actor>
-      <actor>Mark Berman - Damian Young</actor>
-      <actor>Billy Stanton - Dan Bucatinsky</actor>
-      <actor>Juna Millken - Malin Akerman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Comedy Series</category>
+      <actor>Christopher Smith - John Cena</actor>
+      <actor>Leota Adebayo - Danielle Brooks</actor>
+      <actor>Adrian Chase - Freddie Stroma</actor>
+      <actor>Agent Emilia Harcourt - Jennifer Holland</actor>
+      <actor>John Economos - Steve Agee</actor>
+      <actor>Eagly - Dee Bradley Baker</actor>
+      <actor>Clemson Murn - Chukwudi Iwuji</actor>
+      <actor>Auggie Smith - Robert Patrick</actor>
+      <actor>Detective Sophie Song - Annie Chang</actor>
+      <actor>Detective Larry Fitzgibbon - Lochlyn Munro</actor>
+    </credits><date>2025</date>
+    <category lang="en">Action-Comedy Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417044000 +0500" stop="20260417062500 +0500">
-    <title>The Killer's Game</title>
+  </programme><programme channel="HBO3-PL" start="20260420004000 +0500" stop="20260420022000 +0500">
+    <title>Blink Twice</title>
     <sub-title />
-    <desc>Joe Flood, one of the best contract killers, learns about an incurable disease and places a contract on himself.However, the murderess is targeting his ex-girlfriend.Joe decides to save her.</desc>
+    <desc>At a charity event, waitress Frida (Naomi Ackie) meets billionaire tech mogul Slater King (Channing Tatum).Together with her friend Jess (Alia Shawkat), she accepts his invitation to a private island.On site are Slater's friends and business partners: photographer Vic (Christian Slater), private chef Cody (Simon Rex), DJ Tom (Haley Joel Osment), college graduate Lucas (Levon Hawke), reality star Sarah (Adria Arjona), aspiring app creator Camilla (Liz Caribel) and lawyer Heather (Trew Mullen).A holiday stay means crazy nights interspersed with sunny days.All the guests are having a great time.Until then.Mysterious events occur that make Frida grow anxious.She will have to find the truth to save her life.</desc>
     <credits>
-      <director>J.J. Perry</director>
-      <actor>Maize Arnaud - Sofia Boutella</actor>
-      <actor>Joe Flood - Dave Bautista</actor>
-      <actor>Angus Mackenzie - Scott Adkins</actor>
-      <actor>Zvi Rabinowitz - Ben Kingsley</actor>
-      <actor>Radovan - Daniel Bernhardt</actor>
-      <actor>Aimee - Antonia Desplat</actor>
-      <actor>Emilio 'El Botas' - Marko Zaror</actor>
-      <actor>Rory Mckenzie - Drew McIntyre</actor>
+      <director>Zoë Kravitz</director>
+      <actor>Frida - Naomi Ackie</actor>
+      <actor>Slater - Channing Tatum</actor>
+      <actor>Jess - Alia Shawkat</actor>
+      <actor>Vic - Christian Slater</actor>
+      <actor>Cody - Simon Rex</actor>
+      <actor>Sarah - Adria Arjona</actor>
+      <actor>Tom - Haley Joel Osment</actor>
+      <actor>Camilla - Liz Caribel</actor>
+      <actor>Lucas - Levon Hawke</actor>
+      <actor>Heather - Trew Mullen</actor>
     </credits><date>2024</date>
     <category lang="en">Thriller</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417062500 +0500" stop="20260417070500 +0500">
-    <title>Last Week Tonight With John Oliver 13</title>
+  </programme><programme channel="HBO3-PL" start="20260420022000 +0500" stop="20260420042500 +0500">
+    <title>Kraven: The Hunter</title>
     <sub-title />
-    <desc>Another season of a show full of irony and sarcasm, hosted by John Oliver.In each episode, the host summarizes the events from the world of politics from the last week.</desc>
-    <episode-num system="onscreen">S13E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Talk-Show</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417070500 +0500" stop="20260417090000 +0500">
-    <title>The Forgiven</title>
-    <sub-title />
-    <desc>Wealthy Londoners David (Ralph Fiennes) and Jo (Jessica Chastain) Henninger, whose marriage is in serious crisis, go to Morocco for the weekend, where they are to attend a lavish party hosted by an old friend.A man driving very fast and under the influence of alcohol fatally hits a teenager in the desert.The couple takes the body to a friend's house, where they try to cover up the incident in cooperation with the local police.However, soon the boy's father appears in the villa, demanding not only the body, but also justice.There is a violent clash of cultures, after which David will have to face the consequences of his actions.</desc>
+    <desc>Kraven (Aaron Taylor-Johnson), a hunter from Russia, is extremely strong and fast thanks to an extraordinary potion.He can hunt wild animals and always comes out victorious in battles with them.His life is overshadowed by his complicated relationship with his cruel father, Nikolai Kravinoff (Russell Crowe), who drags him into a spiral of revenge.Parent expects Kraven to become the greatest and most feared hunter in the world.To prove this, the young man must catch the spider-man.A slightly exaggerated, but suspenseful origin story of one of the most iconic anti-heroes of Marvel comics.</desc>
     <credits>
-      <director>John Michael McDonagh</director>
-      <actor>Jo Henninger - Jessica Chastain</actor>
-      <actor>David Henninger - Ralph Fiennes</actor>
-      <actor>Cody - Abbey Lee</actor>
-      <actor>Richard Galloway - Matt Smith</actor>
-      <actor>Dally Margolis - Caleb Landry Jones</actor>
-      <actor>Tom Day - Christopher Abbott</actor>
-      <actor>Isabelle - Marie-Josée Croze</actor>
-      <actor>Lord Swanthorne - Alex Jennings</actor>
-      <actor>Anouar - Said Taghmaoui</actor>
-      <actor>Maisy Joyce - Fiona O'Shaughnessy</actor>
-    </credits><date>2021</date>
-    <category lang="en">Social Drama</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417090000 +0500" stop="20260417093000 +0500">
-    <title>Shrek the Halls</title>
-    <sub-title />
-    <desc>After many dramatic adventures, Shrek dreams only of resting in the comfort of his home.However, he is not given peace.Christmas is approaching.Everyone, without exception, succumbs to the Christmas euphoria of preparing for the magical days of the year.Meanwhile, the ogre cannot surrender to the overwhelmingly solemn atmosphere because he hates holidays.However, he does not want to disappoint Fiona and the children, so he decides to get involved in the ceremonial preparations.His miserable struggles are watched by his faithful friends - Donkey, Puss in Boots and Biscuit.Embarrassed by the ogre's clumsiness and lack of good taste, they decide to help him.Soon, thanks to their efforts, Shrek's house is thrown into chaos.This promises to be the most terrifying Christmas in the life of an ogre, a lover of peace and quiet... The next adventure of Shrek in a special TV version.In the Polish language version, famous actors provided their voices, including:Jerzy Stuhr and Zbigniew Zamachowski.</desc>
-    <credits>
-      <director>Gary Trousdale</director>
-    </credits><date>2007</date>
-    <category lang="en">Animated Film</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417093000 +0500" stop="20260417110000 +0500">
-    <title>Karate Kid: Legends</title>
-    <sub-title />
-    <desc>Li Fong's friend needs help.He decided to take part in a karate tournament, but his skills are insufficient.Teacher Han turns to the legendary Daniel LaRusso for help.</desc>
-    <credits>
-      <actor>Mr. Han - Jackie Chan</actor>
-      <actor>Li Fong - Ben Wang</actor>
-      <actor>Victor Lipani - Joshua Jackson</actor>
-      <actor>Mia Lipani - Sadie Stanley</actor>
-      <actor>Dr. Fong - Ming-Na</actor>
-      <actor>Alan - Wyatt Oleff</actor>
-      <actor>Conor - Aramis Knight</actor>
-      <actor>Daniel LaRusso - Ralph Macchio</actor>
-      <actor>Young Girl - Olivia Yang Avis</actor>
-      <actor>Young Student - Aaron Wang</actor>
-    </credits><date>2025</date>
+      <director>J.C. Chandor</director>
+      <actor>Sergiej Kravinoff - Aaron Taylor-Johnson</actor>
+      <actor>Nikołaj Kravinoff - Russell Crowe</actor>
+      <actor>Calypso Ezili - Ariana DeBose</actor>
+      <actor>Dmitri Kravinoff - Fred Hechinger</actor>
+      <actor>Aleksei Sytsevich - Alessandro Nivola</actor>
+      <actor>The Foreigner - Christopher Abbott</actor>
+      <actor>Semyon Chorney - Yuri Kolokolnikov</actor>
+      <actor>Young Sergei - Levi Miller</actor>
+      <actor>Bert - Tom Reed</actor>
+      <actor>Young Dmitri - Billy Barratt</actor>
+    </credits><date>2024</date>
     <category lang="en">Adventure Movie</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417110000 +0500" stop="20260417125000 +0500">
-    <title>Alles Fifty Fifty</title>
+  </programme><programme channel="HBO3-PL" start="20260420042500 +0500" stop="20260420060000 +0500">
+    <title>True Story</title>
     <sub-title />
-    <desc>Despite the divorce, Marion (Laura Tonke) and Andi (Moritz Bleibtreu) consider themselves exemplary parents of eleven-year-old Milan (Valentin Thatenhorst).They share custody of their son and care for him.So they are surprised when they are called to an interview at the school, during which they learn that the boy is causing a lot of problems.In this situation, they decide to take him on a holiday together to Italy.Marion's new boyfriend, Robin (David Kross), also accompanies them on the trip.Both parents quickly notice that Milan often acts like a spoiled only child, and they come to the conclusion that they need to work on raising him.The time they spend together and their shared efforts make them grow closer again.At the same time, their son falls in love for the first time.</desc>
+    <desc>Michael Finkel (Jonah Hill), a New York Times journalist, disgraced himself with an article whose hero - a slave trader in Mali - does not exist.The reporter is publicly humiliated and fired.So he returns to his hometown.He soon discovers that a man is impersonating him, accused of murdering his wife and three small children.Christian Longo (James Franco) is captured in Mexico.He agrees to meet with Finkel, who sees a chance to publish a best-selling novel and rehabilitate himself in the eyes of readers.However, it turns out that Longo has some plans for the journalist.She has been following his career for a long time.A story based on facts about the relationship between a psychopathic murderer and a disgraced journalist.</desc>
     <credits>
-      <director>Alireza Golafshan</director>
-      <actor>Marion - Laura Tonke</actor>
-      <actor>Andi - Moritz Bleibtreu</actor>
-      <actor>Milan - Valentin Thatenhorst</actor>
-      <actor>Robin - David Kross</actor>
-      <actor>Jens - Axel Stein</actor>
-      <actor>Paris - Jasin Challah</actor>
-      <actor>Mila - Aennie Lade</actor>
-      <actor>Elke - Ramona Kunze-Libnow</actor>
-      <actor>Giando Kellner - Ricardo Angelini</actor>
-      <actor>Herr Accapatoio - Günther Brenner</actor>
+      <director>Rupert Goold</director>
+      <actor>Michael Finkel - Jonah Hill</actor>
+      <actor>Christian Longo - James Franco</actor>
+      <actor>Jill Barker - Felicity Jones</actor>
+      <actor>MaryJane Longo - Maria Dizzia</actor>
+      <actor>Pat Frato - Ethan Suplee</actor>
+      <actor>Zach Longo - Conor Kikot</actor>
+      <actor>Sadie Longo - Charlotte Driscoll</actor>
+      <actor>Madison Longo - Stella Rae Payne</actor>
+      <actor>Greg Ganley - Robert John Burke</actor>
+      <actor>Judge Odenkirk - Byron Jennings</actor>
+    </credits><date>2015</date>
+    <category lang="en">Crime Drama</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420060000 +0500" stop="20260420064000 +0500">
+    <title>Peacemaker 2</title>
+    <sub-title />
+    <desc>Two years have passed since the last events.Chris Smith (John Cena) considers himself a real hero.However, he must earn the recognition of other heroes.</desc>
+    <episode-num system="onscreen">S2E4</episode-num>
+    <credits>
+      <actor>Christopher Smith - John Cena</actor>
+      <actor>Leota Adebayo - Danielle Brooks</actor>
+      <actor>Adrian Chase - Freddie Stroma</actor>
+      <actor>Agent Emilia Harcourt - Jennifer Holland</actor>
+      <actor>John Economos - Steve Agee</actor>
+      <actor>Eagly - Dee Bradley Baker</actor>
+      <actor>Clemson Murn - Chukwudi Iwuji</actor>
+      <actor>Auggie Smith - Robert Patrick</actor>
+      <actor>Detective Sophie Song - Annie Chang</actor>
+      <actor>Detective Larry Fitzgibbon - Lochlyn Munro</actor>
+    </credits><date>2025</date>
+    <category lang="en">Action-Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420064000 +0500" stop="20260420083500 +0500">
+    <title>The Outrun</title>
+    <sub-title />
+    <desc>A young woman named Rona (Saoirse Ronan), who has recently left an addiction treatment center, returns from London to her native Scotland, to one of the islands of the Orkney archipelago.Because her parents are separated, she lives alternately with her mother, where she meets with her religious friends, and with her father, whom she helps on the farm.At the same time, she is still trying to cope with difficult memories - the beginning of her stay in London, where she started studying biology and often went to clubs with her boyfriend Daynin (Paapa Essiedu).She didn't even notice when she fell into alcoholism, which led to problems in her relationship and began to destroy her life.Meanwhile, while staying on the island, Rona decides to return to London.However, already on the ferry he feels that he is unable to control the urge to drink alcohol.He must re-plan his life.</desc>
+    <credits>
+      <director>Nora Fingscheidt</director>
+      <actor>Rona - Saoirse Ronan</actor>
+      <actor>Young Rona - Freya Evans</actor>
+      <actor>Daynin - Paapa Essiedu</actor>
+      <actor>Barman James - Seamus Dillane</actor>
+      <actor>Bouncer Dave - David Garrick</actor>
+      <actor>Dr. Rasamalar - Aniya Sekkanu</actor>
+      <actor>Andrew - Stephen Dillane</actor>
+      <actor>Annie - Saskia Reeves</actor>
+      <actor>Young Orcadian Man - Liam Smith</actor>
+      <actor>Bible Group Evie - Eilidh Fisher</actor>
     </credits><date>2024</date>
+    <category lang="en">Psychological Drama</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420083500 +0500" stop="20260420090000 +0500">
+    <title>Kung Fu Panda: Secret of the Scroll</title>
+    <sub-title />
+    <desc>The helpless inhabitants of the villages in the Valley of Tranquility are terrorized by a powerful Boar.Shifu, who has just fallen ill, asks Tigress to bring four trained warriors to help him.During the journey, however, the envoy does not use the list prepared by the master, but a scroll created by Po.He has no idea that the notes concern... professions in which the young panda could pursue in the future.As a result of a mistake, Tigress brings to the Jade Palace: the cleaner Crane, the comedian Monkey, the dancer Viper and the doctor Mantis.Soon, the inconspicuous chosen ones become the Mighty Five.A short story about Po's adventures before he became the Dragon Warrior.It features characters known from the next three full-length parts of the famous animated series.</desc>
+    <credits>
+      <director>Rodolphe Guenoden</director>
+    </credits><date>2016</date>
+    <category lang="en">Animated Film</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420090000 +0500" stop="20260420113500 +0500">
+    <title>Harry Potter and the Chamber of Secrets</title>
+    <sub-title />
+    <desc>A new school year begins at Hogwarts, the famous wizarding school.Harry Potter and his friend Ron Weasley have been unlucky from the beginning.They miss their train, so they take a flying car to get there.Unfortunately, they cause a crash, which angers Prof.Snape.It turns out that last year's feat, neutralizing Lord Voldemort, made Harry a hero.The young wizard is not happy about his sudden popularity.It does not help him concentrate on his studies and even makes enemies, including among teachers.Meanwhile, prof.Dumbledore warns that evil lurks within the walls of the academy.An ominous writing appears on the wall, declaring that the Chamber of Secrets has been opened.Students and teachers are in danger.Potter must find out what got out of the chamber and defeat the dark forces that have taken over Hogwarts.He is helped by his friends, Ron and Hermione.</desc>
+    <credits>
+      <director>Chris Columbus</director>
+      <actor>Harry Potter - Daniel Radcliffe</actor>
+      <actor>Ron Weasley - Rupert Grint</actor>
+      <actor>Hermione Granger - Emma Watson</actor>
+      <actor>wuj Vernon - Richard Griffiths</actor>
+      <actor>ciotka Petunia - Fiona Shaw</actor>
+      <actor>Dudley Dursley - Harry Melling</actor>
+      <actor>Mr. Mason - Jim Norton</actor>
+      <actor>Mrs. Mason - Veronica Clifford</actor>
+      <actor>Fred Weasley - James Phelps</actor>
+      <actor>George Weasley - Oliver Phelps</actor>
+    </credits><date>2002</date>
+    <category lang="en">Adventure Movie</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420113500 +0500" stop="20260420132500 +0500">
+    <title>Saturday Night</title>
+    <sub-title />
+    <desc>New York, October 11, 1975.Aspiring producer Lorne Michaels (Gabriel LaBelle) arrives at the NBC studios to prepare the broadcast of the first episode of "Saturday Night".The man's superior, Dick Ebersol (Cooper Hoffman), immediately informs him that executive director David Tebet (Willem Dafoe) is skeptical about the new show.Meanwhile, there are constant misunderstandings between cast members on set.Garrett Morris (Lamorne Morris) is not happy with the role he was cast in, John Belushi (Matt Wood) cannot communicate with his co-workers and causes fights, as does Chevy Chase (Cory Michael Smith), who confronts Milton Berle (J.K. Simmons) because he is hitting on his girlfriend.Even host George Carlin (Matthew Rhys) thinks what he was asked to do is embarrassing.Additionally, everyone is wondering what type of program they should create.Resigned, Michaels goes to a local bar, where he meets comedy writer Alan Zweibel (Josh Brener).After a short conversation, she hires him to cooperate.The film was inspired by real events and its action covers 90 minutes preceding the first broadcast of the famous cyclical entertainment program.</desc>
+    <credits>
+      <director>Jason Reitman</director>
+      <actor>Lorne Michaels - Gabriel LaBelle</actor>
+      <actor>Rosie Shuster - Rachel Sennott</actor>
+      <actor>Chevy Chase - Cory Michael Smith</actor>
+      <actor>Gilda Radner - Ella Hunt</actor>
+      <actor>Dan Aykroyd - Dylan O'Brien</actor>
+      <actor>Laraine Newman - Emily Fairn</actor>
+      <actor>John Belushi - Matt Wood</actor>
+      <actor>Garrett Morris - Lamorne Morris</actor>
+      <actor>Jane Curtin - Kimberly Matula</actor>
+      <actor>NBC Page - Finn Wolfhard</actor>
+    </credits><date>2024</date>
+    <category lang="en">Comedy Dramas</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420132500 +0500" stop="20260420151500 +0500">
+    <title>Jojo Rabbit</title>
+    <sub-title />
+    <desc>Set in Germany during World War II, the story of Jojo (Roman Griffin Davis), a member of the Hitler Youth.His best friend is an imaginary friend - Adolf Hitler (Taika Waititi).The boy asks him for advice on key issues, such as how to be the best little Nazi or how to recognize a Jew.One day, Jojo discovers that a Jewish teenager (Thomasin McKenzie) is hiding in his house with the consent of his single mother (Scarlett Johansson).His world turns upside down, and his current views clash with his sympathy for the girl he just met.A moving but also funny story about a young German coming of age during the Holocaust.The director, screenwriter and actor of the role of Hitler is Taika Waititi.The film won an Oscar in the best adapted screenplay category.He also received five nominations for this prestigious award.</desc>
+    <credits>
+      <director>Taika Waititi</director>
+      <actor>Jojo - Roman Griffin Davis</actor>
+      <actor>Elsa - Thomasin McKenzie</actor>
+      <actor>Rosie - Scarlett Johansson</actor>
+      <actor>Adolf - Taika Waititi</actor>
+      <actor>Captain Klenzendorf - Sam Rockwell</actor>
+      <actor>Fraulein Rahm - Rebel Wilson</actor>
+      <actor>Finkel - Alfie Allen</actor>
+      <actor>Deertz - Stephen Merchant</actor>
+      <actor>Yorki - Archie Yates</actor>
+      <actor>Christoph - Luke Brandon Field</actor>
+    </credits><date>2019</date>
+    <category lang="en">Comedy Dramas</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420151500 +0500" stop="20260420154500 +0500">
+    <title>Ballers 3</title>
+    <sub-title />
+    <desc>Legendary American football player, Spencer Strasmore (Dwayne "The Rock" Johnson), ends his football career and starts working as a sports consultant.A comedy series that reveals the behind-the-scenes life of competitors of one of the most popular sports in the USA.On the one hand, the heroes live at a high standard, but on the other hand, they have to struggle with enormous pressure.The main roles were played by: Dwayne Johnson ("The Scorpion King", "Barbell and Cash"), Omar Benson Miller ("8th Mile", "The Sorcerer's Apprentice"), Rob Corddry ("Fur Tomorrow", "Forever Alive") and Taylor Cole ("Surrogates", the series "The Event").</desc>
+    <episode-num system="onscreen">S3E5</episode-num>
+    <credits>
+      <actor>Spencer Strasmore - Dwayne Johnson</actor>
+      <actor>Ricky Jerret - John David Washington</actor>
+      <actor>Charles Greane - Omar Benson Miller</actor>
+      <actor>Vernon Littlefield - Donovan W. Carter</actor>
+      <actor>Joe - Rob Corddry</actor>
+    </credits><date>2017</date>
+    <category lang="en">Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420154500 +0500" stop="20260420161500 +0500">
+    <title>Ballers 3</title>
+    <sub-title />
+    <desc>Legendary American football player, Spencer Strasmore (Dwayne "The Rock" Johnson), ends his football career and starts working as a sports consultant.A comedy series that reveals the behind-the-scenes life of competitors of one of the most popular sports in the USA.On the one hand, the heroes live at a high standard, but on the other hand, they have to struggle with enormous pressure.The main roles were played by: Dwayne Johnson ("The Scorpion King", "Barbell and Cash"), Omar Benson Miller ("8th Mile", "The Sorcerer's Apprentice"), Rob Corddry ("Fur Tomorrow", "Forever Alive") and Taylor Cole ("Surrogates", the series "The Event").</desc>
+    <episode-num system="onscreen">S3E6</episode-num>
+    <credits>
+      <director>Millicent Shelton</director>
+      <actor>Spencer Strasmore - Dwayne Johnson</actor>
+      <actor>Ricky Jerret - John David Washington</actor>
+      <actor>Charles Greane - Omar Benson Miller</actor>
+      <actor>Vernon Littlefield - Donovan W. Carter</actor>
+      <actor>Joe - Rob Corddry</actor>
+    </credits><date>2017</date>
+    <category lang="en">Comedy Series</category>
+    <language>en</language>
+  </programme><programme channel="HBO3-PL" start="20260420161500 +0500" stop="20260420174500 +0500">
+    <title>Benchwarmers 2: Breaking Balls</title>
+    <sub-title />
+    <desc>Ben McGrath (Chris Klein) has great potential and a chance for a career in a professional baseball league.Unfortunately, his hopes for the game are ruined by an unfortunate accident.So the would-be athlete becomes a lawyer and gets a job at the Schmood &amp; Associates law firm.One day, however, he gets a chance to return to the field.His unconventional boss, Mel Carmichael (Jon Lovitz), convinces him to form a softball team of his co-workers.Ben undertakes this task, although he realizes that creating an effective team from a group of eccentric lawyers is quite a challenge.</desc>
+    <credits>
+      <director>Jonathan A. Rosenbaum</director>
+      <actor>Ben McGrath - Chris Klein</actor>
+      <actor>Mel Carmichael - Jon Lovitz</actor>
+      <actor>Annie - Chelsey Reist</actor>
+      <actor>Stenhouse - Lochlyn Munro</actor>
+      <actor>Dopkins - Garfield Wilson</actor>
+      <actor>Dana - Lisa Durupt</actor>
+      <actor>Krinsky - Chris Gauthier</actor>
+      <actor>Howard - Peter Graham-Gaudreau</actor>
+      <actor>Arthur Wilde - Zachary Gulka</actor>
+    </credits><date>2019</date>
     <category lang="en">Comedy</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417125000 +0500" stop="20260417143500 +0500">
-    <title>Rise of the Planet of the Apes</title>
+  </programme><programme channel="HBO3-PL" start="20260420174500 +0500" stop="20260420191000 +0500">
+    <title>Fantastic Mr. Fox</title>
     <sub-title />
-    <desc>San Francisco.Will Rodman is a scientist employed by a pharmaceutical company.She is developing a formula for a drug that regenerates brain tissue that could cure his father, who suffers from Alzheimer's disease.A little chimpanzee named Caesar comes under the care of a scientist.This is where Will conducts his research.Over time, he begins to achieve success and is on the verge of a big breakthrough.He meets Caroline Aranha, who has devoted her entire life to monkeys and knows the capabilities of this species perfectly.It quickly turns out that the new drug also has side effects - it increases intelligence.Gifted with increasingly greater cognitive abilities, the chimpanzee realizes that his life means nothing to scientists.Outraged, he decides to oppose people.Caesar takes advantage of the ignorance of the facility's guards and gives samples of the drug to other chimpanzees.In a short time, all the monkeys escape from the building and start wreaking destruction in the city.The fight between intelligent monkeys for domination over humans begins.</desc>
+    <desc>Since his unsuccessful attack on one of the farms, Mr. Fox has been leading a quiet, boring life.Under the influence of his wife, he settled down, gave up working on the border of the law and started writing articles for a local newspaper.However, his instincts do not allow him to sit still for long.Soon, together with his friend Szop, he comes up with a plan to attack three large farms.The friends brilliantly rob Walter Boggis, Franklin Bean and Nathan Bunce.However, people do not remain idle and quickly develop a plan for revenge.Mr. Fox must fight for the life not only of himself and his loved ones, but also of other persecuted creatures.Wes Anderson, responsible for the film, was nominated for an Oscar in 2001 for his screenplay for "Brilliant Clan"."Fantastic Mr. Fox" is his animated debut.The director's credits include the award-winning comedy "The Grand Budapest Hotel."The film received nine Oscar nominations, including:in the following categories: best film, script, music, cinematography and editing.He also won a Golden Globe statuette.The Polish language version was attended by, among others:Grzegorz Wons, Agnieszka Kunikowska, Artur Pontek, Piotr Bajtlik and Krzysztof Szczerbiński.</desc>
     <credits>
-      <director>Rupert Wyatt</director>
-      <actor>Will Rodman - James Franco</actor>
-      <actor>Charles Rodman - John Lithgow</actor>
-      <actor>Caesar - Andy Serkis</actor>
-      <actor>Caroline - Freida Pinto</actor>
-      <actor>Dodge Landon - Tom Felton</actor>
-      <actor>John Landon - Brian Cox</actor>
-      <actor>Franklin - Tyler Labine</actor>
-      <actor>Hunsiker - David Hewlett</actor>
-      <actor>Woman on Street - Sonja Bennett</actor>
-      <actor>Irena - Chelah Horsdal</actor>
-    </credits><date>2011</date>
-    <category lang="en">Film Sf</category>
+      <director>Wes Anderson</director>
+    </credits><date>2009</date>
+    <category lang="en">Animated Film</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417143500 +0500" stop="20260417150000 +0500">
-    <title>Ballers 3</title>
+  </programme><programme channel="HBO3-PL" start="20260420191000 +0500" stop="20260420203500 +0500">
+    <title>Ready Jet Go: Space Camp The Movie</title>
     <sub-title />
-    <desc>Legendary American football player, Spencer Strasmore (Dwayne "The Rock" Johnson), ends his football career and starts working as a sports consultant.A comedy series that reveals the behind-the-scenes life of players of one of the most popular sports in the USA.On the one hand, the heroes live at a high standard, but on the other hand, they have to struggle with enormous pressure.The main roles were played by: Dwayne Johnson ("The Scorpion King", "Barbell and Cash"), Omar Benson Miller ("8th Mile", "The Sorcerer's Apprentice"), Rob Corddry ("Fur Tomorrow", "Forever Alive") and Taylor Cole ("Surrogates", the series "The Event").</desc>
-    <episode-num system="onscreen">S3E3</episode-num>
+    <desc>Jet surfs the comet's tail with his pet, Sunspot.Unfortunately, it turns out that the pet is allergic to comet dust and begins to shrink.Jet and his friends must find a cure quickly.</desc>
     <credits>
-      <director>David Katzenberg</director>
-      <actor>Spencer Strasmore - Dwayne Johnson</actor>
-      <actor>Ricky Jerret - John David Washington</actor>
-      <actor>Charles Greane - Omar Benson Miller</actor>
-      <actor>Vernon Littlefield - Donovan W. Carter</actor>
-      <actor>Joe - Rob Corddry</actor>
-    </credits><date>2017</date>
-    <category lang="en">Comedy Series</category>
+      <director>David Mucci Fassett</director>
+    </credits><date>2023</date>
+    <category lang="en">Animated Film</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417150000 +0500" stop="20260417153000 +0500">
-    <title>Ballers 3</title>
+  </programme><programme channel="HBO3-PL" start="20260420203500 +0500" stop="20260420221500 +0500">
+    <title>True Story</title>
     <sub-title />
-    <desc>Legendary American football player, Spencer Strasmore (Dwayne "The Rock" Johnson), ends his football career and starts working as a sports consultant.A comedy series that reveals the behind-the-scenes life of players of one of the most popular sports in the USA.On the one hand, the heroes live at a high standard, but on the other hand, they have to struggle with enormous pressure.The main roles were played by: Dwayne Johnson ("The Scorpion King", "Barbell and Cash"), Omar Benson Miller ("8th Mile", "The Sorcerer's Apprentice"), Rob Corddry ("Fur Tomorrow", "Forever Alive") and Taylor Cole ("Surrogates", the series "The Event").</desc>
-    <episode-num system="onscreen">S3E4</episode-num>
+    <desc>Michael Finkel (Jonah Hill), a New York Times journalist, disgraced himself with an article whose hero - a slave trader in Mali - does not exist.The reporter is publicly humiliated and fired.So he returns to his hometown.He soon discovers that a man is impersonating him, accused of murdering his wife and three small children.Christian Longo (James Franco) is captured in Mexico.He agrees to meet with Finkel, who sees a chance to publish a best-selling novel and rehabilitate himself in the eyes of readers.However, it turns out that Longo has some plans for the journalist.She has been following his career for a long time.A story based on facts about the relationship between a psychopathic murderer and a disgraced journalist.</desc>
     <credits>
-      <director>David Katzenberg</director>
-      <actor>Spencer Strasmore - Dwayne Johnson</actor>
-      <actor>Ricky Jerret - John David Washington</actor>
-      <actor>Charles Greane - Omar Benson Miller</actor>
-      <actor>Vernon Littlefield - Donovan W. Carter</actor>
-      <actor>Joe - Rob Corddry</actor>
-    </credits><date>2017</date>
-    <category lang="en">Comedy Series</category>
+      <director>Rupert Goold</director>
+      <actor>Michael Finkel - Jonah Hill</actor>
+      <actor>Christian Longo - James Franco</actor>
+      <actor>Jill Barker - Felicity Jones</actor>
+      <actor>MaryJane Longo - Maria Dizzia</actor>
+      <actor>Pat Frato - Ethan Suplee</actor>
+      <actor>Zach Longo - Conor Kikot</actor>
+      <actor>Sadie Longo - Charlotte Driscoll</actor>
+      <actor>Madison Longo - Stella Rae Payne</actor>
+      <actor>Greg Ganley - Robert John Burke</actor>
+      <actor>Judge Odenkirk - Byron Jennings</actor>
+    </credits><date>2015</date>
+    <category lang="en">Crime Drama</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417153000 +0500" stop="20260417173500 +0500">
-    <title>Green Book</title>
-    <sub-title />
-    <desc>USA, 1960s. Tony Vallelonga, a simple resident of the Bronx who has a wife and a group of children to support, agrees to accompany, as a chauffeur and bodyguard, a black musician - the luxurious erudite Donald Shirley - on a concert tour across the United States.Not only does he have to defend his protégé from troubles in the Deep South, but he also has to combat prejudiced views.During their journey, they both follow the instructions from the "Green Book" guide for African Americans traveling around the country.It includes, among others:suggestions on where to sleep and eat to avoid unpleasant incidents.The time spent together and overcoming mounting problems cause a surprising, lasting bond to emerge between men from different worlds.</desc>
-    <credits>
-      <director>Peter Farrelly</director>
-      <actor>Tony Lip - Viggo Mortensen</actor>
-      <actor>Dr. Donald Shirley - Mahershala Ali</actor>
-      <actor>Dolores - Linda Cardellini</actor>
-      <actor>Johnny Venere - Sebastian Maniscalco</actor>
-      <actor>Oleg - Dimiter D. Marinov</actor>
-      <actor>George Dyer - the Cellist - Mike Hatton</actor>
-      <actor>Record Exec - P.J. Byrne</actor>
-      <actor>Gio Loscudo - Joe Cortese</actor>
-      <actor>Copa Coat Check Girl - Maggie Nixon</actor>
-      <actor>Bobby Rydell - Von Lewis</actor>
-    </credits><date>2018</date>
-    <category lang="en">Social Drama</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417173500 +0500" stop="20260417181500 +0500">
-    <title>Last Week Tonight With John Oliver 13</title>
-    <sub-title />
-    <desc>Another season of a show full of irony and sarcasm, hosted by John Oliver.In each episode, the host summarizes the events from the world of politics from the last week.</desc>
-    <episode-num system="onscreen">S13E2</episode-num>
-    <date>2026</date>
-    <category lang="en">Talk-Show</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417181500 +0500" stop="20260417204500 +0500">
-    <title>Ford v Ferrari</title>
-    <sub-title />
-    <desc>The victory in the prestigious race goes to the Ferrari team every year.Henry Ford II intends to dethrone the full-time champion.He thinks about building a car that will leave the competition behind.For this purpose, he asks for help from two specialists.One of them is the temperamental fast driving enthusiast Ken Miles.The second one is Carroll Shelby, who can boast of winning Le Mans, and some time ago, due to health problems, he gave up his driving career and took up car design.They both immediately take up the challenge, even though they know that there is a long way to achieve their goal.They quickly encounter resistance from officials.It turns out that they must immerse themselves in the world of ruthless bureaucracy to take part in the twenty-four-hour race.</desc>
-    <credits>
-      <director>James Mangold</director>
-      <actor>Carroll Shelby - Matt Damon</actor>
-      <actor>Ken Miles - Christian Bale</actor>
-      <actor>Lee Iacocca - Jon Bernthal</actor>
-      <actor>Mollie Miles - Caitríona Balfe</actor>
-      <actor>Leo Beebe - Josh Lucas</actor>
-      <actor>Peter Miles - Noah Jupe</actor>
-      <actor>Henry Ford II - Tracy Letts</actor>
-      <actor>Enzo Ferrari - Remo Girone</actor>
-      <actor>Phil Remington - Ray McKinnon</actor>
-      <actor>Roy Lunn - JJ Feild</actor>
-    </credits><date>2019</date>
-    <category lang="en">Biographical Drama</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417204500 +0500" stop="20260417221000 +0500">
-    <title>Killing the Competition</title>
-    <sub-title />
-    <desc>Bossy Elizabeth Fenwick (Melissa Joan Hart) was once the star of the cheerleading squad.Currently, the woman is very keen for her teenage daughter, Grace (Lily Brooks O'Briant), to follow in her footsteps.Unfortunately, although the girl performs very well in the team selection committee, other candidates turn out to be better and she is rejected.Elizabeth can't come to terms with it.Unable to forgive his daughter for this failure, he begins to harass her, lowering her self-esteem.Gradually, the woman's actions take the form of obsession.Finally, to ensure Grace's place in the band, she decides to expel another student from her high school, an excellent dancer named Hannah (Valerie Loo).To do this, he intends to kidnap the girl and her mother, Nicole (Anzu Lawson).Inspired by true events, the film tells the story of the obsession that a parent's unfulfilled ambition can turn into.</desc>
-    <credits>
-      <director>Lee Gabiana</director>
-      <actor>Elizabeth Fenwick - Melissa Joan Hart</actor>
-      <actor>Grace Fenwick - Lily Brooks O'Briant</actor>
-      <actor>Hannah Li - Valerie Loo</actor>
-      <actor>Steve Fenwick - Eddie Mills</actor>
-      <actor>Nicole Li - Anzu Lawson</actor>
-      <actor>Jackson Fenwick - Cyrus McReynolds</actor>
-      <actor>Tyler Tulsey - Lucas Randazzo</actor>
-      <actor>Kath - Anmalya Delva</actor>
-      <actor>Jeanie - Kate McCarty</actor>
-      <actor>Bekka - Lola Raie</actor>
-    </credits><date>2025</date>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417221000 +0500" stop="20260417230000 +0500">
+  </programme><programme channel="HBO3-PL" start="20260420221500 +0500" stop="20260420230500 +0500">
     <title>Industry</title>
     <sub-title />
     <desc>Harper Stern (Myha'la Herrold) moves to London from a small town in upstate New York.He takes up a job at a major international bank, Pierpoint &amp; Co.She really wants to prove herself to her superiors and do better than her peers.However, he quickly comes face to face with the brutal reality.He discovers that in the fight for a job it is not only competence that counts, but also origin.People from privileged families have much greater opportunities.However, this does not take away from her enthusiasm and motivates her even more to try to get her dream job.Together with other graduates from his age group, he learns about the hierarchical realities of the industry.Young people fall into the ruthless corporate machine where no one trusts anyone, and everyone, regardless of ethical issues, tries to take the place of their colleagues in a better position.</desc>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
     <credits>
-      <director>Lena Dunham</director>
+      <director>Tinge Krishnan</director>
       <actor>Gus - David Jonsson</actor>
       <actor>Hari - Nabhaan Rizwan</actor>
       <actor>Harper - Myha'la Herrold</actor>
@@ -321,364 +638,32 @@
       <actor>Tate Connelley - Trader - Charlotte Callaghan</actor>
       <actor>Graduate - Clemmie France Hayhurst</actor>
       <actor>Robert - Harry Lawtey</actor>
+      <actor>Eric - Ken Leung</actor>
     </credits><date>2020</date>
     <category lang="en">Drama Series</category>
     <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260417230000 +0500" stop="20260418000000 +0500">
+  </programme><programme channel="HBO3-PL" start="20260420230500 +0500" stop="20260421000000 +0500">
     <title>The Great</title>
     <sub-title />
-    <desc>Catherine manages to dethrone her husband.However, he quickly learns that taking the throne is just the beginning.Now she faces a real fight to introduce significant changes in Russia.In fact, it means struggling with his own court, as well as his loved ones, including his mother (Gillian Anderson).In addition, Katarzyna will also experience love suffering.She will have to sort out her relationship with Piotr.Only all these adventures lead the powerful woman to reflect that in order to change the country, she must allow herself to be changed.</desc>
-    <episode-num system="onscreen">S2E10</episode-num>
+    <desc>A continuation of the story about Tsarina Catherine (Elle Fanning), in which facts mix with satire.After the woman recently tried to kill her husband, Piotr (Nicholas Hoult), and imprisoned all his friends, the relationship between them is not good.Meanwhile, Katarzyna also faces political problems.Wanting to solve them, the ruler becomes famous also outside Russia.During this time, Piotr tries to accept the fact that he lives in his wife's shadow.He devotes himself to fatherhood, takes part in hunting and discovers culinary novelties.Finally, they both decide to take a responsible step - they decide to save their marriage
+Katarzyna feels remorse for stabbing Pukachev.The ruler also begins to notice how important it is to be familiar with politics.She decides to become her champion.She hopes that Aunt Elizabeth and Archie will help her with this.Orlo is furious that Peter is still alive.He, in turn, hesitates whether he should continue to do only what he wants or obey Katarzyna.So first he frees his friends who are waiting to be executed, but eventually he brings them back.Georgina, on the other hand, declares her loyalty to Catherine.To test this, the ruler orders her to be the first to shoot at the prisoners.</desc>
+    <episode-num system="onscreen">S3E1</episode-num>
     <credits>
       <director>Colin Bucksey</director>
-      <actor>Peter - Nicholas Hoult</actor>
-      <actor>Catherine - Elle Fanning</actor>
-      <actor>Tartar Nick - Christophe Tek</actor>
-      <actor>Ivan - Charlie Price</actor>
-      <actor>Soldier - Michael Odin Cartwright</actor>
+      <director>Matthew Moore</director>
+      <director>Bert</director>
+      <actor>Katarzyna - Elle Fanning</actor>
+      <actor>Piotr - Nicholas Hoult</actor>
+      <actor>Marial - Phoebe Fox</actor>
+      <actor>Velementov - Douglas Hodge</actor>
       <actor>Arkady - Bayo Gbadamosi</actor>
-      <actor>Tatyana - Florence Keith-Roach</actor>
-      <actor>Captain - Anthony J. Abraham</actor>
-      <actor>Chef Louis - Asheq Akhtar</actor>
-      <actor>Unknown Lady - Komal Amin</actor>
-    </credits><date>2021</date>
-    <category lang="en">Comedy Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418000000 +0500" stop="20260418005500 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Larry Flynt Scandal").
-Vermilion Parish, Louisiana, 1995.Detectives Martin Hart (Woody Harrelson) and Rustin Cohle (Matthew McConaughey) investigate the ritual murder of former prostitute Dora Kelly Lange.There are mysterious symbols painted on her back, a "crown" made of deer antlers is placed on her head, and her eyes are tied with a blindfold.Her body is positioned so that it looks as if she is praying to a large, lonely tree.Next to her corpse there are numerous twigs, interwoven like in old bird cages... Cohle is convinced that Lange is not the killer's first victim, while Hart is skeptical.The investigation leads to an old case involving Marie Fontenot, a girl who disappeared five years earlier.Her case had not been previously investigated.The detectives go to see Marie's uncle, Danny (Christopher Berry).In the destroyed theater, Cohle will find twigs arranged in the same way as those he found near Lange's body... Seventeen years later, Cohle and Hart provide separate explanations about the Dora Kelly Lange case to detectives Thomas Papana (Tony Kittles) and Maynard Gilbough (Michael Potts).Hart and Cohle have not spoken since their 2002 argument.Cohle was shown a photograph of another girl whose body was found oriented in a similar manner to Lange's.Papania and Gilbough want to know how the killer could strike again if he was caught in 1995.</desc>
-    <episode-num system="onscreen">S1E1</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418005500 +0500" stop="20260418015000 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Larry Flynt Scandal").
-His superiors are pressuring Major Quesad to press charges in the murder of Dora Lange.The man warns Hart and Cohle that if they do not arrest the perpetrator quickly, the case will be handed over to a special team consisting of three investigators.Detectives ask their boss for additional time to investigate a new lead.The one from the brothel in the provinces leads them to a burnt church, where they make an important discovery.Intense work casts a shadow on the relationship between Maggie and Hart, who increasingly seeks respite away from home.</desc>
-    <episode-num system="onscreen">S1E2</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418015000 +0500" stop="20260418024500 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Larry Flynt Scandal").
-In a burned church, Cohle and Hart discover a hidden painting that leads them to the trail of preacher Joel Theriot.Members of his community tell detectives that they saw Dora Lange in the company of a tall man with a scar on his face.Although the police arrest a man whose description matches the suspect, after interrogation Cohle decides to release him, even though he is ready to plead guilty.To determine the murderer's modus operandi, the detective looks through old files.The search turns out to be fruitful - the recent murder seems very similar to the case of a woman who drowned in mysterious circumstances many years earlier.Meanwhile, Hart is surprised to learn that Maggie has set Cohle up on a date with her friend.</desc>
-    <episode-num system="onscreen">S1E3</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418024500 +0500" stop="20260418034000 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Scandalist Larry Flynt").</desc>
-    <episode-num system="onscreen">S1E4</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418034000 +0500" stop="20260418043500 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Scandalist Larry Flynt").</desc>
-    <episode-num system="onscreen">S1E5</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418043500 +0500" stop="20260418053500 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Scandalist Larry Flynt").</desc>
-    <episode-num system="onscreen">S1E6</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418053500 +0500" stop="20260418063000 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Scandalist Larry Flynt").</desc>
-    <episode-num system="onscreen">S1E7</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-      <actor>Detective Shinn - Eric Price</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418063000 +0500" stop="20260418073000 +0500">
-    <title>True Detective</title>
-    <sub-title />
-    <desc>Louisiana, 2012. Two experienced detectives - Rust Cohle (Matthew McConaughey) and Martin Hart (Woody Harrelson) - have been tracking a serial killer who commits macabre ritual killings for seventeen years.During this time, their relationships have evolved, both on a professional and private level.The detectives' fates are inextricably linked, and the next installment of the most difficult case in their careers will reveal many dark secrets.The story of two Southern detectives and their dark secrets was directed by Cary Fukunaga ("Escape from Hell", "Jane Eyre").The creator of the series and the author of the script is Nic Pizzolatto.The main roles are played by Matthew McConaughey ("A Killing Time", "The Lincoln Lawyer") and Woody Harrelson ("In the Name of the Army", "Scandalist Larry Flynt").</desc>
-    <episode-num system="onscreen">S1E8</episode-num>
-    <credits>
-      <director>Cary Joji Fukunaga</director>
-      <actor>Rust Cohle - Matthew McConaughey</actor>
-      <actor>Martin Hart - Woody Harrelson</actor>
-      <actor>Maggie Hart - Michelle Monaghan</actor>
-      <actor>Major Ken Quesado - Kevin Dunn</actor>
-      <actor>Papania - Tory Kittles</actor>
-      <actor>Trustee-Levi - Bruce Elliott</actor>
-      <actor>Detective Gonzalez - Randal Gonzalez</actor>
-      <actor>Promise Keeper - David Stephen Mitchell</actor>
-      <actor>Det. Maynard Gilbough - Michael Potts</actor>
-    </credits><date>2014</date>
-    <category lang="en">Crime Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418073000 +0500" stop="20260418090000 +0500">
-    <title>Albert Brooks: Defending My Life</title>
-    <sub-title />
-    <desc>Born in 1947, Albert Brooks is a famous actor, but also a director and screenwriter.In the film, the following people talk about working with the artist and his achievements, among others: Sharon Stone, Larry David and Jonah Hill.</desc>
-    <credits>
-      <director>Rob Reiner</director>
+      <actor>Aunt Elizabeth - Belinda Bromilow</actor>
+      <actor>Archbishop - Adam Godley</actor>
+      <actor>Georgina - Charity Wakefield</actor>
+      <actor>Queen Agnes - Grace Molony</actor>
+      <actor>Grigor Dymov - Gwilym Lee</actor>
     </credits><date>2023</date>
-    <category lang="en">Documentary Film</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418090000 +0500" stop="20260418114500 +0500">
-    <title>Billy Elliot: The Musical Live</title>
-    <sub-title />
-    <desc>England, mid-1980s.Eleven-year-old orphaned by his mother, Billy (Elliott Hanna) lives in a mining town.When a strike breaks out at the mine, his older brother Tony (Chris Grahamson) and their father (Deka Walmsley) participate in the demonstrations.At the same time, the older man, convinced that Billy, like him and Tony, will become a miner, also in accordance with the family tradition, signs him up for boxing training.The boy doesn't feel like fighting, but he discovers that classical dance lessons are held in the same building.He is encouraged to participate by his friend, Debbie (Demi Lee), the daughter of Mrs. Wilkinson (Ruthie Henshall), who runs the classes.The woman quickly notices that Billy has great talent, and he finds great pleasure in training ballet.However, the problem is the boy's father.When he learns about Billy's passion, he goes crazy.A musical adapted to the screen, which was in turn based on the famous film by Stephen Daldry from 2000.The play, with music by Elton John and libretto by Lee Hall, premiered at the Victoria Palace Theater in the West End.Then it was exhibited with great success in many countries.</desc>
-    <credits>
-      <director>Brett Sullivan</director>
-      <director>Stephen Daldry</director>
-      <actor>Billy - Elliott Hanna</actor>
-      <actor>Mrs. Wilkinson - Ruthie Henshall</actor>
-      <actor>Dad - Deka Walmsley</actor>
-      <actor>Grandma - Ann Emery</actor>
-      <actor>Tony - Chris Grahamson</actor>
-      <actor>Billy - Ollie Jochim</actor>
-      <actor>Billy - Bradley Perret</actor>
-      <actor>Billy - Matteo Zecca</actor>
-      <actor>George - Howard Crossley</actor>
-      <actor>Mr. Braithwaite - David Muscat</actor>
-    </credits><date>2014</date>
-    <category lang="en">Musical</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418114500 +0500" stop="20260418132000 +0500">
-    <title>E Poi Si Vede</title>
-    <sub-title />
-    <desc>Three friends compete for an attractive job at the city hall.Federico relies on his father's connections, Fabrizio feels that he is born for this job, and Luca is always lucky.</desc>
-    <credits>
-      <director>Giovanni Calvaruso</director>
-      <actor>Senatrice Purpura - Donatella Finocchiaro</actor>
-      <actor>Roberta - Ester Pantano</actor>
-      <actor>Giampiero Casesa - Domenico Centamore</actor>
-      <actor>Fabrizio Caruso - Fabrizio Sansone</actor>
-      <actor>Federico Pagano - Federico Sansone</actor>
-      <actor>Teresa Pagano - Paola Minaccioni</actor>
-      <actor>Prof. De Ruvo - Gino Astorina</actor>
-      <actor>Giuseppe Bolignari - Paride Benassai</actor>
-      <actor>Giudice - Pierpaolo Benigni</actor>
-      <actor>Giuseppe Pagano - Maurizio Bologna</actor>
-    </credits><date>2025</date>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418132000 +0500" stop="20260418152500 +0500">
-    <title>Dawn of the Planet of the Apes</title>
-    <sub-title />
-    <desc>Ten years have passed since a virus wiped out almost the entire human race.The metropolises were deserted and civilization came to an end.Another intelligent species took over the world - genetically modified monkeys.They create their own world with a specific hierarchy.Caesar, a human-raised male who led the apes to revolution, is the leader of the pack.He was one of the few who experienced both evil and good from people.He hadn't seen a human for two years and thought the species was extinct.However, he is wrong.One day it turns out that in the ruins of San Francisco there lives a colony of people immune to the virus, led by a former policeman.Confrontation between both sides is inevitable.</desc>
-    <credits>
-      <director>Matt Reeves</director>
-      <actor>Dreyfus - Gary Oldman</actor>
-      <actor>Malcolm - Jason Clarke</actor>
-      <actor>Ellie - Keri Russell</actor>
-      <actor>Caesar - Andy Serkis</actor>
-      <actor>Koba - Toby Kebbell</actor>
-      <actor>Alexander - Kodi Smit-McPhee</actor>
-      <actor>Carver - Kirk Acevedo</actor>
-      <actor>Blue Eyes - Nick Thurston</actor>
-      <actor>Rocket - Terry Notary</actor>
-      <actor>Maurice - Karin Konoval</actor>
-    </credits><date>2014</date>
-    <category lang="en">Film Sf</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418152500 +0500" stop="20260418155000 +0500">
-    <title>Georgie \u0026 Mandy's First Marriage</title>
-    <sub-title />
-    <desc>1990s.Young married couple Georgie Cooper (Montana Jordan) and Mandy McAllister (Emily Osment) living in Texas take care of their several-month-old daughter CeeCee.Para mieszka z rodzicami kobiety, Audrey (Rachel Bay Jones) i Jimem (Will Sasso), oraz jej młodszym bratem Connorem (Dougie Baldwin).Every day, young parents face the challenges of adulthood, relationship life and parenthood.The third television series in the series "The Big Bang Theory", a direct continuation of "Young Sheldon".</desc>
-    <episode-num system="onscreen">S1E21</episode-num>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor>Georgie Cooper - Montana Jordan</actor>
-      <actor>Mandy McAllister - Emily Osment</actor>
-      <actor>Audrey McAllister - Rachel Bay Jones</actor>
-      <actor>Jim McAllister - Will Sasso</actor>
-      <actor>Connor McAllister - Dougie Baldwin</actor>
-      <actor>Ruben - Jessie Prez</actor>
-      <actor>Roy - Dale E. Turner</actor>
-      <actor>Mary - Zoe Perry</actor>
-      <actor>Meemaw - Annie Potts</actor>
-      <actor>Beth - Casey Wilson</actor>
-    </credits><date>2024</date>
     <category lang="en">Comedy Series</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418155000 +0500" stop="20260418172500 +0500">
-    <title>DJ Ahmet</title>
-    <sub-title />
-    <desc>In the Macedonian village of Yuruk, the inhabitants live in accordance with tradition.Young people quickly start families and go on their own.15-year-old Ahmet (Arif Jakup) usually looks after sheep and takes care of his younger brother, but he loves electronic music and would like to become a DJ.To the dismay of his father and the conservative community, he equips his tractor with a sound system.His path crosses with a fellow dancer, Aya, who also dreams of a different life.The girl will soon get married according to her parents' decision.Together they decide to organize a party - as a rebellious act of freedom and self-expression.The feature debut of a creator from North Macedonia, who turned out to be one of the winners of Sundance in 2025.It's a touching story about growing up in a place where techno and tradition do not go hand in hand.</desc>
-    <credits>
-      <director>Georgi M. Unkovski</director>
-      <actor>Ahmet's Father - Aksel Mehmet</actor>
-      <actor>Ahmet - Arif Jakup</actor>
-      <actor>Naim - Agush Agushev</actor>
-      <actor>Aya - Dora Akan Zlatanova</actor>
-      <actor>The Muezzin - Atila Klince</actor>
-      <actor>Hakan - Metin Ibrahim</actor>
-    </credits><date>2025</date>
-    <category lang="en">Comedy Dramas</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418172500 +0500" stop="20260418174000 +0500">
-    <title>The Madagascar Penguins in a Christmas Caper</title>
-    <sub-title />
-    <desc>The action of the film is set before the events of the film "Madagascar".The animals at the New York Zoo are getting ready for Christmas.When it's time to celebrate, Skipper, Kowalski and Rico notice that Private is not with them.The penguin wanted to find a gift for his friend, Ted, who was going to spend Christmas alone.Due to an unfortunate turn of events, instead of getting the gift, Private was bought itself.His friends come to his rescue.In the Polish language version, the characters were voiced by, among others:Grzegorz Pawlak, Jacek Lenartowicz, Tomasz Steciuk and Janusz Zadura.</desc>
-    <credits>
-      <director>Gary Trousdale</director>
-    </credits><date>2005</date>
-    <category lang="en">Animated Film</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418174000 +0500" stop="20260418191500 +0500">
-    <title>The Angry Birds Movie 2</title>
-    <sub-title />
-    <desc>The colorful flock of flightless birds and the cunning green pigs continue to quarrel and cannot stand each other's presence.Unexpectedly, however, they have to call a truce and forget about their disagreements.Their islands are threatened by a completely new enemy, whom they can only defeat by fighting side by side.Red, Bomba, Chuck and his sister Silver get along with Leonard and his crew.The second film inspired by a popular smartphone game.In the Polish language version, the voices were: Jacek Bończyk (Red), Agnieszka Mrozińska (Silver), Janusz Zadura (Chuck), Piotr Bąk (Bomba), Paweł Szczęsny (Leonard).</desc>
-    <credits>
-      <director>Thurop Van Orman</director>
-    </credits><date>2019</date>
-    <category lang="en">Animated Film</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418191500 +0500" stop="20260418204000 +0500">
-    <title>A Royal Christmas Ballet</title>
-    <sub-title />
-    <desc>Former ballet dancer Carrie (Brittany Underwood) is to prepare a performance of "The Nutcracker" on the occasion of a visit from a foreign delegation.While working on the play, she becomes involved in an affair.</desc>
-    <credits>
-      <director>Fred Olen Ray</director>
-      <actor>Carrie - Brittany Underwood</actor>
-      <actor>William - Jonathan Stoddard</actor>
-      <actor>Marilyn - Julie Stevens</actor>
-      <actor>Medea - Daniela Couso</actor>
-      <actor>Jane - Monaye Moyes</actor>
-      <actor>Colin - Allen Guy</actor>
-      <actor>Audrey - Mary-Kate O'Connell</actor>
-      <actor>Victoria - Elizabeth Tobias</actor>
-      <actor>Becky - Linda Mesi</actor>
-      <actor>Mike - Peter Johnson</actor>
-    </credits><date>2024</date>
-    <category lang="en">Romantic Comedy</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418204000 +0500" stop="20260418221000 +0500">
-    <title>The Last Showgirl</title>
-    <sub-title />
-    <desc>After thirty years, dancer Shelly Gardner (Pamela Anderson) ends her career.For decades, she performed in a strip revue in Las Vegas, which was inspired by French burlesque.The stage, costumes and music are her passion, for which she sacrificed her family life and relationship with her daughter, Hannah (Billie Lourd).She shared her knowledge and experience with beginner friends Marianne (Brenda Song) and Jodie (Kiernan Shipka).Pewnego dnia jednak producent Eddie (Dave Bautista) ogłasza, że show zdjęto z afisza.Devastated, Shelly must re-plan her future.A similar fate will befall her friend Annette (Jamie Lee Curtis), a dealer at an arcade.Golden Globe for Pamela Anderson.</desc>
-    <credits>
-      <director>Gia Coppola</director>
-      <actor>Shelly - Pamela Anderson</actor>
-      <actor>Annette - Jamie Lee Curtis</actor>
-      <actor>Hannah - Billie Lourd</actor>
-      <actor>Jodie - Kiernan Shipka</actor>
-      <actor>Mary-Anne - Brenda Song</actor>
-      <actor>Eddie - Dave Bautista</actor>
-      <actor>Brad - Patrick Hilgart</actor>
-    </credits><date>2024</date>
-    <category lang="en">Social Drama</category>
-    <language>en</language>
-  </programme><programme channel="HBO3-PL" start="20260418221000 +0500" stop="20260419000000 +0500">
-    <title>Baby Driver</title>
-    <sub-title />
-    <desc>Atlanta.Baby lost his parents in an accident.He himself suffered serious injuries.The boy became involved in cooperation with criminals after he tried to steal a car belonging to the cunning Doc.Since then, he has been in the gangster's employ.His task is seemingly simple - he is to take the team of thieves away from the scene of the robbery as quickly as possible.One day, the boy meets his dream girl - Deborah.He knows perfectly well that there is no place for feelings in illegal business.So he decides to break away from the underworld and start a normal life.However, it turns out that it will not be easy.The boss is not going to let a valuable driver go.She blackmails him into participating in another daring robbery.Not everything goes according to plan.</desc>
-    <credits>
-      <director>Edgar Wright</director>
-      <actor>Baby - Ansel Elgort</actor>
-      <actor>Griff - Jon Bernthal</actor>
-      <actor>Buddy - Jon Hamm</actor>
-      <actor>Darling - Eiza González</actor>
-      <actor>Barista - Micah Howard</actor>
-      <actor>Debora - Lily James</actor>
-      <actor>Street Preacher - Morgan Brown</actor>
-      <actor>Doc - Kevin Spacey</actor>
-      <actor>Morse Diggs - Morse Diggs</actor>
-      <actor>Joseph - CJ Jones</actor>
-    </credits><date>2017</date>
-    <category lang="en">Action Movie</category>
     <language>en</language>
   </programme>
 </tv>

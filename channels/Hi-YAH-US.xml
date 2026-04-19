@@ -3,113 +3,143 @@
   <channel id="Hi-YAH-US">
     <display-name>Hi-YAH!</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hi-YAH-US.png" />
-  </channel><programme channel="Hi-YAH-US" start="20260417120731 +0500" stop="20260417140700 +0500">
-    <title>Xue shan fei hu</title>
+  </channel><programme channel="Hi-YAH-US" start="20260419055201 +0500" stop="20260419080133 +0500">
+    <title>The Wrath of Vajra</title>
     <sub-title />
-    <desc>After two heroes are killed, a treasure map inexplicably disappears -- until a decade later.</desc>
+    <desc>A Japanese death cult is ordered to destroy the spirit of China during World War II.</desc>
     <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07c599844d1459ffbe1f215f603582ca/rokuFeed/assets/e4fab61d1bbc5291a56fc0f4617f7b82.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417140700 +0500" stop="20260417163154 +0500">
-    <title>The Ghouls</title>
-    <sub-title />
-    <desc>Three grave robbers explore a lost underground kingdom to find a powerful charm.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b7898a1b68335f3daa72eba61f54644e/rokuFeed/assets/883a0b7877f05bf68d2e11accbf8306d.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417163154 +0500" stop="20260417184432 +0500">
-    <title>The Thousand Faces of Dunjia</title>
-    <sub-title />
-    <desc>Members of a secret society use supernatural powers to battle an ancient creature.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bb76872bd7525701a0410e468beb4ecf/rokuFeed/assets/c4e2a18d733d5e7895117c9b591aec4a.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417184432 +0500" stop="20260417204907 +0500">
-    <title>Legend of the Fist: The Return of Chen Zhen</title>
-    <sub-title />
-    <desc>Chen fakes his death and returns as a caped crime fighter.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6fa59c6c806b55c6bf6b93199405d9d8/images/gracenote/assets/p8429860_v_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417204907 +0500" stop="20260417235027 +0500">
-    <title>Tomiris</title>
-    <sub-title />
-    <desc>The story of Tomiris, the queen of of the steppe, who was destined to become a skillful warrior.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6c3aeb391ba652789efc7e6960f9b673/rokuFeed/assets/654a227fefb05f818e7f09c384e5ad36.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260417235027 +0500" stop="20260418014956 +0500">
-    <title>Xue shan fei hu</title>
-    <sub-title />
-    <desc>After two heroes are killed, a treasure map inexplicably disappears -- until a decade later.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/07c599844d1459ffbe1f215f603582ca/rokuFeed/assets/e4fab61d1bbc5291a56fc0f4617f7b82.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418014956 +0500" stop="20260418042142 +0500">
-    <title>The Pirates</title>
-    <sub-title />
-    <desc>Pirates and bandits hunt a grey whale after it swallows a royal stamp.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0db4050a3a75abd92e16cffb5cc5794/images/gracenote/assets/p11046298_v_h10_ah.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418042142 +0500" stop="20260418062052 +0500">
-    <title>Hunt The Wicked</title>
-    <sub-title />
-    <desc>As chaos erupts, detective Huang must expose a city's dark truth while outsmarting Wei.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0181815f22e61d931b6aace8a69c0eee/images/gracenote/assets/p28254679_b_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418062052 +0500" stop="20260418075819 +0500">
-    <title>Kowloon Walled City</title>
-    <sub-title />
-    <desc>A street fighter in Northeast China decides to start a new life in Hong Kong's Kowloon Walled City.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2f3ae3854f1056abb7dd34a11179cb8c/images/gracenote/assets/p23296451_v_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418075819 +0500" stop="20260418100642 +0500">
-    <title>Kickboxer: Retaliation</title>
-    <sub-title />
-    <desc>MMA champ Kurt Sloane trains for a fight against a 400-pound killer in an underground death match.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5143181d27de54b98445588e50eedb8f/images/gracenote/assets/p14860144_v_h8_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418100642 +0500" stop="20260418122658 +0500">
-    <title>Memories of the Sword</title>
-    <sub-title />
-    <desc>A warrior goes on a mission to seek revenge for the death of her parents.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a9b1129164c5796a88b59574c86f22c/images/gracenote/assets/p12066587_v_h8_ag.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418122658 +0500" stop="20260418145844 +0500">
-    <title>The Pirates</title>
-    <sub-title />
-    <desc>Pirates and bandits hunt a grey whale after it swallows a royal stamp.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0db4050a3a75abd92e16cffb5cc5794/images/gracenote/assets/p11046298_v_h10_ah.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418122658 +0500" stop="20260418145844 +0500">
-    <title>The Pirates</title>
-    <sub-title />
-    <desc>Pirates and bandits hunt a grey whale after it swallows a royal stamp.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b0db4050a3a75abd92e16cffb5cc5794/images/gracenote/assets/p11046298_v_h10_ah.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418145844 +0500" stop="20260418165754 +0500">
-    <title>Hunt The Wicked</title>
-    <sub-title />
-    <desc>As chaos erupts, detective Huang must expose a city's dark truth while outsmarting Wei.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0181815f22e61d931b6aace8a69c0eee/images/gracenote/assets/p28254679_b_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418165754 +0500" stop="20260418183521 +0500">
-    <title>Kowloon Walled City</title>
-    <sub-title />
-    <desc>A street fighter in Northeast China decides to start a new life in Hong Kong's Kowloon Walled City.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2f3ae3854f1056abb7dd34a11179cb8c/images/gracenote/assets/p23296451_v_h10_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418183521 +0500" stop="20260418204344 +0500">
-    <title>Kickboxer: Retaliation</title>
-    <sub-title />
-    <desc>MMA champ Kurt Sloane trains for a fight against a 400-pound killer in an underground death match.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5143181d27de54b98445588e50eedb8f/images/gracenote/assets/p14860144_v_h8_aa.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418204344 +0500" stop="20260418230400 +0500">
-    <title>Memories of the Sword</title>
-    <sub-title />
-    <desc>A warrior goes on a mission to seek revenge for the death of her parents.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a9b1129164c5796a88b59574c86f22c/images/gracenote/assets/p12066587_v_h8_ag.jpg" />
-  </programme><programme channel="Hi-YAH-US" start="20260418230400 +0500" stop="20260419003226 +0500">
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1cb502063eea5be682ff4cc8982df074/images/gracenote/assets/p10582768_v_h10_ae.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419080133 +0500" stop="20260419092959 +0500">
     <title>Ip Man: The Awakening</title>
     <sub-title />
     <desc>After stopping a kidnapping, a young Ip Man becomes the target of a human trafficking ring.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f41bd918016ad2b31d2408cada445012/images/gracenote/assets/p22404323_v_h8_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419092959 +0500" stop="20260419113404 +0500">
+    <title>The Unity of Heroes</title>
+    <sub-title />
+    <desc>A martial artist battles zombielike foes who are impervious to pain.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a6b0e160a4d2570da6ecb6db150a3a47/images/gracenote/assets/p16796356_v_h8_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419113404 +0500" stop="20260419130652 +0500">
+    <title>Young Ip Man</title>
+    <sub-title />
+    <desc>Young Ip Man moves to Hong Kong to study and ends up facing a hostage situation.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a48c668623445e628eab6a3a847128f4/rokuFeed/assets/aefdeea40e285920abee3597bcbb040e.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419130652 +0500" stop="20260419144934 +0500">
+    <title>Max Cloud</title>
+    <sub-title />
+    <desc>A teen becomes trapped in a notorious intergalactic prison inside a video game.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fb86344de07f58dc8efcd7e4ed0a7452/rokuFeed/assets/92a3f281a8ea5c3cac916a53215c0981.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419144934 +0500" stop="20260419165906 +0500">
+    <title>The Wrath of Vajra</title>
+    <sub-title />
+    <desc>A Japanese death cult is ordered to destroy the spirit of China during World War II.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1cb502063eea5be682ff4cc8982df074/images/gracenote/assets/p10582768_v_h10_ae.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419165906 +0500" stop="20260419185543 +0500">
+    <title>The Swordsman</title>
+    <sub-title />
+    <desc>A swordsman who is going blind is forced to raise his sword again to save his kidnapped daughter.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/db9cfa7a651a5f8b8b378fb942a63b67/images/gracenote/assets/p19234985_v_h8_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419185543 +0500" stop="20260419210229 +0500">
+    <title>Striking Rescue</title>
+    <sub-title />
+    <desc>A veteran Muay Thai expert goes on a mission of revenge after his wife and daughter are murdered.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d5f8aa8ed1bf421c07ac8c315c735c05/rokuFeed/assets/2152b5ad1a275b6ea458ce39b8e7f628.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419210229 +0500" stop="20260419225542 +0500">
+    <title>Furie</title>
+    <sub-title />
+    <desc>When traffickers kidnap her daughter, a vengeful mother returns to her outlaw roots to get her back.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a2c8a9c4257a57e49435ad69289a8d75/rokuFeed/assets/c6c47767b9fa5f1fb24a902dc3ac9a89.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260419225542 +0500" stop="20260420012225 +0500">
+    <title>God of War</title>
+    <sub-title />
+    <desc>A commander and a general join forces to battle pillaging pirates in 16th-century China.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62329ae4806d53558a15548875faf78d/rokuFeed/assets/b7e0982e0b5a5e94895e6ba8c813fbf5.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420012225 +0500" stop="20260420031659 +0500">
+    <title>God of War 2</title>
+    <sub-title />
+    <desc>Healer Seon-ui befriends a divine substance, Il-yeo-po, before Dong Zhuo's soldiers take it.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/17ef7d7f1fee5c24b206d3449d5cf429/images/gracenote/assets/p21355429_st_h10_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420031659 +0500" stop="20260420051336 +0500">
+    <title>The Swordsman</title>
+    <sub-title />
+    <desc>A swordsman who is going blind is forced to raise his sword again to save his kidnapped daughter.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/db9cfa7a651a5f8b8b378fb942a63b67/images/gracenote/assets/p19234985_v_h8_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420051336 +0500" stop="20260420072022 +0500">
+    <title>Striking Rescue</title>
+    <sub-title />
+    <desc>A veteran Muay Thai expert goes on a mission of revenge after his wife and daughter are murdered.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d5f8aa8ed1bf421c07ac8c315c735c05/rokuFeed/assets/2152b5ad1a275b6ea458ce39b8e7f628.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420072022 +0500" stop="20260420091335 +0500">
+    <title>Furie</title>
+    <sub-title />
+    <desc>When traffickers kidnap her daughter, a vengeful mother returns to her outlaw roots to get her back.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a2c8a9c4257a57e49435ad69289a8d75/rokuFeed/assets/c6c47767b9fa5f1fb24a902dc3ac9a89.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420072022 +0500" stop="20260420091335 +0500">
+    <title>Furie</title>
+    <sub-title />
+    <desc>When traffickers kidnap her daughter, a vengeful mother returns to her outlaw roots to get her back.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a2c8a9c4257a57e49435ad69289a8d75/rokuFeed/assets/c6c47767b9fa5f1fb24a902dc3ac9a89.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420091335 +0500" stop="20260420114018 +0500">
+    <title>God of War</title>
+    <sub-title />
+    <desc>A commander and a general join forces to battle pillaging pirates in 16th-century China.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62329ae4806d53558a15548875faf78d/rokuFeed/assets/b7e0982e0b5a5e94895e6ba8c813fbf5.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420114018 +0500" stop="20260420133452 +0500">
+    <title>God of War 2</title>
+    <sub-title />
+    <desc>Healer Seon-ui befriends a divine substance, Il-yeo-po, before Dong Zhuo's soldiers take it.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/17ef7d7f1fee5c24b206d3449d5cf429/images/gracenote/assets/p21355429_st_h10_aa.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420133452 +0500" stop="20260420151718 +0500">
+    <title>Dr. Cheon and Lost Talisman</title>
+    <sub-title />
+    <desc>Dr. Cheon makes a living performing fake exorcisms, and is hired for a powerful possession case.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88b8eab9fb4a51afad91778afffe642f/rokuFeed/assets/de053a037c9e50a4813ddb016650c025.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420151718 +0500" stop="20260420163740 +0500">
+    <title>Jiang Ziya: Legend of Deification</title>
+    <sub-title />
+    <desc>A banished warrior must slay a demon to return to the heavenly realm and become a god.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0ca4dbd3110b5f87a7344f5998eaef2c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1674061799960_aHR0cHM6Ly9zdGF0aWMtZGVsaXZlcnkuc3Iucm9rdS5jb20vYWM5NWM4NTQtMGQ4MC00MTg3LWFlZWUtMjJhYzE1Njc5YWJkL2ltYWdlcy9KaWFuZ1ppeWFfa2V5YXJ0XzE5MjB4MTA4MC5qcGc.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420163740 +0500" stop="20260420185322 +0500">
+    <title>Shadow</title>
+    <sub-title />
+    <desc>A brilliant general devises an intricate plan to finally achieve victory over a rival kingdom.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6f61896d9a855213bb10468ffb326cf5/rokuFeed/assets/d5bb5eaf64065e5db3941a7598ebd28a.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420185322 +0500" stop="20260420210314 +0500">
+    <title>The Gangster, the Cop, the Devil</title>
+    <sub-title />
+    <desc>A vengeful crime boss forms an unlikely partnership with a detective to catch a serial killer.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7273a4fa43dc5088883ef333af428140/images/gracenote/assets/p16978056_v_h10_ab.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420210314 +0500" stop="20260420231543 +0500">
+    <title>Seobok: Project Clone</title>
+    <sub-title />
+    <desc>As Ki-heon meets a cloned human, Seo Bok, his restless journey begins.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d05799ae0d61573bb1de54a827c09f8b/rokuFeed/assets/6468377edf7b5631a5e488968e476d17.jpg" />
+  </programme><programme channel="Hi-YAH-US" start="20260420231543 +0500" stop="20260421005809 +0500">
+    <title>Dr. Cheon and Lost Talisman</title>
+    <sub-title />
+    <desc>Dr. Cheon makes a living performing fake exorcisms, and is hired for a powerful possession case.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88b8eab9fb4a51afad91778afffe642f/rokuFeed/assets/de053a037c9e50a4813ddb016650c025.jpg" />
   </programme>
 </tv>

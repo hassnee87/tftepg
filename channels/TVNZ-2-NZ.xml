@@ -3,9 +3,273 @@
   <channel id="TVNZ-2-NZ">
     <display-name>TVNZ 2</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TVNZ-2-NZ.png" />
-  </channel><programme channel="TVNZ-2-NZ" start="20260417000000 +0500" stop="20260417002500 +0500">
+  </channel><programme channel="TVNZ-2-NZ" start="20260419000500 +0500" stop="20260419001500 +0500">
+    <title>What Will I Be Today?</title>
+    <sub-title />
+    <desc>Join your new friends Kauri, Esera and Wing Gai as they go on imaginative adventures to solve every day problems.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419001500 +0500" stop="20260419002000 +0500">
+    <title>Bird's Eye View</title>
+    <sub-title>Getting Away From It All</sub-title>
+    <desc>The birds decide to get away from the noise of the city. Unfortunately, the Humans have the same idea. What are they doing now?</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419002000 +0500" stop="20260419004000 +0500">
+    <title>Miraculous: Tales Of Ladybug &amp; Cat Noir</title>
+    <sub-title>Mr.Pigeon</sub-title>
+    <desc>Marinette and Adrien look like regular teenagers, usually. But together they are Ladybug and Cat Noir, the heroes that protect Paris from the evil Hawk Moth!</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419004000 +0500" stop="20260419010500 +0500">
+    <title>Megamind Rules!</title>
+    <sub-title>Villan City</sub-title>
+    <desc>Megamind is back, but he's turning over a new leaf. Instead of terrorising Metro City, Megamind is going good: ditching his evil ways to protect the city as the world's first superhero influencer.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419010500 +0500" stop="20260419013000 +0500">
+    <title>Mr Hugo's Little Library</title>
+    <sub-title />
+    <desc>A sheepish sheep gets a little help from her friends while an ambitious superhero learns a little can go a long way.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419013000 +0500" stop="20260419023000 +0500">
+    <title>What Now?</title>
+    <sub-title />
+    <desc>Come and join the party! Catch Aashma, Imy, Manu and Rahil for gunge, cream pies, challenges, prizes and adventures across Aotearoa! Haere mai ki te whare o te hūwareware!</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419023000 +0500" stop="20260419024000 +0500">
+    <title>Tipua</title>
+    <sub-title>Moemoea Dream</sub-title>
+    <desc>Determined to understand the whakapapa of the mysterious taonga Ārepa does some research and discovers the tohunga in her dreams is somehow linked to the hei tiki.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419024000 +0500" stop="20260419042000 +0500">
+    <title>The Voice U.S.A</title>
+    <sub-title>The Blind Auditions Part 6</sub-title>
+    <desc>Coaches Michael Bublé, Niall Horan, Reba McEntire and Snoop Dogg all vie to discover and coach the next singing phenomenon on the sixth and final night of blind auditions.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419042000 +0500" stop="20260419065500 +0500">
+    <title>Home And Away</title>
+    <sub-title />
+    <desc>Tane faces the music. Brax dreams of a better life. David fights for Lacey’s freedom.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419065500 +0500" stop="20260419072500 +0500">
+    <title>Home Economics</title>
+    <sub-title>Box Of King-Size Candy Bars, $48.99</sub-title>
+    <desc>When the Hayworths can’t agree where to trick-or-treat, they find themselves in their own horror stories.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419072500 +0500" stop="20260419090000 +0500">
+    <title>Cats &amp; Dogs 2: The Revenge Of Kitty Galore</title>
+    <sub-title />
+    <desc>When Kitty Galore, a rogue spy, devises a plan to destroy all human and canine life, the dogs and cats have to put their ongoing battle on hold to stop her from executing her evil plot..</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419090000 +0500" stop="20260419110000 +0500">
+    <title>Netball: ANZ Premiership</title>
+    <sub-title>Mainland Tactix V Central Pulse</sub-title>
+    <desc>Live coverage of the final match in Round 2 in the 2026 ANZ Premiership season as the Tactix host the Pulse from Wolfbrook Arean in Christchurch.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419110000 +0500" stop="20260419120000 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Vacation Solution</sub-title>
+    <desc>When Sheldon is forced to take a vacation by the university, he goes to work with Amy in her neurobiology lab. Meanwhile, Bernadette wants Howard to sign a pre-nuptial agreement.</desc>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419120000 +0500" stop="20260419123000 +0500">
+    <title>Highway Patrol</title>
+    <sub-title>Terms And Conditions</sub-title>
+    <desc>A mechanic leads his friend astray and there are four GOATs in a vehicle, and one in the boot. Tough consequences for a driver with drugs in his system, and he’s never held a licence.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419123000 +0500" stop="20260419133000 +0500">
+    <title>Taskmaster</title>
+    <sub-title>Leg Up, Johnny!</sub-title>
+    <desc>Joanna Page unwisely attempts gymnastics and Kumail Nanjiani moves skittles with oven gloves.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-L</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419133000 +0500" stop="20260419155500 +0500">
+    <title>Movie: Jason Bourne</title>
+    <sub-title>Jason Bourne</sub-title>
+    <desc>Jason Bourne, a former CIA agent, is drawn out of hiding by CIA director Robert Dewey. He then sets out to discover more about his past, family and his father's death. Starring Matt Damon..</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-V</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419155500 +0500" stop="20260419165500 +0500">
+    <title>Doc</title>
+    <sub-title>Tightrope</sub-title>
+    <desc>A popular weight loss medication reveals the cracks in a couple's relationship. Two sisters face an unexpected diagnosis.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-C</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419165500 +0500" stop="20260419174500 +0500">
+    <title>The Rookie</title>
+    <sub-title />
+    <desc>Harper and Miles feel the weight of their recent mistakes, while Harper is tasked with training Miles; Nolan and Celina are dispatched to a robbery call where Nolan encounters a familiar face.</desc>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419174500 +0500" stop="20260419183500 +0500">
+    <title>Firebite</title>
+    <sub-title />
+    <desc>Series Premiere: When vampires kidnap an Aboriginal man, renegade vampire hunters Tyson and Shanika fight back.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-VL</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419183500 +0500" stop="20260419200500 +0500">
+    <title>Deadly Cults</title>
+    <sub-title>The Gatekeepers</sub-title>
+    <desc>In this shocking exposé, real-life cults are unravelled from the leaders down to the individual members, to help explain their extreme beliefs and what led them to committing homicide.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-C</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419200500 +0500" stop="20260419203000 +0500">
+    <title>Highway Patrol</title>
+    <sub-title />
+    <desc>Officers Hodges and Bidderman deal with a driver who tries to pull the wool over their eyes claiming that a glasses case looks the same as a cellphone.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419203000 +0500" stop="20260419210000 +0500">
+    <title>Infomercial</title>
+    <sub-title />
+    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419210000 +0500" stop="20260419213000 +0500">
+    <title>Infomercial</title>
+    <sub-title />
+    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419213000 +0500" stop="20260419220000 +0500">
+    <title>Infomercial</title>
+    <sub-title />
+    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419220000 +0500" stop="20260419223000 +0500">
+    <title>Infomercial</title>
+    <sub-title />
+    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419223000 +0500" stop="20260419230000 +0500">
+    <title>TVNZ2 Returns At 6am</title>
+    <sub-title />
+    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
+    <language>en</language>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419230000 +0500" stop="20260419233000 +0500">
+    <title>Les Mills Born To Move</title>
+    <sub-title>The Library</sub-title>
+    <desc>Designed to nurture a life-long love of physical activity, BORN TO MOVE helps children experience the joy and vitality of moving to music, combining fun and fitness in way that children love.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419233000 +0500" stop="20260419233500 +0500">
+    <title>Kiri And Lou</title>
+    <sub-title>No Gnashing</sub-title>
+    <desc>Kiri and Lou are invited to lunch with two very slow snails, Hemi and Lemi. Kiri is famished but she tries to be polite and not gnash her teeth.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260419233500 +0500" stop="20260420000000 +0500">
+    <title>Toi Time</title>
+    <sub-title />
+    <desc>Featuring Anika Moa and her music, educating and entertaining kids through play, movement and dance.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420000000 +0500" stop="20260420002500 +0500">
     <title>The Jungle Bunch To The Rescue!</title>
-    <sub-title>Melina's Independance Day</sub-title>
+    <sub-title>Once Upon A Time In The Jungle</sub-title>
     <desc>The jungle can be a dangerous place... but thankfully there are a group of heroes ready to defend those in trouble. Join the Jungle Bunch as they rush to the rescue of their animal friends!</desc>
     <language>en</language>
     <video>
@@ -13,9 +277,9 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417002500 +0500" stop="20260417004500 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420002500 +0500" stop="20260420005000 +0500">
     <title>Sonic Boom</title>
-    <sub-title>Hedgehog Day</sub-title>
+    <sub-title>Robot Battle Royale</sub-title>
     <desc>Sonic, Tails, Amy, Knuckles, and Sticks reside on Seaside Island in Hedgehog Village. Together they defend the island from various threats like Doctor Eggman and his robotic creations.</desc>
     <language>en</language>
     <video>
@@ -23,9 +287,9 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417004500 +0500" stop="20260417011000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420005000 +0500" stop="20260420011000 +0500">
     <title>LEGO Ninjago: Masters Of Spinjitzu</title>
-    <sub-title>The Surge</sub-title>
+    <sub-title>The Art Of The Silent Fist</sub-title>
     <desc>Kai, Jay, Cole and Zane must master their elemental powers and Spinjitzu weapons to protect the land of Ninjago, which also has an underworld.</desc>
     <language>en</language>
     <video>
@@ -33,9 +297,9 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417011000 +0500" stop="20260417012500 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420011000 +0500" stop="20260420012500 +0500">
     <title>Maddie + Triggs</title>
-    <sub-title>No No No</sub-title>
+    <sub-title>Spoons</sub-title>
     <desc>Maddie, an adventurous youngster who happens to be visually impaired, sets out with her best doggy friend Triggs to discover the music and adventure in the sounds of the world around them.</desc>
     <language>en</language>
     <video>
@@ -43,32 +307,28 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417012500 +0500" stop="20260417020000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420012500 +0500" stop="20260420020000 +0500">
     <title>Gus the Itsy Bitsy Knight</title>
-    <sub-title>Glow-And-Tell Crystal Ball</sub-title>
+    <sub-title>My Hero Part 2</sub-title>
     <desc>Astride his electric pony, wielding a laser sword, little Gus is out to prove that a brave heart can overcome anything.</desc>
     <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
+    <rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417020000 +0500" stop="20260417023000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420020000 +0500" stop="20260420023000 +0500">
     <title>Infomercial</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417023000 +0500" stop="20260417030000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420023000 +0500" stop="20260420030000 +0500">
     <title>Les Mills Adult Classes</title>
-    <sub-title>Grit 47 Cardio</sub-title>
+    <sub-title>Dance 6</sub-title>
     <desc>Les Mills and TVNZ are thrilled to be working together to offer you free access to renowned Les Mills classes; BODYBALANCE, BODYCOMBAT, BODYATTACK, LES MILLS CORE and LES MILLS GRIT Cardio.</desc>
     <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
+    <rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417030000 +0500" stop="20260417033000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420030000 +0500" stop="20260420033000 +0500">
     <title>Everyday Gourmet With Justine Schofield</title>
     <sub-title />
     <desc>MasterChef Australia finalist Justine Schofield shares some of her favourite recipes in this cookery program aimed at ideas for the home cook.</desc>
@@ -78,7 +338,7 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417033000 +0500" stop="20260417040000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420033000 +0500" stop="20260420040000 +0500">
     <title>Farm To Fork</title>
     <sub-title />
     <desc>Farm to Fork takes you on a journey across Australia, showcasing fresh local produce to inspire healthy cooking. Discover where your food comes from, support local farmers, and learn how to eat well.</desc>
@@ -88,9 +348,9 @@
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417040000 +0500" stop="20260417050000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420040000 +0500" stop="20260420050000 +0500">
     <title>The Drew Barrymore Show</title>
-    <sub-title>Stacey Rusch</sub-title>
+    <sub-title>Jennifer Aniston</sub-title>
     <desc>Driven by humour and optimism, Drew Barrymore presents human interest stories and has heartfelt conversations with special guests.</desc>
     <language>en</language>
     <video>
@@ -98,100 +358,7 @@
     </video><rating system="NZ">
       <value>PG</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417050000 +0500" stop="20260417053000 +0500">
-    <title>Home And Away</title>
-    <sub-title />
-    <desc>Casey is bitterly disappointed. John is forced to own up. Sonny struggles with intimacy.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417053000 +0500" stop="20260417063000 +0500">
-    <title>Tipping Point Australia</title>
-    <sub-title />
-    <desc>Hosted by Australian tennis legend Todd Woodbridge, Tipping point will push contestants' luck to the very edge in their quest to beat the mesmerising device and win mystery prizes and cash!</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417063000 +0500" stop="20260417073000 +0500">
-    <title>Bridge Of Lies</title>
-    <sub-title />
-    <desc>Ross Kemp hosts a nail-biting quiz. Using knowledge, strategy and a little luck, contestants must cross the Bridge, spotting the lies. One wrong step and they lose everything!</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417073000 +0500" stop="20260417080000 +0500">
-    <title>Everyday Gourmet With Justine Schofield</title>
-    <sub-title />
-    <desc>MasterChef Australia finalist Justine Schofield shares some of her favourite recipes in this cookery program aimed at ideas for the home cook.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>Travel Guides</title>
-    <sub-title>Top End</sub-title>
-    <desc>In this episode, the Travel Guides check out Northern Territory, Australia. Starting in Darwin, they have a terrifying encounter with saltwater crocodiles, then head to Nitmiluk National Park.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>Tipping Point Australia</title>
-    <sub-title />
-    <desc>Hosted by Australian tennis legend Todd Woodbridge, Tipping point will push contestants' luck to the very edge in their quest to beat the mesmerising device and win mystery prizes and cash!</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417100000 +0500" stop="20260417103000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>The Mook, The Chef, The Wife, And Her Homer</sub-title>
-    <desc>Lisa befriends the son of mobster Fat Tony, whose dream is to become a chef; Homer and Bart take over the 'family business' after Fat Tony is gunned down.</desc>
-    <episode-num system="onscreen">S18 E1</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417103000 +0500" stop="20260417113000 +0500">
-    <title>The Big Bang Theory</title>
-    <sub-title>The Beta Test Initiation</sub-title>
-    <desc>Leonard and Penny experiment with dating again by 'beta testing' their relationship, while Raj develops a peculiar relationship with his phone's virtual assistant.</desc>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417113000 +0500" stop="20260417120000 +0500">
-    <title>Ghosts</title>
-    <sub-title>The Others</sub-title>
-    <desc>Sam and the ghosts face "The Others," a new group of spirits from one ghost's past; Trevor tries to deal with a demanding Patience, who seeks a committed relationship.</desc>
-    <episode-num system="onscreen">S5 E11</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417120000 +0500" stop="20260417123000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420050000 +0500" stop="20260420053000 +0500">
     <title>Home And Away</title>
     <sub-title />
     <desc>John grows suspicious. Brax’s grand plan stalls. Great news is afoot for Sonny.</desc>
@@ -201,80 +368,162 @@
     </video><rating system="NZ">
       <value>PG</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417123000 +0500" stop="20260417133000 +0500">
-    <title>The Claudia Winkleman Show</title>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420053000 +0500" stop="20260420063000 +0500">
+    <title>Tipping Point Australia</title>
     <sub-title />
-    <desc>Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
+    <desc>Hosted by Australian tennis legend Todd Woodbridge, Tipping point will push contestants' luck to the very edge in their quest to beat the mesmerising device and win mystery prizes and cash!</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>M-L</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417133000 +0500" stop="20260417143000 +0500">
-    <title>The Miniature Wife</title>
-    <sub-title>What Category Is Shrinking Your Wife</sub-title>
-    <desc>While Les comes up with ways to test his regrowth formula, his colleague has other plans to rescue Lindy.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-L</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417143000 +0500" stop="20260417151500 +0500">
-    <title>Never Mind The Buzzcocks</title>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420063000 +0500" stop="20260420073000 +0500">
+    <title>Bridge Of Lies</title>
     <sub-title />
-    <desc>Gregory Porter, Amy Gledhill and Chesney Hawkes join the regulars for the legendary pop culture panel show's revival, hosted by Greg Davies.</desc>
+    <desc>Ross Kemp hosts a nail-biting quiz. Using knowledge, strategy and a little luck, contestants must cross the Bridge, spotting the lies. One wrong step and they lose everything!</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>M-L</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417151500 +0500" stop="20260417161500 +0500">
-    <title>Hell's Kitchen</title>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420073000 +0500" stop="20260420080000 +0500">
+    <title>Everyday Gourmet With Justine Schofield</title>
     <sub-title />
-    <desc>The remaining chefs compete in a speed breakfast challenge; in the most dramatic dinner service yet, both the Red and Blue teams melt under pressure at the fish and meat stations.</desc>
+    <desc>MasterChef Australia finalist Justine Schofield shares some of her favourite recipes in this cookery program aimed at ideas for the home cook.</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>16-L</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417161500 +0500" stop="20260417164500 +0500">
-    <title>Stumble</title>
-    <sub-title>Button Day</sub-title>
-    <desc>Courteney makes a deal with the Button Factory owner that if her team performs a dazzling routine, he’ll write her department a big check.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420080000 +0500" stop="20260420090000 +0500">
+    <title>Travel Guides</title>
+    <sub-title>Cruise</sub-title>
+    <desc>Our bonza, ripper, fair dinkum Aussie Travel Guides take a 10-day South Pacific cruise; swimming with turtles in New Caledonia and snorkelling in Vanuatu.</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>PG-L</value>
+      <value>PG</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417164500 +0500" stop="20260417172500 +0500">
-    <title>Laid</title>
-    <sub-title>Fb To The T</sub-title>
-    <desc>Ruby makes a mistake and questions past relationships when she and AJ attend an ex's wedding.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-LC</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417172500 +0500" stop="20260417181500 +0500">
-    <title>The Fortune Hotel</title>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420090000 +0500" stop="20260420100000 +0500">
+    <title>Tipping Point Australia</title>
     <sub-title />
-    <desc>Season Finale: The final Hotel Game sees guests scramble to solve a devious puzzle in their rooms. Then the final 3 pairs race across the Caribbean Sea in the most spectacular Day Trip Challenge yet.</desc>
+    <desc>Hosted by Australian tennis legend Todd Woodbridge, Tipping point will push contestants' luck to the very edge in their quest to beat the mesmerising device and win mystery prizes and cash!</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>M-L</value>
+      <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417181500 +0500" stop="20260417184000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Jazzy And The Pussycats</sub-title>
+    <desc>Lisa is upset when Bart becomes a better jazz musician than her, so she decides to set up an animal shelter in the Simpsons' attic.</desc>
+    <episode-num system="onscreen">S18 E2</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420103000 +0500" stop="20260420113000 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Werewolf Transformation</sub-title>
+    <desc>A change in Sheldon's routine forces him to re-evaluate his entire life when his barber is sick. Meanwhile, Howard rethinks his decision to go into space after astronaut training.</desc>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420113000 +0500" stop="20260420120000 +0500">
+    <title>Home And Away</title>
+    <sub-title />
+    <desc>Lacey fights off the press. John plays detective. Sonny and Dana celebrate progress.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420120000 +0500" stop="20260420123000 +0500">
+    <title>Shortland Street</title>
+    <sub-title />
+    <desc>Cody's triggered.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420123000 +0500" stop="20260420133000 +0500">
+    <title>Fear Factor: House Of Fear</title>
+    <sub-title />
+    <desc>In the shocking semi-finals, alliances are tested and strategies shift after Johnny reveals a first-ever double elimination; a painful electrocution challenge puts four players at risk.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-LC</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420133000 +0500" stop="20260420143000 +0500">
+    <title>The Rookie</title>
+    <sub-title />
+    <desc>Nolan, Harper and Miles face a dangerous situation when a routine check takes a sudden turn; Bailey conducts a covert investigation at the Pentagon at the request of Lt. Grey.</desc>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-VC</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420143000 +0500" stop="20260420152500 +0500">
+    <title>The Hunting Party</title>
+    <sub-title>Ron Simms</sub-title>
+    <desc>Season Premiere: Bex Henderson must fight to have the Hunting Party team reinstated so that they can catch the infamous "Boogeyman" killer, Ron Simms, who is currently at large.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-VC</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420152500 +0500" stop="20260420162500 +0500">
+    <title>CSI: Crime Scene Investigation</title>
+    <sub-title>Better Off Dead</sub-title>
+    <desc>A major shootout at a gun store may be connected to the death of a young woman involved in a suicide pact.</desc>
+    <episode-num system="onscreen">S10 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>18-C</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420162500 +0500" stop="20260420172500 +0500">
+    <title>Accident, Suicide, Or Murder</title>
+    <sub-title>Deadly Betrayal</sub-title>
+    <desc>Explore the unbelievable true stories of suspicious deaths, unpacking the evidence and strange behaviour that led investigators to question these tragic events.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-VC</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420172500 +0500" stop="20260420181500 +0500">
+    <title>Wentworth</title>
+    <sub-title />
+    <desc>With Rita’s return imminent, Lou pressures the H1 family to declare allegiance to her. Rita enacts a plan to force information from Lou, only for the plan to backfire. Ann continues to unravel.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-VLC</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420181500 +0500" stop="20260420184000 +0500">
     <title>Emmerdale</title>
     <sub-title />
     <desc>Long-running soap following the ups and downs of village life amid the rolling scenery of the Yorkshire Dales.</desc>
@@ -284,287 +533,77 @@
     </video><rating system="NZ">
       <value>PG</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417184000 +0500" stop="20260417191000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420184000 +0500" stop="20260420191000 +0500">
     <title>Infomercial</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417191000 +0500" stop="20260417194000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420191000 +0500" stop="20260420194000 +0500">
     <title>Infomercial</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417194000 +0500" stop="20260417211500 +0500">
-    <title>The Hundred With Andy Lee</title>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420194000 +0500" stop="20260420201500 +0500">
+    <title>Hacks</title>
+    <sub-title>Join The Club</sub-title>
+    <desc>Deborah is invited to hang with some of her favourite comedians.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-L</value>
+    </rating>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420201500 +0500" stop="20260420212000 +0500">
+    <title>Farmer Wants A Wife</title>
     <sub-title />
-    <desc>Host Andy Lee is joined in the studio by a panel of Australia's funniest comedians and a 100 regular Aussies via Zoom to explore the fun behind the facts that make us a nation.</desc>
+    <desc>The farmers and their partners gather for their first get-together at the country ball. After a shuffle on the dance floor, the farmers choose who to take on the next solo date.</desc>
+    <episode-num system="onscreen">S12 E4</episode-num>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
-      <value>M-LSC</value>
+      <value>PG-L</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417211500 +0500" stop="20260417223500 +0500">
-    <title>The Voice Australia</title>
-    <sub-title>The Blinds</sub-title>
-    <desc>On the second night of auditions, seven new performers make their debut. They bring unique talents to the stage in the hopes of capturing the attention of the superstar coaches and moving on.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417223500 +0500" stop="20260417230000 +0500">
-    <title>TVNZ2 Returns At 6am</title>
-    <sub-title />
-    <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
-    <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417230000 +0500" stop="20260417232500 +0500">
-    <title>Mecha Builders</title>
-    <sub-title>The Need For Feed</sub-title>
-    <desc>Elmo, Cookie Monster, and Abby Cadabby are robot heroes-in-training who use their STEM superpowers to solve wacky larger-than-life problems.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417232500 +0500" stop="20260417235000 +0500">
-    <title>Takaro Tribe</title>
-    <sub-title>Pupurangi Goes Exploring</sub-title>
-    <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260417235000 +0500" stop="20260418000000 +0500">
-    <title>Kiri And Lou</title>
-    <sub-title />
-    <desc>Kiri and Lou follows the adventures of Kiri, a feisty little dinosaur with overpowering emotions and Lou, a gentle but thoughtful creature.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418000000 +0500" stop="20260418002500 +0500">
-    <title>Robin Hood: Mischief In Sherwood</title>
-    <sub-title>The Awakening Of Katel Part 1</sub-title>
-    <desc>Sherwood is in danger from the tyrannical Prince John! Teenage Robin and his merry band of outlaws fight back.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418002500 +0500" stop="20260418005000 +0500">
-    <title>Smarty Pants</title>
-    <sub-title>The Fun Attitude</sub-title>
-    <desc>Tired of being the "losers" in class, three buddies are on a mission to become cool - realising along the way that just accepting themselves is the coolest way to be.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418005000 +0500" stop="20260418014000 +0500">
-    <title>LEGO Ninjago: Masters Of Spinjitzu</title>
-    <sub-title>Winds Of Change</sub-title>
-    <desc>Kai, Jay, Cole and Zane must master their elemental powers and Spinjitzu weapons to protect the land of Ninjago, which also has an underworld.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418014000 +0500" stop="20260418020000 +0500">
-    <title>Beyblade X</title>
-    <sub-title>Partner</sub-title>
-    <desc>Four beybladers and their genius friend travel the world as team 'Bladebreakers' to win a championship, realising there's much more at stake on the go.</desc>
-    <language>en</language>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418020000 +0500" stop="20260418023500 +0500">
-    <title>Crazy Fun Park</title>
-    <sub-title>Mirrors</sub-title>
-    <desc>Chester, Mapplethorpe and Violetta are all forced to confront the things they most want to forget when Remus puts a dangerous plan into action.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418023500 +0500" stop="20260418031000 +0500">
-    <title>The Nanny</title>
-    <sub-title>Deep Throat</sub-title>
-    <desc>While examining Grace for symptoms of the flu, the doctor takes a look at Fran's throat and immediately orders her to the hospital to have her tonsils removed.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418031000 +0500" stop="20260418045000 +0500">
-    <title>Shortland Street</title>
-    <sub-title />
-    <desc>Is Maeve ready?</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418045000 +0500" stop="20260418055500 +0500">
-    <title>Dress The Nation</title>
-    <sub-title />
-    <desc>Guest expert Mark Wright joins hosts Vernon Kay and AJ Odudu as the remaining amateur designers compete for a dream mentorship with high street giant M&amp;S.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418055500 +0500" stop="20260418070000 +0500">
-    <title>RPA</title>
-    <sub-title>Joseline's New Liver</sub-title>
-    <desc>Season Finale: In this episode, world-leading pathologist Dr Richard battles his own mortality with a ground-breaking trial. Joseline receives a long-awaited liver transplant.</desc>
-    <language>en</language>
-    <rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418070000 +0500" stop="20260418075500 +0500">
-    <title>Dr. Pimple Popper: Breaking Out</title>
-    <sub-title>Jaw Dropper</sub-title>
-    <desc>Dr. Lyndsey joins Dr. Lee to help David, who is fearful that the lump on his jaw might be cancer; Carla has a large, mysterious bulge on her thigh that concerns Dr. Lee.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418075500 +0500" stop="20260418090000 +0500">
-    <title>The Claudia Winkleman Show</title>
-    <sub-title />
-    <desc>Claudia is joined by actors Ralph Fiennes, Anna Faris, Olivia Cooke and comedian Michelle de Swarte.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>M-L</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418090000 +0500" stop="20260418110000 +0500">
-    <title>Netball: ANZ Premiership</title>
-    <sub-title>ANZ Premiership</sub-title>
-    <desc>Live coverage of the opening match of Round 2 in the 2026 ANZ Premiership season as the Steel host the Stars from ILT Stadium Southland in Invercargill.</desc>
-    <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>America's Got Talent</title>
-    <sub-title>Quarterfinals 4 Results</sub-title>
-    <desc>America's votes reveal which three acts from the previous night's show will move on to the semifinals; also advancing is one act that was sent straight to the finals last night.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418120000 +0500" stop="20260418140000 +0500">
-    <title>Netball: ANZ Premiership</title>
-    <sub-title>ANZ Premiership</sub-title>
-    <desc>Live coverage of the second match of Round 2 in the 2026 ANZ Premiership season as the Magic take on the Mystics from Mercury Baypark Arena in Tauranga.</desc>
-    <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418140000 +0500" stop="20260418155500 +0500">
-    <title>America's Got Talent</title>
-    <sub-title>Semi Finals Performance</sub-title>
-    <desc>Twelve acts compete live at the Pasadena Civic Auditorium for a chance to compete in the finals; one act will receive the new semifinals golden buzzer and be sent to the finals.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418155500 +0500" stop="20260418181000 +0500">
-    <title>Movie: American Made</title>
-    <sub-title>American Made</sub-title>
-    <desc>Barry Seal, a drug smuggler and pilot in the 1980s is recruited by the CIA to carry out one of the largest covert operations in U.S. history. Starring Tom Cruise..</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-LC</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418181000 +0500" stop="20260418193500 +0500">
-    <title>Movie: The Breaker Upperers</title>
-    <sub-title>The Breaker Upperers</sub-title>
-    <desc>Jen and Mel run a successful break-up service ending relationships when people can't do it themselves, until it begins to weigh on Mel's conscience. Starring Madeleine Sami and Jackie van Beek..</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-LS</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418193500 +0500" stop="20260418210500 +0500">
-    <title>An Unexpected Killer</title>
-    <sub-title>Hidden Betrayal</sub-title>
-    <desc>Delve into some of the most shocking murder cases, where the killer comes as a complete surprise. Just when the investigators think they've cracked the case, new evidence turns everything on its head.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-VC</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418210500 +0500" stop="20260418213000 +0500">
-    <title>911 Crisis Centre</title>
-    <sub-title>The First, First Responders</sub-title>
-    <desc>At a 911 call centre in Cleveland, Ohio, every moment counts - as a team of dispatchers answer and triage the never-ending bombardment of panic-stricken calls.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418213000 +0500" stop="20260418220000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420212000 +0500" stop="20260420220000 +0500">
     <title>TVNZ2 Returns At 5am</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418220000 +0500" stop="20260418223000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420220000 +0500" stop="20260420223000 +0500">
     <title>Infomercial</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418223000 +0500" stop="20260418230000 +0500">
+  </programme><programme channel="TVNZ-2-NZ" start="20260420223000 +0500" stop="20260420230000 +0500">
     <title>Infomercial</title>
     <sub-title />
     <desc>TVNZ 2 is a New Zealand free-to-air television channel operated by state-owned broadcaster TVNZ, known for a broad range of programming including drama, comedy, reality TV, and entertainment. The channel targets a younger demographic with a focus on popular international and local content.</desc>
     <language>en</language>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418230000 +0500" stop="20260418232500 +0500">
-    <title>Tākaro Tribe</title>
-    <sub-title>Heki</sub-title>
-    <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420230000 +0500" stop="20260420232500 +0500">
+    <title>Les Mills Born To Move</title>
+    <sub-title>Rainbow Groove</sub-title>
+    <desc>Designed to nurture a life-long love of physical activity, BORN TO MOVE helps children experience the joy and vitality of moving to music, combining fun and fitness in way that children love.</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418232500 +0500" stop="20260418235500 +0500">
-    <title>Buzz's Epic Little Missions</title>
-    <sub-title />
-    <desc>Buzz explores a cave to look for glow worms, goes diving at the Poor Knights and builds an awesome obstacle course for his new remote controlled car.</desc>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420232500 +0500" stop="20260420233000 +0500">
+    <title>Kiri And Lou</title>
+    <sub-title>Funny Feeling</sub-title>
+    <desc>Lou’s drumming makes Kiri feel funny and wobbly all over. Pania explains that there’s nothing wrong - it’s called dancing.</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>
     </video><rating system="NZ">
       <value>G</value>
     </rating>
-  </programme><programme channel="TVNZ-2-NZ" start="20260418235500 +0500" stop="20260419000500 +0500">
-    <title>Bluey</title>
-    <sub-title>Bumpy And The Wise</sub-title>
-    <desc>Meet Bluey, an inexhaustible six-year-old Blue Heeler dog who loves to play. She turns everyday family life into extraordinary adventures!</desc>
+  </programme><programme channel="TVNZ-2-NZ" start="20260420233000 +0500" stop="20260421000000 +0500">
+    <title>Toi Time</title>
+    <sub-title />
+    <desc>Featuring Anika Moa and her music, educating and entertaining kids through play, movement and dance.</desc>
     <language>en</language>
     <video>
       <quality>HD</quality>

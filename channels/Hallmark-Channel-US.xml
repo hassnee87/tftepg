@@ -3,180 +3,80 @@
   <channel id="Hallmark-Channel-US">
     <display-name>Hallmark Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Hallmark-Channel-US.png" />
-  </channel><programme channel="Hallmark-Channel-US" start="20260417010000 +0500" stop="20260417030000 +0500">
-    <title>Sweet Pecan Summer</title>
+  </channel><programme channel="Hallmark-Channel-US" start="20260419010000 +0500" stop="20260419030000 +0500">
+    <title>Missing the Boat</title>
     <sub-title />
-    <desc>Sparks fly between a young woman and her ex-boyfriend as they work together to sell her aunt's pecan farm.</desc>
+    <desc>Strangers Kelly and Parker both end up on the same Italian cruise, but after missing the boat during a stop, they're forced to team up and race across southern Italy to catch up.</desc>
     <credits>
-      <director>Dustin Rikert</director>
-      <actor>Christine Ko</actor>
-      <actor>Wes Brown</actor>
-      <actor>Lauren Tom</actor>
-    </credits><date>2021</date>
+      <actor>Emilie Ullerup</actor>
+      <actor>Kristoffer Polaha</actor>
+    </credits><date>2026</date>
     <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Adventure</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20311949_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31880224_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
     </rating><rating system="UK Content Provider">
-      <value>U</value>
+      <value>PG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417030000 +0500" stop="20260417050000 +0500">
-    <title>Caught by Love</title>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419030000 +0500" stop="20260419050000 +0500">
+    <title>Catch of the Day</title>
     <sub-title />
-    <desc>While on a journey of self-discovery, a resort guest gets swept into an undercover investigation for stolen jewels that turns into an unexpected and adventurous romance.</desc>
+    <desc>On the eve of becoming a New York executive chef, Sophie returns home to help her family's flailing restaurant and runs into Cam, an old crush who makes her question everything.</desc>
     <credits>
-      <director>Kevin Fair</director>
-      <actor>Rachael Leigh Cook</actor>
-      <actor>Luke MacFarlane</actor>
-      <actor>Emrhys Cooper</actor>
+      <director>Jessica Harmon</director>
+      <actor>Emilie Ullerup</actor>
+      <actor>Michael Rady</actor>
+      <actor>Katie Lee Biegel</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30724565_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419050000 +0500" stop="20260419070000 +0500">
+    <title>To Philly with Love</title>
+    <sub-title />
+    <desc>A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history and discover a love story of their own. Stars Rebecca Dalton, Stephen Huszar.</desc>
+    <credits>
+      <actor>Rebecca Dalton</actor>
+      <actor>Stephen Huszar</actor>
     </credits><date>2026</date>
     <category lang="en">Movie</category>
     <category lang="en">Romance</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31880170_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32629356_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
-    </rating><rating system="UK Content Provider">
-      <value>U</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417050000 +0500" stop="20260417070000 +0500">
-    <title>Matchmaker Mysteries</title>
-    <sub-title>The Art of the Kill</sub-title>
-    <desc>Angie Dove gets Detective Carter's attention by stumbling on a murder at an art museum. Angie's father, Nick, is on his own case, trying to solve a series of petty thefts at the museum.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419070000 +0500" stop="20260419090000 +0500">
+    <title>A Season to Blossom</title>
+    <sub-title />
+    <desc>A drifting aspiring writer returns to sell her late grandmother's bookstore, but its traditions and her childhood crush helps her rediscover her voice, her roots, and a love worth staying for.</desc>
     <credits>
-      <actor>Danica McKellar</actor>
-      <actor>Victor Webster</actor>
-      <actor>Bruce Boxleitner</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Mystery</category>
+      <director>Terry Ingram</director>
+      <actor>Carlo Marks</actor>
+      <actor>Emily Tennant</actor>
+      <actor>Devon Kenzo</actor>
+    </credits><date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17225241_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417070000 +0500" stop="20260417073000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>The Mangiacavallo Curse Makes a Lousy Wedding Present</sub-title>
-    <desc>Blanche supplies a date for wedding-bound Dorothy; Sophia puts a curse on the newlyweds.</desc>
-    <episode-num system="onscreen">S5 E23</episode-num>
-    <credits>
-      <director>Terry Hughes</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p32629088_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
+      <value>TVG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417073000 +0500" stop="20260417080000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419090000 +0500" stop="20260419093000 +0500">
     <title>The Golden Girls</title>
-    <sub-title>All Bets Are Off</sub-title>
-    <desc>Dorothy's gambling addiction worries Sophia; Blanche dates a co-worker.</desc>
-    <episode-num system="onscreen">S5 E24</episode-num>
-    <credits>
-      <director>Terry Hughes</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417080000 +0500" stop="20260417083000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>The President's Coming! The President's Coming! Part 1</sub-title>
-    <desc>An FBI agent investigates the girls ahead of a possible visit from President Bush, which leads them to reminisce about their experiences together.</desc>
-    <episode-num system="onscreen">S5 E25 P1/2</episode-num>
-    <credits>
-      <director>Lex Passaris</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417083000 +0500" stop="20260417090000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>The President's Coming! The President's Coming! Part 2</sub-title>
-    <desc>The girls continue to reminisce about their experiences together; an FBI agent announces that President Bush will be visiting their home; Dorothy readies a list of points to make to the president.</desc>
-    <episode-num system="onscreen">S5 E26 P2/2</episode-num>
-    <credits>
-      <director>Lex Passaris</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417090000 +0500" stop="20260417093000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Blanche Delivers</sub-title>
-    <desc>Blanche's pregnant daughter, Rebecca, pales at the thought of childbirth.</desc>
-    <episode-num system="onscreen">S6 E1</episode-num>
+    <sub-title>Mrs. George Devereaux</sub-title>
+    <desc>Blanche dreams of a visit from her deceased husband; Dorothy finds herself in a love triangle while looking to meet her ideal man.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
     <credits>
       <director>Matthew Diamond</director>
       <actor>Bea Arthur</actor>
@@ -198,11 +98,11 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417093000 +0500" stop="20260417100000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419093000 +0500" stop="20260419100000 +0500">
     <title>The Golden Girls</title>
-    <sub-title>Once, in St. Olaf</sub-title>
-    <desc>Rose, who was adopted, meets her biological father while Sophia is in the hospital.</desc>
-    <episode-num system="onscreen">S6 E2</episode-num>
+    <sub-title>Girls Just Wanna Have Fun... Before They Die</sub-title>
+    <desc>Sophia becomes a sexy seductress to lure Tony into bed; Rose promises celibacy.</desc>
+    <episode-num system="onscreen">S6 E10</episode-num>
     <credits>
       <director>Matthew Diamond</director>
       <actor>Bea Arthur</actor>
@@ -224,13 +124,13 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417100000 +0500" stop="20260417103000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419100000 +0500" stop="20260419103000 +0500">
     <title>The Golden Girls</title>
-    <sub-title>The Mangiacavallo Curse Makes a Lousy Wedding Present</sub-title>
-    <desc>Blanche supplies a date for wedding-bound Dorothy; Sophia puts a curse on the newlyweds.</desc>
-    <episode-num system="onscreen">S5 E23</episode-num>
+    <sub-title>Stand by Your Man</sub-title>
+    <desc>The unexpected happens when Blanche tries to break up with her disabled boyfriend.</desc>
+    <episode-num system="onscreen">S6 E11</episode-num>
     <credits>
-      <director>Terry Hughes</director>
+      <director>Matthew Diamond</director>
       <actor>Bea Arthur</actor>
       <actor>Rue McClanahan</actor>
       <actor>Betty White</actor>
@@ -238,7 +138,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -250,13 +150,13 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417103000 +0500" stop="20260417110000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419103000 +0500" stop="20260419110000 +0500">
     <title>The Golden Girls</title>
-    <sub-title>All Bets Are Off</sub-title>
-    <desc>Dorothy's gambling addiction worries Sophia; Blanche dates a co-worker.</desc>
-    <episode-num system="onscreen">S5 E24</episode-num>
+    <sub-title>Ebbtide's Revenge</sub-title>
+    <desc>Dorothy tries to mend the rift between her mother and recently widowed sister-in-law, Brenda, at her brother's funeral.</desc>
+    <episode-num system="onscreen">S6 E12</episode-num>
     <credits>
-      <director>Terry Hughes</director>
+      <director>Matthew Diamond</director>
       <actor>Bea Arthur</actor>
       <actor>Rue McClanahan</actor>
       <actor>Betty White</actor>
@@ -264,7 +164,7 @@
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895180_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
@@ -276,211 +176,163 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Lumberjack</sub-title>
-    <desc>Ike and Jim-Bob hunt for uranium; Erin falls for Ben's competitor, a mysterious lumberjack concealing a secret about his family.</desc>
-    <episode-num system="onscreen">S9 E19</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419110000 +0500" stop="20260419113000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>The Bloom Is Off the Rose</sub-title>
+    <desc>Miles feels he is competing with Rose's late husband; Blanche is mistreated by an old flame.</desc>
+    <episode-num system="onscreen">S6 E13</episode-num>
     <credits>
-      <director>Harvey S. Laidman</director>
-      <actor>Jon Walmsley</actor>
-      <actor>Judy Norton-Taylor</actor>
-      <actor>Mary Elizabeth McDonough</actor>
-    </credits><date>1981</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
     <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
+    <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893658_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Hostage</sub-title>
-    <desc>The Baldwins' cousin Octavia visits and causes havoc; a man who thinks Mary Ellen took his child bride kidnaps Elizabeth instead.</desc>
-    <episode-num system="onscreen">S9 E20</episode-num>
-    <credits>
-      <director>Herbert Hirschman</director>
-      <actor>Jon Walmsley</actor>
-      <actor>Judy Norton-Taylor</actor>
-      <actor>Mary Elizabeth McDonough</actor>
-    </credits><date>1981</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893658_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Revel</sub-title>
-    <desc>John-Boy's hopes to have his book published in New York are dashed; the Baldwins plan a lavish ball, but it appears no one will come.</desc>
-    <episode-num system="onscreen">S9 E21</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419113000 +0500" stop="20260419120000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Mrs. George Devereaux</sub-title>
+    <desc>Blanche dreams of a visit from her deceased husband; Dorothy finds herself in a love triangle while looking to meet her ideal man.</desc>
+    <episode-num system="onscreen">S6 E9</episode-num>
     <credits>
-      <director>Harry Harris</director>
-      <actor>Jon Walmsley</actor>
-      <actor>Judy Norton-Taylor</actor>
-      <actor>Mary Elizabeth McDonough</actor>
-    </credits><date>1981</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893658_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417140000 +0500" stop="20260417143000 +0500">
-    <title>Reba</title>
-    <sub-title>War and Peace</sub-title>
-    <desc>Reba feels closer than ever to Kyra since she moved in with Brock and Barbra Jean, especially because Kyra is driving them crazy.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1990</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417143000 +0500" stop="20260417150000 +0500">
-    <title>Reba</title>
-    <sub-title>The Best and the Blondest</sub-title>
-    <desc>Competing for her father's attention, Cheyenne announces she is going to pursue a career in dentistry.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419120000 +0500" stop="20260419123000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Girls Just Wanna Have Fun... Before They Die</sub-title>
+    <desc>Sophia becomes a sexy seductress to lure Tony into bed; Rose promises celibacy.</desc>
+    <episode-num system="onscreen">S6 E10</episode-num>
     <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1990</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417150000 +0500" stop="20260417153000 +0500">
-    <title>Reba</title>
-    <sub-title>Spies Like Reba</sub-title>
-    <desc>When Barbra Jean convinces Reba to hack into Kyra's e-mail, they find out she is planning to attend an unsupervised party.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419123000 +0500" stop="20260419130000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Stand by Your Man</sub-title>
+    <desc>The unexpected happens when Blanche tries to break up with her disabled boyfriend.</desc>
+    <episode-num system="onscreen">S6 E11</episode-num>
     <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1990</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417153000 +0500" stop="20260417160000 +0500">
-    <title>Reba</title>
-    <sub-title>Calling the Pot Brock</sub-title>
-    <desc>Brock lies to Kyra when she asks him about his past drug use; Cheyenne makes a confession to Van about her own brush with drugs.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419130000 +0500" stop="20260419133000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Ebbtide's Revenge</sub-title>
+    <desc>Dorothy tries to mend the rift between her mother and recently widowed sister-in-law, Brenda, at her brother's funeral.</desc>
+    <episode-num system="onscreen">S6 E12</episode-num>
     <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1990</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417160000 +0500" stop="20260417163000 +0500">
-    <title>Reba</title>
-    <sub-title>Encounters</sub-title>
-    <desc>A counselor encourages all to share their feelings during a workshop; Reba packs Kyra's things to send to Brock's house.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>The Bloom Is Off the Rose</sub-title>
+    <desc>Miles feels he is competing with Rose's late husband; Blanche is mistreated by an old flame.</desc>
+    <episode-num system="onscreen">S6 E13</episode-num>
     <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417163000 +0500" stop="20260417170000 +0500">
-    <title>Reba</title>
-    <sub-title>The Ghost and Mrs. Hart</sub-title>
-    <desc>Reba convinces Barbra Jean her house is haunted by the previous owner, but the joke wears thin when Barbra Jean moves in with her.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    </rating><rating system="Australian Classification Board">
       <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417170000 +0500" stop="20260417173000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419140000 +0500" stop="20260419143000 +0500">
     <title>Reba</title>
     <sub-title>The Cat's Meow</sub-title>
     <desc>Kyra and Barbra Jean hide a stray cat in the attic since Brock is allergic; Reba and Brock ply Jake with outrageous gifts.</desc>
@@ -500,7 +352,7 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417173000 +0500" stop="20260417180000 +0500">
+  </programme><programme channel="Hallmark-Channel-US" start="20260419143000 +0500" stop="20260419150000 +0500">
     <title>Reba</title>
     <sub-title>Regarding Henry</sub-title>
     <desc>When Van and Cheyenne go out of town for Van's football game, Reba is upset to find they have asked Barbra Jean to take care of Elizabeth.</desc>
@@ -520,189 +372,785 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417180000 +0500" stop="20260417183000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Wham, Bam, Thank You Mammy</sub-title>
-    <desc>Blanche's childhood nanny pays a visit; Sophia's matchmaking irks Dorothy.</desc>
-    <episode-num system="onscreen">S6 E5</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419150000 +0500" stop="20260419153000 +0500">
+    <title>Reba</title>
+    <sub-title>The United Front</sub-title>
+    <desc>Over Brock and Barbra Jean's objections, Reba gives Kyra permission to go on her first date, then discovers the boy is 17 years old.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
     <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417183000 +0500" stop="20260417190000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Feelings</sub-title>
-    <desc>Dorothy receives pressure because she refuses to give a passing grade to the school football star.</desc>
-    <episode-num system="onscreen">S6 E6</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419153000 +0500" stop="20260419160000 +0500">
+    <title>Reba</title>
+    <sub-title>To Tell the Truth</sub-title>
+    <desc>Cheyenne suspects Van of cheating on her with a sexy publicist and kicks him out of the house.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
     <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417190000 +0500" stop="20260417193000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Zborn Again</sub-title>
-    <desc>Dorothy does not pay heed to Sophia's advice about the rekindled romance with Stan.</desc>
-    <episode-num system="onscreen">S6 E7</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419160000 +0500" stop="20260419180000 +0500">
+    <title>The Beach House</title>
+    <sub-title />
+    <desc>Caretta thought she'd left her Southern roots and troubled family far behind until her mother lures her home. As she repairs the family beach house and renews old acquaintances, the rhythms of the island open her heart in wonderful ways.</desc>
     <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
+      <director>Roger Spottiswoode</director>
+      <actor>Minka Kelly</actor>
+      <actor>Andie MacDowell</actor>
+      <actor>Chad Michael Murray</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14770278_v_h10_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
     </rating><rating system="Kijkwijzer">
       <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Arcom">
+      <value>-18</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417193000 +0500" stop="20260417200000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>How Do You Solve a Problem Like Sophia?</sub-title>
-    <desc>Sophia wants to join a convent, but finds the rules too strict; Blanche is in an accident.</desc>
-    <episode-num system="onscreen">S6 E8</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419180000 +0500" stop="20260419200000 +0500">
+    <title>Sailing Into Love</title>
+    <sub-title />
+    <desc>A biology teacher juggles her duties as bridesmaid to three friends, as well as teaching a summer enrichment class at her favorite place in the world.</desc>
     <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>Gilmore Girls</title>
-    <sub-title>Here Comes the Son</sub-title>
-    <desc>After a confrontation with Luke, Jess travels to California to stay with his father, Jimmy (Rob Estes); Lorelai learns the money her father gave her will make Rory ineligible for financial aid.</desc>
-    <episode-num system="onscreen">S3 E21</episode-num>
-    <credits>
-      <director>Amy Sherman-Palladino</director>
-      <actor>Lauren Graham</actor>
-      <actor>Alexis Bledel</actor>
-      <actor>Edward Herrmann</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
+      <director>Lee Friedlander</director>
+      <actor>Leah Renee</actor>
+      <actor>Chris McNally</actor>
+      <actor>Fiona Vroom</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
     <category lang="en">Romance</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894537_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p16770300_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
+      <value>TVG</value>
     </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Gilmore Girls</title>
-    <sub-title>Those Are Strings, Pinocchio</sub-title>
-    <desc>Rory makes a moving valedictory speech on graduation day; Rory discovers Lorelai is making a huge sacrifice to pay her tuition; Richard and Emily present their granddaughter with a lavish gift.</desc>
-    <episode-num system="onscreen">S3 E22</episode-num>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419200000 +0500" stop="20260419220000 +0500">
+    <title>Two Tickets to Paradise</title>
+    <sub-title />
+    <desc>When two weddings are ruined by both the bride and groom getting left at the altar, they still decide to take their honeymoons, not knowing they are heading to the same resort in Hawaii.</desc>
     <credits>
-      <director>Jamie Babbit</director>
-      <actor>Lauren Graham</actor>
-      <actor>Alexis Bledel</actor>
-      <actor>Edward Herrmann</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy drama</category>
+      <director>Dustin Rikert</director>
+      <actor>Ashley Williams</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Mary-Margaret Humes</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romantic comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7894537_b_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22114254_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
+      <value>TVG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>6</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Gilmore Girls</title>
-    <sub-title>Ballroom &amp; Biscotti</sub-title>
-    <desc>Lorelai and Rory return from their backpacking adventure in Europe; Sookie confides the sex of her unborn baby to Lorelai; Luke returns from his cruise with surprising news; Lorelai fails to show up at her parent's Friday-night dinner.</desc>
+  </programme><programme channel="Hallmark-Channel-US" start="20260419220000 +0500" stop="20260420000000 +0500">
+    <title>Groundswell</title>
+    <sub-title />
+    <desc>On the heels of a personal and professional setback, chef Emma travels to Hawaii, where she meets Ben, a handsome, reclusive surf instructor whose lessons help her to regain her footing.</desc>
+    <credits>
+      <director>Lee Friedlander</director>
+      <actor>Lacey Chabert</actor>
+      <actor>Ektor Rivera</actor>
+      <actor>Tracy Yamamoto</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22540794_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420000000 +0500" stop="20260420020000 +0500">
+    <title>Marry Go Round</title>
+    <sub-title />
+    <desc>Abby is a successful executive who's moving to Paris and planning to marry Edward. Life is perfect until she learns her divorce to her high school sweetheart, Luke, is not exactly official.</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Amanda Schull</actor>
+      <actor>Brennan Elliott</actor>
+      <actor>Mary-Beth Manning</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romantic comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22694445_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420020000 +0500" stop="20260420040000 +0500">
+    <title>A Greek Recipe for Romance</title>
+    <sub-title />
+    <desc>While visiting her mother in Greece, Abby decides to open a restaurant with a man she just met.</desc>
+    <credits>
+      <director>Colin Theys</director>
+      <actor>Danielle C. Ryan</actor>
+      <actor>Rafael Kariotakis</actor>
+      <actor>Peru Kavalieri</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27320812_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420040000 +0500" stop="20260420060000 +0500">
+    <title>Taking the Reins</title>
+    <sub-title />
+    <desc>A writer returns to her family ranch where she discovers what ended her marriage and why she stopped riding horses.</desc>
+    <credits>
+      <director>Clare Niederpruem</director>
+      <actor>Nikki DeLoach</actor>
+      <actor>Scott Porter</actor>
+      <actor>Corbin Bernsen</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20492718_v_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420060000 +0500" stop="20260420070000 +0500">
+    <title>The Way Home</title>
+    <sub-title>Show Me the Way to Go Home</sub-title>
+    <desc>Alice is about to graduate high school; Kat and Elliot dream of the next steps for their relationship; Del realizes she will soon be an empty-nester again.</desc>
     <episode-num system="onscreen">S4 E1</episode-num>
     <credits>
-      <director>Amy Sherman-Palladino</director>
+      <actor>Andie MacDowell</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Sadie Laflamme-Snow</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32792014_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420070000 +0500" stop="20260420090000 +0500">
+    <title>To Philly with Love</title>
+    <sub-title />
+    <desc>A teacher and an archivist decode Revolutionary War-era love letters, taking them on a thrilling journey through Philadelphia where they uncover history and discover a love story of their own. Stars Rebecca Dalton, Stephen Huszar.</desc>
+    <credits>
+      <actor>Rebecca Dalton</actor>
+      <actor>Stephen Huszar</actor>
+    </credits><date>2026</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32629356_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420090000 +0500" stop="20260420093000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Sister of the Bride</sub-title>
+    <desc>Blanche's brother Clayton arrives from Atlanta with his boyfriend, Doug; Blanche claims to have accepted Clay's sexual orientation, but actually witnessing his lifestyle throws her a curve.</desc>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420093000 +0500" stop="20260420100000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Miles to Go</sub-title>
+    <desc>When Miles admits to lying about his professional standing, Rose gives him the heave-ho.</desc>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>There Goes the Bride: Part 1</sub-title>
+    <desc>When Dorothy plans to remarry Stan, Sophia threatens to cut her off from the family.</desc>
+    <episode-num system="onscreen">S6 E16 P1/2</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420103000 +0500" stop="20260420110000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>There Goes the Bride: Part 2</sub-title>
+    <desc>While Dorothy makes wedding arrangements, the others interview potential housemate Truby.</desc>
+    <episode-num system="onscreen">S6 E17 P2/2</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420110000 +0500" stop="20260420113000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Older and Wiser</sub-title>
+    <desc>Sophia throws herself into her job as recreational director at a retirement home.</desc>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420113000 +0500" stop="20260420120000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Sister of the Bride</sub-title>
+    <desc>Blanche's brother Clayton arrives from Atlanta with his boyfriend, Doug; Blanche claims to have accepted Clay's sexual orientation, but actually witnessing his lifestyle throws her a curve.</desc>
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420120000 +0500" stop="20260420123000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Miles to Go</sub-title>
+    <desc>When Miles admits to lying about his professional standing, Rose gives him the heave-ho.</desc>
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420123000 +0500" stop="20260420130000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>There Goes the Bride: Part 1</sub-title>
+    <desc>When Dorothy plans to remarry Stan, Sophia threatens to cut her off from the family.</desc>
+    <episode-num system="onscreen">S6 E16 P1/2</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>There Goes the Bride: Part 2</sub-title>
+    <desc>While Dorothy makes wedding arrangements, the others interview potential housemate Truby.</desc>
+    <episode-num system="onscreen">S6 E17 P2/2</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Older and Wiser</sub-title>
+    <desc>Sophia throws herself into her job as recreational director at a retirement home.</desc>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Reba</title>
+    <sub-title>The United Front</sub-title>
+    <desc>Over Brock and Barbra Jean's objections, Reba gives Kyra permission to go on her first date, then discovers the boy is 17 years old.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Reba</title>
+    <sub-title>To Tell the Truth</sub-title>
+    <desc>Cheyenne suspects Van of cheating on her with a sexy publicist and kicks him out of the house.</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+    <title>Reba</title>
+    <sub-title>Brock's Mulligan</sub-title>
+    <desc>Embarrassed about living with his mother-in-law, Van tries to pass Reba off as his maid; Brock tells Reba and Barbara Jean he wants to pursue his dream of golfing professionally.</desc>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420153000 +0500" stop="20260420160000 +0500">
+    <title>Reba</title>
+    <sub-title>The Shirt off My Back</sub-title>
+    <desc>Cheyenne is upset when Van decides to shave his head for the team; Barbra Jean convinces Reba to go into business with her.</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420160000 +0500" stop="20260420163000 +0500">
+    <title>Reba</title>
+    <sub-title>Sister Act</sub-title>
+    <desc>Kyra punches a classmate who attacked her sister's reputation; Van helps Jake build a volcano for the science fair.</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420163000 +0500" stop="20260420170000 +0500">
+    <title>Reba</title>
+    <sub-title>Fight or Flight</sub-title>
+    <desc>Everyone panics when Kyra disappears in the middle of the night; Van and Cheyenne appear on a cable sports show.</desc>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420170000 +0500" stop="20260420173000 +0500">
+    <title>Reba</title>
+    <sub-title>The Big Fix-Up</sub-title>
+    <desc>Barbara Jean arranges a blind date for reluctant Reba; Van uses his bonus to buy a new sports car without consulting Cheyenne.</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <credits>
+      <director>Will Mackenzie</director>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420173000 +0500" stop="20260420180000 +0500">
+    <title>Reba</title>
+    <sub-title>The Good Girl</sub-title>
+    <desc>Trying to be more wild, Reba takes Van's new sports car for a joy ride and accidntally ends up scratching it.</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <credits>
+      <actor>Reba McEntire</actor>
+      <actor>Christopher Rich</actor>
+      <actor>Joanna Garcia</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420180000 +0500" stop="20260420183000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Melodrama</sub-title>
+    <desc>Rose auditions for a TV reporter job; Blanche seeks a commitment from a lukewarm beau.</desc>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <credits>
+      <director>Matthew Diamond</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420183000 +0500" stop="20260420190000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Even Grandmas Get the Blues</sub-title>
+    <desc>Blanche robs the cradle to convince Jason, her new lover, how young she is.</desc>
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <credits>
+      <director>Robert Berlinger</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420190000 +0500" stop="20260420193000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>Witness</sub-title>
+    <desc>A suspicious Rose asks neighbor Barbara Weston to investigate her new boyfriend, at the same time that Miles returns to her life.</desc>
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <credits>
+      <director>Zane Buzby</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420193000 +0500" stop="20260420200000 +0500">
+    <title>The Golden Girls</title>
+    <sub-title>What a Difference a Date Makes</sub-title>
+    <desc>Long ago antics by Sophia come to light when Dorothy's high-school prom date appears.</desc>
+    <episode-num system="onscreen">S6 E22</episode-num>
+    <credits>
+      <director>Lex Passaris</director>
+      <actor>Bea Arthur</actor>
+      <actor>Rue McClanahan</actor>
+      <actor>Betty White</actor>
+    </credits><date>1991</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Gilmore Girls</title>
+    <sub-title>The Lorelais' First Day at Yale</sub-title>
+    <desc>Lorelai helps her daughter move into the dormitory at Yale, where Rory meets a strange new roommate and encounters an old adversary.</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <credits>
+      <director>Chris Long</director>
       <actor>Lauren Graham</actor>
       <actor>Alexis Bledel</actor>
-      <actor>Edward Herrmann</actor>
+      <actor>Melissa McCarthy</actor>
     </credits><date>2003</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy drama</category>
@@ -727,594 +1175,105 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260417230000 +0500" stop="20260418010000 +0500">
-    <title>Wedding Every Weekend</title>
-    <sub-title />
-    <desc>Nate and Brooke are going to the same four weddings for four weekends in a row. To avoid setups, they go together as wedding buddies. But what starts as a friendship soon becomes deeper.</desc>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Gilmore Girls</title>
+    <sub-title>The Hobbit, the Sofa and Digger Stiles</sub-title>
+    <desc>Rory is shocked to discover that Emily has redecorated her dorm room without permission; Richard announces that he is taking on a new business partner (Chris Eigeman).</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
     <credits>
-      <director>Kevin Fair</director>
-      <actor>Kimberley Sustad</actor>
-      <actor>Paul Campbell</actor>
-      <actor>Brandi Alexander</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
+      <director>Matthew Diamond</director>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18518158_v_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7894445_b_h8_ae.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418010000 +0500" stop="20260418030000 +0500">
-    <title>October Kiss</title>
-    <sub-title />
-    <desc>After being hired as a nanny by a widowed, work-obsessed man, Poppy teaches the family that unconditional love, family and the joy of everyday occurrences are the most important things in life.</desc>
-    <credits>
-      <director>Lynne Stopkewich</director>
-      <actor>Ashley Williams</actor>
-      <actor>Sam Jaeger</actor>
-      <actor>Laura Mitchell</actor>
-    </credits><date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12102426_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
+      <value>TVPG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418030000 +0500" stop="20260418050000 +0500">
-    <title>Time for Us to Come Home for Christmas</title>
-    <sub-title />
-    <desc>Five guests are mysteriously invited to an inn to celebrate Christmas and soon investigate their connection to each other.</desc>
-    <credits>
-      <director>David Winning</director>
-      <actor>Lacey Chabert</actor>
-      <actor>Stephen Huszar</actor>
-      <actor>Lini Evans</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18960665_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418050000 +0500" stop="20260418070000 +0500">
-    <title>Melt My Heart This Christmas</title>
-    <sub-title />
-    <desc>Holly, a passionate glassblower, secretly displays her own art under a pseudonym while assisting a legendary glassblower to help Jack at a Christmas Fair.</desc>
-    <credits>
-      <director>Amy Force</director>
-      <actor>Laura Vandervoort</actor>
-      <actor>Stephen Huszar</actor>
-      <actor>Darrin Baker</actor>
-    </credits><date>2025</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31283383_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418070000 +0500" stop="20260418073000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>If at Last You Do Succeed</sub-title>
-    <desc>Stan interests Dorothy in re-establishing a relationship; Rose makes an ill-advised sale.</desc>
-    <episode-num system="onscreen">S6 E3</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418073000 +0500" stop="20260418080000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Snap Out of It</sub-title>
-    <desc>Dorothy tries to bring a reclusive aging hippie out of his shell.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418080000 +0500" stop="20260418083000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Wham, Bam, Thank You Mammy</sub-title>
-    <desc>Blanche's childhood nanny pays a visit; Sophia's matchmaking irks Dorothy.</desc>
-    <episode-num system="onscreen">S6 E5</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418083000 +0500" stop="20260418090000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Feelings</sub-title>
-    <desc>Dorothy receives pressure because she refuses to give a passing grade to the school football star.</desc>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418090000 +0500" stop="20260418093000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Zborn Again</sub-title>
-    <desc>Dorothy does not pay heed to Sophia's advice about the rekindled romance with Stan.</desc>
-    <episode-num system="onscreen">S6 E7</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418093000 +0500" stop="20260418100000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>How Do You Solve a Problem Like Sophia?</sub-title>
-    <desc>Sophia wants to join a convent, but finds the rules too strict; Blanche is in an accident.</desc>
-    <episode-num system="onscreen">S6 E8</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418100000 +0500" stop="20260418103000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>If at Last You Do Succeed</sub-title>
-    <desc>Stan interests Dorothy in re-establishing a relationship; Rose makes an ill-advised sale.</desc>
-    <episode-num system="onscreen">S6 E3</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418103000 +0500" stop="20260418110000 +0500">
-    <title>The Golden Girls</title>
-    <sub-title>Snap Out of It</sub-title>
-    <desc>Dorothy tries to bring a reclusive aging hippie out of his shell.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <credits>
-      <director>Matthew Diamond</director>
-      <actor>Bea Arthur</actor>
-      <actor>Rue McClanahan</actor>
-      <actor>Betty White</actor>
-    </credits><date>1990</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895200_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Foundling</sub-title>
-    <desc>The Waltons work together to teach sign language to a 6-year-old whose mother abandoned her.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <director>Vincent Sherman</director>
-      <actor>Richard Thomas</actor>
-      <actor>Ralph Waite</actor>
-      <actor>Michael Learned</actor>
-    </credits><date>1972</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893654_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>L</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>6</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418120000 +0500" stop="20260418130000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Carnival</sub-title>
-    <desc>The children befriend four performers stranded on the mountain after the carnival moves on; guest Billy Barty.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <director>Alf Kjellin</director>
-      <actor>Richard Thomas</actor>
-      <actor>Ralph Waite</actor>
-      <actor>Michael Learned</actor>
-    </credits><date>1972</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893654_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418130000 +0500" stop="20260418140000 +0500">
-    <title>The Waltons</title>
-    <sub-title>The Calf</sub-title>
-    <desc>The Walton children learn the family cow's calf, sold to a neighboring farmer, is due to be slaughtered.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Harry Harris</director>
-      <actor>Richard Thomas</actor>
-      <actor>Ralph Waite</actor>
-      <actor>Michael Learned</actor>
-    </credits><date>1972</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893654_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>6</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418140000 +0500" stop="20260418143000 +0500">
-    <title>Reba</title>
-    <sub-title>Encounters</sub-title>
-    <desc>A counselor encourages all to share their feelings during a workshop; Reba packs Kyra's things to send to Brock's house.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418143000 +0500" stop="20260418150000 +0500">
-    <title>Reba</title>
-    <sub-title>The Ghost and Mrs. Hart</sub-title>
-    <desc>Reba convinces Barbra Jean her house is haunted by the previous owner, but the joke wears thin when Barbra Jean moves in with her.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418150000 +0500" stop="20260418153000 +0500">
-    <title>Reba</title>
-    <sub-title>The Cat's Meow</sub-title>
-    <desc>Kyra and Barbra Jean hide a stray cat in the attic since Brock is allergic; Reba and Brock ply Jake with outrageous gifts.</desc>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418153000 +0500" stop="20260418160000 +0500">
-    <title>Reba</title>
-    <sub-title>Regarding Henry</sub-title>
-    <desc>When Van and Cheyenne go out of town for Van's football game, Reba is upset to find they have asked Barbra Jean to take care of Elizabeth.</desc>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <credits>
-      <director>Keith Samples</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418160000 +0500" stop="20260418163000 +0500">
-    <title>Reba</title>
-    <sub-title>The Great Race</sub-title>
-    <desc>Van insists on coaching Reba after she agrees to compete against Brock in a 5K race to raise money for Jake's school.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <credits>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418163000 +0500" stop="20260418170000 +0500">
-    <title>Reba</title>
-    <sub-title>All Growed Up</sub-title>
-    <desc>Van announces he is quitting school to try out for arena football, but Reba's disapproval causes him to blow his chance.</desc>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <credits>
-      <director>Will Mackenzie</director>
-      <actor>Reba McEntire</actor>
-      <actor>Christopher Rich</actor>
-      <actor>Joanna Garcia</actor>
-    </credits><date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184735_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418170000 +0500" stop="20260418190000 +0500">
-    <title>Romance in the Air</title>
-    <sub-title />
-    <desc>A woman gets a chance at happiness when she returns home and reunites with a childhood friend.</desc>
-    <credits>
-      <director>Brian Brough</director>
-      <actor>Cindy Busby</actor>
-      <actor>Torrance Coombs</actor>
-      <actor>Sashleigha Brady</actor>
-    </credits><date>2020</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18518022_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418190000 +0500" stop="20260418210000 +0500">
-    <title>Love on the Sidelines</title>
-    <sub-title />
-    <desc>A woman down on her luck falls into a job as the assistant to a football player out on injury.</desc>
-    <credits>
-      <director>Terry Ingram</director>
-      <actor>Emily Kinney</actor>
-      <actor>John Reardon</actor>
-      <actor>Hayley Sales</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12395747_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
-    </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418210000 +0500" stop="20260418230000 +0500">
-    <title>The Birthday Wish</title>
-    <sub-title />
-    <desc>When her boyfriend fails to propose, a woman makes a powerful birthday wish that leaves her surprised at the outcome.</desc>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Jessy Schram</actor>
-      <actor>Luke Macfarlane</actor>
-      <actor>Marcus Rosner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13602851_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+    </rating><rating system="방송통신심의위원회">
       <value>12</value>
     </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
-  </programme><programme channel="Hallmark-Channel-US" start="20260418230000 +0500" stop="20260419010000 +0500">
-    <title>Love on the Menu</title>
-    <sub-title />
-    <desc>A popular chef rejects the idea of creating a gourmet frozen food line when the idea is presented by a food executive. But when the restaurant he runs with his wife faces financial problems, he reluctantly makes a deal.</desc>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Gilmore Girls</title>
+    <sub-title>Chicken or Beef?</sub-title>
+    <desc>Dean awkwardly invites Rory to his wedding the next day; Dean confesses to Luke how much he misses Rory; Lorelai and Sookie have trouble obtaining a permit to begin construction on the inn.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
     <credits>
-      <director>Ellie Kanner</director>
-      <actor>Autumn Reeser</actor>
-      <actor>Kavan Smith</actor>
-      <actor>Jordyn Ashley Olson</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+      <director>Chris Long</director>
+      <actor>Lauren Graham</actor>
+      <actor>Alexis Bledel</actor>
+      <actor>Melissa McCarthy</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy drama</category>
     <category lang="en">Romance</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16471127_v_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7894445_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Hallmark-Channel-US" start="20260420230000 +0500" stop="20260421010000 +0500">
+    <title>Marrying Mr. Darcy</title>
+    <sub-title />
+    <desc>Since Elizabeth, who is a down-to-earth high school teacher, and Donovan, a reserved New York businessman, are so different, their trip to the altar is lively and unpredictable.</desc>
+    <credits>
+      <director>Steven R. Monroe</director>
+      <actor>Cindy Busby</actor>
+      <actor>Ryan Paevey</actor>
+      <actor>Frances Fisher</actor>
+    </credits><date>2018</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15507810_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>U</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>AL</value>
+      <value>L</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
     </rating>
   </programme>
 </tv>

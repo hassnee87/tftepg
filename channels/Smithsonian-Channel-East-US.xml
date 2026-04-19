@@ -3,416 +3,40 @@
   <channel id="Smithsonian-Channel-East-US">
     <display-name>Smithsonian Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-East-US.png" />
-  </channel><programme channel="Smithsonian-Channel-East-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>Combat Ships</title>
-    <sub-title>Metal War Ships</sub-title>
-    <desc>The evolution from wooden ships to metal ones in the second half of the 19th century is examined.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Martin Hughes</director>
-      <director>Nick Mavroidakis</director>
-      <actor>Joseph Balderrama</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">War</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13658854_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>B-1 Lancer</sub-title>
-    <desc>The history of the B-1 Lancer reveals how the Cold War bomber evolved to become one of Americas most effective military aircraft.</desc>
-    <episode-num system="onscreen">S10 E6</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Top Ten Cold War</sub-title>
-    <desc>A countdown of the most influential and impactful military planes of the Cold War, from America's B-2 to the Soviet's MiG-15.</desc>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22021964_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>F-86 Sabre</sub-title>
-    <desc>The inside story of the F-86 Sabre, one of America's first fighter jets, and its epic battles against the Soviet MiG jet during the Korean War and beyond.</desc>
-    <episode-num system="onscreen">S8 E1</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Top Ten 21st Century</sub-title>
-    <desc>A look at the top U.S. military aircraft in America's modern arsenal, including the F-117 Nighthawk stealth fighter, the hybrid V-22 Osprey, and more.</desc>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22021964_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Drones</sub-title>
-    <desc>The rapid evolution of drones and how they're changing the future of aviation.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <actor>Rob Naughton</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>F-22 Raptor</sub-title>
-    <desc>The inside story of the ultimate stealth fighter, the F-22 Raptor, and its predecessors.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <credits>
-      <actor>Mike Cooper</actor>
-    </credits><date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Top Gunships</sub-title>
-    <desc>Exploring the world's top close air support aircraft, which enter battles at a minute's notice.</desc>
-    <episode-num system="onscreen">S7 E3</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>KC-135 Stratotanker</sub-title>
-    <desc>The history of the KC-135 Stratotanker, the 60-year-old aerial refueler that keeps fighter jets flying.</desc>
-    <episode-num system="onscreen">S5 E2</episode-num>
-    <credits>
-      <actor>Robert S. Hopkins</actor>
-      <actor>Mike Cooper</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>F-100 Super Sabre</sub-title>
-    <desc>The North American F-100 Super Saber, also known as the Hun, becomes a supersonic powerhouse after initial difficulties; it was used primarily in the Vietnam War.</desc>
-    <episode-num system="onscreen">S10 E5</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Black Hawk</sub-title>
-    <desc>The 35-year history of the UH-60 Black Hawk.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <actor>Rob Naughton</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>C-47 Skytrain</sub-title>
-    <desc>A look at how the C-47 evolved from passenger plane to a transport aircraft and flying hospital in WWII and years later as a gunship in Vietnam.</desc>
-    <episode-num system="onscreen">S10 E8</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Top Dogfighters</sub-title>
-    <desc>Stories of fighter aircraft and deadly combat, including dogfights with the P-38 Lightning and Messerschmitts over Nazi Germany, told through rarely seen battle footage and first-hand accounts.</desc>
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>B-29 Superfortress</sub-title>
-    <desc>The story of the world's first nuclear bomber, the B-29, and its explosive impact on aerial warfare.</desc>
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>Air Warriors</title>
-    <sub-title>Zero</sub-title>
-    <desc>An inside look at Japan's A6M Zero, the most feared fighter at the start of World War II.</desc>
-    <episode-num system="onscreen">S6 E9</episode-num>
-    <credits>
-      <actor>Beau Weaver</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Military</category>
-    <category lang="en">History</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11078228_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417150000 +0500" stop="20260417160000 +0500">
+  </channel><programme channel="Smithsonian-Channel-East-US" start="20260419000000 +0500" stop="20260419010000 +0500">
     <title>Aerial America</title>
-    <sub-title>Best Small Towns</sub-title>
-    <desc>A coast-to-coast aerial tour celebrates the best small towns in the United States and tells stories about the men and women who called them home.</desc>
-    <episode-num system="onscreen">S1 E45</episode-num>
+    <sub-title>Pennsylvania</sub-title>
+    <desc>A high-flying tour of Pennsylvania.</desc>
+    <episode-num system="onscreen">S1 E25</episode-num>
     <credits>
+      <director>Toby Beach</director>
       <actor>Jim Conrad</actor>
-    </credits><date>2014</date>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419010000 +0500" stop="20260419020000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Minnesota</sub-title>
+    <desc>A sky-high tour over Minnesota reveals the state's ancient, glacial landscapes and tells the stories of the pioneers who helped build the nation.</desc>
+    <episode-num system="onscreen">S1 E34</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2013</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Nature</category>
@@ -431,11 +55,306 @@
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417160000 +0500" stop="20260417170000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419020000 +0500" stop="20260419030000 +0500">
     <title>Aerial America</title>
-    <sub-title>The South</sub-title>
-    <desc>The South's famous landmarks, historical milestones and unique culture.</desc>
-    <episode-num system="onscreen">S1 E62</episode-num>
+    <sub-title>Yellowstone</sub-title>
+    <desc>An aerial tour of the world's first national park showcases Yellowstone's diverse wildlife and rich history.</desc>
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419030000 +0500" stop="20260419040000 +0500">
+    <title>Aerial Argentina</title>
+    <sub-title>The Pampas</sub-title>
+    <desc>Contrasting the lush peace of the Pampas with the hustle of cosmopolitan Buenos Aires, Argentina; soaring over the obelisk, churches and soccer fields, then over the 200,000 square miles of fertile pasture plied by gauchos and their cattle.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23334493_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419040000 +0500" stop="20260419050000 +0500">
+    <title>Aerial Argentina</title>
+    <sub-title>Patagonia</sub-title>
+    <desc>Argentina's Patagonia is an environment of extremes, carved by ice and surrounded by violent seas; for wildlife, it's a rugged wilderness where survival is a daily battle; for humans, it's a must-see tourist destination.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23334493_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419050000 +0500" stop="20260419060000 +0500">
+    <title>Aerial Argentina</title>
+    <sub-title>Contrasts</sub-title>
+    <desc>There is no better way to witness Argentina, and its land of contrasts, than to experience it by air; this soaring tour stretches from one extreme to the next, from vast wetlands to some of the driest places on Earth.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23334493_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419060000 +0500" stop="20260419070000 +0500">
+    <title>Aerial New Zealand</title>
+    <sub-title />
+    <desc>An aerial tour over New Zealand showcases a diverse world of snow-capped mountains, active volcanoes, and a storied past.</desc>
+    <credits>
+      <director>Phil Keoghan</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2017</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14172293_b_h10_al.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419070000 +0500" stop="20260419080000 +0500">
+    <title>Aerial Australia</title>
+    <sub-title>Pacific Coast</sub-title>
+    <desc>The Pacific Coast of Australia is home to Sydney's architectural icons, Byron Bay's beach breaks, perilous white-water adventures and the Great Barrier Reef, the largest living structure on Earth.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <credits>
+      <director>Anthony Barwell</director>
+      <actor>Mark Coles Smith</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28681554_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419080000 +0500" stop="20260419090000 +0500">
+    <title>Aerial Australia</title>
+    <sub-title>The Extreme Center</sub-title>
+    <desc>The hot, dry extreme center of Australia is home to landscapes like nowhere else on Earth; fearsome apex predators, a town built by opals and Uluru, the cultural and spiritual heart of a nation.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Anthony Barwell</director>
+      <actor>Mark Coles Smith</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28681554_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419090000 +0500" stop="20260419100000 +0500">
+    <title>Aerial Australia</title>
+    <sub-title>The Far South</sub-title>
+    <desc>The far south of Australia is home to the rich cultural heritage of Melbourne; a sporting mecca called the G; a brutal island prison once known as hell on Earth and ancient rainforests, providing a living link to the past.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Anthony Barwell</director>
+      <actor>Mark Coles Smith</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28681554_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419100000 +0500" stop="20260419110000 +0500">
+    <title>Aerial Australia</title>
+    <sub-title>The Vast West</sub-title>
+    <desc>Western Australia is home to colossal gold mines, massive sheep stations, the world's largest shark, a 4x4 trail; it has Perth, the most isolated big city on Earth.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Anthony Barwell</director>
+      <actor>Mark Coles Smith</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28681554_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419110000 +0500" stop="20260419120000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Fatal Approach</sub-title>
+    <desc>A false warning in the cockpit triggers a series of pilot errors, sending a commuter plane crashing by the runway of an Amsterdam airport.</desc>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419120000 +0500" stop="20260419130000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Turboprop Terror</sub-title>
+    <desc>When a turboprop stalls and crashes into a North Carolina forest, investigators resort to a risky test flight-and uncover an industry-wide safety problem.</desc>
+    <episode-num system="onscreen">S17 E9</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419130000 +0500" stop="20260419140000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Mayday Munich</sub-title>
+    <desc>A plane with members of the Manchester United football team crashes while heading home from Yugoslavia, killing 23 aboard.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Aviation</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419140000 +0500" stop="20260419150000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Focused on Failure</sub-title>
+    <desc>On 28 December 1978, the crew of United Airlines Flight 173 are preoccupied with a landing gear problem as the aircraft circles in a holding pattern in the vicinity of Portland, Oregon; it runs out of fuel and crashes in a sparsely populated area.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Boston 24</sub-title>
+    <desc>A day-long aerial tour of the New England city of Boston in Massachusetts; where Americans first rebelled against Britain by dumping chests of tea into the harbor and where rock band Aerosmith first made it big.</desc>
+    <episode-num system="onscreen">S1 E71</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Trailblazers</sub-title>
+    <desc>An aerial tour over the places made famous by America's most influential men and women.</desc>
+    <episode-num system="onscreen">S1 E63</episode-num>
     <credits>
       <director>Toby Beach</director>
       <actor>Jim Conrad</actor>
@@ -454,15 +373,41 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Idaho</sub-title>
+    <desc>A view of Idaho from the air reveals a state filled with agricultural fields, lands untouched by human hands, and riches in the form of gold, ski resorts and spuds.</desc>
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <credits>
+      <actor>Jim Conrad</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417170000 +0500" stop="20260417180000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419180000 +0500" stop="20260419190000 +0500">
     <title>Aerial America</title>
-    <sub-title>Florida</sub-title>
-    <desc>An aerial tour of Florida's peninsula and panhandle celebrates the state's sights, unique history and lavish lifestyles.</desc>
-    <episode-num system="onscreen">S1 E26</episode-num>
+    <sub-title>Louisiana</sub-title>
+    <desc>Louisiana's wetlands and underwater oil fields.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
     <credits>
       <director>Toby Beach</director>
       <actor>Jim Conrad</actor>
@@ -483,16 +428,17 @@
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>0</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417180000 +0500" stop="20260417190000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419190000 +0500" stop="20260419200000 +0500">
     <title>Aerial America</title>
-    <sub-title>Texas</sub-title>
-    <desc>The Lone Star's rugged canyons, historic ranches and modern cities.</desc>
-    <episode-num system="onscreen">S1 E38</episode-num>
+    <sub-title>Beyond Hollywood</sub-title>
+    <desc>A coast-to-coast aerial journey across America, visiting locations made famous by movies such as Rocky, Citizen Kane, Forrest Gump and others.</desc>
+    <episode-num system="onscreen">S1 E37</episode-num>
     <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2014</date>
+      <director>Toby Beach</director>
+      <actor>Jim Conard</actor>
+    </credits><date>2013</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Nature</category>
@@ -507,42 +453,15 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>0</value>
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417190000 +0500" stop="20260417200000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419200000 +0500" stop="20260419210000 +0500">
     <title>Aerial America</title>
-    <sub-title>The Wild West</sub-title>
-    <desc>A journey over America's western landscape featuring "wild" history and stories of colorful characters.</desc>
-    <episode-num system="onscreen">S1 E65</episode-num>
-    <credits>
-      <director>Toby Beach</director>
-      <actor>Jim Conrad</actor>
-    </credits><date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Wisconsin</sub-title>
-    <desc>Tour the Wisconsin State Capitol and Milwaukee City Hall, once the tallest building in the world.</desc>
-    <episode-num system="onscreen">S1 E50</episode-num>
+    <sub-title>New Jersey</sub-title>
+    <desc>Explore the forests, shores, bridges and tunnels of one of American's 13 original states, New Jersey.</desc>
+    <episode-num system="onscreen">S1 E51</episode-num>
     <credits>
       <director>Toby Beach</director>
       <actor>Jim Conrad</actor>
@@ -565,14 +484,147 @@
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417210000 +0500" stop="20260417220000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419210000 +0500" stop="20260419220000 +0500">
     <title>Aerial America</title>
-    <sub-title>Wilderness</sub-title>
-    <desc>A cross-country flight over icy landscapes in Alaska's Denali, vast wetlands in Florida's Everglades, and over 100 million acres of badlands, deserts, and mountains.</desc>
-    <episode-num system="onscreen">S1 E48</episode-num>
+    <sub-title>Washington</sub-title>
+    <desc>Home to some of America's highest mountains; Mount St. Helens.</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
     <credits>
       <actor>Jim Conrad</actor>
-    </credits><date>2014</date>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Amazing Destinations</sub-title>
+    <desc>Natural wonders, manmade marvels, hidden treasures and places of inspiration.</desc>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conard</actor>
+    </credits><date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Oklahoma</sub-title>
+    <desc>Viewing Oklahoma from the sky reveals a state filled with tall-grass prairies and man-made wonders; the Dust Bowl, Tornado Alley and buffalo-filled plains; it also shows a history steeped in tragedy and devastation.</desc>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Arizona</sub-title>
+    <desc>A flight over Arizona explores the state's storied past, architectural achievements and landscapes, including America's natural wonder, the Grand Canyon.</desc>
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420010000 +0500" stop="20260420020000 +0500">
+    <title>Aerial America</title>
+    <sub-title>The Great Plains</sub-title>
+    <desc>An aerial tour over America's Great Plains tracks the prairies, farms, oilfields and wildlife.</desc>
+    <episode-num system="onscreen">S1 E59</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>All</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Aerial America</title>
+    <sub-title>Alabama</sub-title>
+    <desc>Vast cotton fields, Gulf coast beaches; famous Civil Rights marches; NASCAR's most dangerous track; steel factories.</desc>
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <credits>
+      <director>Toby Beach</director>
+      <actor>Jim Conrad</actor>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Nature</category>
@@ -591,196 +643,43 @@
     </rating><rating system="방송통신심의위원회">
       <value>All</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417220000 +0500" stop="20260417230000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420030000 +0500" stop="20260420040000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Stealth Bomber Down</sub-title>
-    <desc>When a USAF stealth bomber crashes after takeoff, investigators search for a reason.</desc>
-    <episode-num system="onscreen">S17 E3</episode-num>
+    <sub-title>Scratching the Surface</sub-title>
+    <desc>After taking off from Taiwan, a China Airlines 747 suddenly disappears from radar and crashes, killing 225 people.</desc>
+    <episode-num system="onscreen">S21 E1</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Death Race</sub-title>
-    <desc>When a modified WWII fighter plane crashes into the crowd at a Nevada air show, investigators struggle to find the cause.</desc>
-    <episode-num system="onscreen">S13 E2</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Slam Dunk</sub-title>
-    <desc>A quick trip from Washington D.C. to Ohio in 1994 turns deadly when pilots of a twin-engine turboprop attempt a risky landing.</desc>
-    <episode-num system="onscreen">S13 E10</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Fatal Delivery</sub-title>
-    <desc>The two-man crew of a UPS cargo jet must attempt an emergency landing when a fire in the cargo hold fills their cockpit with smoke.</desc>
-    <episode-num system="onscreen">S9 E5</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>The Final Push</sub-title>
-    <desc>Investigators try to find the cause of two similar air crashes that happened nearly 12 years apart.</desc>
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Death of the President</sub-title>
-    <desc>Polish Air Force Flight 101, carrying the President of Poland Lech Kaczynski, his wife Maria Kaczynska and other top officials, crashes in a wooded area while on final approach to Smolensk North Airport in heavy fog and low visibility.</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Bad Data</sub-title>
-    <desc>A billion-dollar Stealth Bomber crashes at a U.S. Air Force base-the costliest aviation disaster ever; bad data misleads a charter flight into a Portuguese mountain and conflicting alarms send a cutting-edge jetliner plunging into the Atlantic.</desc>
-    <episode-num system="onscreen">S6 E3</episode-num>
-    <credits>
-      <director>Sue Davidson</director>
-      <actor>Stephen Bogaert</actor>
     </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Aviation</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">History</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15630173_b_h10_bh.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Deadly Data</sub-title>
-    <desc>With hidden flaws buried in their navigation systems, three planes suffer catastrophic computer errors that force investigators to dig deep for clues.</desc>
-    <credits>
-      <actor>Bill Ratner</actor>
-      <actor>Jonathan Aris</actor>
-      <actor>Joey Belfiore</actor>
-    </credits><category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17691315_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418060000 +0500" stop="20260418070000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>I'm the Problem</sub-title>
-    <desc>Moments before Pacific Southwest Flight 1771 crashes on a cattle ranch in California, gunshots are heard in the cabin.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Aviation</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418070000 +0500" stop="20260418080000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Tragic Takeoff</sub-title>
-    <desc>When a twin-engine jet careens off the runway in Kentucky, investigators must determine why the plane failed to take off.</desc>
-    <episode-num system="onscreen">S16 E3</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Aviation</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418080000 +0500" stop="20260418090000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420040000 +0500" stop="20260420050000 +0500">
     <title>Disasters Engineered</title>
     <sub-title>Chemical Blasts</sub-title>
     <desc>Experts examine how the Chernobyl nuclear disaster and the Bhopal gas tragedy happened; they also explore the consequences and how they could have been avoided.</desc>
@@ -803,14 +702,42 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418090000 +0500" stop="20260418100000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>Disasters Engineered</title>
+    <sub-title>Industrial Slides</sub-title>
+    <desc>A 1966 landslide in Wales killed 116 children and 28 adults, and a 2019 dam collapse killed 115 people in Brazil.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Daniel Sharp</director>
+      <director>Sam Cryer</director>
+      <actor>Charley Speed</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17796718_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420060000 +0500" stop="20260420070000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Hidden Danger</sub-title>
-    <desc>In 1991, a Boeing 737 operating as United Airlines Flight 585 suddenly rolls into a dive and crashes within eight seconds, killing all 25 people on board.</desc>
-    <episode-num system="onscreen">S7 E5</episode-num>
+    <sub-title>Unlocking Disaster</sub-title>
+    <desc>A 747's cargo door opens at 23,000 feet, causing an explosive decompression that ejects nine passengers from the plane.</desc>
+    <episode-num system="onscreen">S18 E7</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
-    </credits><date>2016</date>
+    </credits><date>2022</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Aviation</category>
@@ -821,14 +748,42 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418100000 +0500" stop="20260418110000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420070000 +0500" stop="20260420080000 +0500">
+    <title>Disasters Engineered</title>
+    <sub-title>Industrial Slides</sub-title>
+    <desc>A 1966 landslide in Wales killed 116 children and 28 adults, and a 2019 dam collapse killed 115 people in Brazil.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Daniel Sharp</director>
+      <director>Sam Cryer</director>
+      <actor>Charley Speed</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17796718_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420080000 +0500" stop="20260420090000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Murder in the Skies</sub-title>
-    <desc>When Germanwings Flight 9525 crashes in the French Alps, investigators discover shocking truths about the co-pilot's mental health.</desc>
-    <episode-num system="onscreen">S10 E7</episode-num>
+    <sub-title>Flying on Empty</sub-title>
+    <desc>When Air Transat Flight 236 runs out of fuel over the Atlantic, its pilots desperately try to keep their Airbus A330 in the air until they reach land.</desc>
+    <episode-num system="onscreen">S18 E12</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
-    </credits><date>2018</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Aviation</category>
@@ -839,11 +794,57 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418110000 +0500" stop="20260418120000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420090000 +0500" stop="20260420100000 +0500">
+    <title>Disasters Engineered</title>
+    <sub-title>Industrial Slides</sub-title>
+    <desc>A 1966 landslide in Wales killed 116 children and 28 adults, and a 2019 dam collapse killed 115 people in Brazil.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Daniel Sharp</director>
+      <director>Sam Cryer</director>
+      <actor>Charley Speed</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17796718_b_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420100000 +0500" stop="20260420110000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Imperfect Pitch</sub-title>
-    <desc>On 27 November 2008, an aircraft on a post-maintenance test flight operating as XL Airways Germany Flight 888T stalls and crashes into the Mediterranean Sea off the coast of France, killing all seven people on board.</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
+    <sub-title>Cruel Skies</sub-title>
+    <desc>The U.S. Aviation Weather Center in Kansas City, Miss.; the importance of accurate weather forecasting to the aviation industry.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Aviation</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420110000 +0500" stop="20260420120000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Lost in Translation</sub-title>
+    <desc>On 10 January 2000, Crossair Flight 498 crashes just two minutes after takeoff from Zürich, Switzerland, while heading for Dresden, Germany, killing all 10 people on board.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
     </credits><date>2015</date>
@@ -857,49 +858,33 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418120000 +0500" stop="20260418130000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420120000 +0500" stop="20260420130000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Death and Denial</sub-title>
-    <desc>In 1999, EgyptAir Flight 990 crashes into the Atlantic Ocean while flying from New York City to Cairo, killing all 217 people on board; the cause of the crash is disputed.</desc>
-    <episode-num system="onscreen">S6 E8</episode-num>
+    <sub-title>Deadly Pitch</sub-title>
+    <desc>A team of experts investigates in detail the carnage of a cargo plane; an anonymous tip helps explain why a cargo plane crashed just moments after taking off from Miami.</desc>
+    <episode-num system="onscreen">S13 E5</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
-    </credits><date>2016</date>
+    </credits><date>2019</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Aviation</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
+    <rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418130000 +0500" stop="20260418140000 +0500">
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420130000 +0500" stop="20260420140000 +0500">
     <title>Air Disasters</title>
-    <sub-title>Alarming Silence</sub-title>
-    <desc>Northwest Airlines Flight 255 crashes shortly after take-off in Detroit in 1987; a fatal preflight error caused the second-deadliest plane crash in the U.S. history.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
+    <sub-title>Landings Gone Wrong</sub-title>
+    <desc>Relying on instinct rather than the rule book, three flights end in tragedy when crews improvise on their final approach.</desc>
+    <episode-num system="onscreen">S20 E25</episode-num>
     <credits>
       <actor>Bill Ratner</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Aviation</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418140000 +0500" stop="20260418150000 +0500">
-    <title>Air Disasters</title>
-    <sub-title>Engine Gone</sub-title>
-    <desc>Three crews experience the same devastating event; with radically different outcomes when an engine falls off their commercial airplane.</desc>
-    <episode-num system="onscreen">S20 E22</episode-num>
-    <credits>
-      <actor>Bill Ratner</actor>
+      <actor>Jonathan Aris</actor>
+      <actor>Damir Andrei</actor>
     </credits><date>2024</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
@@ -911,244 +896,194 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Aerial America</title>
-    <sub-title>North Carolina</sub-title>
-    <desc>The Wright Brothers gave the state its slogan "First in Flight"; civil rights leaders in Greensboro; NASCAR.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420140000 +0500" stop="20260420150000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Collision Course</sub-title>
+    <desc>A passenger ferry sinks after crashing into rocks off the coast of a Greek island, killing 82; it leads to a shocking investigation.</desc>
+    <episode-num system="onscreen">S20 E3</episode-num>
     <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2011</date>
+      <actor>Bill Ratner</actor>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
+    <category lang="en">Aviation</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Made in the USA</sub-title>
-    <desc>A cross-country flight across America reveals the nation's most iconic industries, the people behind them and the stories of how they came to be.</desc>
-    <episode-num system="onscreen">S1 E35</episode-num>
-    <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>Aerial America</title>
-    <sub-title>The Dakotas</sub-title>
-    <desc>A flight over North and South Dakota reveals the shared history and the vast differences of these sibling states.</desc>
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>Aerial America</title>
-    <sub-title>New Mexico</sub-title>
-    <desc>An aerial view of New Mexico; exploring its landscapes and landmarks, while revealing its many legends and secrets.</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <credits>
-      <director>Toby Beach</director>
-      <actor>Jim Conrad</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Montana</sub-title>
-    <desc>An aerial journey across Montana celebrates the Treasure State's adventure-filled history while showcasing its sprawling farms and rugged terrain.</desc>
-    <episode-num system="onscreen">S1 E32</episode-num>
-    <credits>
-      <director>Toby Beach</director>
-      <actor>Jim Conrad</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Rhode Island</sub-title>
-    <desc>A small state has a whole lot of history.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <director>Richard Mervyn</director>
-      <actor>Jim Conrad</actor>
-    </credits><date>2010</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Kentucky</sub-title>
-    <desc>An aerial tour over Kentucky reveals a state of racetracks, country music highways, bourbon distilleries and a history of feuds and traditions.</desc>
-    <episode-num system="onscreen">S1 E40</episode-num>
-    <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418220000 +0500" stop="20260418230000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Georgia</sub-title>
-    <desc>The Empire State of the South; ancient Moundbuilders to the Cherokee Indians.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Smithsonian-Channel-East-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>Aerial America</title>
-    <sub-title>Oregon</sub-title>
-    <desc>Oregon's Cascade Mountains; Columbia River waterway.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <credits>
-      <actor>Jim Conrad</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12193381_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420150000 +0500" stop="20260420160000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Break Up Over Texas</sub-title>
+    <desc>Near the end of its flight, Continental Express Flight 2574 suffers wing damage and goes into a dive falling out of the sky.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Aviation</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Nuts and Bolts</sub-title>
+    <desc>When an American cargo plane crashes moments after takeoff, investigators uncover a systemic problem with aircraft maintenance.</desc>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420170000 +0500" stop="20260420180000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>The Turning Point</sub-title>
+    <desc>A Boeing 767 crashes miles from a South Korean runway; the investigation leads to contradicting stories between the surviving pilot and air traffic control.</desc>
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Deadly Delay</sub-title>
+    <desc>Almost immediately after taking off from Madrid International Airport, Spanair Flight 5022 banked to the right, slammed into a creek and burst into flames.</desc>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Landing Hazards</sub-title>
+    <desc>Martinair 495 crashes on a rain-soaked runway in Portugal, showing how weather can doom a landing; American 1572 hits a storm and loses both engines amid a tower shutdown; crosswinds challenge an Air France crew already halfway down the runway.</desc>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <credits>
+      <director>Sue Davidson</director>
+      <actor>Stephen Bogaert</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15630173_b_h10_bh.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>All</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>No Control</sub-title>
+    <desc>An examination of three crashes that occurred when pilots battled against their sophisticated aircraft.</desc>
+    <episode-num system="onscreen">S14 E4</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17691315_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Playing Catch Up</sub-title>
+    <desc>A private jet attempting to compensate for a late approach to the airport, slams into an Ohio apartment building just a couple of miles from the runway.</desc>
+    <episode-num system="onscreen">S16 E2</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Deadly Display</sub-title>
+    <desc>A high-stakes demonstration flight in Indonesia turns catastrophic when a Russian jet slams into a mountain.</desc>
+    <episode-num system="onscreen">S12 E5</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Smithsonian-Channel-East-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Air Disasters</title>
+    <sub-title>Fanning the Flames</sub-title>
+    <desc>A complex recovery operation is launched to find out if a 747 which disappeared into the Indian Ocean was carrying illegal weapons.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Bill Ratner</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Aviation</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8811659_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating>
   </programme>
 </tv>

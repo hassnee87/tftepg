@@ -3,270 +3,396 @@
   <channel id="Documentary-CA">
     <display-name>Documentary</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Documentary-CA.png" />
-  </channel><programme channel="Documentary-CA" start="20260417010000 +0500" stop="20260417013000 +0500">
-    <title>Anyone's Game</title>
-    <sub-title>Sometimes Me, Sometimes You. Always Us</sub-title>
-    <desc>Tempers begin to flare.</desc>
+  </channel><programme channel="Documentary-CA" start="20260419090000 +0500" stop="20260419110000 +0500">
+    <title>Dear Jackie</title>
+    <sub-title />
+    <desc>A cinematic letter to Jackie Robinson, the first African American player in Major League Baseball. Filmmakers explore his connection to the Little Burgundy neighborhood in Montreal.</desc>
+    <credits>
+      <director>Henri Pardo</director>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22445145_v_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Documentary-CA" start="20260419110000 +0500" stop="20260419120000 +0500">
+    <title>Love Cheats</title>
+    <sub-title>Fireman Scam</sub-title>
+    <desc>The dramatic story of twin sisters defrauded by a sinister con artist, masquerading as a fireman.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Garfield Carrott</director>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28302739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260419120000 +0500" stop="20260419140000 +0500">
+    <title>Dear Jackie</title>
+    <sub-title />
+    <desc>A cinematic letter to Jackie Robinson, the first African American player in Major League Baseball. Filmmakers explore his connection to the Little Burgundy neighborhood in Montreal.</desc>
+    <credits>
+      <director>Henri Pardo</director>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22445145_v_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Documentary-CA" start="20260419140000 +0500" stop="20260419150000 +0500">
+    <title>Love Cheats</title>
+    <sub-title>Fireman Scam</sub-title>
+    <desc>The dramatic story of twin sisters defrauded by a sinister con artist, masquerading as a fireman.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <credits>
+      <director>Garfield Carrott</director>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28302739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>Top Guns: Inside the RAF</title>
+    <sub-title />
+    <desc>RAF Lossiemouth's new surveillance team, Poseidon, are called into action when a Russian warship is detected close to the UK's vital pipelines; regiment gunner Ben Hoe overcomes a lifelong medical condition as he deploys to the front line.</desc>
     <episode-num system="onscreen">S1 E3</episode-num>
-    <date>2021</date>
+    <credits>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19229477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417013000 +0500" stop="20260417020000 +0500">
-    <title>Anyone's Game</title>
-    <sub-title>It's a Grind</sub-title>
-    <desc>Shemar holds the team accountable for a bad game, while Dyson continues to cope with his past.</desc>
+  </programme><programme channel="Documentary-CA" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Top Guns: Inside the RAF</title>
+    <sub-title />
+    <desc>High over Syria, young pilot Buzz encounters a Russian aircraft just as his wingman suffers a cockpit emergency; in Estonia, another broken jet risks leaving NATO's frontline undefended against Russia.</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
-    <date>2021</date>
+    <credits>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19229477_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Stay Tooned</title>
-    <sub-title>The Rainbow Wave</sub-title>
-    <desc>Eric talks with James Adomian, Nic Sammond and Noelle Stevenson about queerness in cartoons.</desc>
-    <episode-num system="onscreen">S1 E103</episode-num>
+  </programme><programme channel="Documentary-CA" start="20260419170000 +0500" stop="20260419190000 +0500">
+    <title>Offside: The Harold Ballard Story</title>
+    <sub-title />
+    <desc>Jason Priestley takes a look at Harold Ballard, the controversial owner of the Toronto Maple Leafs. Ballard's offensive behaviors range from backhanded contract dealings and sexist tirades, to serving a year in prison for theft and fraud.</desc>
     <credits>
-      <actor>Eric Bauza</actor>
-      <actor>James Adomian</actor>
-      <actor>Noelle Stevenson</actor>
+      <director>Jason Priestley</director>
+      <actor>Jason Priestley</actor>
     </credits><date>2022</date>
-    <category lang="en">Series</category>
+    <category lang="en">Movie</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24997196_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Stay Tooned</title>
-    <sub-title>Knowing is Half the Battle</sub-title>
-    <desc>Eric talks with Bobby Moynihan, Natalie Coulter, and Elamin Abdelmahmoud about PSAs and moral messaging on Saturday mornings.</desc>
-    <episode-num system="onscreen">S1 E104</episode-num>
-    <credits>
-      <actor>Eric Bauza</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Elamin Abdelmahmoud</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24997196_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417030000 +0500" stop="20260417040000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p23497536_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260419190000 +0500" stop="20260419200000 +0500">
     <title>The Nature of Things</title>
-    <sub-title>Last of the Right Whales</sub-title>
-    <desc>North Atlantic right whales are on the brink of extinction; following the fight to save them.</desc>
-    <episode-num system="onscreen">S62 E1</episode-num>
+    <sub-title>Inside the Great Vaccine Race</sub-title>
+    <desc>The inside story of the high-stakes race to defeat a killer virus and save millions of lives.</desc>
+    <episode-num system="onscreen">S61 E1</episode-num>
     <credits>
       <actor>David Suzuki</actor>
-    </credits><date>2023</date>
+    </credits><date>2021</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Science</category>
     <category lang="en">Nature</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <rating system="Australian Classification Board">
       <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>L</value>
-    </rating><rating system="Australian Classification Board">
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417040000 +0500" stop="20260417060000 +0500">
-    <title>Patrice: The Movie</title>
+  </programme><programme channel="Documentary-CA" start="20260419200000 +0500" stop="20260419210000 +0500">
+    <title>Top Guns: Inside the RAF</title>
     <sub-title />
-    <desc>A disabled couple in their 50s, Patrice and Garry, want to marry but risk losing their benefits if they do. Despite the risk, they decide to hold a commitment ceremony.</desc>
+    <desc>RAF Lossiemouth's new surveillance team, Poseidon, are called into action when a Russian warship is detected close to the UK's vital pipelines; regiment gunner Ben Hoe overcomes a lifelong medical condition as he deploys to the front line.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
     <credits>
-      <director>Ted Passon</director>
-      <actor>Patrice Jetter</actor>
-      <actor>Ollie Robinson</actor>
-      <actor>Rachael Dutta</actor>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>Top Guns: Inside the RAF</title>
+    <sub-title />
+    <desc>High over Syria, young pilot Buzz encounters a Russian aircraft just as his wingman suffers a cockpit emergency; in Estonia, another broken jet risks leaving NATO's frontline undefended against Russia.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260419220000 +0500" stop="20260420000000 +0500">
+    <title>Offside: The Harold Ballard Story</title>
+    <sub-title />
+    <desc>Jason Priestley takes a look at Harold Ballard, the controversial owner of the Toronto Maple Leafs. Ballard's offensive behaviors range from backhanded contract dealings and sexist tirades, to serving a year in prison for theft and fraud.</desc>
+    <credits>
+      <director>Jason Priestley</director>
+      <actor>Jason Priestley</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23497536_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>The Nature of Things</title>
+    <sub-title>Inside the Great Vaccine Race</sub-title>
+    <desc>The inside story of the high-stakes race to defeat a killer virus and save millions of lives.</desc>
+    <episode-num system="onscreen">S61 E1</episode-num>
+    <credits>
+      <actor>David Suzuki</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420010000 +0500" stop="20260420020000 +0500">
+    <title>Top Guns: Inside the RAF</title>
+    <sub-title />
+    <desc>RAF Lossiemouth's new surveillance team, Poseidon, are called into action when a Russian warship is detected close to the UK's vital pipelines; regiment gunner Ben Hoe overcomes a lifelong medical condition as he deploys to the front line.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Top Guns: Inside the RAF</title>
+    <sub-title />
+    <desc>High over Syria, young pilot Buzz encounters a Russian aircraft just as his wingman suffers a cockpit emergency; in Estonia, another broken jet risks leaving NATO's frontline undefended against Russia.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Greg Lander Williams</director>
+      <director>Christian Hills</director>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Aviation</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25389702_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420030000 +0500" stop="20260420050000 +0500">
+    <title>Offside: The Harold Ballard Story</title>
+    <sub-title />
+    <desc>Jason Priestley takes a look at Harold Ballard, the controversial owner of the Toronto Maple Leafs. Ballard's offensive behaviors range from backhanded contract dealings and sexist tirades, to serving a year in prison for theft and fraud.</desc>
+    <credits>
+      <director>Jason Priestley</director>
+      <actor>Jason Priestley</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23497536_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>The Nature of Things</title>
+    <sub-title>Inside the Great Vaccine Race</sub-title>
+    <desc>The inside story of the high-stakes race to defeat a killer virus and save millions of lives.</desc>
+    <episode-num system="onscreen">S61 E1</episode-num>
+    <credits>
+      <actor>David Suzuki</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420060000 +0500" stop="20260420080000 +0500">
+    <title>So Surreal: Behind the Masks</title>
+    <sub-title />
+    <desc>The storied journey of Indigenous masks and their profound impact on one of the most iconic art movements of all time.</desc>
+    <credits>
+      <director>Neil Diamond</director>
+      <director>Joanne Robertson</director>
+      <actor>Neil Diamond</actor>
     </credits><date>2024</date>
     <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28311103_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>Cirque Life</title>
-    <sub-title>Countdown to the Premiere</sub-title>
-    <desc>The LUZIA troupe reunites in Montréal in the electric lead-up to the premiere; and 'the most flexible man in the world' goes for a Guinness record.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32452806_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Bosnia and Herzegovina</sub-title>
-    <desc>Rom meets the Bosnian who claims to have discovered the world's largest pyramid.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <director>Morgan Roberts</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p28403944_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Colombia</sub-title>
-    <desc>Romesh visits Caribbean beaches and a Jesus statue shop while in Colombia.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme><programme channel="Documentary-CA" start="20260420080000 +0500" stop="20260420090000 +0500">
+    <title>Trafficked Voices</title>
+    <sub-title />
+    <desc>Canada's sex trafficking industry is reaching a national crisis level. Three survivors of trafficking tell their stories.</desc>
+    <date>2024</date>
+    <category lang="en">Special</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26545077_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420090000 +0500" stop="20260420110000 +0500">
+    <title>So Surreal: Behind the Masks</title>
+    <sub-title />
+    <desc>The storied journey of Indigenous masks and their profound impact on one of the most iconic art movements of all time.</desc>
     <credits>
-      <director>Ewen Thomson</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
+      <director>Neil Diamond</director>
+      <director>Joanne Robertson</director>
+      <actor>Neil Diamond</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p28403944_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>Cirque Life</title>
-    <sub-title>Countdown to the Premiere</sub-title>
-    <desc>The LUZIA troupe reunites in Montréal in the electric lead-up to the premiere; and 'the most flexible man in the world' goes for a Guinness record.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
+  </programme><programme channel="Documentary-CA" start="20260420110000 +0500" stop="20260420120000 +0500">
+    <title>Trafficked Voices</title>
+    <sub-title />
+    <desc>Canada's sex trafficking industry is reaching a national crisis level. Three survivors of trafficking tell their stories.</desc>
+    <date>2024</date>
+    <category lang="en">Special</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32452806_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Bosnia and Herzegovina</sub-title>
-    <desc>Rom meets the Bosnian who claims to have discovered the world's largest pyramid.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p26545077_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420120000 +0500" stop="20260420140000 +0500">
+    <title>So Surreal: Behind the Masks</title>
+    <sub-title />
+    <desc>The storied journey of Indigenous masks and their profound impact on one of the most iconic art movements of all time.</desc>
     <credits>
-      <director>Morgan Roberts</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
+      <director>Neil Diamond</director>
+      <director>Joanne Robertson</director>
+      <actor>Neil Diamond</actor>
+    </credits><date>2024</date>
+    <category lang="en">Movie</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p28403944_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Alberta's Film Classification Board">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Colombia</sub-title>
-    <desc>Romesh visits Caribbean beaches and a Jesus statue shop while in Colombia.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <director>Ewen Thomson</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
+  </programme><programme channel="Documentary-CA" start="20260420140000 +0500" stop="20260420150000 +0500">
+    <title>Trafficked Voices</title>
+    <sub-title />
+    <desc>Canada's sex trafficking industry is reaching a national crisis level. Three survivors of trafficking tell their stories.</desc>
+    <date>2024</date>
+    <category lang="en">Special</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
+    <icon src="http://dtil.tmsimg.com/assets/p26545077_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TV14</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>Cirque Life</title>
-    <sub-title>Countdown to the Premiere</sub-title>
-    <desc>The LUZIA troupe reunites in Montréal in the electric lead-up to the premiere; and 'the most flexible man in the world' goes for a Guinness record.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32452806_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Bosnia and Herzegovina</sub-title>
-    <desc>Rom meets the Bosnian who claims to have discovered the world's largest pyramid.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <director>Morgan Roberts</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>The Misadventures of Romesh Ranganathan</title>
-    <sub-title>Colombia</sub-title>
-    <desc>Romesh visits Caribbean beaches and a Jesus statue shop while in Colombia.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <director>Ewen Thomson</director>
-      <actor>Romesh Ranganathan</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15654045_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260417150000 +0500" stop="20260417160000 +0500">
+  </programme><programme channel="Documentary-CA" start="20260420150000 +0500" stop="20260420160000 +0500">
     <title>The Nature of Things</title>
-    <sub-title>Kingdom of the Polar Bears, Part 1</sub-title>
-    <desc>Veteran polar bear guide Dennis Compayre goes on a remarkable journey, providing a rare and intimate glimpse into the world of a polar bear and her newborn cubs as they leave the safety of their den for the first time.</desc>
-    <episode-num system="onscreen">S60 E12 P1/2</episode-num>
+    <sub-title>Kingdom of the Polar Bears, Part 2</sub-title>
+    <desc>Veteran polar bear guide Dennis Compayre watches as a mother bear teaches her young cubs to hunt and discovers how they are struggling to adapt to a rapidly warming Arctic.</desc>
+    <episode-num system="onscreen">S60 E13 P2/2</episode-num>
     <credits>
       <actor>David Suzuki</actor>
     </credits><date>2021</date>
@@ -287,40 +413,11 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417160000 +0500" stop="20260417170000 +0500">
+  </programme><programme channel="Documentary-CA" start="20260420160000 +0500" stop="20260420170000 +0500">
     <title>The Nature of Things</title>
-    <sub-title>The Musical Animal</sub-title>
-    <desc>Exploring whether non-human species have musical abilities.</desc>
-    <episode-num system="onscreen">S61 E13</episode-num>
-    <credits>
-      <actor>David Suzuki</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>The Nature of Things</title>
-    <sub-title>Chef Secrets: The Science of Cooking</sub-title>
-    <desc>Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
-    <episode-num system="onscreen">S61 E5</episode-num>
+    <sub-title>The Science of Success</sub-title>
+    <desc>Success has little to do with performance; winners and losers are chosen by society; now, scientists have discovered the secret to predicting success.</desc>
+    <episode-num system="onscreen">S61 E14</episode-num>
     <credits>
       <actor>David Suzuki</actor>
     </credits><date>2022</date>
@@ -343,38 +440,11 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>The Ozempic Effect: Beyond the Waistline</title>
-    <sub-title />
-    <desc>We might all be on Ozempic soon - you'll never guess why. GLP-1 drugs are reshaping our bodies, but also our society. They may even help to treat major diseases once thought incurable.</desc>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32015535_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>The World's Biggest Family</title>
-    <sub-title />
-    <desc>A person has 600 half-siblings as a result of sperm donations; he contemplates the concept and cost of anonymous sperm donation and the way it is gradually changing.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26720655_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417200000 +0500" stop="20260417220000 +0500">
-    <title>Anne Murray: Full Circle</title>
-    <sub-title />
-    <desc>A documentary exploring the extraordinary life of a Maritime girl who became an international superstar.</desc>
-    <date>2021</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20984606_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260417220000 +0500" stop="20260417230000 +0500">
+  </programme><programme channel="Documentary-CA" start="20260420170000 +0500" stop="20260420180000 +0500">
     <title>The Nature of Things</title>
-    <sub-title>Chef Secrets: The Science of Cooking</sub-title>
-    <desc>Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
-    <episode-num system="onscreen">S61 E5</episode-num>
+    <sub-title>Why We Dance</sub-title>
+    <desc>An exploration of why fascinating and kinetic animal species, including humans, strut their stuff and why the urge to dance is one of evolution's favorite tricks.</desc>
+    <episode-num system="onscreen">S61 E9</episode-num>
     <credits>
       <actor>David Suzuki</actor>
     </credits><date>2022</date>
@@ -397,270 +467,123 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>The Ozempic Effect: Beyond the Waistline</title>
-    <sub-title />
-    <desc>We might all be on Ozempic soon - you'll never guess why. GLP-1 drugs are reshaping our bodies, but also our society. They may even help to treat major diseases once thought incurable.</desc>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32015535_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>The World's Biggest Family</title>
-    <sub-title />
-    <desc>A person has 600 half-siblings as a result of sperm donations; he contemplates the concept and cost of anonymous sperm donation and the way it is gradually changing.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26720655_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418010000 +0500" stop="20260418030000 +0500">
-    <title>Anne Murray: Full Circle</title>
-    <sub-title />
-    <desc>A documentary exploring the extraordinary life of a Maritime girl who became an international superstar.</desc>
-    <date>2021</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20984606_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>The Nature of Things</title>
-    <sub-title>Chef Secrets: The Science of Cooking</sub-title>
-    <desc>Delving deep inside the kitchen to reveal the delicious chemistry, physics, and microbiology of cooking.</desc>
-    <episode-num system="onscreen">S61 E5</episode-num>
+  </programme><programme channel="Documentary-CA" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Love Cheats</title>
+    <sub-title>The Cancer</sub-title>
+    <desc>A female seducer scams her tinder dates out of more than just money; she finally faces justice in an Australian court.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
     <credits>
-      <actor>David Suzuki</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>The Ozempic Effect: Beyond the Waistline</title>
-    <sub-title />
-    <desc>We might all be on Ozempic soon - you'll never guess why. GLP-1 drugs are reshaping our bodies, but also our society. They may even help to treat major diseases once thought incurable.</desc>
-    <date>2026</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32015535_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>The World's Biggest Family</title>
-    <sub-title />
-    <desc>A person has 600 half-siblings as a result of sperm donations; he contemplates the concept and cost of anonymous sperm donation and the way it is gradually changing.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26720655_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418060000 +0500" stop="20260418080000 +0500">
-    <title>Unloved: Huronia's Forgotten Children</title>
-    <sub-title />
-    <desc>Filmmaker Barri Cohen leads part detective story, part social history as she uncovers the truth about Alfie and Louis, her two long-dead half-brothers. They were institutionalized at the Huronia Regional Centre in Orillia in the 1950s.</desc>
-    <credits>
-      <director>Barri Cohen</director>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22969676_v_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418080000 +0500" stop="20260418090000 +0500">
-    <title>Year of the Goat</title>
-    <sub-title />
-    <desc>Five dairy goat breeder families juggle their farms while caring for their two and four-legged kids.</desc>
-    <credits>
-      <director>Michael McNamara</director>
-      <director>Aaron Hancox</director>
-    </credits><date>2023</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23892489_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418090000 +0500" stop="20260418110000 +0500">
-    <title>Unloved: Huronia's Forgotten Children</title>
-    <sub-title />
-    <desc>Filmmaker Barri Cohen leads part detective story, part social history as she uncovers the truth about Alfie and Louis, her two long-dead half-brothers. They were institutionalized at the Huronia Regional Centre in Orillia in the 1950s.</desc>
-    <credits>
-      <director>Barri Cohen</director>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22969676_v_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>Year of the Goat</title>
-    <sub-title />
-    <desc>Five dairy goat breeder families juggle their farms while caring for their two and four-legged kids.</desc>
-    <credits>
-      <director>Michael McNamara</director>
-      <director>Aaron Hancox</director>
-    </credits><date>2023</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23892489_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418120000 +0500" stop="20260418140000 +0500">
-    <title>Unloved: Huronia's Forgotten Children</title>
-    <sub-title />
-    <desc>Filmmaker Barri Cohen leads part detective story, part social history as she uncovers the truth about Alfie and Louis, her two long-dead half-brothers. They were institutionalized at the Huronia Regional Centre in Orillia in the 1950s.</desc>
-    <credits>
-      <director>Barri Cohen</director>
-    </credits><date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22969676_v_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418140000 +0500" stop="20260418150000 +0500">
-    <title>Year of the Goat</title>
-    <sub-title />
-    <desc>Five dairy goat breeder families juggle their farms while caring for their two and four-legged kids.</desc>
-    <credits>
-      <director>Michael McNamara</director>
-      <director>Aaron Hancox</director>
-    </credits><date>2023</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23892489_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Kate</title>
-    <sub-title>A Queen in Waiting</sub-title>
-    <desc>As Harry marries Meghan complications appear for William and Kate.</desc>
-    <credits>
-      <director>Myles Judd</director>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29184979_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>Prince George: A King For The Future</title>
-    <sub-title />
-    <desc>Uncovering the secrets of Prince George's royal upbringing, how he is raised, his education, the royal rituals he must learn and how his modern upbringing is bringing the royal family kicking and screaming into the modern age.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27371070_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418170000 +0500" stop="20260418190000 +0500">
-    <title>Patrice: The Movie</title>
-    <sub-title />
-    <desc>A disabled couple in their 50s, Patrice and Garry, want to marry but risk losing their benefits if they do. Despite the risk, they decide to hold a commitment ceremony.</desc>
-    <credits>
-      <director>Ted Passon</director>
-      <actor>Patrice Jetter</actor>
-      <actor>Ollie Robinson</actor>
-      <actor>Rachael Dutta</actor>
+      <director>Garfield Carrott</director>
     </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28311103_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>The Nature of Things</title>
-    <sub-title>Cheetah: Fast and Wild</sub-title>
-    <desc>After lions kill their mother, two cheetah cubs are raised in captivity; now they have a chance to live wild, they just need to learn to hunt.</desc>
-    <episode-num system="onscreen">S64 E26</episode-num>
-    <credits>
-      <actor>Sarika Cullis-Suzuki</actor>
-      <actor>Anthony Morgan</actor>
-    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Science</category>
-    <category lang="en">Nature</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28302739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>The Fifth Estate</title>
+    <sub-title>The Soldier &amp; the Survivor; Murder on Cortes Island</sub-title>
+    <desc>The story of Ramiro Cristales, who was sent to Canada after news leaked in Guatemala of his survival; the story of the unsolved murder of Stefano Savioli.</desc>
+    <episode-num system="onscreen">S44 E14</episode-num>
+    <credits>
+      <actor>Bob McKeown</actor>
+      <actor>Gillian Findlay</actor>
+      <actor>Mark Kelley</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185883_b_h8_ag.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
     </rating>
-  </programme><programme channel="Documentary-CA" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>Kate</title>
-    <sub-title>A Queen in Waiting</sub-title>
-    <desc>As Harry marries Meghan complications appear for William and Kate.</desc>
+  </programme><programme channel="Documentary-CA" start="20260420200000 +0500" stop="20260420213000 +0500">
+    <title>Drive</title>
+    <sub-title />
+    <desc>Like the invention of the television, the smartphone, and even the internet, autonomous cars look to change everything by making the world safer, greener and less stressful; asking what will be lost from the human experience in a driverless world.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Auto</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18899038_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420213000 +0500" stop="20260420220000 +0500">
+    <title>Still Standing</title>
+    <sub-title>Flin Flon, MB</sub-title>
+    <desc>In June 2025 Flin Flon faced a fresh challenge when wildfires forced residents to evacuate. Host: Jonny Harris.</desc>
+    <episode-num system="onscreen">S11 E7</episode-num>
     <credits>
-      <director>Myles Judd</director>
-    </credits><date>2025</date>
+      <actor>Jonny Harris</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
-    <category lang="en">Miniseries</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Standup</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29184979_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Medierådet">
-      <value>A</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32018672_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>TV14</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>The Nature of Things</title>
+    <sub-title>Why We Dance</sub-title>
+    <desc>An exploration of why fascinating and kinetic animal species, including humans, strut their stuff and why the urge to dance is one of evolution's favorite tricks.</desc>
+    <episode-num system="onscreen">S61 E9</episode-num>
+    <credits>
+      <actor>David Suzuki</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Science</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185885_b_h8_aq.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Documentary-CA" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>Prince George: A King For The Future</title>
-    <sub-title />
-    <desc>Uncovering the secrets of Prince George's royal upbringing, how he is raised, his education, the royal rituals he must learn and how his modern upbringing is bringing the royal family kicking and screaming into the modern age.</desc>
-    <date>2024</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p27371070_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Documentary-CA" start="20260418220000 +0500" stop="20260419000000 +0500">
-    <title>Patrice: The Movie</title>
-    <sub-title />
-    <desc>A disabled couple in their 50s, Patrice and Garry, want to marry but risk losing their benefits if they do. Despite the risk, they decide to hold a commitment ceremony.</desc>
-    <credits>
-      <director>Ted Passon</director>
-      <actor>Patrice Jetter</actor>
-      <actor>Ollie Robinson</actor>
-      <actor>Rachael Dutta</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Biography</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28311103_v_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
+    </rating>
+  </programme><programme channel="Documentary-CA" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Love Cheats</title>
+    <sub-title>The Cancer</sub-title>
+    <desc>A female seducer scams her tinder dates out of more than just money; she finally faces justice in an Australian court.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <director>Garfield Carrott</director>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28302739_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
     </rating>
   </programme>
 </tv>

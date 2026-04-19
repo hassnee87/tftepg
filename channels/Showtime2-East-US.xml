@@ -3,175 +3,381 @@
   <channel id="Showtime2-East-US">
     <display-name>Showtime 2 East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Showtime2-East-US.png" />
-  </channel><programme channel="Showtime2-East-US" start="20260417013000 +0500" stop="20260417031500 +0500">
-    <title>The Wedding Banquet</title>
+  </channel><programme channel="Showtime2-East-US" start="20260419022000 +0500" stop="20260419050000 +0500">
+    <title>The Godfather, Coda: The Death of Michael Corleone</title>
     <sub-title />
-    <desc>Hoping to stay in the country, a gay man proposes a green card marriage to a female friend in exchange for paying for her IVF treatment. However, things soon get complicated when his grandmother surprises them with plans for an extravagant Korean wedding banquet.</desc>
+    <desc>As Michael Corleone (Al Pacino) ages, he finds that being the head of the Corleone crime family isn't getting any easier. He wants his family out of the Mafia, but the mob kingpin (Eli Wallach) isn't eager to let one of the most powerful and wealthy families go legit. Making matters even worse is Michael's nephew, Vincent (Andy Garcia). Not only does Vincent want a piece of the Corleone family's criminal empire, but he also wants Michael's daughter, Mary (Sofia Coppola).</desc>
     <credits>
-      <director>Andrew Ahn</director>
-      <actor>Bowen Yang</actor>
-      <actor>Lily Gladstone</actor>
-      <actor>Kelly Marie Tran</actor>
-    </credits><date>2025</date>
+      <director>Francis Ford Coppola</director>
+      <actor>Al Pacino</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Talia Shire</actor>
+    </credits><date>1990</date>
     <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <category lang="en">LGBTQ</category>
+    <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29119739_v_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12911_v_h8_cd.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>16</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
+      <value>14</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417031500 +0500" stop="20260417050000 +0500">
-    <title>The Edge of Seventeen</title>
+  </programme><programme channel="Showtime2-East-US" start="20260419050000 +0500" stop="20260419070000 +0500">
+    <title>Day of the Fight</title>
     <sub-title />
-    <desc>Everyone knows that growing up is hard, and life is no easier for high school junior Nadine (Hailee Steinfeld), who is already at peak awkwardness when her all-star older brother Darian (Blake Jenner) starts dating her best friend Krista (Haley Lu Richardson). All at once, Nadine feels more alone than ever, until an unexpected friendship with a thoughtful teen (Hayden Szeto) gives her a glimmer of hope that things just might not be so terrible after all.</desc>
+    <desc>On the day of his first fight since his release from prison, a former boxing champion reconnects with his trainer, ex-wife, childhood friend, and abusive father in a quest for forgiveness and closure.</desc>
     <credits>
-      <director>Kelly Fremon Craig</director>
-      <actor>Hailee Steinfeld</actor>
-      <actor>Haley Lu Richardson</actor>
-      <actor>Blake Jenner</actor>
-    </credits><date>2016</date>
+      <director>Jack Huston</director>
+      <actor>Michael C. Pitt</actor>
+      <actor>Joe Pesci</actor>
+      <actor>Ron Perlman</actor>
+    </credits><date>2023</date>
     <category lang="en">Movie</category>
-    <category lang="en">Comedy drama</category>
+    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12764503_v_h10_am.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28262215_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Showtime2-East-US" start="20260419070000 +0500" stop="20260419093000 +0500">
+    <title>Molly's Game</title>
+    <sub-title />
+    <desc>The true story of Molly Bloom, a beautiful, young, Olympic-class skier who ran the world's most exclusive high-stakes poker game for a decade before being arrested in the middle of the night by 17 FBI agents wielding automatic weapons. Her players included Hollywood royalty, sports stars, business titans and finally, unbeknown to her, the Russian mob. Her only ally was her criminal defense lawyer Charlie Jaffey, who learned there was much more to Molly than the tabloids led people to believe.</desc>
+    <credits>
+      <director>Aaron Sorkin</director>
+      <actor>Jessica Chastain</actor>
+      <actor>Idris Elba</actor>
+      <actor>Michael Cera</actor>
+    </credits><date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14325816_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="B.C. Film Classification Office">
-      <value>14A</value>
+      <value>PG</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
+      <value>PG</value>
     </rating><rating system="Motion Picture Association">
       <value>R</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B15</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
     </rating><rating system="UK Content Provider">
       <value>15</value>
     </rating><star-rating>
       <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417050000 +0500" stop="20260417064500 +0500">
-    <title>Failure to Launch</title>
+  </programme><programme channel="Showtime2-East-US" start="20260419093000 +0500" stop="20260419110500 +0500">
+    <title>Old School</title>
     <sub-title />
-    <desc>A young man (Matthew McConaughey) continues to live at the home of parents who, in desperation to push him out of the nest once and for all, hatch a plan. They hire a beautiful woman (Sarah Jessica Parker) to entice him to assume the mantle of responsibility and get his own place.</desc>
+    <desc>After discovering his girlfriend has been participating in group sex, attorney Mitch feels his world come undone. He moves into a new place, which happens to be near a college campus, and tries to get his life back together. Two of his best friends, Frank and Beanie, start hanging out at Mitch's house, eventually turning the place into a wild party pad, much to the ire of the college's dean, Gordon "Cheese" Pritchard.</desc>
     <credits>
-      <director>Tom Dey</director>
-      <actor>Matthew McConaughey</actor>
-      <actor>Sarah Jessica Parker</actor>
-      <actor>Zooey Deschanel</actor>
-    </credits><date>2006</date>
+      <director>Todd Phillips</director>
+      <actor>Luke Wilson</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Vince Vaughn</actor>
+    </credits><date>2003</date>
     <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
     <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p160442_v_h8_ak.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p31600_v_h8_ah.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
+      <value>R</value>
     </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+      <value>18A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
+      <value>14A</value>
     </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>13+</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
     </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
     </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>16</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260419110500 +0500" stop="20260419130000 +0500">
+    <title>Sinister</title>
+    <sub-title />
+    <desc>True-crime writer Ellison Oswald is in a slump; he hasn't had a bestseller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film showing the deaths of a family, he vows to solve the mystery. He moves his own family into the victims' home and gets to work. However, when old film footage and other clues hint at the presence of a supernatural force, Ellison learns that living in the house may be fatal.</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Ethan Hawke</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>James Ransone</actor>
+    </credits><date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9086074_v_h8_ao.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Arcom">
+      <value>-16</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>18</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260419130000 +0500" stop="20260419151500 +0500">
+    <title>Bridget Jones's Baby</title>
+    <sub-title />
+    <desc>Breaking up with Mark Darcy (Colin Firth) leaves Bridget Jones (Renée Zellweger) over 40 and single again. Feeling that she has everything under control, Jones decides to focus on her career as a top news producer. Suddenly, her love life comes back from the dead when she meets a dashing and handsome American named Jack (Patrick Dempsey). Things couldn't be better, until Bridget discovers that she is pregnant. Now, the befuddled mom-to-be must figure out if the proud papa is Mark or Jack.</desc>
+    <credits>
+      <director>Sharon Maguire</director>
+      <actor>Renée Zellweger</actor>
+      <actor>Colin Firth</actor>
+      <actor>Patrick Dempsey</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romantic comedy</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12230485_v_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K7</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
+      <value>SAM 13</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Barntillåten</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
+    </rating><rating system="映倫">
+      <value>G</value>
     </rating><rating system="Kijkwijzer">
-      <value>6</value>
+      <value>12</value>
     </rating><rating system="Medierådet">
       <value>A</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating><rating system="영상물등급위원회">
       <value>15+</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260419151500 +0500" stop="20260419172500 +0500">
+    <title>Not Without Hope</title>
+    <sub-title />
+    <desc>Four friends face disaster when their boat capsizes in the Gulf of Mexico. Battling massive waves, sharks, dehydration and hypothermia, they cling to hope as Capt. Timothy Close and his Coast Guard crew launch a daring rescue through a raging storm to save them.</desc>
+    <credits>
+      <director>Joe Carnahan</director>
+      <actor>Zachary Levi</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Quentin Plair</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27293382_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Showtime2-East-US" start="20260419172500 +0500" stop="20260419191500 +0500">
+    <title>The Wood</title>
+    <sub-title />
+    <desc>Three old friends -- Mike (Omar Epps), Roland (Taye Diggs) and Slim (Richard T. Jones) -- recount memories of their shared childhood in Inglewood, Calif., as they prepare for Roland's wedding to his fiancée, Lisa (LisaRaye). When the groom goes missing without a word, Mike and Slim struggle to find their nervous friend and return him to his impatient bride before the wedding begins. Along the way, they continue to swap stories about lessons learned during their awkward teenage years.</desc>
+    <credits>
+      <director>Rick Famuyiwa</director>
+      <actor>Omar Epps</actor>
+      <actor>Taye Diggs</actor>
+      <actor>Richard T. Jones</actor>
+    </credits><date>1999</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23083_v_h10_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>AA</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417064500 +0500" stop="20260417090000 +0500">
+  </programme><programme channel="Showtime2-East-US" start="20260419191500 +0500" stop="20260419213000 +0500">
     <title>He's Just Not That Into You</title>
     <sub-title />
     <desc>Baltimore-based friends and lovers, all in their 20s and 30s, try to navigate their way through the complexities of modern relationships. Beth (Jennifer Aniston) wants commitment from Neil (Ben Affleck), who sees nothing wrong with the status quo. Gigi (Ginnifer Goodwin) is tired of waiting by the phone, while Mary (Drew Barrymore) has a slew of supportive male friends, none of whom are straight. Meanwhile, Janine has trust issues with her husband, who can't trust himself around Anna.</desc>
@@ -236,189 +442,474 @@
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417090000 +0500" stop="20260417110500 +0500">
-    <title>Match Point</title>
+  </programme><programme channel="Showtime2-East-US" start="20260419213000 +0500" stop="20260419231500 +0500">
+    <title>Bridget Jones's Diary</title>
     <sub-title />
-    <desc>Tennis instructor Chris Wilton (Jonathan Rhys-Meyers) grows friendly with Tom Hewett (Matthew Goode), a wealthy student who shares an interest in opera. Invited to attend a performance with Tom, Chris meets the family and instantly attracts Tom's sister, Chloe (Emily Mortimer). Chris marries her to get a job with her millionaire father, Alec (Brian Cox), but a dangerous affair with Nola Rice (Scarlett Johansson), Tom's American girlfriend, threatens his newfound social status.</desc>
+    <desc>At the start of the New Year, 32-year-old Bridget (Renée Zellweger) decides it's time to take control of her life -- and start keeping a diary. Now, the most provocative, erotic and hysterical book on her bedside table is the one she's writing. With a taste for adventure, and an opinion on every subject - from exercise to men to food to sex and everything in between - she's turning the page on a whole new life.</desc>
     <credits>
-      <director>Woody Allen</director>
-      <actor>Scarlett Johansson</actor>
-      <actor>Jonathan Rhys-Meyers</actor>
-      <actor>Emily Mortimer</actor>
-    </credits><date>2005</date>
+      <director>Sharon Maguire</director>
+      <actor>Renée Zellweger</actor>
+      <actor>Colin Firth</actor>
+      <actor>Hugh Grant</actor>
+    </credits><date>2001</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Romantic comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p159470_v_h8_ai.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p27484_v_h8_an.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
     </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Ontario Film Authority">
       <value>14A</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Manitoba Film Classification Board">
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
       <value>14A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
     </rating><rating system="Statens medieråd">
-      <value>Barntillåten</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>Från 7 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
     </rating><rating system="映倫">
-      <value>PG12</value>
+      <value>R15+</value>
     </rating><rating system="Medierådet">
-      <value>11</value>
+      <value>7</value>
     </rating><rating system="영상물등급위원회">
-      <value>18+</value>
+      <value>15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><rating system="Kijkwijzer">
       <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
     </rating><rating system="Medietilsynet">
       <value>11 år</value>
     </rating><star-rating>
       <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417110500 +0500" stop="20260417123000 +0500">
-    <title>Sex Therapy</title>
+  </programme><programme channel="Showtime2-East-US" start="20260419231500 +0500" stop="20260420010000 +0500">
+    <title>A Bad Moms Christmas</title>
     <sub-title />
-    <desc>Four women seek advice from Dr. Ross on whether they should cheat or not.</desc>
-    <date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adults only</category>
-    <category lang="en">Erotic</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15653721_v_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Showtime2-East-US" start="20260417123000 +0500" stop="20260417141500 +0500">
-    <title>The Wedding Banquet</title>
-    <sub-title />
-    <desc>Hoping to stay in the country, a gay man proposes a green card marriage to a female friend in exchange for paying for her IVF treatment. However, things soon get complicated when his grandmother surprises them with plans for an extravagant Korean wedding banquet.</desc>
+    <desc>Under-appreciated and overburdened moms Amy, Kiki and Carla rebel against the challenges and expectations of the Super Bowl for moms: Christmas. As if creating the perfect holiday for their families isn't hard enough, they'll have to do it while hosting and entertaining their own respective mothers when they come to visit.</desc>
     <credits>
-      <director>Andrew Ahn</director>
-      <actor>Bowen Yang</actor>
-      <actor>Lily Gladstone</actor>
-      <actor>Kelly Marie Tran</actor>
-    </credits><date>2025</date>
+      <director>Jon Lucas</director>
+      <director>Scott Moore</director>
+      <actor>Mila Kunis</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Kathryn Hahn</actor>
+    </credits><date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <category lang="en">LGBTQ</category>
+    <category lang="en">Holiday</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29119739_v_h8_ae.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p13661830_v_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
+    </rating><rating system="British Board of Film Classification">
       <value>15</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417141500 +0500" stop="20260417160500 +0500">
-    <title>Slingshot</title>
-    <sub-title />
-    <desc>An astronaut struggles to maintain his grip on reality during a possibly compromised mission to Saturn's moon, Titan.</desc>
-    <credits>
-      <director>Mikael Håfström</director>
-      <actor>Casey Affleck</actor>
-      <actor>Laurence Fishburne</actor>
-      <actor>Emily Beecham</actor>
-    </credits><date>2024</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26273085_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
+      <value>16</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
     </rating><rating system="영상물등급위원회">
-      <value>15+</value>
+      <value>18+</value>
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417160500 +0500" stop="20260417184500 +0500">
-    <title>The Firm</title>
+  </programme><programme channel="Showtime2-East-US" start="20260420010000 +0500" stop="20260420030000 +0500">
+    <title>Baby Driver</title>
     <sub-title />
-    <desc>A young lawyer joins a small but prestigious law firm only to find out that most of their clients are on the wrong side of the law. The company is helping to launder mob money, get clients off charges and even murder partners who threaten to blow their cover, but when the FBI come calling to gather evidence on the lawyer's colleagues, he is caught between a rock and a hard place, juggling his life and his liberty.</desc>
+    <desc>Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss, Baby must face the music as a doomed heist threatens his life, love and freedom.</desc>
     <credits>
-      <director>Sydney Pollack</director>
-      <actor>Tom Cruise</actor>
-      <actor>Jeanne Tripplehorn</actor>
-      <actor>Gene Hackman</actor>
-    </credits><date>1993</date>
+      <director>Edgar Wright</director>
+      <actor>Ansel Elgort</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Lily James</actor>
+    </credits><date>2017</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
     <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
+    <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14877_v_h10_ax.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
+    <icon src="http://dtil.tmsimg.com/assets/p13259415_v_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Motion Picture Association">
       <value>R</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
     </rating><rating system="British Board of Film Classification">
       <value>15</value>
     </rating><rating system="UK Content Provider">
       <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420030000 +0500" stop="20260420050000 +0500">
+    <title>Not Without Hope</title>
+    <sub-title />
+    <desc>Four friends face disaster when their boat capsizes in the Gulf of Mexico. Battling massive waves, sharks, dehydration and hypothermia, they cling to hope as Capt. Timothy Close and his Coast Guard crew launch a daring rescue through a raging storm to save them.</desc>
+    <credits>
+      <director>Joe Carnahan</director>
+      <actor>Zachary Levi</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Quentin Plair</actor>
+    </credits><date>2025</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27293382_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420050000 +0500" stop="20260420071500 +0500">
+    <title>Jack Reacher</title>
+    <sub-title />
+    <desc>One morning in an ordinary town, five people are shot dead in a seemingly random attack; all evidence points to a single suspect: an ex-military sniper who is quickly brought into custody; Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney.. However, the more Reacher delves into the case, the less clear-cut it appears.</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Rosamund Pike</actor>
+      <actor>Robert Duvall</actor>
+    </credits><date>2012</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9286627_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420071500 +0500" stop="20260420091000 +0500">
+    <title>American Assassin</title>
+    <sub-title />
+    <desc>When Cold War veteran Stan Hurley takes CIA black ops recruit Mitch Rapp under his wing, they receive an assignment to investigate a wave of random attacks on both military and civilian targets. After discovering a pattern of violence, Hurley and Rapp join forces with a lethal Turkish agent to stop a mysterious operative who wants to start a global war.</desc>
+    <credits>
+      <director>Michael Cuesta</director>
+      <actor>Dylan O'Brien</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Sanaa Lathan</actor>
+    </credits><date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13949767_v_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>18A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Arcom">
+      <value>-16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="映倫">
+      <value>R15+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420091000 +0500" stop="20260420115500 +0500">
+    <title>Silence</title>
+    <sub-title />
+    <desc>Two 17th-century Portuguese missionaries, Father Sebastian Rodrigues (Andrew Garfield) and Father Francisco Garupe (Adam Driver), embark on a perilous journey to Japan to find their missing mentor (Liam Neeson). While there, the two men minister to the Christian villagers who worship in secret. If caught by feudal lords or ruling samurai, they must renounce their faith or face a prolonged and agonizing death.</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Adam Driver</actor>
+      <actor>Tadanobu Asano</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12901833_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420115500 +0500" stop="20260420141000 +0500">
+    <title>Primal Fear</title>
+    <sub-title />
+    <desc>Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.</desc>
+    <credits>
+      <director>Gregory Hoblit</director>
+      <actor>Richard Gere</actor>
+      <actor>Laura Linney</actor>
+      <actor>Edward Norton</actor>
+    </credits><date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17869_v_h8_ap.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>18</value>
+    </rating><rating system="UK Content Provider">
+      <value>18</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Ontario Film Authority">
       <value>AA</value>
     </rating><rating system="Statens medieråd">
       <value>Från 15 år</value>
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
+      <value>B15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="映倫">
+      <value>G</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
     </rating><rating system="영상물등급위원회">
@@ -427,148 +918,97 @@
       <value>16</value>
     </rating><rating system="Kijkwijzer">
       <value>16</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
     </rating><star-rating>
       <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417184500 +0500" stop="20260417204500 +0500">
-    <title>Sleeping Dogs</title>
+  </programme><programme channel="Showtime2-East-US" start="20260420141000 +0500" stop="20260420160000 +0500">
+    <title>The Lovers</title>
     <sub-title />
-    <desc>Suffering from memory loss, a former homicide detective tries to solve a brutal murder that he can't recall. As he pieces together evidence from a decade-old investigation, he soon uncovers a sinister web of buried secrets tied to his forgotten past.</desc>
+    <desc>An impossible love blooms across two time periods and continents.</desc>
     <credits>
-      <director>Adam Cooper</director>
-      <actor>Russell Crowe</actor>
-      <actor>Karen Gillan</actor>
-      <actor>Marton Csokas</actor>
-    </credits><date>2024</date>
+      <director>Roland Joffé</director>
+      <actor>Josh Hartnett</actor>
+      <actor>Alice Englert</actor>
+      <actor>Tamsin Egerton</actor>
+    </credits><date>2014</date>
     <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Science fiction</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26604355_v_h8_al.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p10991367_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>14</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
     </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
     </rating><rating system="영상물등급위원회">
       <value>15+</value>
     </rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417204500 +0500" stop="20260417223000 +0500">
-    <title>48 HRS.</title>
+  </programme><programme channel="Showtime2-East-US" start="20260420160000 +0500" stop="20260420173000 +0500">
+    <title>Mob Town</title>
     <sub-title />
-    <desc>Renegade cop Jack Cates (Nick Nolte) pulls bank robber Reggie Hammond (Eddie Murphy) from a federal prison on a 48-hour leave to help him capture Hammond's old partner, Albert Ganz (James Remar). Having escaped from a prison work crew, Ganz is on a killing spree around San Francisco, on the trail of half a million dollars that went missing after one of his robberies. The cocky Reggie knows where the money is, but spars with the hotheaded Jack as he enjoys his temporary freedom.</desc>
+    <desc>The FBI and a local cop track various members of organized crime families as they gather for a huge meeting in upstate New York in 1957.</desc>
     <credits>
-      <director>Walter Hill</director>
-      <actor>Nick Nolte</actor>
-      <actor>Eddie Murphy</actor>
-      <actor>Annette O'Toole</actor>
-    </credits><date>1983</date>
+      <director>Danny A. Abeckaser</director>
+      <actor>David Arquette</actor>
+      <actor>Jennifer Esposito</actor>
+      <actor>Danny A. Abeckaser</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17544521_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A18</value>
+    </rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420173000 +0500" stop="20260420190500 +0500">
+    <title>Guns Up</title>
+    <sub-title />
+    <desc>After a job goes horribly wrong, a man who moonlights as a mob henchman has one night to get his family out of the city while keeping his dark secret hidden.</desc>
+    <credits>
+      <director>Edward Drake</director>
+      <actor>Kevin James</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Luis Guzmán</actor>
+    </credits><date>2025</date>
     <category lang="en">Movie</category>
     <category lang="en">Action</category>
     <category lang="en">Comedy</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Crime drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p6873_v_h10_aq.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Film &amp; Publication Board">
+    <icon src="http://dtil.tmsimg.com/assets/p29796963_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Ontario Film Authority">
+    </rating><rating system="Motion Picture Association">
       <value>R</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>15A</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating><rating system="영상물등급위원회">
       <value>18+</value>
-    </rating><rating system="Medietilsynet">
-      <value>18 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260417223000 +0500" stop="20260418002500 +0500">
-    <title>Total Recall</title>
-    <sub-title />
-    <desc>Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits "Rekall," a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.</desc>
-    <credits>
-      <director>Paul Verhoeven</director>
-      <actor>Arnold Schwarzenegger</actor>
-      <actor>Rachel Ticotin</actor>
-      <actor>Sharon Stone</actor>
-    </credits><date>1990</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12531_v_h8_ar.jpg?w=960&amp;h=540" />
-    <rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>18</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418002500 +0500" stop="20260418024500 +0500">
+    </rating>
+  </programme><programme channel="Showtime2-East-US" start="20260420190500 +0500" stop="20260420213000 +0500">
     <title>Warrior</title>
     <sub-title />
     <desc>An estranged family finds redemption in the unlikeliest of places: the MMA ring. Tommy (Tom Hardy), an ex-Marine with a tragic past, returns home and enlists his father (Nick Nolte), a recovering alcoholic and former wrestling coach, to train him for "Sparta," the biggest MMA tournament ever held. But when Tommy's underdog brother, Brendan (Joel Edgerton), fights his way into the tournament, the two brothers must finally confront each other and the forces that pulled them apart.</desc>
@@ -626,599 +1066,129 @@
     </rating><star-rating>
       <value>6.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418024500 +0500" stop="20260418050000 +0500">
-    <title>Million Dollar Baby</title>
+  </programme><programme channel="Showtime2-East-US" start="20260420213000 +0500" stop="20260420234500 +0500">
+    <title>Top Gun: Maverick</title>
     <sub-title />
-    <desc>Frankie Dunn (Clint Eastwood) is a veteran Los Angeles boxing trainer who keeps almost everyone at arm's length, except his old friend and associate Eddie "Scrap Iron" Dupree (Morgan Freeman). When Maggie Fitzgerald (Hilary Swank) arrives in Frankie's gym seeking his expertise, he is reluctant to train the young woman, a transplant from working-class Missouri. Eventually, he relents, and the two form a close bond that will irrevocably change them both.</desc>
+    <desc>After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.</desc>
     <credits>
-      <director>Clint Eastwood</director>
-      <actor>Clint Eastwood</actor>
-      <actor>Hilary Swank</actor>
-      <actor>Morgan Freeman</actor>
-    </credits><date>2004</date>
+      <director>Joseph Kosinski</director>
+      <actor>Tom Cruise</actor>
+      <actor>Miles Teller</actor>
+      <actor>Jennifer Connelly</actor>
+    </credits><date>2022</date>
     <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p35226_v_h10_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p14325539_v_h8_al.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>PG-13</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
+    </rating><rating system="Maritime Film Classification Board">
       <value>PG</value>
     </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
     </rating><rating system="Statens medieråd">
       <value>Från 11 år</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+    </rating><rating system="British Board of Film Classification">
       <value>12</value>
     </rating><rating system="영상물등급위원회">
       <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>16</value>
-    </rating><star-rating>
-      <value>8.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418050000 +0500" stop="20260418070000 +0500">
-    <title>True Grit</title>
-    <sub-title />
-    <desc>After an outlaw named Tom Chaney murders her father, feisty 14-year-old farm girl Mattie Ross hires Rooster Cogburn, a boozy, trigger-happy lawman, to help her find Chaney and avenge her father. The bickering duo are not alone in their quest, for a Texas Ranger named LaBoeuf is also tracking Chaney for reasons of his own. Together the unlikely trio ventures into hostile territory to dispense some Old West justice.</desc>
-    <credits>
-      <director>Joel Coen</director>
-      <director>Ethan Coen</director>
-      <actor>Jeff Bridges</actor>
-      <actor>Matt Damon</actor>
-      <actor>Josh Brolin</actor>
-    </credits><date>2010</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Western</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8160526_v_h10_au.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
     </rating><rating system="Arcom">
       <value>-10</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418070000 +0500" stop="20260418090500 +0500">
-    <title>No Country for Old Men</title>
-    <sub-title />
-    <desc>While out hunting, Llewelyn Moss (Josh Brolin) finds the grisly aftermath of a drug deal. Though he knows better, he cannot resist the cash left behind and takes it with him. The hunter becomes the hunted when a merciless killer named Chigurh (Javier Bardem) picks up his trail. Also looking for Moss is Sheriff Bell (Tommy Lee Jones), an aging lawman who reflects on a changing world and a dark secret of his own, as he tries to find and protect Moss.</desc>
-    <credits>
-      <director>Joel Coen</director>
-      <director>Ethan Coen</director>
-      <actor>Tommy Lee Jones</actor>
-      <actor>Javier Bardem</actor>
-      <actor>Josh Brolin</actor>
-    </credits><date>2007</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Western</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p170313_v_h11_ag.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>R15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418090500 +0500" stop="20260418105000 +0500">
-    <title>Universal Soldier</title>
-    <sub-title />
-    <desc>During the Vietnam War, soldier Luc Devereaux (Jean-Claude Van Damme) finds that his superior officer, Andrew Scott (Dolph Lundgren), has turned violently deranged, and the two fight to the death. After their bodies are retrieved, they are placed into a secret program in which they are reanimated and trained to become unquestioning killing machines. While Devereaux and Scott initially have no memory of their former lives, glimpses of their pasts start to return, rekindling their intense conflict.</desc>
-    <credits>
-      <director>Roland Emmerich</director>
-      <actor>Jean-Claude Van Damme</actor>
-      <actor>Dolph Lundgren</actor>
-      <actor>Ally Walker</actor>
-    </credits><date>1992</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Action</category>
-    <category lang="en">War</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14100_v_h10_ae.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>R</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>18</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="UK Content Provider">
-      <value>18</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>18 år</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>18</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418105000 +0500" stop="20260418131500 +0500">
-    <title>Warrior</title>
-    <sub-title />
-    <desc>An estranged family finds redemption in the unlikeliest of places: the MMA ring. Tommy (Tom Hardy), an ex-Marine with a tragic past, returns home and enlists his father (Nick Nolte), a recovering alcoholic and former wrestling coach, to train him for "Sparta," the biggest MMA tournament ever held. But when Tommy's underdog brother, Brendan (Joel Edgerton), fights his way into the tournament, the two brothers must finally confront each other and the forces that pulled them apart.</desc>
-    <credits>
-      <director>Gavin O'Connor</director>
-      <actor>Joel Edgerton</actor>
-      <actor>Tom Hardy</actor>
-      <actor>Nick Nolte</actor>
-    </credits><date>2011</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8063104_v_h8_bj.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418131500 +0500" stop="20260418153500 +0500">
-    <title>John Grisham's The Rainmaker</title>
-    <sub-title />
-    <desc>Struggling new attorney Rudy Baylor (Matt Damon) resorts to working for a shady lawyer (Mickey Rourke), where he meets paralegal Deck Shifflet (Danny DeVito). When the insurance company of Dot Black (Mary Kay Place) refuses her dying son coverage, Baylor and Shifflet team up to fight the corrupt corporation, taking on its callous lawyer (Jon Voight). Meanwhile, Baylor becomes involved with Kelly Riker (Claire Danes), an abused wife, whose husband complicates matters when he confronts Baylor.</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Matt Damon</actor>
-      <actor>Claire Danes</actor>
-      <actor>Jon Voight</actor>
-    </credits><date>1997</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20181_v_h8_aq.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418153500 +0500" stop="20260418180000 +0500">
-    <title>Clear and Present Danger</title>
-    <sub-title />
-    <desc>Agent Jack Ryan (Harrison Ford) becomes acting deputy director of the CIA when Admiral Greer (James Earl Jones) is diagnosed with cancer. When an American businessman, and friend of the president, is murdered on a yacht, Ryan starts discovering links between the man and drug dealers. As CIA agent John Clark (Willem Dafoe) is sent to Colombia to kill drug kingpins in retaliation, Ryan must fight through multiple cover-ups to figure out what happened and who's responsible.</desc>
-    <credits>
-      <director>Phillip Noyce</director>
-      <actor>Harrison Ford</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Anne Archer</actor>
-    </credits><date>1994</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15855_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>AA</value>
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
     </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating><rating system="映倫">
       <value>G</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
     </rating><star-rating>
-      <value>6.0/10</value>
+      <value>7.0/10</value>
     </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418180000 +0500" stop="20260418195500 +0500">
-    <title>Day of the Fight</title>
+  </programme><programme channel="Showtime2-East-US" start="20260420234500 +0500" stop="20260421020000 +0500">
+    <title>Patriots Day</title>
     <sub-title />
-    <desc>On the day of his first fight since his release from prison, a former boxing champion reconnects with his trainer, ex-wife, childhood friend, and abusive father in a quest for forgiveness and closure.</desc>
+    <desc>Tragedy strikes on April 15, 2013, when two bombs explode during the Boston Marathon. In the aftermath of the attack, police Sgt. Tommy Saunders (Mark Wahlberg), FBI Special Agent Richard DesLauriers (Kevin Bacon) and Commissioner Ed Davis (John Goodman) join courageous survivors, first responders and other investigators in a race against the clock to hunt down the suspects and bring them to justice.</desc>
     <credits>
-      <director>Jack Huston</director>
-      <actor>Michael C. Pitt</actor>
-      <actor>Joe Pesci</actor>
-      <actor>Ron Perlman</actor>
-    </credits><date>2023</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28262215_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418195500 +0500" stop="20260418225500 +0500">
-    <title>The Godfather</title>
-    <sub-title />
-    <desc>Widely regarded as one of the greatest films of all time, this mob drama, based on Mario Puzo's novel of the same name, focuses on the powerful Italian-American crime family of Don Vito Corleone (Marlon Brando). When the don's youngest son, Michael (Al Pacino), reluctantly joins the Mafia, he becomes involved in the inevitable cycle of violence and betrayal. Although Michael tries to maintain a normal relationship with his wife, Kay (Diane Keaton), he is drawn deeper into the family business.</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Marlon Brando</actor>
-      <actor>Al Pacino</actor>
-      <actor>James Caan</actor>
-    </credits><date>1972</date>
+      <director>Peter Berg</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>John Goodman</actor>
+    </credits><date>2016</date>
     <category lang="en">Movie</category>
     <category lang="en">Crime drama</category>
+    <category lang="en">Thriller</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p6326_v_h8_be.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p12939920_v_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="Motion Picture Association">
       <value>R</value>
     </rating><rating system="Alberta's Film Classification Board">
       <value>14A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
     </rating><rating system="B.C. Film Classification Office">
-      <value>18A</value>
+      <value>14A</value>
     </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>18A</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
     </rating><rating system="Ontario Film Authority">
       <value>14A</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>R 18+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 16</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>18</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>14</value>
-    </rating><star-rating>
-      <value>8.0/10</value>
-    </star-rating>
-  </programme><programme channel="Showtime2-East-US" start="20260418225500 +0500" stop="20260419022000 +0500">
-    <title>The Godfather, Part II</title>
-    <sub-title />
-    <desc>The compelling sequel to "The Godfather," contrasting the life of Corleone father and son. Traces the problems of Michael Corleone (Al Pacino) in 1958 and that of a young immigrant Vito Corleone (Robert De Niro) in 1917's Hell's Kitchen. Michael survives many misfortunes and Vito is introduced to a life of crime.</desc>
-    <credits>
-      <director>Francis Ford Coppola</director>
-      <actor>Al Pacino</actor>
-      <actor>Robert Duvall</actor>
-      <actor>Diane Keaton</actor>
-    </credits><date>1974</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p6319_v_h8_bi.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>VM14</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>18</value>
+      <value>K16</value>
     </rating><rating system="Arcom">
       <value>-12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>18</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
     </rating><rating system="映倫">
       <value>PG12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
     </rating><rating system="Kijkwijzer">
       <value>16</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
     </rating><star-rating>
-      <value>8.0/10</value>
+      <value>6.0/10</value>
     </star-rating>
   </programme>
 </tv>

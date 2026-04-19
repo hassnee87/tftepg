@@ -1,458 +1,889 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Crime-Investigation-US">
-    <display-name>Crime and Investigation</display-name>
+    <display-name>Crime+Investigation</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Crime-Investigation-US.png" />
-  </channel><programme channel="Crime-Investigation-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>#TextMeWhenYouGetHome</title>
-    <sub-title>Kenia Monge</sub-title>
-    <desc>The family of Kenia Monge share the agonizing details of what happened around the beautiful 19-year-old's disappearance; her father, sister and authorities explain how the texts in Kenia's cell phone were the impetus to finding her abductor.</desc>
+  </channel><programme channel="Crime-Investigation-US" start="20260419000000 +0500" stop="20260419010000 +0500">
+    <title>The Killer Speaks</title>
+    <sub-title>Ice Cold: Levi King</sub-title>
+    <desc>Levi King kills two Missouri residents in 2005, then travels to the Texas Panhandle to continue his murderous ways.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9648179_b_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419010000 +0500" stop="20260419020000 +0500">
+    <title>The Killer Speaks</title>
+    <sub-title>Van Brett Watkins: Hitman</sub-title>
+    <desc>An acquaintance of Carolina Panthers wide receiver Rae Carruth is hired to murder the football player's pregnant girlfriend in November 1999.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10629684_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419020000 +0500" stop="20260419023000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The Railroad Killer</sub-title>
+    <desc>A fun night with her boyfriend turned into a nightmare for Holly Dunn, a junior at the University of Kentucky in 1997; somehow, Holly managed to escape her attacker by following railway tracks to a nearby house.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20222163_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419023000 +0500" stop="20260419030000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The Freeway Killer</sub-title>
+    <desc>In September 1975, 14-year-old David McVicker is abducted while hitchhiking home from a friend's house in Garden Grove, Calif.; his assailant, William Bonin, has an appetite for assaulting young men and boys.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
     <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22073195_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>#TextMeWhenYouGetHome</title>
-    <sub-title>Miya Marcano</sub-title>
-    <desc>The family of Miya Marcano shares the agonizing details of what happened around the beautiful, 19-year-old's disappearance.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <credits>
-      <director>Randy Martin</director>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25168534_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20222163_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Arcom">
       <value>-10</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>#TextMeWhenYouGetHome</title>
-    <sub-title>Madison Nygard</sub-title>
-    <desc>Those closest to Madison Nygard share the agonizing details around the beautiful 16-year-old's terrifying abduction as she walked home from a party; her mother, friends and authorities explain how Madison's attack would ultimately uncover clues.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <credits>
-      <director>Ya'Ke Smith</director>
-    </credits><date>2023</date>
+  </programme><programme channel="Crime-Investigation-US" start="20260419030000 +0500" stop="20260419033000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>Rural Road Reaper</sub-title>
+    <desc>In April of 2016, 16-year-old Madison Nygard walks home from a party in rural Muskegon County, Mich., and takes a ride with a passing stranger.</desc>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25168534_b_h8_ac.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
     </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+      <value>16</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>The New Girl</sub-title>
-    <desc>A popular girl takes a new student under her wing while at a school for at-risk youth in Illinois.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <date>2013</date>
+  </programme><programme channel="Crime-Investigation-US" start="20260419033000 +0500" stop="20260419040000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The House of Horrors Killer</sub-title>
+    <desc>Josephina Rivera's life comes to a halt when the 25-year-old is kidnapped by 43-year-old Gary Heidnik; over the next four months, Josephina lives shackled in a basement while her captor abducts four more women to hold hostage in his house of horrors.</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <date>2022</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419040000 +0500" stop="20260419043000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The House of Horrors Killer</sub-title>
+    <desc>Josephina Rivera's life comes to a halt when the 25-year-old is kidnapped by 43-year-old Gary Heidnik; over the next four months, Josephina lives shackled in a basement while her captor abducts four more women to hold hostage in his house of horrors.</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>First Love Is the Deadliest</sub-title>
-    <desc>Two Pennsylvania girls grow up as best friends, but things get rocky when they become lovers and a third girl befriends them.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Most Shocking Killers</sub-title>
-    <desc>The stories of seven suspects featured in the first season of "I Killed My BFF.".</desc>
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>The Butcher</sub-title>
-    <desc>Two best friends turn on each other; a showdown that will end in a gruesome death.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Do Unto Others</sub-title>
-    <desc>What starts out as an unlikely friendship becomes a deep bond, until a tragic event leads to suspicion and revenge; two people are dead and one is on the way to Death Row.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10336193_b_h10_ae.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Alabama Love Triangle</sub-title>
-    <desc>When one best friend falls for the other man's wife, all bets are off.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <credits>
-      <actor>Jarret Janako</actor>
-      <actor>Ashley Rose</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Most Shocking Killers</sub-title>
-    <desc>The stories of seven suspects featured in the first season of "I Killed My BFF.".</desc>
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>The Butcher</sub-title>
-    <desc>Two best friends turn on each other; a showdown that will end in a gruesome death.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417110000 +0500" stop="20260417120000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Do Unto Others</sub-title>
-    <desc>What starts out as an unlikely friendship becomes a deep bond, until a tragic event leads to suspicion and revenge; two people are dead and one is on the way to Death Row.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10336193_b_h10_ae.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>Alabama Love Triangle</sub-title>
-    <desc>When one best friend falls for the other man's wife, all bets are off.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <credits>
-      <actor>Jarret Janako</actor>
-      <actor>Ashley Rose</actor>
-    </credits><date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>The New Girl</sub-title>
-    <desc>A popular girl takes a new student under her wing while at a school for at-risk youth in Illinois.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
       <value>16</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>I Killed My BFF</title>
-    <sub-title>First Love Is the Deadliest</sub-title>
-    <desc>Two Pennsylvania girls grow up as best friends, but things get rocky when they become lovers and a third girl befriends them.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <date>2014</date>
+  </programme><programme channel="Crime-Investigation-US" start="20260419043000 +0500" stop="20260419050000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The Dating Game Killer</sub-title>
+    <desc>Morgan Rowan describes how she was brutally attacked in 1968 by Rodney Alcala during a party at his Hollywood home; three weeks later, Alcala would abduct and attack 8-year-old Tali Shapiro, who describes her chilling assault in her own words.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <date>2022</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9305248_b_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>16</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
     </rating><rating system="Arcom">
       <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417150000 +0500" stop="20260417153000 +0500">
-    <title>Paid Programming</title>
+  </programme><programme channel="Crime-Investigation-US" start="20260419050000 +0500" stop="20260419070000 +0500">
+    <title>The Torso Killer Confessions</title>
     <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
+    <desc>Bergen County, N.J., Chief of Detectives Robert Anzilotti elicited murder confessions from a vicious but relatively unknown serial killer, Richard Cottingham, nicknamed the Torso Killer; Anzilotti's mission to tie Cottingham to additional murders.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p24158429_b_h8_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
+      <value>A14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+  </programme><programme channel="Crime-Investigation-US" start="20260419070000 +0500" stop="20260419090000 +0500">
+    <title>The Torso Killer Confessions</title>
+    <sub-title />
+    <desc>Bergen County, N.J., Chief of Detectives Robert Anzilotti continues his mission to tie Cottingham to additional murders and to get him to confess to more cold-case homicides.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24158429_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419090000 +0500" stop="20260419110000 +0500">
+    <title>The Torso Killer Confessions</title>
+    <sub-title />
+    <desc>Bergen County, N.J., Chief of Detectives Robert Anzilotti elicited murder confessions from a vicious but relatively unknown serial killer, Richard Cottingham, nicknamed the Torso Killer; Anzilotti's mission to tie Cottingham to additional murders.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24158429_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419110000 +0500" stop="20260419130000 +0500">
+    <title>The Torso Killer Confessions</title>
+    <sub-title />
+    <desc>Bergen County, N.J., Chief of Detectives Robert Anzilotti continues his mission to tie Cottingham to additional murders and to get him to confess to more cold-case homicides.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24158429_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419130000 +0500" stop="20260419133000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>Rural Road Reaper</sub-title>
+    <desc>In April of 2016, 16-year-old Madison Nygard walks home from a party in rural Muskegon County, Mich., and takes a ride with a passing stranger.</desc>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The House of Horrors Killer</sub-title>
+    <desc>Josephina Rivera's life comes to a halt when the 25-year-old is kidnapped by 43-year-old Gary Heidnik; over the next four months, Josephina lives shackled in a basement while her captor abducts four more women to hold hostage in his house of horrors.</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419140000 +0500" stop="20260419143000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The House of Horrors Killer</sub-title>
+    <desc>Josephina Rivera's life comes to a halt when the 25-year-old is kidnapped by 43-year-old Gary Heidnik; over the next four months, Josephina lives shackled in a basement while her captor abducts four more women to hold hostage in his house of horrors.</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419143000 +0500" stop="20260419150000 +0500">
+    <title>I Survived a Serial Killer</title>
+    <sub-title>The Dating Game Killer</sub-title>
+    <desc>Morgan Rowan describes how she was brutally attacked in 1968 by Rodney Alcala during a party at his Hollywood home; three weeks later, Alcala would abduct and attack 8-year-old Tali Shapiro, who describes her chilling assault in her own words.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20224968_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419150000 +0500" stop="20260419153000 +0500">
+    <title>Ideal Prostate+ Provides Safe Natural Relief</title>
+    <sub-title />
+    <desc>Ideal Prostate is the only Prostate Formula with a patented blend to relieve both PROSTATE &amp; BLADDER Symptoms. Tune in for a Special TV offer!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18062805_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260419153000 +0500" stop="20260419160000 +0500">
     <title>The Aging Brain</title>
     <sub-title />
     <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260417160000 +0500" stop="20260417163000 +0500">
-    <title>Natural Blood Pressure Management</title>
-    <sub-title />
-    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260417163000 +0500" stop="20260417170000 +0500">
+  </programme><programme channel="Crime-Investigation-US" start="20260419160000 +0500" stop="20260419163000 +0500">
     <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
     <sub-title />
     <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
     <category lang="en">Consumer</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260417170000 +0500" stop="20260417180000 +0500">
+  </programme><programme channel="Crime-Investigation-US" start="20260419163000 +0500" stop="20260419170000 +0500">
+    <title>Wounded Warrior Project: No Warrior is Left Behind</title>
+    <sub-title />
+    <desc>Wounded Warrior Project is changing the way our nation cares for veterans and helping them thrive for a lifetime. Join Trace Adkins and Dan Nevins to learn about the journeys of four injured veterans and how no warrior is left behind.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30403694_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Gangsters: America's Most Evil</title>
+    <sub-title>Los Muchachos: Augusto Falcon and Salvador Magluta</sub-title>
+    <desc>A pair of powerboat racers who allegedly moved more illegal narcotics than just about anyone in the history of the U.S. War on Drugs.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9306057_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>Gangsters: America's Most Evil</title>
+    <sub-title>The Baron of Brotherhood: Barry Mills</sub-title>
+    <desc>Barry Mills found his calling as the leader of the white supremacist prison gang the Aryan Brotherhood.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9306057_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419190000 +0500" stop="20260419200000 +0500">
+    <title>Gangsters: America's Most Evil</title>
+    <sub-title>The Cutt Boyz: Terrance Benjamin &amp; Derrick Washington</sub-title>
+    <desc>The Cutt Boyz use violence to control the drug trade within the B.W. Cooper Housing Complex in New Orleans.</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9306057_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419200000 +0500" stop="20260419210000 +0500">
+    <title>Gangsters: America's Most Evil</title>
+    <sub-title>Sex, Money, Murder, Inc.: "Pistol Pete" Rollack</sub-title>
+    <desc>Pistol Pete and his underlings incorporated the gang Sex, Money, Murder in an effort to launder drug money and expanded their operations outside New York.</desc>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9306057_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Danny Greene</sub-title>
+    <desc>Irish mobster Danny Greene clashed with the Cleveland mafia; a bombing war that would eventually destroy them both.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <date>2010</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Family Secrets</sub-title>
+    <desc>Frank Calabrese Jr., son of mobster Frank Calabrese, flipped against his father, and nearly brought down the vaunted Chicago Outfit.</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Carmine "The Snake" Persico</sub-title>
+    <desc>Carmine Persico stands as one of most enduring Godfathers in mafia history.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Tommy Lucchese</sub-title>
+    <desc>Tommy Lucchese, one of the most successful and notorious members of the Italian-American Mafia, pioneered and perfected labor rackets in New York City's kosher chicken industry, the garment district and the world of professional boxing.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420010000 +0500" stop="20260420020000 +0500">
+    <title>Mobsters</title>
+    <sub-title>John Gotti</sub-title>
+    <desc>John Gotti starts out as the leader of a group of young thugs in his South Bronx neighborhood and works his way up to a leadership position in the Gambino crime family.</desc>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Mobsters</title>
+    <sub-title>The Grim Reaper: Greg Scarpa</sub-title>
+    <desc>Gregory Scarpa lived a charmed triple life; mafia hit man, loving father and husband, and secret FBI informant.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420030000 +0500" stop="20260420040000 +0500">
+    <title>Mobsters</title>
+    <sub-title>John Gotti</sub-title>
+    <desc>John Gotti starts out as the leader of a group of young thugs in his South Bronx neighborhood and works his way up to a leadership position in the Gambino crime family.</desc>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420040000 +0500" stop="20260420050000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Jimmy "The Gent" Burke</sub-title>
+    <desc>Jimmy Burke was one of the most prolific mob earners in New York history.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420050000 +0500" stop="20260420070000 +0500">
+    <title>Gotti: Godfather &amp; Son</title>
+    <sub-title>Kid Christmas; A Made Man</sub-title>
+    <desc>John Gotti Jr. attends New York Military Academy as his father rises to power in the world of organized crime; in his 20s, Gotti Jr. becomes a made member of the Gambino crime family.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
+    <credits>
+      <actor>John Gotti</actor>
+      <actor>Peter Gotti</actor>
+      <actor>Angel Gotti</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15509254_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420070000 +0500" stop="20260420090000 +0500">
+    <title>Gotti: Godfather &amp; Son</title>
+    <sub-title>Fathers and Sons; Sins of the Father</sub-title>
+    <desc>The FBI focuses on taking down John Gotti; Gotti Jr. becomes the acting boss of the Gambino crime family after his father is convicted and sentenced to life in prison; Gotti Jr. resolves to quit the mob and pursue life as a civilian.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <credits>
+      <actor>John Gotti</actor>
+      <actor>Peter Gotti</actor>
+      <actor>Angel Gotti</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15509254_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420090000 +0500" stop="20260420110000 +0500">
+    <title>Gotti: Godfather &amp; Son</title>
+    <sub-title>Kid Christmas; A Made Man</sub-title>
+    <desc>John Gotti Jr. attends New York Military Academy as his father rises to power in the world of organized crime; in his 20s, Gotti Jr. becomes a made member of the Gambino crime family.</desc>
+    <episode-num system="onscreen">S1 E1 P1/2</episode-num>
+    <credits>
+      <actor>John Gotti</actor>
+      <actor>Peter Gotti</actor>
+      <actor>Angel Gotti</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15509254_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420110000 +0500" stop="20260420130000 +0500">
+    <title>Gotti: Godfather &amp; Son</title>
+    <sub-title>Fathers and Sons; Sins of the Father</sub-title>
+    <desc>The FBI focuses on taking down John Gotti; Gotti Jr. becomes the acting boss of the Gambino crime family after his father is convicted and sentenced to life in prison; Gotti Jr. resolves to quit the mob and pursue life as a civilian.</desc>
+    <episode-num system="onscreen">S1 E2 P2/2</episode-num>
+    <credits>
+      <actor>John Gotti</actor>
+      <actor>Peter Gotti</actor>
+      <actor>Angel Gotti</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <category lang="en">Miniseries</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15509254_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420130000 +0500" stop="20260420140000 +0500">
+    <title>Mobsters</title>
+    <sub-title>John Gotti</sub-title>
+    <desc>John Gotti starts out as the leader of a group of young thugs in his South Bronx neighborhood and works his way up to a leadership position in the Gambino crime family.</desc>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420140000 +0500" stop="20260420150000 +0500">
+    <title>Mobsters</title>
+    <sub-title>Jimmy "The Gent" Burke</sub-title>
+    <desc>Jimmy Burke was one of the most prolific mob earners in New York history.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Biography</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p264863_b_h10_ak.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+    <title>Ideal Prostate+ Provides Safe Natural Relief</title>
+    <sub-title />
+    <desc>Ideal Prostate is the only Prostate Formula with a patented blend to relieve both PROSTATE &amp; BLADDER Symptoms. Tune in for a Special TV offer!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18062805_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260420153000 +0500" stop="20260420160000 +0500">
+    <title>Pain Relief Revealed</title>
+    <sub-title />
+    <desc>Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32370428_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260420160000 +0500" stop="20260420163000 +0500">
+    <title>RateEscape: Stop Overpaying For Cellular</title>
+    <sub-title />
+    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260420163000 +0500" stop="20260420170000 +0500">
+    <title>The Aging Brain</title>
+    <sub-title />
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Crime-Investigation-US" start="20260420170000 +0500" stop="20260420180000 +0500">
     <title>I Survived</title>
-    <sub-title>Teri; Angela; Ed</sub-title>
-    <desc>A mother is jammed into a snow-filled garbage can by her ex-husband; a woman struggles to escape a pile of bodies after an elevator malfunction; three men attack a bar owner as part of a gang initiation.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <date>2009</date>
+    <sub-title>Albert; Matt; Kristie</sub-title>
+    <desc>A soldier tries to kill another soldier; a hunter in the mountains; killer still in the house.</desc>
+    <episode-num system="onscreen">S5 E9</episode-num>
+    <date>2010</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p246832_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>I Survived</title>
+    <sub-title>Teka; Robert; Debbie</sub-title>
+    <desc>A woman is abducted by another woman who tries to steal her unborn baby; a geologist is attacked by a bear; a woman is shot and held hostage.</desc>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8792817_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>10</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417180000 +0500" stop="20260417190000 +0500">
+  </programme><programme channel="Crime-Investigation-US" start="20260420190000 +0500" stop="20260420200000 +0500">
     <title>I Survived</title>
-    <sub-title>Harold; John; Lisa</sub-title>
-    <desc>A store manager and his staff are shot by two killers; a young man has both his arms torn off in an accident; a young girl is kidnapped by a serial killer.</desc>
-    <episode-num system="onscreen">S7 E7</episode-num>
+    <sub-title>Yvette; Jeremy and Jenny; Arkesha</sub-title>
+    <desc>A young woman and her friend are shot execution style; two strangers are caught in a deadly train collision; a young girl escapes her abductors only to be assaulted my another man.</desc>
+    <episode-num system="onscreen">S7 E8</episode-num>
     <date>2011</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
@@ -469,641 +900,118 @@
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417190000 +0500" stop="20260417200000 +0500">
+  </programme><programme channel="Crime-Investigation-US" start="20260420200000 +0500" stop="20260420210000 +0500">
     <title>I Survived</title>
-    <sub-title>Kim &amp; Nina; Michael &amp; Charles</sub-title>
-    <desc>Two women fight for their lives when an attacker ambushes them on a mountain trail; two men survive 14 hours adrift at sea.</desc>
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <date>2012</date>
+    <sub-title>Wayne &amp; Mary; Holly; Linda</sub-title>
+    <desc>A couple wake up to find their home surrounded by a cloud of chlorine gas; a couple are beaten by a mugger; a woman is attacked and left for dead.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <date>2008</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p246832_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
+    <rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>I Survived</title>
-    <sub-title>Glen; Barbara</sub-title>
-    <desc>A man is taken hostage by Marxist rebels; two girls are abducted while walking home from school.</desc>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <date>2010</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p246832_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Saints and Sinners</sub-title>
-    <desc>Emergency medical technicians assist drug addicts and victims of assaults and accidents; police officers work to keep weapons off the streets.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>New Beginnings</sub-title>
-    <desc>The NOLA EMS team celebrates the opening of its new headquarters; Titus, now an official paramedic, adjusts to new shared roles with his longtime partner, Dan; new teammates Arcady and Ted get to know each other's styles.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>A Light in the Darkness</sub-title>
-    <desc>With COVID-19 raging across the city, the New Orleans EMS responders face a series of crises that include a vehicle rollover from a police pursuit, a victim with close-range gunshot wounds, and a race to save a woman in respiratory distress.</desc>
-    <episode-num system="onscreen">S5 E4</episode-num>
-    <credits>
-      <actor>Gavin Istre</actor>
-      <actor>Dan Flynn</actor>
-      <actor>Nick Manning</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>The End Is Just the Beginning</sub-title>
-    <desc>The New Orleans EMTs receive calls from every direction, from gunshot victims to seizures to a moped rider playing Pokemon Go.</desc>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Thin Blue Line</sub-title>
-    <desc>Police shoot a man; Tony and Dave treat a stabbing victim; Stokes and Mayville work to extinguish a grocery store fire.</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Cold Hands, Warm Hearts</sub-title>
-    <desc>First responders in New Orleans battle freezing temperatures as they treat a driver who gets trapped after a serious car accident.</desc>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <credits>
-      <actor>Gavin Istre</actor>
-      <actor>Dan Flynn</actor>
-      <actor>Nick Manning</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Needle in a Haystack</sub-title>
-    <desc>Officers Roni and Cooper engage in a foot chase following a stabbing at a nightclub; Fire Rescue's Doug and Stokes try to save the life of a man shot in the throat; the hunt for a carjacker leads Will and Dimitri to the roof of an apartment complex.</desc>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>105 and Rising</sub-title>
-    <desc>Tempers rise and violence swells during a hot, humid evening; police chase two armed carjacking suspects; Keeley tends to a family injured in a car accident; Titus and Dan respond to a call from a former Playboy Bunny.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>The Ties That Bind</sub-title>
-    <desc>Emergency medical technicians Titus and Dan also act as therapists and counselors as they help steer troubled people back in the right direction.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418060000 +0500" stop="20260418070000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Dark Side of the City</sub-title>
-    <desc>The first responders work to save the victims of several shootings and a drug overdose; police officers apprehend suspects in possession of illegal firearms.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418070000 +0500" stop="20260418080000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Have Mercy</sub-title>
-    <desc>The New Orleans EMT team treats a motorcycle accident victim in danger of losing a limb, multiple seizure sufferers, a young child with a breathing obstruction, and a perpetrator whose condition makes him a danger to himself and others.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418080000 +0500" stop="20260418090000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Tough Love</sub-title>
-    <desc>Air Service backs up Pierre and Jerry during a high-speed car chase through the streets of Tampa; Rush and Benny restrain a combative patient; Stokes and Doug transport a victim of sexual assault; a mother faces a heartbreaking decision.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418090000 +0500" stop="20260418100000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>The Ties That Bind</sub-title>
-    <desc>Emergency medical technicians Titus and Dan also act as therapists and counselors as they help steer troubled people back in the right direction.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418100000 +0500" stop="20260418110000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Dark Side of the City</sub-title>
-    <desc>The first responders work to save the victims of several shootings and a drug overdose; police officers apprehend suspects in possession of illegal firearms.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <date>2016</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Have Mercy</sub-title>
-    <desc>The New Orleans EMT team treats a motorcycle accident victim in danger of losing a limb, multiple seizure sufferers, a young child with a breathing obstruction, and a perpetrator whose condition makes him a danger to himself and others.</desc>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418120000 +0500" stop="20260418130000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Tough Love</sub-title>
-    <desc>Air Service backs up Pierre and Jerry during a high-speed car chase through the streets of Tampa; Rush and Benny restrain a combative patient; Stokes and Doug transport a victim of sexual assault; a mother faces a heartbreaking decision.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418130000 +0500" stop="20260418140000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>Needle in a Haystack</sub-title>
-    <desc>Officers Roni and Cooper engage in a foot chase following a stabbing at a nightclub; Fire Rescue's Doug and Stokes try to save the life of a man shot in the throat; the hunt for a carjacker leads Will and Dimitri to the roof of an apartment complex.</desc>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418140000 +0500" stop="20260418150000 +0500">
-    <title>Nightwatch</title>
-    <sub-title>105 and Rising</sub-title>
-    <desc>Tempers rise and violence swells during a hot, humid evening; police chase two armed carjacking suspects; Keeley tends to a family injured in a car accident; Titus and Dan respond to a call from a former Playboy Bunny.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11336236_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418150000 +0500" stop="20260418153000 +0500">
-    <title>Natural Blood Pressure Management</title>
-    <sub-title />
-    <desc>Cardiologist Dr. Ernst von Schwarz, M.D. shows how to manage your blood pressure naturally and help protect your heart for life with My Best Heart.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29188954_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260418153000 +0500" stop="20260418160000 +0500">
-    <title>The Aging Brain</title>
-    <sub-title />
-    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260418160000 +0500" stop="20260418163000 +0500">
-    <title>RateEscape: Stop Overpaying For Cellular</title>
-    <sub-title />
-    <desc>Cut up to half the cost of your monthly cell phone bill; same towers, same coverage, but a lot less money; it sounds great but is it too good to be true?; join myth-busting legend Kari Byron as she takes on Big Wireless to save you money.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30869357_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Crime-Investigation-US" start="20260418163000 +0500" stop="20260418170000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Mad Maks: Maksim Gelman</sub-title>
-    <desc>Maksim Gelman embarks upon a 28-hour killing spree through New York City in February 2011, leaving four people dead and others injured.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9648179_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Monster Inside: Robert Lopez</sub-title>
-    <desc>A "push-button killer" who served time for stabbing a woman unleashes his hidden rage on a new girlfriend.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9648179_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Gary Ray Bowles: The I-95 Killer</sub-title>
-    <desc>A drifter embarks on a spree of violent murders stretching from Maryland to Florida before he is finally apprehended in 1994.</desc>
+  </programme><programme channel="Crime-Investigation-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>60 Days In</title>
+    <sub-title>Hazed and Confused</sub-title>
+    <desc>Hazing, drug use and violence envelop Clark County Jail; two participants consider dropping out of the program.</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
-    <date>2014</date>
+    <date>2016</date>
     <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
+    <category lang="en">Law</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10629684_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p12600110_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating><rating system="Régie du cinéma">
       <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Gene Meredith: Devil Inside</sub-title>
-    <desc>Detectives in Great Falls, Mont., investigate the grisly stabbing death of a former corrections officer; the killer reveals his thoughts behind the crime.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10629684_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Lawrence Tarbert: Natural Born Killer</sub-title>
-    <desc>Detectives hunt for person who shot a young man in Alamogordo, N.M, and left his body on a mountain trail; the killer recalls his crime and shares a shocking revelation about his past.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10629684_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418220000 +0500" stop="20260418230000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Timothy Thomason: Perfect Murder</sub-title>
-    <desc>Investigators have no witnesses or evidence in a murder case until a career criminal in California makes a sudden confession that turns out to be less than truthful.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10629684_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating>
-  </programme><programme channel="Crime-Investigation-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>The Killer Speaks</title>
-    <sub-title>Payback: Earl Forrest</sub-title>
-    <desc>A Missouri man kills two people at a friend's home, then continues the bloodshed when authorities come looking for him.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2013</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9648179_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
       <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>60 Days In</title>
+    <sub-title>Pod Wars</sub-title>
+    <desc>Chaos ensues in the Clark County Jail when two pod bosses threaten the safety of three of the participants.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12600110_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="Crime-Investigation-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>60 Days In</title>
+    <sub-title>Criminal Justice</sub-title>
+    <desc>The jailed civilians deal with harassment, violence and the stress of incarceration as they continue to grind out their time; two of the participants approach a tipping point.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12600110_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>19</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
     </rating>
   </programme>
 </tv>

@@ -3,1057 +3,75 @@
   <channel id="Travel-Channel-East-US">
     <display-name>Travel Channel East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Travel-Channel-East-US.png" />
-  </channel><programme channel="Travel-Channel-East-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>In Search of Monsters</title>
-    <sub-title>Chupacabra</sub-title>
-    <desc>DNA evidence suggests that the bloodsucking beast known as the Chupacabra has been found and that there are two versions of this terrifying creature.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Gabe Kunda</actor>
-      <actor>Trent Bullard</actor>
-      <actor>Nick Redfern</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16705469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>In Search of Monsters</title>
-    <sub-title>The Ozark Howler</sub-title>
-    <desc>Recently disclosed audio recordings and photographs provide the most conclusive evidence to date that the beast with horns known as the Ozark Howler may have demonic origins.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <credits>
-      <actor>Gabe Kunda</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16705469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>In Search of Monsters</title>
-    <sub-title>Rock Apes of Vietnam</sub-title>
-    <desc>Evidence reveals a Vietnam War pilot may have come home with a secret cargo, a viscous man-ape cryptid that could be the missing link in human evolution.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <credits>
-      <actor>Ken Abraham</actor>
-      <actor>Steve Busti</actor>
-      <actor>Ken Gerhard</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16705469_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>Monsters Caught on Camera</title>
-    <sub-title>Legendary Creatures of the Forest</sub-title>
-    <desc>Bigfoot is caught on camera; a crazed cryptid goes on the attack; a sea monster washes ashore; a dire wolf terrorizes the Canadian woods.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21139669_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>Monsters Caught on Camera</title>
-    <sub-title>Out of the Shadows</sub-title>
-    <desc>A prehistoric terror lurks above; a sea monster surfaces; strange creatures of the night walk the streets of California; a cave cryptid is spotted in the Alps.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21139669_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Expedition Bigfoot</title>
-    <sub-title>Why Are They Here?</sub-title>
-    <desc>Months after the Northern California expedition, Bryce, Mireya, and Russell head to Washington after a fresh lead points to a target zone where Bigfoot groups are congregating for an unknown reason; Survivalist Biko Wright joins the hunt.</desc>
-    <episode-num system="onscreen">S6 E1</episode-num>
-    <credits>
-      <director>Ronny Rose</director>
-      <actor>Bryce Johnson</actor>
-      <actor>Mireya Mayor</actor>
-      <actor>Russell Acord</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17608353_b_h8_ap.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>Expedition Bigfoot</title>
-    <sub-title>Warning Signals</sub-title>
-    <desc>South of a Bigfoot chokepoint in Washington, Russell follows a trail of warning signs into the backcountry; Mireya and Biko track what could be a curious Bigfoot; Bryce speaks with a witness, who wishes he never laid eyes on the cryptid creature.</desc>
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <credits>
-      <director>Ronny Rose</director>
-      <actor>Erik Thompson</actor>
-      <actor>Bryce Johnson</actor>
-      <actor>Mireya Mayor</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29234905_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417070000 +0500" stop="20260417090000 +0500">
-    <title>Loch Ness Monster: New Evidence</title>
-    <sub-title />
-    <desc>Professor Neil Gemmell uses cutting-edge DNA science to unravel the mystery of the Loch Ness monster; he puts the leading theories to the ultimate scientific test and launches a new chapter in the hunt for Nessie.</desc>
-    <credits>
-      <director>Tom Jennings</director>
-      <actor>Neil Gemmell</actor>
-      <actor>Gordon Ryde</actor>
-    </credits><date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17307668_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>Expedition Bigfoot</title>
-    <sub-title>Why Are They Here?</sub-title>
-    <desc>Months after the Northern California expedition, Bryce, Mireya, and Russell head to Washington after a fresh lead points to a target zone where Bigfoot groups are congregating for an unknown reason; Survivalist Biko Wright joins the hunt.</desc>
-    <episode-num system="onscreen">S6 E1</episode-num>
-    <credits>
-      <director>Ronny Rose</director>
-      <actor>Bryce Johnson</actor>
-      <actor>Mireya Mayor</actor>
-      <actor>Russell Acord</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17608353_b_h8_ap.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417100000 +0500" stop="20260417110000 +0500">
-    <title>Expedition Bigfoot</title>
-    <sub-title>Warning Signals</sub-title>
-    <desc>South of a Bigfoot chokepoint in Washington, Russell follows a trail of warning signs into the backcountry; Mireya and Biko track what could be a curious Bigfoot; Bryce speaks with a witness, who wishes he never laid eyes on the cryptid creature.</desc>
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <credits>
-      <director>Ronny Rose</director>
-      <actor>Erik Thompson</actor>
-      <actor>Bryce Johnson</actor>
-      <actor>Mireya Mayor</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29234905_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A10</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417110000 +0500" stop="20260417130000 +0500">
-    <title>Loch Ness Monster: New Evidence</title>
-    <sub-title />
-    <desc>Professor Neil Gemmell uses cutting-edge DNA science to unravel the mystery of the Loch Ness monster; he puts the leading theories to the ultimate scientific test and launches a new chapter in the hunt for Nessie.</desc>
-    <credits>
-      <director>Tom Jennings</director>
-      <actor>Neil Gemmell</actor>
-      <actor>Gordon Ryde</actor>
-    </credits><date>2019</date>
-    <category lang="en">Special</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17307668_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417130000 +0500" stop="20260417133000 +0500">
-    <title>POOF! Bye Bye Under Eye Bags!</title>
-    <sub-title />
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260417133000 +0500" stop="20260417140000 +0500">
-    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
-    <sub-title />
-    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260417140000 +0500" stop="20260417143000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260417143000 +0500" stop="20260417150000 +0500">
-    <title>Relief from Inflammation</title>
-    <sub-title />
-    <desc>Connie Craig-Carrol &amp; Founder Ken Meares investigates Omega XL, the ultimate all-natural solution for joint pain from inflammation.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18082351_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260417150000 +0500" stop="20260417160000 +0500">
-    <title>Kindred Spirits</title>
-    <sub-title>Uninvited Guests</sub-title>
-    <desc>A terrified couple calls for help after witnessing a chair levitate in their home; Amy endures a chilling paranormal experience in an upstairs bedroom; a psychic's visit later reveals a horrifying truth that leaves Adam and Amy shocked.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <actor>Amy Bruni</actor>
-      <actor>Adam Berry</actor>
-      <actor>Stephanie Burke</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13317200_b_h8_av.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>Kindred Spirits</title>
-    <sub-title>Home Sweet Holmes</sub-title>
-    <desc>A full-bodied apparition terrorizes two young girls at night and Adam and Amy catch it on camera; a heinous murder committed more than 100 years ago might help close the investigation.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <actor>Amy Bruni</actor>
-      <actor>Adam Berry</actor>
-    </credits><date>2017</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13317200_b_h8_av.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>The Dead Files</title>
-    <sub-title>They Come at Night</sub-title>
-    <desc>A distraught woman in Flatwoods, Ky., claims an evil presence in her home killed her best friend; she's terrified that if Amy and Steve can't uncover the source of the violent paranormal activity, she and her sister may be next.</desc>
-    <episode-num system="onscreen">S14 E8</episode-num>
-    <credits>
-      <actor>Steve DiSchiavi</actor>
-      <actor>Amy Allan</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8787545_b_h8_ax.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>The Dead Files</title>
-    <sub-title>Sudden Awakening</sub-title>
-    <desc>A Michigan mom's life crumbles as the dead invade her home; she makes a desperate plea to Steve and Amy to make sense of the unexplained activity and save her family from an entity called the Tall Killer.</desc>
-    <episode-num system="onscreen">S14 E9</episode-num>
-    <credits>
-      <actor>Steve DiSchiavi</actor>
-      <actor>Amy Allan</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8787545_b_h8_ax.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>The Dead Files</title>
-    <sub-title>Protect the Children</sub-title>
-    <desc>Amy and Steve travel to Northfield, Ohio, to help a desperate mother who claims an evil presence is threatening her children and tearing her marriage apart.</desc>
-    <episode-num system="onscreen">S14 E10</episode-num>
-    <credits>
-      <actor>Steve DiSchiavi</actor>
-      <actor>Amy Allan</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8787545_b_h8_ax.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>The Dead Files</title>
-    <sub-title>Buried</sub-title>
-    <desc>Steve and Amy answer a call from a scared single mother whose family is being terrorized by the paranormal, and she fears the dark entities running rampant in her home may destroy the life she has worked so hard to build.</desc>
-    <episode-num system="onscreen">S14 E11</episode-num>
-    <credits>
-      <actor>Steve DiSchiavi</actor>
-      <actor>Amy Allan</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8787545_b_h8_ax.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Hill View Manor</sub-title>
-    <desc>The team heads to Pennsylvania to investigate a former home for the destitute and elderly, determined to conquer the terror inside; but things go horribly wrong during a dire paranormal-induced emergency.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Yorktown Memorial Hospital</sub-title>
-    <desc>The team investigates a Texas hospital that has a gruesome history, including a brutal double homicide; the abandoned building's chapel may house a demonic entity.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Old Montana Prison</sub-title>
-    <desc>The team investigates a former Montana prison haunted by dark entities known for choking, shanking and possessing visitors; one team member must overcome his fear of violent spirits to survive the night behind the walls of the vile place.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Nopeming Sanatorium</sub-title>
-    <desc>Dakota, Chelsea and Tanner head home to face the horror of their childhood nightmares, Minnesota's most-notorious sanatorium.</desc>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Sheboygan County Asylum</sub-title>
-    <desc>Dakota brings the road trip to its most chilling overnight yet, inside a shuttered Wisconsin asylum; this will be the first team ever to sleep inside its abandoned halls, where little is known about why several nurses took their own lives.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Cambria County Jail</sub-title>
-    <desc>Convinced total isolation and disorientation is the only way to push fear to its limits, Dakota leads the team to Ebensburg, Pa., to investigate a dungeon deep in the bowels of the old Cambria County Jail.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Saratoga County Homestead</sub-title>
-    <desc>Dakota leads Chelsea, Tanner and Alex to a decaying sanitarium where some patient corpses were unclaimed due to a flu pandemic; screams and darting shadows play mind games with the team as they struggle to pin the activity on the living or the dead.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418040000 +0500" stop="20260418050000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Old Bourbon Distillery</sub-title>
-    <desc>Exploring one of America's oldest bourbon distilleries.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418050000 +0500" stop="20260418060000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Randolph County Infirmary</sub-title>
-    <desc>The team returns to Indiana to explore an abandoned facility that has haunted Tanner's nightmares for the past five years; he has only now mustered up the courage to confront who -- or what -- terrorized him during their first investigation.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418060000 +0500" stop="20260418070000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Joliet Prison</sub-title>
-    <desc>It's sweet revenge for Chelsea when she takes the team to Chicago's terrifying Joliet Prison; terrible things happen once they separate inside its walls.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418070000 +0500" stop="20260418080000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Rolling Hills Asylum</sub-title>
-    <desc>Tanner confronts his greatest fear when the team explores an upstate New York asylum that is said to be haunted by the spirit of a 7-foot-tall man.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418080000 +0500" stop="20260418090000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Trans-Allegheny Lunatic Asylum</sub-title>
-    <desc>The team heads to West Virginia to explore a asylum in America; Dakota has doubts about their ability to combat the bloodthirsty souls lurking in the shadows of the cursed property, but Tanner believes they are up for the challenge!</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418090000 +0500" stop="20260418100000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Randolph County Infirmary</sub-title>
-    <desc>The team returns to Indiana to explore an abandoned facility that has haunted Tanner's nightmares for the past five years; he has only now mustered up the courage to confront who -- or what -- terrorized him during their first investigation.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418100000 +0500" stop="20260418110000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Joliet Prison</sub-title>
-    <desc>It's sweet revenge for Chelsea when she takes the team to Chicago's terrifying Joliet Prison; terrible things happen once they separate inside its walls.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Rolling Hills Asylum</sub-title>
-    <desc>Tanner confronts his greatest fear when the team explores an upstate New York asylum that is said to be haunted by the spirit of a 7-foot-tall man.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418120000 +0500" stop="20260418130000 +0500">
-    <title>Destination Fear</title>
-    <sub-title>Trans-Allegheny Lunatic Asylum</sub-title>
-    <desc>The team heads to West Virginia to explore a asylum in America; Dakota has doubts about their ability to combat the bloodthirsty souls lurking in the shadows of the cursed property, but Tanner believes they are up for the challenge!</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <credits>
-      <actor>Dakota Laden</actor>
-      <actor>Chelsea Laden</actor>
-      <actor>Tanner Wiseman</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17293635_b_h8_au.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418130000 +0500" stop="20260418133000 +0500">
-    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
-    <sub-title />
-    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260418133000 +0500" stop="20260418140000 +0500">
-    <title>The Aging Brain</title>
-    <sub-title />
-    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260418140000 +0500" stop="20260418143000 +0500">
-    <title>POOF! Bye Bye Under Eye Bags!</title>
-    <sub-title />
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260418143000 +0500" stop="20260418150000 +0500">
-    <title>1776 - 2026 250th Anniversary Quarter Celebration Program</title>
-    <sub-title />
-    <desc>2026 will be one of the most historic years ever in U.S. coinage; join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive P&amp;D Roll!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32501949_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Travel-Channel-East-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>The Mist</sub-title>
-    <desc>In Morgan City, La., police call paranormal investigators to the site of a shape-shifting mist near the town's lake; the mayor reports that the paranormal activity has spread throughout St. Mary Parish.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Ghost Girl</sub-title>
-    <desc>The team arrives at a home where an eerie ghost girl has been befriending children for generations; when they discover a darker entity lurking in the home, the investigators must figure out how the two spirits are related.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Blue Shirt of Idlewild</sub-title>
-    <desc>The team investigates a limbless phantom at a historic plantation in Patterson, La.; they soon face more spirits than they bargained for after discovering a connection to voodoo and the deadly yellow fever epidemic.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Pirate Island</sub-title>
-    <desc>A call from the Morgan City police sends the team to Louisiana's Atchafalaya Basin, where a trapper reports seeing two men vanish into thin air; a "Naked and Afraid" contestant reveals evidence of a dangerous pirate's spirit.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418190000 +0500" stop="20260418200000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Irish Bend Soldier</sub-title>
-    <desc>The bizarre report of a solider's ghost at an antebellum home brings the team to Franklin, La.; as they attempt to contact the spirit, they discover the plantation was seized by Union forces before the Battle of Irish Bend.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Berwick Bloody Four</sub-title>
-    <desc>The team takes on poltergeist activity connected to a gruesome murder in Berwick, La.; the case hits close to home after they link a baby doll from the crime scene to paranormal activity at their own headquarters.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>Haunted Headquarters</sub-title>
-    <desc>The team uncovers the shocking history behind the location of their headquarters after an alarm is tripped at Morgan City's archives building; a surprise witness turns their investigation on its head.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418220000 +0500" stop="20260418230000 +0500">
-    <title>Ghosts of Morgan City</title>
-    <sub-title>The Man in Black</sub-title>
-    <desc>The team investigates downtown Morgan City after construction workers discover skeletal remains under the street; they turn to the community for help putting the town's spirits to rest.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Ben Hansen</actor>
-      <actor>Jereme Leonard</actor>
-      <actor>Sarah Lemos</actor>
-    </credits><date>2019</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Paranormal</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16937024_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="Travel-Channel-East-US" start="20260418230000 +0500" stop="20260419000000 +0500">
+  </channel><programme channel="Travel-Channel-East-US" start="20260419000000 +0500" stop="20260419010000 +0500">
     <title>Ghost Adventures</title>
-    <sub-title>Mackay Mansion</sub-title>
-    <desc>Properties once owned by John Mackay are investigated; an unseen force pushes Jay down the stairs; a spirit causes a light bulb to explode.</desc>
-    <episode-num system="onscreen">S15 E6</episode-num>
+    <sub-title>Goatman's Bridge</sub-title>
+    <desc>The crew goes to Denton, Texas, to investigate Goatman's Bridge; satanic worship underneath the bridge; four women report being physically attacked by a demonic entity.</desc>
+    <episode-num system="onscreen">S15 E18</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419010000 +0500" stop="20260419020000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>St. Anne's Retreat</sub-title>
+    <desc>Investigating St. Anne's Retreat and its legends of dead nuns and hellhounds that drew a group of teenagers in 1997.</desc>
+    <episode-num system="onscreen">S15 E12</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419020000 +0500" stop="20260419030000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Dumas Brothel</sub-title>
+    <desc>Investigating the Dumas Brothel in Montana where something malevolent lurks inside what was once the longest-running bordello in the nation.</desc>
+    <episode-num system="onscreen">S15 E14</episode-num>
     <credits>
       <actor>Zak Bagans</actor>
       <actor>Aaron Goodwin</actor>
@@ -1081,6 +99,1205 @@
       <value>A14</value>
     </rating><rating system="Medietilsynet">
       <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419030000 +0500" stop="20260419040000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Reseda House of Evil</sub-title>
+    <desc>An evil home in Reseda, California affects all who enter it; the investigation turns into an emotional nightmare.</desc>
+    <episode-num system="onscreen">S15 E8</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419040000 +0500" stop="20260419050000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Colorado Gold Mine</sub-title>
+    <desc>Traveling deep into the Phoenix Gold Mine where a heinous murder haunts the entire crew; a malicious spirit known as Tommyknocker.</desc>
+    <episode-num system="onscreen">S15 E5</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419050000 +0500" stop="20260419060000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>De Soto Hotel and Concordia Cemetery</sub-title>
+    <desc>The crew goes to El Paso, Texas, to investigate the De Soto Hotel and Concordia Cemetery; satanic worship in the basement; serial killer Richard Ramirez's connection to Concordia Cemetery.</desc>
+    <episode-num system="onscreen">S15 E17</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419060000 +0500" stop="20260419070000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Hotel Metlen</sub-title>
+    <desc>Investigating the historic Metlen in Montana; Zak learns of possession and suicide; Aaron's horrifying results.</desc>
+    <episode-num system="onscreen">S15 E11</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419070000 +0500" stop="20260419080000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Twin Bridges Orphanage</sub-title>
+    <desc>The abandoned Twin Bridges Orphanage in Montana where several children died and are buried on the property.</desc>
+    <episode-num system="onscreen">S15 E13</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419080000 +0500" stop="20260419090000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Dakota's Sanatorium of Death</sub-title>
+    <desc>San Haven Sanatorium offered care for North Dakotans since 1912 but for thousands it was the last stop.</desc>
+    <episode-num system="onscreen">S15 E16</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419090000 +0500" stop="20260419100000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>De Soto Hotel and Concordia Cemetery</sub-title>
+    <desc>The crew goes to El Paso, Texas, to investigate the De Soto Hotel and Concordia Cemetery; satanic worship in the basement; serial killer Richard Ramirez's connection to Concordia Cemetery.</desc>
+    <episode-num system="onscreen">S15 E17</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419100000 +0500" stop="20260419110000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Hotel Metlen</sub-title>
+    <desc>Investigating the historic Metlen in Montana; Zak learns of possession and suicide; Aaron's horrifying results.</desc>
+    <episode-num system="onscreen">S15 E11</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419110000 +0500" stop="20260419120000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Twin Bridges Orphanage</sub-title>
+    <desc>The abandoned Twin Bridges Orphanage in Montana where several children died and are buried on the property.</desc>
+    <episode-num system="onscreen">S15 E13</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419120000 +0500" stop="20260419130000 +0500">
+    <title>Ghost Adventures</title>
+    <sub-title>Dakota's Sanatorium of Death</sub-title>
+    <desc>San Haven Sanatorium offered care for North Dakotans since 1912 but for thousands it was the last stop.</desc>
+    <episode-num system="onscreen">S15 E16</episode-num>
+    <credits>
+      <actor>Zak Bagans</actor>
+      <actor>Aaron Goodwin</actor>
+    </credits><date>2016</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p192798_b_h8_bw.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419130000 +0500" stop="20260419133000 +0500">
+    <title>Have Thinning Hair? Keranique Can Help Regrow Beautiful, Thicker Hair!</title>
+    <sub-title />
+    <desc>If you have thinning hair or hair loss, Keranique can help regrow thicker, longer and fuller hair. Keranique is the number 1 hair regrowth system for women. Regain your confidence with beautiful, thicker and fuller hair in just 3 easy steps!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15918995_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>The Aging Brain</title>
+    <sub-title />
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260419140000 +0500" stop="20260419143000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing, and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29966207_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260419143000 +0500" stop="20260419150000 +0500">
+    <title>Risk-Free Hearing Aid!</title>
+    <sub-title />
+    <desc>Call today to try the high quality, low-price Audien hearing aid, risk-free! No doctor or fittings necessary.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Health</category>
+    <category lang="en">Science</category>
+    <category lang="en">Self improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24563713_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Possessive Attachment &amp; The Girl In The Pub</sub-title>
+    <desc>A possessive attachment makes one couple fear for the future of their unborn son; two explorers make contact with the spirit of a young girl; and an amazing capture of an elderly lady leaves two mediums shaken to their core.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Prison Possession &amp; The Acid Doll</sub-title>
+    <desc>One man's chance visit to a notorious prison becomes a rescue mission when a demonic spirit takes hold of an amateur ghost hunter and we meet a creepy doll possessed by its former owners, that threatens to burn the house down at any opportunity.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Determined Demon &amp; The Spooky Stalker</sub-title>
+    <desc>A demonic spirit terrorizes a Canadian paranormal investigator; two urban explorers capture a spine-chilling figure moving on the stairs; astro photographer Lily Nova claims she's contacted UFOs in the skies above Missouri, all caught on camera.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Theatre of Screams &amp; The Haunted Bridge</sub-title>
+    <desc>Two explorers are shaken to the core after a series of blood-curdling encounters on a haunted bridge; Bailey is terrorized by ghostly intruders at an historic theatre and a paranormal duo investigate a derelict mansion - all caught on camera.</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419190000 +0500" stop="20260419200000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Scary Mary &amp; The Alien Abduction</sub-title>
+    <desc>A haunted museum claims to house the most possessed doll in the U.K.; in Yorkshire, Russell claims to have been abducted by aliens over 60 times.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419200000 +0500" stop="20260419210000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Farm Fright &amp; The Mothman</sub-title>
+    <desc>Dreams of an idyllic life on a rural Pennsylvania farm are shot down by terrifying activity; an urban explorer finds himself scared witless when he visits one of the UK's most haunted houses.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Lamb House Horror &amp; Scottish Wiches</sub-title>
+    <desc>A Maine resident endures a series of heart-stopping encounters with apparitions in his bedroom; an investigator gets a chilling message from a 17th-century witch-hunter and a series of disturbing encounters are caught on camera at a haunted museum.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Taken Twins &amp; The Abandoned Asylum</sub-title>
+    <desc>Twin brothers claim they were abducted by beings from another planet when they were teens; one urban explorer is brought to his knees in an abandoned asylum; an isolated motion camera captures something not of this world.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Skin Walkers &amp; The Conjuring House</sub-title>
+    <desc>After hearing strange noises, family man Steve captures images of spine-chilling shape shifting Skinwalkers.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22819482_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>The Silent Stalking Spirits</sub-title>
+    <desc>A look at a silent spirit stalker in the Bay State; a look at an English family that hears their floorboards squeak even when no one is there; a look at a Scottish seaside village, where the aurora borealis attracts unwanted visitors.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17100279_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420010000 +0500" stop="20260420020000 +0500">
+    <title>Unexplained: Caught on Camera</title>
+    <sub-title>Factory Phantoms and CBD Ghost</sub-title>
+    <desc>Factory phantoms terrorize curious explorer Ben in Australia; in Eastbourne, an invisible entity wreaks havoc in Tommy's CBD shop; a possible human experiment gone wrong is on the loose in Casper mountains.</desc>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <credits>
+      <director>Samuel Morter</director>
+      <actor>Jayne Harris</actor>
+      <actor>Barri Ghai</actor>
+      <actor>Sandy Lakdar</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Paranormal</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17100279_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420020000 +0500" stop="20260420030000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Haunted Dam and More</sub-title>
+    <desc>Two men stumble upon the apparition of a ghostly bride in a haunted church; drone footage captures the elusive Ohio Grassman; frightened ferry passengers witness an alien invasion at sunset.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420030000 +0500" stop="20260420040000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Stonehenge UFOs and More</sub-title>
+    <desc>Mysterious lights hover in the skies above Stonehenge on the eve of the summer solstice; a woman witnesses a soul leaving a dead deer's body; a Florida man finds grisly proof of a violent extraterrestrial attack.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420040000 +0500" stop="20260420050000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Ghost Kitty and More</sub-title>
+    <desc>A Florida man records a werewolf speeding across his backyard; a feline friend returns from the grave to visit its owner; two Chinese explorers get a horrifying glimpse into a haunted mirror.</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Williamsburg Skinwalker and More</sub-title>
+    <desc>A man in Virginia locks eyes with a terrifying creature in the woods. A Tennessee resident has an otherworldly visitor at his front door. A family in Australia spots an apparition from the past in one of their vacation photos.</desc>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420060000 +0500" stop="20260420070000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>A Pixie Appears in Michigan and More</sub-title>
+    <desc>A fairy-like figure flies up to a security camera in Michigan. A mannequin head moves on its own in Arizona. An orb hovers next to a baby's crib in Kentucky.</desc>
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420070000 +0500" stop="20260420080000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Louisville Dog Senses a Poltergeist and More</sub-title>
+    <desc>A woman in Utah plays catch with a ghost; a dog senses something spooky lurking inside his owner's home; a UFO hovers above a wind farm in California.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420080000 +0500" stop="20260420090000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Greek Ghost and More</sub-title>
+    <desc>UFOs attempt to communicate with a man in California; a Greek village is riddled with spirits; a toddler plays tug of war with a ghost hogging the TV remote.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420090000 +0500" stop="20260420100000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Williamsburg Skinwalker and More</sub-title>
+    <desc>A man in Virginia locks eyes with a terrifying creature in the woods. A Tennessee resident has an otherworldly visitor at his front door. A family in Australia spots an apparition from the past in one of their vacation photos.</desc>
+    <episode-num system="onscreen">S10 E2</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420100000 +0500" stop="20260420110000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>A Pixie Appears in Michigan and More</sub-title>
+    <desc>A fairy-like figure flies up to a security camera in Michigan. A mannequin head moves on its own in Arizona. An orb hovers next to a baby's crib in Kentucky.</desc>
+    <episode-num system="onscreen">S10 E3</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420110000 +0500" stop="20260420120000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Louisville Dog Senses a Poltergeist and More</sub-title>
+    <desc>A woman in Utah plays catch with a ghost; a dog senses something spooky lurking inside his owner's home; a UFO hovers above a wind farm in California.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420120000 +0500" stop="20260420130000 +0500">
+    <title>Paranormal Caught on Camera</title>
+    <sub-title>Greek Ghost and More</sub-title>
+    <desc>UFOs attempt to communicate with a man in California; a Greek village is riddled with spirits; a toddler plays tug of war with a ghost hogging the TV remote.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <credits>
+      <actor>Brian J. Cano</actor>
+      <actor>Mark Moran</actor>
+      <actor>Sapphire Sandalo</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Paranormal</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16350735_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <sub-title />
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Never Scrub Your Floors Again</title>
+    <sub-title />
+    <desc>See why this cleaning tool replaces chemicals and hard labor!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31873241_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Travel-Channel-East-US" start="20260420150000 +0500" stop="20260420160000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Pike's Peak Peanut Pusher; Hollywood Holdout; Ireland's Lost Treasure</sub-title>
+    <desc>A simple peanut fad; a trunk at the center of a standoff; shimmering gold relics.</desc>
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Cherry Sisters; President's Missing Cow; Birth of a Nation Riot</sub-title>
+    <desc>A painted wooden sign; a milk can from a famous White House cow; a program from a controversial film.</desc>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420170000 +0500" stop="20260420180000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Swamp People, Walkie-Talkie Heist and Grant's Writing Water</sub-title>
+    <desc>Don Wildman examines an enigmatic canoe that unlocked the origins of a lost civilization, a miracle drug used by a Civil War hero in his last battle, and a bust involved in a supernatural game of chess.</desc>
+    <episode-num system="onscreen">S13 E1</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Evel Spirit, Dawn of the Diaper and Cliff Palace</sub-title>
+    <desc>Don Wildman examines a hot-air balloon used in the first Atlantic crossing by balloon, a ceramic jar used to hold a creepy medical cure and a mission patch tied to a space travel first.</desc>
+    <episode-num system="onscreen">S14 E2</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>The First Super Computer, Flying Under Fire and Dighton Rock</sub-title>
+    <desc>Don Wildman examines a boulder covered in strange carvings, which could turn American history on its head; a sword belonging to an explorer accused of treason; and the marble bust of a great leader who tried to untangle an ancient puzzle.</desc>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>King Neptune, Friday Night Bank Robber and Karluk's Last Voyage</sub-title>
+    <desc>Don Wildman examines a patriotic pig that helped fund World War II, a man's trek to rescue his crew during a brutal Arctic expedition, and two activists who risked their lives to take down a superpower and save the whales.</desc>
+    <episode-num system="onscreen">S13 E4</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Jap Herron, Hidden Rockwell and Ticket to Fly</sub-title>
+    <desc>Don Wildman examines a novel supposedly written by the ghost of a legendary author, a painting that isn't quite what it seems and a replica of the plane that flew in the first commercial airline flight.</desc>
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Operation Mincemeat, Texas Prison Rodeo and Tully Monster</sub-title>
+    <desc>Don Wildman examines an enigmatic oar used in an unreal World War II deception, a gold nugget that helped set off the gold rush and a fossil belonging to one of history's strangest creatures.</desc>
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="Travel-Channel-East-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Mysteries at the Museum</title>
+    <sub-title>Reckless, Thousand Island Dressing and the Tornado</sub-title>
+    <desc>Don Wildman examines a hero horse who risked her life, a culinary mystery about a popular salad dressing and an Olympic runner's battle with polio.</desc>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits><date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">History</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8237828_b_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
   </programme>
 </tv>

@@ -3,603 +3,40 @@
   <channel id="NBC4-WNBC-US">
     <display-name>WNBC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC4-WNBC-US.png" />
-  </channel><programme channel="NBC4-WNBC-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>The Kelly Clarkson Show</title>
+  </channel><programme channel="NBC4-WNBC-US" start="20260419000000 +0500" stop="20260419010000 +0500">
+    <title>Live: AMA Supercross Championship</title>
     <sub-title />
-    <desc>Kellyoke encore: "I Will (When You Do)"; Bob Odenkirk; Anna Cathcart; rad human: Green Bronx Machine; Kelly Extra: Steve Carell, Danielle Deadwyler, Phil Dunster and Charly Clive; WIL: origami shelters.</desc>
-    <episode-num system="onscreen">S7 E116</episode-num>
-    <credits>
-      <actor>Kelly Clarkson</actor>
-      <actor>Bob Odenkirk</actor>
-      <actor>Anna Cathcart</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Entertainment</category>
+    <desc>The AMA Supercross Championship series invades Huntington Bank Field in Cleveland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417010000 +0500" stop="20260417013000 +0500">
-    <title>Live: News 4 NY at 4</title>
+    <icon src="http://dtil.tmsimg.com/assets/p8119764_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419010000 +0500" stop="20260419030000 +0500">
+    <title>Live: IMSA WeatherTech SportsCar Championship</title>
     <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <credits>
-      <actor>Stefan Holt</actor>
-      <actor>Natalie Pasquarella</actor>
-      <actor>Dave Price</actor>
-    </credits><date>2016</date>
-    <category lang="en">News</category>
+    <desc>From Long Beach Street Circuit in Long Beach, Calif.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto racing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12736826_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417013000 +0500" stop="20260417020000 +0500">
-    <title>Live: News 4 NY at 4:30</title>
-    <sub-title />
-    <desc>NY news.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Live: News 4 NY at 5</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Live: News 4 NY at 5:30</title>
-    <sub-title />
-    <desc>NY news.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>Live: News 4 NY at 6</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <sub-title />
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <episode-num system="onscreen">S2 E98</episode-num>
-    <credits>
-      <actor>Tom Llamas</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417040000 +0500" stop="20260417043000 +0500">
-    <title>News 4 NY at 7</title>
-    <sub-title />
-    <desc>Stay informed with the breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417043000 +0500" stop="20260417050000 +0500">
-    <title>Access Hollywood</title>
-    <sub-title />
-    <desc>"Running Point" Season 2 premiere with Kate Hudson and the cast.</desc>
-    <episode-num system="onscreen">S30 E152</episode-num>
-    <credits>
-      <actor>Mario Lopez</actor>
-      <actor>Kit Hoover</actor>
-      <actor>Scott Evans</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Interview</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Law &amp; Order</title>
-    <sub-title>Two and Twenty</sub-title>
-    <desc>A billionaire banker is murdered and the 2-7 must investigate his many clients and employees; Price and Maroun struggle to keep the jury's focus on the crime and not the victim's darker side.</desc>
-    <episode-num system="onscreen">S25 E4</episode-num>
-    <credits>
-      <director>Martha Mitchell</director>
-      <director>Norberto Barba</director>
-      <actor>Hugh Dancy</actor>
-      <actor>Odelya Halevi</actor>
-      <actor>Tony Goldwyn</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30834665_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Feed the Craving</sub-title>
-    <desc>When a woman in active labor is abducted, Rollins and Curry look to her doula for an account of events; Carisi tries to get a confession in front of the jury.</desc>
-    <episode-num system="onscreen">S27 E5</episode-num>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30834692_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>The Hunting Party</title>
-    <sub-title>Byron May</sub-title>
-    <desc>Serial killer Byron May is back on the streets and secretly living inside someone else's home; with his new skills resembling the currently incarcerated Eastside Ripper, suspicions abound as to whether the wrong man might be in prison.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <director>Bethany Rooney</director>
-      <actor>Melissa Roxburgh</actor>
-      <actor>Nick Wechsler</actor>
-      <actor>Patrick Sabongui</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31955486_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417080000 +0500" stop="20260417083400 +0500">
-    <title>Live: News 4 NY at 11</title>
-    <sub-title />
-    <desc>Local and regional news.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417083400 +0500" stop="20260417093700 +0500">
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <sub-title>Jamie Lee Curtis; Sam Heughan; Andrew Jarecki; Megan Moroney</sub-title>
-    <desc>Actress Jamie Lee Curtis; actor Sam Heughan; filmmaker Andrew Jarecki; Megan Moroney performs.</desc>
-    <episode-num system="onscreen">S13 E73</episode-num>
-    <credits>
-      <actor>Jimmy Fallon</actor>
-      <actor>Jamie Lee Curtis</actor>
-      <actor>Sam Heughan</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417093700 +0500" stop="20260417103700 +0500">
-    <title>Late Night With Seth Meyers</title>
-    <sub-title>Daniel Radcliffe; Kate Mara</sub-title>
-    <desc>Actor Daniel Radcliffe; actress Kate Mara.</desc>
-    <episode-num system="onscreen">S13 E78</episode-num>
-    <credits>
-      <actor>Seth Meyers</actor>
-      <actor>Daniel Radcliffe</actor>
-      <actor>Kate Mara</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Political News Satire &amp; Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417103700 +0500" stop="20260417110700 +0500">
-    <title>News 4 NY at 11</title>
-    <sub-title />
-    <desc>Local and regional news.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417110700 +0500" stop="20260417113700 +0500">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <sub-title />
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <episode-num system="onscreen">S2 E98</episode-num>
-    <credits>
-      <actor>Tom Llamas</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417113700 +0500" stop="20260417120700 +0500">
-    <title>Access Hollywood</title>
-    <sub-title />
-    <desc>"Running Point" Season 2 premiere with Kate Hudson and the cast.</desc>
-    <episode-num system="onscreen">S30 E152</episode-num>
-    <credits>
-      <actor>Mario Lopez</actor>
-      <actor>Kit Hoover</actor>
-      <actor>Scott Evans</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Interview</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417120700 +0500" stop="20260417130000 +0500">
-    <title>The Kelly Clarkson Show</title>
-    <sub-title />
-    <desc>Kellyoke encore: "I Will (When You Do)"; Bob Odenkirk; Anna Cathcart; rad human: Green Bronx Machine; Kelly Extra: Steve Carell, Danielle Deadwyler, Phil Dunster and Charly Clive; WIL: origami shelters.</desc>
-    <episode-num system="onscreen">S7 E116</episode-num>
-    <credits>
-      <actor>Kelly Clarkson</actor>
-      <actor>Bob Odenkirk</actor>
-      <actor>Anna Cathcart</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417130000 +0500" stop="20260417133000 +0500">
-    <title>Early Today</title>
-    <sub-title />
-    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
-    <date>1999</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417133000 +0500" stop="20260417140000 +0500">
-    <title>Today in New York</title>
-    <sub-title />
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2000</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>Today in New York</title>
-    <sub-title />
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2000</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417150000 +0500" stop="20260417160000 +0500">
-    <title>Today in New York @ 6AM</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
-    <date>2023</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417160000 +0500" stop="20260417180000 +0500">
-    <title>Today</title>
-    <sub-title />
-    <desc>Viral best friends Diana and Candace; inside London's David Bowie tribute; spring cleaning one's money with Christine Romans.</desc>
-    <episode-num system="onscreen">S74 E175</episode-num>
-    <credits>
-      <actor>Savannah Guthrie</actor>
-      <actor>Craig Melvin</actor>
-      <actor>Al Roker</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+    <icon src="http://dtil.tmsimg.com/assets/p13022661_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>Today 3rd Hour</title>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419030000 +0500" stop="20260419033000 +0500">
+    <title>News 4 New York at 6 Weekend</title>
     <sub-title />
-    <desc>Cleaning out one's medicine cabinet with Dr. Kavita Patel; rock, paper, scissors competitions; actor John Lithgow; the winner of "The Voice" performs.</desc>
-    <episode-num system="onscreen">S8 E149</episode-num>
-    <credits>
-      <actor>Craig Melvin</actor>
-      <actor>Al Roker</actor>
-      <actor>Dylan Dreyer</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>Today With Jenna &amp; Sheinelle</title>
-    <sub-title />
-    <desc>Singer-songwriter Kelsea Ballerini; actress Susan Lucci; dating trends with Devyn Simone; spring closet cleanout with Jasmine Snow.</desc>
-    <episode-num system="onscreen">S1 E69</episode-num>
-    <credits>
-      <actor>Jenna Bush-Hager</actor>
-      <actor>Sheinelle Jones</actor>
-      <actor>Kelsea Ballerini</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417200000 +0500" stop="20260417203000 +0500">
-    <title>Live: News 4 NY at 11AM</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
     <date>2014</date>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417203000 +0500" stop="20260417210000 +0500">
-    <title>New York Live</title>
-    <sub-title />
-    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>NBC News Daily</title>
-    <sub-title />
-    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
-    <episode-num system="onscreen">E66</episode-num>
-    <credits>
-      <actor>Vicky Nguyen</actor>
-      <actor>Morgan Radford</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Dateline</title>
-    <sub-title>On the Outskirts of Town</sub-title>
-    <desc>When a young woman is found dead near a soccer field in Indiana, detectives try to piece together a puzzle that leads them to an unexpected suspect.</desc>
-    <episode-num system="onscreen">S4 E22</episode-num>
-    <credits>
-      <actor>Natalie Morales</actor>
-      <actor>Craig Melvin</actor>
-    </credits><date>2020</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Access Daily With Mario &amp; Kit</title>
-    <sub-title />
-    <desc>WNBA legend Cheryl Miller; TV host Adam Richman (History's "Food That Built America"); music updates with radio personality EJ; sports in the news; MorningSave shoppable finds!</desc>
-    <episode-num system="onscreen">S16 E128</episode-num>
-    <credits>
-      <actor>Mario Lopez</actor>
-      <actor>Kit Hoover</actor>
-      <actor>Scott Evans</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>The Kelly Clarkson Show</title>
-    <sub-title />
-    <desc>Cameoke: "I Got a New One"; Nick Offerman; "Epic Story Time"; Aaron Tveit; Dav Pilkey; Dasha performs; WIL: Anthony Davis.</desc>
-    <episode-num system="onscreen">S7 E117</episode-num>
-    <credits>
-      <actor>Kelly Clarkson</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aaron Tveit</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418010000 +0500" stop="20260418013000 +0500">
-    <title>Live: News 4 NY at 4</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <credits>
-      <actor>Stefan Holt</actor>
-      <actor>Natalie Pasquarella</actor>
-      <actor>Dave Price</actor>
-    </credits><date>2016</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12736826_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418013000 +0500" stop="20260418020000 +0500">
-    <title>Live: News 4 NY at 4:30</title>
-    <sub-title />
-    <desc>NY news.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418020000 +0500" stop="20260418023000 +0500">
-    <title>Live: News 4 NY at 5</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418023000 +0500" stop="20260418030000 +0500">
-    <title>Live: News 4 NY at 5:30</title>
-    <sub-title />
-    <desc>NY news.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418030000 +0500" stop="20260418033000 +0500">
-    <title>Live: News 4 NY at 6</title>
-    <sub-title />
-    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418033000 +0500" stop="20260418040000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p10760861_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419033000 +0500" stop="20260419040000 +0500">
     <title>NBC Nightly News With Tom Llamas</title>
     <sub-title />
     <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <episode-num system="onscreen">S2 E99</episode-num>
+    <episode-num system="onscreen">S2 E100</episode-num>
     <credits>
       <actor>Tom Llamas</actor>
     </credits><date>2026</date>
@@ -607,263 +44,22 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418040000 +0500" stop="20260418041500 +0500">
-    <title>News 4 NY at 7</title>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419040000 +0500" stop="20260419043000 +0500">
+    <title>George to the Rescue</title>
     <sub-title />
-    <desc>Stay informed with the breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418041500 +0500" stop="20260418043000 +0500">
-    <title>New York Live</title>
-    <sub-title />
-    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <category lang="en">Newsmagazine</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418043000 +0500" stop="20260418050000 +0500">
-    <title>Access Hollywood</title>
-    <sub-title />
-    <desc>The "Landman" cast hits the red carpet for a Television Academy FYC event.</desc>
-    <episode-num system="onscreen">S30 E153</episode-num>
+    <desc>George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
     <credits>
-      <actor>Mario Lopez</actor>
-      <actor>Kit Hoover</actor>
-      <actor>Scott Evans</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Interview</category>
+      <actor>George Oliphant</actor>
+    </credits><date>2010</date>
+    <category lang="en">House/garden</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418050000 +0500" stop="20260418053000 +0500">
-    <title>Happy's Place</title>
-    <sub-title>AI-AI-No</sub-title>
-    <desc>After Bobbie and Isabella request that Steve find how the tavern can save money, he discovers a way by replacing himself with an AI accountant; Gabby gives Emmett a crash course on proper texting etiquette.</desc>
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <credits>
-      <director>Gloria Calderón Kellett</director>
-      <actor>Reba McEntire</actor>
-      <actor>Belissa Escobedo</actor>
-      <actor>Melissa Peterman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418053000 +0500" stop="20260418060100 +0500">
-    <title>Happy's Place</title>
-    <sub-title>Dart to the Heart</sub-title>
-    <desc>Bobbie tries to help Emmett and Isabella reconnect by forcing them into a darts tournament; Steve celebrates killing a spider until Takoda informs him about Iktomi, the Lakota trickster spirit.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <credits>
-      <director>Pamela Fryman</director>
-      <actor>Reba McEntire</actor>
-      <actor>Belissa Escobedo</actor>
-      <actor>Melissa Peterman</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418060100 +0500" stop="20260418080000 +0500">
-    <title>Dateline NBC</title>
-    <sub-title>Deadly Swagger</sub-title>
-    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
-    <episode-num system="onscreen">S34 E21</episode-num>
-    <credits>
-      <actor>Lester Holt</actor>
-      <actor>Andrea Canning</actor>
-      <actor>Josh Mankiewicz</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418080000 +0500" stop="20260418083400 +0500">
-    <title>Live: News 4 NY at 11</title>
-    <sub-title />
-    <desc>Local and regional news.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418083400 +0500" stop="20260418093700 +0500">
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <sub-title>Sting; Minnie Driver; Ruthie Rogers; Shaggy</sub-title>
-    <desc>Musician Sting; actress Minnie Driver; chef Ruthie Rogers; Sting and Shaggy performance from "The Last Ship.".</desc>
-    <episode-num system="onscreen">S13 E78</episode-num>
-    <credits>
-      <actor>Jimmy Fallon</actor>
-      <actor>Minnie Driver</actor>
-      <actor>Sting</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418093700 +0500" stop="20260418103700 +0500">
-    <title>Late Night With Seth Meyers</title>
-    <sub-title>Tessa Thompson; Steve Zahn; Mark Normand</sub-title>
-    <desc>Actress Tessa Thompson; actor Steve Zahn; comic Mark Normand.</desc>
-    <episode-num system="onscreen">S13 E79</episode-num>
-    <credits>
-      <actor>Seth Meyers</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Steve Zahn</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Political News Satire &amp; Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418103700 +0500" stop="20260418110700 +0500">
-    <title>News 4 NY at 11</title>
-    <sub-title />
-    <desc>Local and regional news.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418110700 +0500" stop="20260418113700 +0500">
-    <title>NBC Nightly News With Tom Llamas</title>
-    <sub-title />
-    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
-    <episode-num system="onscreen">S2 E99</episode-num>
-    <credits>
-      <actor>Tom Llamas</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418113700 +0500" stop="20260418120700 +0500">
-    <title>Access Hollywood</title>
-    <sub-title />
-    <desc>The "Landman" cast hits the red carpet for a Television Academy FYC event.</desc>
-    <episode-num system="onscreen">S30 E153</episode-num>
-    <credits>
-      <actor>Mario Lopez</actor>
-      <actor>Kit Hoover</actor>
-      <actor>Scott Evans</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Interview</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418120700 +0500" stop="20260418130000 +0500">
-    <title>The Kelly Clarkson Show</title>
-    <sub-title />
-    <desc>Cameoke: "I Got a New One"; Nick Offerman; "Epic Story Time"; Aaron Tveit; Dav Pilkey; Dasha performs; WIL: Anthony Davis.</desc>
-    <episode-num system="onscreen">S7 E117</episode-num>
-    <credits>
-      <actor>Kelly Clarkson</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aaron Tveit</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418130000 +0500" stop="20260418133000 +0500">
-    <title>1st Look</title>
-    <sub-title>Destination Vermont</sub-title>
-    <desc>Tabitha Lipkin uncovers a hidden world of alpine wine, giant puppets and handcrafted food and art in Vermont.</desc>
-    <episode-num system="onscreen">S15 E5</episode-num>
-    <credits>
-      <actor>Johnny "Bananas" Devenanzio</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16039361_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418133000 +0500" stop="20260418140000 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
-    <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418140000 +0500" stop="20260418143000 +0500">
+  </programme><programme channel="NBC4-WNBC-US" start="20260419043000 +0500" stop="20260419050000 +0500">
     <title>1st Look</title>
     <sub-title />
     <desc>Lifestyle trends in food, night life, art, travel and entertainment.</desc>
@@ -881,7 +77,270 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418143000 +0500" stop="20260418150000 +0500">
+  </programme><programme channel="NBC4-WNBC-US" start="20260419050000 +0500" stop="20260419070000 +0500">
+    <title>Dateline NBC</title>
+    <sub-title>The Killer on Camera 4</sub-title>
+    <desc>When a firefighter is killed, the murder investigation unravels a web of secrets, a love triangle and stunning surveillance footage.</desc>
+    <episode-num system="onscreen">S32 E31</episode-num>
+    <credits>
+      <actor>Lester Holt</actor>
+      <actor>Andrea Canning</actor>
+      <actor>Josh Mankiewicz</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419070000 +0500" stop="20260419080000 +0500">
+    <title>Saturday Night Live</title>
+    <sub-title>Michael Keaton; Billie Eilish</sub-title>
+    <desc>From Oct. 19, 2024: Host Michael Keaton; Billie Eilish performs.</desc>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30996554_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419080000 +0500" stop="20260419082900 +0500">
+    <title>Live: News 4 NY at 11</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419082900 +0500" stop="20260419100300 +0500">
+    <title>Saturday Night Live</title>
+    <sub-title>Josh O'Connor; Lily Allen</sub-title>
+    <desc>Host Josh O'Connor; Lily Allen performs.</desc>
+    <episode-num system="onscreen">S51 E8</episode-num>
+    <credits>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183890_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419100300 +0500" stop="20260419103300 +0500">
+    <title>1st Look</title>
+    <sub-title />
+    <desc>Lifestyle trends in food, night life, art, travel and entertainment.</desc>
+    <date>2008</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Fashion</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p419169_b_h8_az.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419103300 +0500" stop="20260419110300 +0500">
+    <title>George to the Rescue</title>
+    <sub-title />
+    <desc>George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
+    <credits>
+      <actor>George Oliphant</actor>
+    </credits><date>2010</date>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419110300 +0500" stop="20260419113200 +0500">
+    <title>1st Look</title>
+    <sub-title>Destination Atlantic City</sub-title>
+    <desc>A look at why Atlantic City is more than a destination -- it's an experience.</desc>
+    <episode-num system="onscreen">S17 E2</episode-num>
+    <credits>
+      <actor>Johnny "Bananas" Devenanzio</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8953716_b_h8_ak.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419113200 +0500" stop="20260419120200 +0500">
+    <title>Open House NYC</title>
+    <sub-title>Bespoke Luxury and Comfort</sub-title>
+    <desc>Bespoke luxury and quiet comforts.</desc>
+    <episode-num system="onscreen">S18 E18</episode-num>
+    <credits>
+      <actor>Sara Gore</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419120200 +0500" stop="20260419123000 +0500">
+    <title>Open House NYC</title>
+    <sub-title>Legendary Homes</sub-title>
+    <desc>A Frank Lloyd Wright masterpiece in Detroit; the iconic townhome featured in "Breakfast at Tiffany's.".</desc>
+    <episode-num system="onscreen">S18 E1</episode-num>
+    <credits>
+      <actor>Sara Gore</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p841103_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419123000 +0500" stop="20260419133000 +0500">
+    <title>Access Hollywood</title>
+    <sub-title>Hollywood Headlines, Celebrity Interviews, Behind-the-Scenes Access and the Hottest Fashions</sub-title>
+    <desc>Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood.</desc>
+    <credits>
+      <actor>Scott Evans</actor>
+      <actor>Zuri Hall</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>The Aging Brain</title>
+    <sub-title />
+    <desc>Learn what's behind mental decline with age, and how to improve memory, focus and concentration with NeuroQ's Darrin Peterson and Dale Bredesen MD.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30127108_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419140000 +0500" stop="20260419143000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419143000 +0500" stop="20260419150000 +0500">
+    <title>Sunday Today in New York</title>
+    <sub-title />
+    <desc>Sunday New York news show.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>Sunday Today in New York</title>
+    <sub-title />
+    <desc>Sunday New York news show.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Sunday Today in New York</title>
+    <sub-title />
+    <desc>Sunday New York news show.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Sunday Today With Willie Geist</title>
+    <sub-title />
+    <desc>Sharp conversational coverage of the week's news, along with in-depth profiles of the people and personalities shaping American culture, assessing the highs and lows of the week and looking ahead to the next one.</desc>
+    <episode-num system="onscreen">S10 E27</episode-num>
+    <credits>
+      <actor>Willie Geist</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13402709_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419180000 +0500" stop="20260419183000 +0500">
     <title>Open House NYC</title>
     <sub-title />
     <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple. In addition to a look at the hottest homes on the market, the show also provides interior design tips from specialists and a wealth of information on renovation and stylish living.</desc>
@@ -899,19 +358,287 @@
     </rating><rating system="Régie du cinéma">
       <value>G</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Saturday Today in New York</title>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419183000 +0500" stop="20260419193000 +0500">
+    <title>Sunday Today in New York</title>
     <sub-title />
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2007</date>
+    <desc>Sunday New York news show.</desc>
+    <date>2014</date>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418160000 +0500" stop="20260418173000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p10513239_b_h10_ag.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419193000 +0500" stop="20260419203000 +0500">
+    <title>Meet the Press</title>
+    <sub-title />
+    <desc>Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.</desc>
+    <episode-num system="onscreen">S79 E13</episode-num>
+    <credits>
+      <actor>Kristen Welker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Politics</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419203000 +0500" stop="20260419223000 +0500">
+    <title>Live: Premier League Soccer</title>
+    <sub-title />
+    <desc>Manchester City (19-7-5) hosts Arsenal (21-7-4) at Etihad Stadium. A City win shrinks the gap to three points with a game in hand, putting the title in its hands. An Arsenal win extends the lead to nine, likely securing their first title since 2004.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032T5DC.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260419223000 +0500" stop="20260419230000 +0500">
+    <title>Live: Premier League Goal Zone</title>
+    <sub-title />
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2013</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260419230000 +0500" stop="20260420010000 +0500">
+    <title>AMA Supercross Championship</title>
+    <sub-title />
+    <desc>The AMA Supercross Championship series invades Huntington Bank Field in Cleveland.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8119764_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420010000 +0500" stop="20260420013000 +0500">
+    <title>George to the Rescue</title>
+    <sub-title />
+    <desc>George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
+    <credits>
+      <actor>George Oliphant</actor>
+    </credits><date>2010</date>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420013000 +0500" stop="20260420020000 +0500">
+    <title>New York Live</title>
+    <sub-title />
+    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420020000 +0500" stop="20260420023000 +0500">
+    <title>News 4 NY at 5</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420023000 +0500" stop="20260420030000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E101</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420030000 +0500" stop="20260420033000 +0500">
+    <title>Live: NBA Showtime</title>
+    <sub-title />
+    <desc>Coverage of the latest storylines and news from across the NBA featuring in-depth analysis and highlights.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30949176_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420033000 +0500" stop="20260420060000 +0500">
+    <title>Live: NBA Basketball</title>
+    <sub-title />
+    <desc>Eastern Conference First Round, Game 1.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p191276_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420060000 +0500" stop="20260420083000 +0500">
+    <title>Live: NBA Basketball</title>
+    <sub-title />
+    <desc>Game 1 of the Western Conference First Round between the San Antonio Spurs and the Portland Trail Blazers takes place at Frost Bank Center. San Antonio won the regular-season series 2-1. Deni Avdija leads Portland with 24.2 points and 6.7 assists.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032KGTE.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420083000 +0500" stop="20260420090000 +0500">
+    <title>Live: NBA Postgame</title>
+    <sub-title />
+    <desc />
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32073767_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420090000 +0500" stop="20260420093000 +0500">
+    <title>News 4 NY at 11</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420093000 +0500" stop="20260420100000 +0500">
+    <title>Sports Final</title>
+    <sub-title />
+    <desc />
+    <date>2025</date>
+    <category lang="en">Sports talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31589276_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>George to the Rescue</title>
+    <sub-title />
+    <desc>George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
+    <credits>
+      <actor>George Oliphant</actor>
+    </credits><date>2010</date>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420103000 +0500" stop="20260420110000 +0500">
+    <title>Open House</title>
+    <sub-title>Marquino</sub-title>
+    <desc>George returns to rescue a family for the second time.</desc>
+    <episode-num system="onscreen">S18 E5</episode-num>
+    <credits>
+      <actor>George Oliphant</actor>
+      <actor>Sara Gore</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">How-to</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31035951_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420110000 +0500" stop="20260420113000 +0500">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <sub-title />
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <credits>
+      <actor>Charles Stanley</actor>
+    </credits><date>1979</date>
+    <category lang="en">Religious</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420113000 +0500" stop="20260420123000 +0500">
+    <title>Meet the Press</title>
+    <sub-title />
+    <desc>Interviews with public figures and those making news, setting the political agenda and spotlighting the impact Washington decision-making has on Americans.</desc>
+    <episode-num system="onscreen">S79 E13</episode-num>
+    <credits>
+      <actor>Kristen Welker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Politics</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184068_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420123000 +0500" stop="20260420130000 +0500">
+    <title>Early Today</title>
+    <sub-title />
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>Early Today</title>
+    <sub-title />
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>Today in New York</title>
+    <sub-title />
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2000</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420140000 +0500" stop="20260420150000 +0500">
+    <title>Today in New York</title>
+    <sub-title />
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2000</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420150000 +0500" stop="20260420160000 +0500">
+    <title>Today in New York @ 6AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2023</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420160000 +0500" stop="20260420180000 +0500">
     <title>Today</title>
     <sub-title />
-    <desc>News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.</desc>
-    <episode-num system="onscreen">S74 E176</episode-num>
+    <desc>Actress Taraji P. Henson; National Infertility Awareness Week with Dr. Rekha; shopping expert Chassie Post.</desc>
+    <episode-num system="onscreen">S74 E177</episode-num>
     <credits>
       <actor>Savannah Guthrie</actor>
       <actor>Craig Melvin</actor>
@@ -928,151 +655,464 @@
     </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
       <value>A</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418173000 +0500" stop="20260418180000 +0500">
-    <title>Saturday Today in New York</title>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Today 3rd Hour</title>
     <sub-title />
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2007</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418180000 +0500" stop="20260418183000 +0500">
-    <title>Saturday Today in New York</title>
-    <sub-title />
-    <desc>The local news, weather and investigative stories impacting your community.</desc>
-    <date>2007</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p893330_b_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418183000 +0500" stop="20260418190000 +0500">
-    <title>George to the Rescue</title>
-    <sub-title />
-    <desc>George Oliphant comes to the rescue of families in need of renovating their homes.</desc>
+    <desc>Nutritionist Valerie Agyeman; actress Jane Fonda; style expert Melissa Garcia; road trip ideas with Jacqui Gifford.</desc>
+    <episode-num system="onscreen">S8 E150</episode-num>
     <credits>
-      <actor>George Oliphant</actor>
-    </credits><date>2010</date>
-    <category lang="en">House/garden</category>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
+      <actor>Dylan Dreyer</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29553512_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Today With Jenna &amp; Sheinelle</title>
+    <sub-title />
+    <desc>Actress Taraji P. Henson; actor Christopher Briney; TV host Ty Pennington; beauty expert Erica Taylor.</desc>
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <credits>
+      <actor>Jenna Bush-Hager</actor>
+      <actor>Sheinelle Jones</actor>
+      <actor>Taraji P. Henson</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420200000 +0500" stop="20260420203000 +0500">
+    <title>Live: News 4 NY at 11AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420203000 +0500" stop="20260420210000 +0500">
+    <title>New York Live</title>
+    <sub-title />
+    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>NBC News Daily</title>
+    <sub-title />
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <episode-num system="onscreen">E67</episode-num>
+    <credits>
+      <actor>Vicky Nguyen</actor>
+      <actor>Morgan Radford</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Dateline</title>
+    <sub-title>The Ultimatum</sub-title>
+    <desc>A mother's death initially appears to be a suicide, but when investigators start to interview those closest to her, an evil plot emerges.</desc>
+    <episode-num system="onscreen">S4 E23</episode-num>
+    <credits>
+      <actor>Natalie Morales</actor>
+      <actor>Craig Melvin</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Access Daily With Mario &amp; Kit</title>
+    <sub-title />
+    <desc>Actress Skye P. Marshall (CBS' "Matlock"); author Hannah Brown talks about her latest book, "Reasons to Be Loved by You"; singer/songwriter Elijah Blake talks about his "The Gemini" album; Dr. Heather Hirsch chats about her new "The Perimenopause Survival Guide" book; TV and film snack pairings!</desc>
+    <episode-num system="onscreen">S16 E129</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418190000 +0500" stop="20260418193000 +0500">
-    <title>Mutual of Omaha's Wild Kingdom Protecting the Wild</title>
-    <sub-title>Whale Watch</sub-title>
-    <desc>In the Puget Sound, Peter and Dr. Rae witness the urgent struggle of resident orcas facing a critical threat to survival; the journey continues to a remote lagoon in Mexico's coastal desert, where gray whales have staged an extraordinary comeback.</desc>
-    <episode-num system="onscreen">S3 E16</episode-num>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421000000 +0500" stop="20260421010000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Kellyoke: "In My Head"; Jaafar Jackson and Juliano Valdi; Charithra Chandran; Girls in the Game; "Elvis, 'Rocky' &amp; Me: The Carol Connors Story"; Chad King performs.</desc>
+    <episode-num system="onscreen">S7 E118</episode-num>
     <credits>
-      <actor>Peter Gros</actor>
-      <actor>Rae Wynn-Grant</actor>
+      <actor>Kelly Clarkson</actor>
+      <actor>Jaafar Jackson</actor>
+      <actor>Juliano Valdi</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Animals</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Science</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
       <value>G</value>
     </rating><rating system="Canadian Parental Rating">
       <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
     </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418193000 +0500" stop="20260418200000 +0500">
-    <title>Earth Odyssey With Dylan Dreyer</title>
-    <sub-title>Cold-Blooded Creatures</sub-title>
-    <desc>Dylan Dreyer meets remarkable reptiles and amphibians, like enormous green sea turtles, tiny dancing frogs and a bright blue lizard.</desc>
-    <episode-num system="onscreen">S8 E17</episode-num>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421010000 +0500" stop="20260421013000 +0500">
+    <title>News 4 NY at 4</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
     <credits>
+      <actor>Stefan Holt</actor>
+      <actor>Natalie Pasquarella</actor>
+      <actor>Dave Price</actor>
+    </credits><date>2016</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12736826_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421013000 +0500" stop="20260421020000 +0500">
+    <title>News 4 NY at 4:30</title>
+    <sub-title />
+    <desc>NY news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14883147_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421020000 +0500" stop="20260421023000 +0500">
+    <title>News 4 NY at 5</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8846204_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421023000 +0500" stop="20260421030000 +0500">
+    <title>News 4 NY at 5:30</title>
+    <sub-title />
+    <desc>NY news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14883149_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421030000 +0500" stop="20260421033000 +0500">
+    <title>News 4 NY at 6</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8846208_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421033000 +0500" stop="20260421040000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E102</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421040000 +0500" stop="20260421043000 +0500">
+    <title>News 4 NY at 7</title>
+    <sub-title />
+    <desc>Stay informed with the breaking news and headlines.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18101773_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421043000 +0500" stop="20260421050000 +0500">
+    <title>Access Hollywood</title>
+    <sub-title />
+    <desc>People's "World's Most Beautiful" issue; Coachella Festival weekend 2 highlights, surprises and fashions; Eddie Murphy's life achievement honor; the making of the new biopic "Michael.".</desc>
+    <episode-num system="onscreen">S30 E154</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421050000 +0500" stop="20260421073000 +0500">
+    <title>Live: NBA Basketball</title>
+    <sub-title />
+    <desc>Eastern Conference First Round, Game 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032KGVW.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421073000 +0500" stop="20260421100000 +0500">
+    <title>Live: NBA Basketball</title>
+    <sub-title />
+    <desc>Western Conference First Round, Game 2.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Basketball</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032KGT1.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421100000 +0500" stop="20260421103500 +0500">
+    <title>Live: News 4 NY at 11</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513206_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421103500 +0500" stop="20260421113700 +0500">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title>Quinta Brunson; Darren Criss; Taylor Dearden; Thundercat</sub-title>
+    <desc>Actress Quinta Brunson; actor Darren Criss; actress Taylor Dearden; Thundercat performs.</desc>
+    <episode-num system="onscreen">S13 E91</episode-num>
+    <credits>
+      <actor>Jimmy Fallon</actor>
+      <actor>Quinta Brunson</actor>
+      <actor>Darren Criss</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31242381_b_h8_ac.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421113700 +0500" stop="20260421123800 +0500">
+    <title>Late Night With Seth Meyers</title>
+    <sub-title>Henry Winkler; Lea Michele; Aaron Tveit; Nicholas Christopher</sub-title>
+    <desc>Actor Henry Winkler; actors Lea Michele, Aaron Tveit and Nicholas Christopher.</desc>
+    <episode-num system="onscreen">S13 E86</episode-num>
+    <credits>
+      <actor>Seth Meyers</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Lea Michele</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Political News Satire &amp; Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421123800 +0500" stop="20260421130500 +0500">
+    <title>Early Today</title>
+    <sub-title />
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421130500 +0500" stop="20260421133000 +0500">
+    <title>Early Today</title>
+    <sub-title />
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421133000 +0500" stop="20260421140000 +0500">
+    <title>Today in New York</title>
+    <sub-title />
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2000</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421140000 +0500" stop="20260421150000 +0500">
+    <title>Today in New York</title>
+    <sub-title />
+    <desc>The local news, weather and investigative stories impacting your community.</desc>
+    <date>2000</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p960598_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421150000 +0500" stop="20260421160000 +0500">
+    <title>Today in New York @ 6AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2023</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p24315242_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421160000 +0500" stop="20260421180000 +0500">
+    <title>Today</title>
+    <sub-title />
+    <desc>Actresses Kate Hudson and Brenda Song ("Running Point"); singer-songwriter John Legend; author Dr. Deborah Kenny; Today Food with Eric Ripert.</desc>
+    <episode-num system="onscreen">S74 E178</episode-num>
+    <credits>
+      <actor>Savannah Guthrie</actor>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme><programme channel="NBC4-WNBC-US" start="20260421180000 +0500" stop="20260421190000 +0500">
+    <title>Today 3rd Hour</title>
+    <sub-title />
+    <desc>What to do with one's tax refund with Christine Romans; author Scott Galloway; actors Kate Hudson, Drew Tarver and Scott MacArthur ("Running Point"); actor Steve Schirripa; Today Food with Melissa Ben-Ishay.</desc>
+    <episode-num system="onscreen">S8 E151</episode-num>
+    <credits>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
       <actor>Dylan Dreyer</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Educational</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16357440_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418200000 +0500" stop="20260418203000 +0500">
-    <title>Wild Child</title>
-    <sub-title>Best Babies of Spring</sub-title>
-    <desc>Sheinelle Jones meets the new babies of spring, including adorable foals, bear cubs and coyote pups.</desc>
-    <episode-num system="onscreen">S6 E17</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421190000 +0500" stop="20260421200000 +0500">
+    <title>Today With Jenna &amp; Sheinelle</title>
+    <sub-title />
+    <desc>Fashion designer Victoria Beckham; singer-songwriter John Legend; author Dr. Deborah Kenny.</desc>
+    <episode-num system="onscreen">S1 E71</episode-num>
     <credits>
+      <actor>Jenna Bush-Hager</actor>
       <actor>Sheinelle Jones</actor>
+      <actor>Victoria Beckham</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Animals</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421200000 +0500" stop="20260421203000 +0500">
+    <title>Live: News 4 NY at 11AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting your community.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10513203_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421203000 +0500" stop="20260421210000 +0500">
+    <title>New York Live</title>
+    <sub-title />
+    <desc>Celebrity interviews and discussing recipes, beauty, fashion and current events pertinent to the tri-state region.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8692580_b_h8_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421210000 +0500" stop="20260421220000 +0500">
+    <title>NBC News Daily</title>
+    <sub-title />
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <episode-num system="onscreen">E68</episode-num>
+    <credits>
+      <actor>Vicky Nguyen</actor>
+      <actor>Morgan Radford</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421220000 +0500" stop="20260421230000 +0500">
+    <title>Dateline</title>
+    <sub-title>Stone-Cold</sub-title>
+    <desc>When a hard-charging boss in Arizona is shot to death, police uncover a complex web of bruised egos in his professional life and a trail of broken hearts in his personal life.</desc>
+    <episode-num system="onscreen">S4 E24</episode-num>
+    <credits>
+      <actor>Natalie Morales</actor>
+      <actor>Craig Melvin</actor>
+    </credits><date>2020</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
     <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p19191402_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418203000 +0500" stop="20260418210000 +0500">
-    <title>Forever Young With Dr. Pablo Prichard</title>
-    <sub-title>Hormones, Then and Now</sub-title>
-    <desc>Dr. Pablo, Danielle and Dr. Tania Elliott break down what's really happening inside the body, connecting the dots between teenage hormonal surges and adult stress while also revealing what can be done today to control hormone disruptions.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p13159645_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-WNBC-US" start="20260421230000 +0500" stop="20260422000000 +0500">
+    <title>Access Daily With Mario &amp; Kit</title>
+    <sub-title />
+    <desc>Actress Jennie Garth discusses her "I Choose Me" summit; Grammy-winning artist Ziggy Marley chats about his new "Brightside" album; comedians Chris Estrada and Frankie Quinones; artist Mayte talks about her Live 4 Love Charities; movie suggestions with Fandango correspondent Nikki Novak; MorningSave shoppable finds!</desc>
+    <episode-num system="onscreen">S16 E130</episode-num>
     <credits>
-      <actor>Danielle Robb</actor>
-      <actor>Pablo Prichard</actor>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
     </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Health</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30941009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="NBC4-WNBC-US" start="20260418210000 +0500" stop="20260418213000 +0500">
-    <title>9/11 Survivors Speak Up</title>
-    <sub-title />
-    <desc>Hear from survivors, first responders and advocates about the devastating impact of 9/11 toxins and the lifetime benefits available; learning about your rights and protection under the law.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20538847_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418213000 +0500" stop="20260418233000 +0500">
-    <title>Live: Premier League Soccer</title>
-    <sub-title />
-    <desc>Tottenham (7-9-16) hosts Brighton (12-10-10) at Tottenham Hotspur Stadium. It is a crucial match as the season ends. Tottenham is in 18th, two points above the relegation zone, while Brighton is sitting in 9th and pushing for a top-half finish.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032HMDD.jpg?w=960&amp;h=540" />
-  </programme><programme channel="NBC4-WNBC-US" start="20260418233000 +0500" stop="20260419000000 +0500">
-    <title>Live: Premier League Goal Zone</title>
-    <sub-title />
-    <desc>The best moments from the weekend in Premier League action.</desc>
-    <date>2013</date>
-    <category lang="en">Sports talk</category>
-    <category lang="en">Soccer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
 </tv>

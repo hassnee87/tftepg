@@ -3,11 +3,11 @@
   <channel id="HLN-US">
     <display-name>HLN</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/HLN-US.png" />
-  </channel><programme channel="HLN-US" start="20260417000000 +0500" stop="20260417003000 +0500">
+  </channel><programme channel="HLN-US" start="20260419000000 +0500" stop="20260419003000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Freedom Fighter</sub-title>
-    <desc>A convicted arsonist claims his innocence and with no lawyer, no money and only a fifth-grade education, sets out to prove it.</desc>
-    <episode-num system="onscreen">S12 E25</episode-num>
+    <sub-title>House Hunting</sub-title>
+    <desc>Eyewitness to real estate agent's murder is put under forensic hypnosis in an attempt to help him recall the killer's face.</desc>
+    <episode-num system="onscreen">S13 E2</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
     </credits><date>2008</date>
@@ -26,7 +26,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -34,13 +34,13 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>PG</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417003000 +0500" stop="20260417010000 +0500">
+  </programme><programme channel="HLN-US" start="20260419003000 +0500" stop="20260419010000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Dog Day Afternoon</sub-title>
-    <desc>A canine behaviorist uses the family dogs, who are the only witnesses, to find the murderer of their owner.</desc>
-    <episode-num system="onscreen">S12 E18</episode-num>
+    <sub-title>Shoot to Thrill</sub-title>
+    <desc>Police launch a search for a killer after a teenager returns home to find his father's body in a pool of blood.</desc>
+    <episode-num system="onscreen">S13 E3</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
     </credits><date>2008</date>
@@ -59,7 +59,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -67,537 +67,9 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>15</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417010000 +0500" stop="20260417013000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Shopping Spree</sub-title>
-    <desc>Forensic science and deductive reasoning determine what happened to a mother and daughter while they were on a shopping spree.</desc>
-    <episode-num system="onscreen">S6 E30</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2001</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417013000 +0500" stop="20260417020000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>The Cheater</sub-title>
-    <desc>Exploring how an American hit single from 1966 -- "The Cheater" by Bob Kuban and the In-Men -- foreshadowed the demise of the group's lead singer, Walter Scott.</desc>
-    <episode-num system="onscreen">S7 E13</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417020000 +0500" stop="20260417023000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Forever Hold Your Peace</sub-title>
-    <desc>Eight years after a man confessed to the murder of a young woman, another man claims that he committed the crime, and investigators must use forensic evidence to determine the true killer.</desc>
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417023000 +0500" stop="20260417030000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Reel Danger</sub-title>
-    <desc>Although a group of teenage thugs are suspected of attacking two boys on a fishing trip, there is no solid evidence until a murky fishing hole provides some answers.</desc>
-    <episode-num system="onscreen">S7 E2</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417030000 +0500" stop="20260417033000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Who's Your Daddy</sub-title>
-    <desc>When young prostitute's body turns up in an Ohio waterway, authorities have one tiny clue which could point to her killer, but face huge challenges due to her policemen clients and DNA evidence being washed away.</desc>
-    <episode-num system="onscreen">S7 E15</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417033000 +0500" stop="20260417040000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>The Alibi</sub-title>
-    <desc>In a small South Carolina town in 1991, 17-year-old Crystal Faye Todd, a popular high school student, is raped, murdered and dumped in a deserted field; with few leads, authorities test the DNA of several friends, and one match shocks everyone.</desc>
-    <episode-num system="onscreen">S7 E3</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417040000 +0500" stop="20260417043000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Purr-fect Match</sub-title>
-    <desc>In a groundbreaking case using animal DNA, investigators use forensic testing on a cat to help them solve the case of a woman who vanished from her home on Prince Edward Island.</desc>
-    <episode-num system="onscreen">S7 E5</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417043000 +0500" stop="20260417050000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Bio-Attack</sub-title>
-    <desc>A look into the 1984 Oregon food poisonings, where detectives track down the outbreak to a cult which aims to use germ warfare to take down the government.</desc>
-    <episode-num system="onscreen">S7 E16</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417050000 +0500" stop="20260417053000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Shot in the Dark</sub-title>
-    <desc>A woman is found dead from a gunshot wound and police suspect her husband, however, forensic teams prove what really happened, and the truth is stranger than fiction.</desc>
-    <episode-num system="onscreen">S7 E17</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417053000 +0500" stop="20260417060000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Without a Prayer</sub-title>
-    <desc>After American Atheists founder Madalyn Murray O'Hair disappears, the discovery of a mutilated body helps police catch the culprit.</desc>
-    <episode-num system="onscreen">S7 E20</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417060000 +0500" stop="20260417063000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Clutch of Witnesses</sub-title>
-    <desc>Two people witness a truck driving over an unconscious man and flee into a nearby bar, but when the police turn up, the truck, the man and the witnesses are gone.</desc>
-    <episode-num system="onscreen">S7 E21</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417063000 +0500" stop="20260417070000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Scout's Honor</sub-title>
-    <desc>Insect evidence helps to solve the mystery of a woman found dead near a river bank.</desc>
-    <episode-num system="onscreen">S7 E28</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417070000 +0500" stop="20260417073000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Touching Recollection</sub-title>
-    <desc>A girl who is abducted and then released soon afterward uses her knowledge of forensics to lead police to the kidnapper.</desc>
-    <episode-num system="onscreen">S7 E29</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417073000 +0500" stop="20260417080000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Leg to Stand On</sub-title>
-    <desc>A trash collector finds a severed human leg in a trash bin, but police cannot use conventional methods of victim identification; investigators turn to toxicology and DNA tests to find the murder-mutilator.</desc>
-    <episode-num system="onscreen">S7 E22</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417080000 +0500" stop="20260417083000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Vow of Silence</sub-title>
-    <desc>The disappearance of a mail-order bride proves suspicious when detectives learn that two of the Texas husband's previous wives had died in mysterious circumstances.</desc>
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417083000 +0500" stop="20260417090000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Elephant Tracks</sub-title>
-    <desc>A jeweler's search through old sales records helps police find likely suspects in the murder of elderly couple Edward Kowalzck and Gertrude Thompson.</desc>
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417090000 +0500" stop="20260417093000 +0500">
+  </programme><programme channel="HLN-US" start="20260419010000 +0500" stop="20260419013000 +0500">
     <title>Forensic Files</title>
     <sub-title>A Bag of Evidence</sub-title>
     <desc>A garbage bag leads police to a child's killer.</desc>
@@ -630,7 +102,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417093000 +0500" stop="20260417100000 +0500">
+  </programme><programme channel="HLN-US" start="20260419013000 +0500" stop="20260419020000 +0500">
     <title>Forensic Files</title>
     <sub-title>Tooth or Consequences</sub-title>
     <desc>An investigation into the disappearance of a young woman uncovers a tooth that helps police solve a crime without a body.</desc>
@@ -663,7 +135,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417100000 +0500" stop="20260417103000 +0500">
+  </programme><programme channel="HLN-US" start="20260419020000 +0500" stop="20260419023000 +0500">
     <title>Forensic Files</title>
     <sub-title>The Sniffing Revenge</sub-title>
     <desc>The sensitive nose of a forensic examiner sniffs out murder.</desc>
@@ -696,7 +168,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417103000 +0500" stop="20260417110000 +0500">
+  </programme><programme channel="HLN-US" start="20260419023000 +0500" stop="20260419030000 +0500">
     <title>Forensic Files</title>
     <sub-title>Sleight of Hand</sub-title>
     <desc>Discovering that an assault suspect is left-handed is crucial to a police investigation dating back 16 years.</desc>
@@ -729,7 +201,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417110000 +0500" stop="20260417113000 +0500">
+  </programme><programme channel="HLN-US" start="20260419030000 +0500" stop="20260419033000 +0500">
     <title>Forensic Files</title>
     <sub-title>Scratching the Surface</sub-title>
     <desc>Forensic scientists try to find a way to "lift" the serial number from a shotgun that's their only clue in a case.</desc>
@@ -762,7 +234,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417113000 +0500" stop="20260417120000 +0500">
+  </programme><programme channel="HLN-US" start="20260419033000 +0500" stop="20260419040000 +0500">
     <title>Forensic Files</title>
     <sub-title>Fire Proof</sub-title>
     <desc>Investigating the worst arson spree in U.S. history -- a rash of more than 75 fires near Seattle.</desc>
@@ -795,7 +267,7 @@
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417120000 +0500" stop="20260417123000 +0500">
+  </programme><programme channel="HLN-US" start="20260419040000 +0500" stop="20260419043000 +0500">
     <title>Forensic Files</title>
     <sub-title>X Marks the Spot</sub-title>
     <desc>Computers aid the police and FBI in solving a string of crimes.</desc>
@@ -828,7 +300,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417123000 +0500" stop="20260417130000 +0500">
+  </programme><programme channel="HLN-US" start="20260419043000 +0500" stop="20260419050000 +0500">
     <title>Forensic Files</title>
     <sub-title>All Charged Up</sub-title>
     <desc>Using an anonymous letter and geographical profiling, investigators close in on a serial rapist, and a cleverly obtained DNA sample confirms their suspicions.</desc>
@@ -861,7 +333,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417130000 +0500" stop="20260417133000 +0500">
+  </programme><programme channel="HLN-US" start="20260419050000 +0500" stop="20260419053000 +0500">
     <title>Forensic Files</title>
     <sub-title>Breaking the Mold</sub-title>
     <desc>When a young boy has serious respiratory problems and his father shows signs of early Alzheimer's disease, a chance encounter with a stranger kicks off an investigation into the cause.</desc>
@@ -894,7 +366,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417133000 +0500" stop="20260417140000 +0500">
+  </programme><programme channel="HLN-US" start="20260419053000 +0500" stop="20260419060000 +0500">
     <title>Forensic Files</title>
     <sub-title>House Call</sub-title>
     <desc>Police in St. Petersburg, Fla., use cell phone mapping, wiretapping and a host of forensic evidence to find a surgeon's killer.</desc>
@@ -927,7 +399,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417140000 +0500" stop="20260417143000 +0500">
+  </programme><programme channel="HLN-US" start="20260419060000 +0500" stop="20260419063000 +0500">
     <title>Forensic Files</title>
     <sub-title>Plastic Fire</sub-title>
     <desc>A woman wins her release after being imprisoned for allegedly killing her mother in a car fire.</desc>
@@ -960,7 +432,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417143000 +0500" stop="20260417150000 +0500">
+  </programme><programme channel="HLN-US" start="20260419063000 +0500" stop="20260419070000 +0500">
     <title>Forensic Files</title>
     <sub-title>Last Will</sub-title>
     <desc>Authorities are able to apprehend a kidnapper because he allowed his victim to write a will on a telltale pad of paper.</desc>
@@ -993,828 +465,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260417150000 +0500" stop="20260417153000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Good as Gold</sub-title>
-    <desc>Tests reveal the race, eye color and hair color of the person responsible for killing two young women on Halloween night.</desc>
-    <episode-num system="onscreen">S12 E15</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417153000 +0500" stop="20260417160000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Freedom Fighter</sub-title>
-    <desc>A convicted arsonist claims his innocence and with no lawyer, no money and only a fifth-grade education, sets out to prove it.</desc>
-    <episode-num system="onscreen">S12 E25</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>CNN News Central (HLN)</title>
-    <sub-title />
-    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
-    <credits>
-      <actor>John Berman</actor>
-      <actor>Kate Bolduan</actor>
-      <actor>Sara Sidner</actor>
-    </credits><date>2024</date>
-    <category lang="en">News</category>
-    <category lang="en">Politics</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HLN-US" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>CNN News Central (HLN)</title>
-    <sub-title />
-    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
-    <credits>
-      <actor>John Berman</actor>
-      <actor>Kate Bolduan</actor>
-      <actor>Sara Sidner</actor>
-    </credits><date>2024</date>
-    <category lang="en">News</category>
-    <category lang="en">Politics</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HLN-US" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>CNN News Central (HLN)</title>
-    <sub-title />
-    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
-    <credits>
-      <actor>John Berman</actor>
-      <actor>Kate Bolduan</actor>
-      <actor>Sara Sidner</actor>
-    </credits><date>2024</date>
-    <category lang="en">News</category>
-    <category lang="en">Politics</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HLN-US" start="20260417190000 +0500" stop="20260417193000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Sole Mate</sub-title>
-    <desc>When a beautiful college student is stabbed to death in her Knoxville apartment, suspicion immediately falls on her roommate; a bloody shoe print left by the killer exposes a murderer with no history of violence and no reason to kill.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417193000 +0500" stop="20260417200000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Marked for Murder</sub-title>
-    <desc>Numerous suspects emerge after someone starts targeting law enforcement officers in a peaceful Texas county.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417200000 +0500" stop="20260417203000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Words Matter</sub-title>
-    <desc>An Illinois mother and her two young children are brutally murdered in their beds, and lurid threats are spray painted all over the walls of the crime scene.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417203000 +0500" stop="20260417210000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Last Dance</sub-title>
-    <desc>A young Texas teenager and her boyfriend are brutally attacked on Valentine's Day; she is found dead while her boyfriend escapes; the case goes cold for nearly 50 years before a new forensic test exposes a family man with a dark secret.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417210000 +0500" stop="20260417213000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Dog Proof</sub-title>
-    <desc>Three Indiana construction workers are found shot on a work site.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417213000 +0500" stop="20260417220000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Mix Matched</sub-title>
-    <desc>A Texan who vows to live a reformed life after being released from prison is subsequently convicted of murder, despite insisting his innocence, so he uses forensic science from behind bars to try to prove his case.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417220000 +0500" stop="20260417223000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Matter of Time</sub-title>
-    <desc>An extremely successful California career woman keeps falling ill and doctors can't determine why, then after she dies they still have no explanation until they find a key figure in her life has been lying about his past.</desc>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417223000 +0500" stop="20260417230000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Blanket Denial</sub-title>
-    <desc>The body of a 24-year-old criminology student is found wrapped in a blanket alongside a desolate road in Brooklyn, N.Y.; police discover that the bouncer at a bar is her killer.</desc>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417230000 +0500" stop="20260417233000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Unraveled</sub-title>
-    <desc>When a 79-year-old woman is found shot to death in her home, investigators initially suspect her husband or a violent neighbor; shell casings recovered at the scene and a high-tech database reveal an unlikely killer.</desc>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260417233000 +0500" stop="20260418000000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>First Impressions?</sub-title>
-    <desc>A young single mother is abducted from a gas station and is later found stabbed to death near an oil field; the detectives use shoe and tire impressions to weed out numerous suspects.</desc>
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418000000 +0500" stop="20260418003000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Toxic Environment</sub-title>
-    <desc>When a 23-year-old Marine dies in his bedroom, doctors initially believe a heart attack is to blame; when arsenic is found in his organs, his wife is charged with murder; a sharp attorney and toxicological testing uncover the truth.</desc>
-    <episode-num system="onscreen">S3 E12</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418003000 +0500" stop="20260418010000 +0500">
-    <title>Forensic Files II</title>
-    <sub-title>Lost Connection</sub-title>
-    <desc>When an 18-year-old girl is abducted while talking on a pay phone, forensic evidence found on her clothing points police in the direction of a suspect who shockingly confesses that he didn't act alone.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17847753_b_h8_an.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418010000 +0500" stop="20260418013000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Partners in Crime</sub-title>
-    <desc>A coroner finds telltale clues on the badly burned body of a murder victim, sending police in pursuit of a couple of killers.</desc>
-    <episode-num system="onscreen">S7 E23</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418013000 +0500" stop="20260418020000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Within a Hair</sub-title>
-    <desc>A man is arrested and convicted for a series of sexual assaults in Indiana; years later, forensic developments reveal new facts about the case.</desc>
-    <episode-num system="onscreen">S7 E9</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418020000 +0500" stop="20260418023000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Chief Evidence</sub-title>
-    <desc>The murder of a young Seattle couple puzzles investigators until the victims' dog, Chief, leads police to the killer.</desc>
-    <episode-num system="onscreen">S7 E7</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418023000 +0500" stop="20260418030000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Bitter Pill to Swallow</sub-title>
-    <desc>A handsome young doctor's fiancée experiences severe illness after revealing that she is pregnant, and launches her own investigation to determine if the doctor is somehow responsible.</desc>
-    <episode-num system="onscreen">S7 E10</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418030000 +0500" stop="20260418033000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Sip of Sins</sub-title>
-    <desc>A seemingly model citizen turns out to be a serial killer.</desc>
-    <episode-num system="onscreen">S7 E24</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418033000 +0500" stop="20260418040000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Telltale Tracks</sub-title>
-    <desc>An abandoned, still-running car leads investigators to a body with unusual marks and a DNA trail that lead to the killer.</desc>
-    <episode-num system="onscreen">S7 E8</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418040000 +0500" stop="20260418043000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Ghost in the Machine</sub-title>
-    <desc>Police find fragments of deleted computer files leading them to suspect a woman's suicide is really murder.</desc>
-    <episode-num system="onscreen">S7 E25</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418043000 +0500" stop="20260418050000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Frozen in Time</sub-title>
-    <desc>A suspicious neighbor gives police a break in a cold case.</desc>
-    <episode-num system="onscreen">S7 E26</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418050000 +0500" stop="20260418053000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Cold Storage</sub-title>
-    <desc>A family suspects their teenage daughter's new friends were involved in her disappearance.</desc>
-    <episode-num system="onscreen">S7 E27</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418053000 +0500" stop="20260418060000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>The Metal Business</sub-title>
-    <desc>When a 62-year-old man opens a car restoration business and becomes seriously ill, his doctors cannot find the cause, but forensics can; identification of a highly toxic metal in the victim's blood leads to his poisoner.</desc>
-    <episode-num system="onscreen">S7 E11</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418060000 +0500" stop="20260418063000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Dressed to Kill</sub-title>
-    <desc>When a 6-year-old disappears, her father becomes the prime suspect; he fails a polygraph test and even confesses, but 10 years later, the investigation gets turned on its head.</desc>
-    <episode-num system="onscreen">S7 E30</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418063000 +0500" stop="20260418070000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Palm Print Conviction</sub-title>
-    <desc>Investigators build a makeshift tent around a woman's body and use superglue fumes to lift the killer's palm print from the victim's skin.</desc>
-    <episode-num system="onscreen">S7 E6</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418070000 +0500" stop="20260418073000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>A Vow of Silence</sub-title>
-    <desc>The disappearance of a mail-order bride proves suspicious when detectives learn that two of the Texas husband's previous wives had died in mysterious circumstances.</desc>
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418073000 +0500" stop="20260418080000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Elephant Tracks</sub-title>
-    <desc>A jeweler's search through old sales records helps police find likely suspects in the murder of elderly couple Edward Kowalzck and Gertrude Thompson.</desc>
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2002</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418080000 +0500" stop="20260418083000 +0500">
+  </programme><programme channel="HLN-US" start="20260419070000 +0500" stop="20260419073000 +0500">
     <title>Forensic Files</title>
     <sub-title>Dessert Served Cold</sub-title>
     <desc>Experts debate whether an apparent heart attack victim died from natural causes or alleged poisoning by his girlfriend.</desc>
@@ -1847,7 +498,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418083000 +0500" stop="20260418090000 +0500">
+  </programme><programme channel="HLN-US" start="20260419073000 +0500" stop="20260419080000 +0500">
     <title>Forensic Files</title>
     <sub-title>The Music Case</sub-title>
     <desc>When a 12-year-old was found dead in her home, police were left clueless until a string of burglaries months later. A trail of stolen goods may help solve a murder.</desc>
@@ -1880,7 +531,969 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418090000 +0500" stop="20260418093000 +0500">
+  </programme><programme channel="HLN-US" start="20260419080000 +0500" stop="20260419083000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Within Arm's Reach</sub-title>
+    <desc>A police officer claims his estranged wife's shooting death was a suicide, but investigators think it was a murder.</desc>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419083000 +0500" stop="20260419090000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Private Thoughts</sub-title>
+    <desc>When firefighters find a family dead inside their home, it appears to be a murder-suicide; clues at the scene lead investigators to believe otherwise.</desc>
+    <episode-num system="onscreen">S8 E5</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419090000 +0500" stop="20260419093000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Brotherhoods</sub-title>
+    <desc>A couple's murder leads investigators into the world of white supremacists and a string of hate crimes.</desc>
+    <episode-num system="onscreen">S8 E7</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419093000 +0500" stop="20260419100000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Hair of the Dog</sub-title>
+    <desc>A rare gun and a victim's beloved dog help investigators trying to solve a multi-year-long murder case where most of the witnesses were admitted drug users.</desc>
+    <episode-num system="onscreen">S8 E8</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419100000 +0500" stop="20260419103000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Breaking News</sub-title>
+    <desc>A search in Virginia's DNA databank reveals the identity of a news producer's murderer.</desc>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419103000 +0500" stop="20260419110000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>All the World's a Stage</sub-title>
+    <desc>A homicide detective claims his wife accidentally shot herself in the head, but the evidence indicates otherwise.</desc>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419110000 +0500" stop="20260419113000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>The Big Chill</sub-title>
+    <desc>Officials probe the death of a woman investigating the possible side effects of the drug she was prescribed for bipolar disorder.</desc>
+    <episode-num system="onscreen">S8 E11</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419113000 +0500" stop="20260419120000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Bound for Jail</sub-title>
+    <desc>A chip of stainless steel brings a killer to justice 20 years after a woman's body is found in a ravine.</desc>
+    <episode-num system="onscreen">S8 E12</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419120000 +0500" stop="20260419123000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Sphere of Influence</sub-title>
+    <desc>An 11-year-old girl is sexually assaulted and shot twice at close range.</desc>
+    <episode-num system="onscreen">S8 E13</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419123000 +0500" stop="20260419130000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Nailed</sub-title>
+    <desc>A woman is killed weeks before testifying against the man who sexually assaulted her.</desc>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419130000 +0500" stop="20260419133000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Sign of the Zodiac</sub-title>
+    <desc>New York police hunt the Zodiac killer after a series of deadly attacks.</desc>
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419133000 +0500" stop="20260419140000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Letter Perfect</sub-title>
+    <desc>When a healthy young man dies mysteriously in his sleep, toxicology tests reveal that it may have been foul play. Could a "suicide note" hold the key to solving the case?</desc>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419140000 +0500" stop="20260419143000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>True Lies</sub-title>
+    <desc>A child's memory, a diary and a forensic psychologist help investigators solve a young woman's murder.</desc>
+    <episode-num system="onscreen">S8 E17</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419143000 +0500" stop="20260419150000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Bed of Deceit</sub-title>
+    <desc>Investigators weigh several theories while probing the death of a retired police officer, including a botched robbery and suicide.</desc>
+    <episode-num system="onscreen">S8 E19</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>CNN This Morning</title>
+    <sub-title />
+    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
+    <episode-num system="onscreen">E641</episode-num>
+    <credits>
+      <actor>Poppy Harlow</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>CNN This Morning</title>
+    <sub-title />
+    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
+    <episode-num system="onscreen">E641</episode-num>
+    <credits>
+      <actor>Poppy Harlow</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Inside Politics With Manu Raju</title>
+    <sub-title />
+    <desc>Melanie Zanona; Catherine Lucey; Isaac Arnsdorf.</desc>
+    <episode-num system="onscreen">E10</episode-num>
+    <credits>
+      <actor>Manu Raju</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26060287_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260419180000 +0500" stop="20260419183000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Political Thriller</sub-title>
+    <desc>Pathologist examining the death of a politician who was running for re-election finds tiny puncture wounds at the autopsy.</desc>
+    <episode-num system="onscreen">S13 E4</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419183000 +0500" stop="20260419190000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Double Cross</sub-title>
+    <desc>A Naval officer who threatened to go public with tales of on-the-job sexual harassment and assault is brutally murdered, but when investigators find the allegations could be part of an elaborate scheme for money, they turn to forensic science.</desc>
+    <episode-num system="onscreen">S13 E5</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419190000 +0500" stop="20260419193000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Dancing With the Devil</sub-title>
+    <desc>A man is found stabbed to death after a night in a strip club; a drop of blood on a bedspread becomes critical evidence five years later.</desc>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419193000 +0500" stop="20260419200000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Last Dance</sub-title>
+    <desc>After police identify a murder victim thanks to her butterfly necklace, they discover several co-workers had vendettas against the victim.</desc>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419200000 +0500" stop="20260419203000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Constructive Criticism</sub-title>
+    <desc>The brutal murder of a construction site foreman looks like the work of a disgruntled employee, but forensic science points to an unlikely suspect.</desc>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419203000 +0500" stop="20260419210000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Home Evasion</sub-title>
+    <desc>A shooting victim mutters the name of her apparent assailant before dying, but fingerprint comparisons, handwriting analysis, ballistics and DNA testing show someone else close to home is the true killer.</desc>
+    <episode-num system="onscreen">S13 E9</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419210000 +0500" stop="20260419213000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Window Watcher</sub-title>
+    <desc>A woman's story seemed far-fetched; she tells investigators that a man broke into her home wearing only underwear and gloves, killed her boyfriend and raped and terrorized her.</desc>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419213000 +0500" stop="20260419220000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Stranger in the Night</sub-title>
+    <desc>After a Delaware man's mother is found dead, he tells a story that's so improbable police think it can't possibly be true.</desc>
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419220000 +0500" stop="20260419223000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Kidnapping</sub-title>
+    <desc>A family vacation turns into a terrifying search for a missing wife and baby, then becomes a manhunt for a killer who committed a horrific crime.</desc>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419223000 +0500" stop="20260419230000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Sands of Crime</sub-title>
+    <desc>A DNA dragnet catches a killer eight years after the kidnapping, rape and murder of a college coed in Oklahoma.</desc>
+    <episode-num system="onscreen">S13 E13</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419230000 +0500" stop="20260419233000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Calculated Coincidence</sub-title>
+    <desc>A nosy neighbor with a disturbing obsession becomes a suspect in a woman's murder at an upscale apartment complex; police discover an incredible link to an unrelated murder thousands of miles away.</desc>
+    <episode-num system="onscreen">S13 E15</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260419233000 +0500" stop="20260420000000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Sworded Scheme</sub-title>
+    <desc>A college student turns up dead and her boyfriend becomes a prime suspect when blood splatters are discovered on his wall.</desc>
+    <episode-num system="onscreen">S13 E14</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420000000 +0500" stop="20260420003000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Unmasked</sub-title>
+    <desc>Texas police hunt frantically for a brutal rapist. No one knows where he'll strike next, but given the increasingly violent nature of his crimes, he must be found soon.</desc>
+    <episode-num system="onscreen">S13 E16</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420003000 +0500" stop="20260420010000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Fashion Police</sub-title>
+    <desc>When detectives find a mismatched button in relation to a woman's death, they know they can follow the clue back to the killer.</desc>
+    <episode-num system="onscreen">S13 E17</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2009</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420010000 +0500" stop="20260420013000 +0500">
     <title>Forensic Files</title>
     <sub-title>Paintball</sub-title>
     <desc>When 15-year-old Marlene Miller was murdered, it would take 24 years and several retrials before forensic scientists discovered the evidence to bring her killer to justice.</desc>
@@ -1913,7 +1526,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418093000 +0500" stop="20260418100000 +0500">
+  </programme><programme channel="HLN-US" start="20260420013000 +0500" stop="20260420020000 +0500">
     <title>Forensic Files</title>
     <sub-title>Sign Here</sub-title>
     <desc>Detectives use a forged signature to find a woman's abductor.</desc>
@@ -1946,7 +1559,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418100000 +0500" stop="20260418103000 +0500">
+  </programme><programme channel="HLN-US" start="20260420020000 +0500" stop="20260420023000 +0500">
     <title>Forensic Files</title>
     <sub-title>Shadow of a Doubt</sub-title>
     <desc>A woman is killed two days before she was scheduled to testify against a man accused of assaulting her and the prime suspect has an alibi.</desc>
@@ -1979,7 +1592,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418103000 +0500" stop="20260418110000 +0500">
+  </programme><programme channel="HLN-US" start="20260420023000 +0500" stop="20260420030000 +0500">
     <title>Forensic Files</title>
     <sub-title>Tourist Trap</sub-title>
     <desc>A bite mark is all the evidence needed to convict a suspect who was robbing tourists in Florida.</desc>
@@ -2012,7 +1625,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418110000 +0500" stop="20260418113000 +0500">
+  </programme><programme channel="HLN-US" start="20260420030000 +0500" stop="20260420033000 +0500">
     <title>Forensic Files</title>
     <sub-title>Once Bitten</sub-title>
     <desc>Technology able to analyze human bite-marks yields information on a woman's death.</desc>
@@ -2045,7 +1658,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418113000 +0500" stop="20260418120000 +0500">
+  </programme><programme channel="HLN-US" start="20260420033000 +0500" stop="20260420040000 +0500">
     <title>Forensic Files</title>
     <sub-title>All Wet</sub-title>
     <desc>A death in Pennsylvania is strikingly similar to one in North Carolina.</desc>
@@ -2078,7 +1691,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418120000 +0500" stop="20260418123000 +0500">
+  </programme><programme channel="HLN-US" start="20260420040000 +0500" stop="20260420043000 +0500">
     <title>Forensic Files</title>
     <sub-title>Shot of Vengeance</sub-title>
     <desc>When a nurse starts experiencing a variety of flu-like symptoms, she discovers that she is HIV-positive; she learns that her infection was not accidental.</desc>
@@ -2111,7 +1724,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418123000 +0500" stop="20260418130000 +0500">
+  </programme><programme channel="HLN-US" start="20260420043000 +0500" stop="20260420050000 +0500">
     <title>Forensic Files</title>
     <sub-title>Dinner and a Movie</sub-title>
     <desc>Time of death becomes pivotal when a pregnant woman is found murdered in her air-conditioned bedroom.</desc>
@@ -2144,7 +1757,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418130000 +0500" stop="20260418133000 +0500">
+  </programme><programme channel="HLN-US" start="20260420050000 +0500" stop="20260420053000 +0500">
     <title>Forensic Files</title>
     <sub-title>A Wrong Foot</sub-title>
     <desc>An obscure print found at a crime scene.</desc>
@@ -2177,7 +1790,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418133000 +0500" stop="20260418140000 +0500">
+  </programme><programme channel="HLN-US" start="20260420053000 +0500" stop="20260420060000 +0500">
     <title>Forensic Files</title>
     <sub-title>Order Up</sub-title>
     <desc>A diner in a small town, an endocrinologist and a forensic botanist help destroy a prime suspect's alibi.</desc>
@@ -2210,7 +1823,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418140000 +0500" stop="20260418143000 +0500">
+  </programme><programme channel="HLN-US" start="20260420060000 +0500" stop="20260420063000 +0500">
     <title>Forensic Files</title>
     <sub-title>When the Dust Settled</sub-title>
     <desc>Neighbors do not hear the gunshots when a union official is killed in his home.</desc>
@@ -2243,7 +1856,7 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418143000 +0500" stop="20260418150000 +0500">
+  </programme><programme channel="HLN-US" start="20260420063000 +0500" stop="20260420070000 +0500">
     <title>Forensic Files</title>
     <sub-title>A Welcome Intrusion</sub-title>
     <desc>A man tells police he shot an intruder who murdered his wife; forensic evidence leads police to re-examine the man's motives.</desc>
@@ -2276,31 +1889,566 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>CNN This Morning</title>
-    <sub-title />
-    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
-    <episode-num system="onscreen">E641</episode-num>
+  </programme><programme channel="HLN-US" start="20260420070000 +0500" stop="20260420073000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Within Arm's Reach</sub-title>
+    <desc>A police officer claims his estranged wife's shooting death was a suicide, but investigators think it was a murder.</desc>
+    <episode-num system="onscreen">S8 E4</episode-num>
     <credits>
-      <actor>Poppy Harlow</actor>
-    </credits><date>2023</date>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
     <category lang="en">Series</category>
-    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HLN-US" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>CNN This Morning</title>
-    <sub-title />
-    <desc>Stories from across the world and refreshing conversations with Audie Cornish.</desc>
-    <episode-num system="onscreen">E641</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420073000 +0500" stop="20260420080000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Private Thoughts</sub-title>
+    <desc>When firefighters find a family dead inside their home, it appears to be a murder-suicide; clues at the scene lead investigators to believe otherwise.</desc>
+    <episode-num system="onscreen">S8 E5</episode-num>
     <credits>
-      <actor>Poppy Harlow</actor>
-    </credits><date>2023</date>
+      <actor>Peter Thomas</actor>
+    </credits><date>2003</date>
     <category lang="en">Series</category>
-    <category lang="en">News</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23245784_b_h8_ai.jpg?w=960&amp;h=540" />
-  </programme><programme channel="HLN-US" start="20260418170000 +0500" stop="20260418173000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420080000 +0500" stop="20260420083000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Smoke in Your Eyes</sub-title>
+    <desc>The bodies of two young women are found in the ashes of an apartment fire.</desc>
+    <episode-num system="onscreen">S8 E18</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420083000 +0500" stop="20260420090000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Flower Power</sub-title>
+    <desc>Two different men report the murder of a single mother and when the case's other anomalies stall the police, a candy wrapper and seeds help expose the killer.</desc>
+    <episode-num system="onscreen">S8 E20</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420090000 +0500" stop="20260420093000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Past Lives</sub-title>
+    <desc>After a Connecticut man's body is found in a burning rental car on a Mexican highway, an insurance company suspects a scam.</desc>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420093000 +0500" stop="20260420100000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Over and Out</sub-title>
+    <desc>When a pipe bomb rips through a rural home, killing a young man and seriously injuring his mother, detectives hope that the remnants of a mailing label will lead them to a killer.</desc>
+    <episode-num system="onscreen">S8 E22</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Death by a Salesman</sub-title>
+    <desc>A quiet residential community, shattered by the murder of a neighbor. See how modern techniques helped investigators catch the culprit in less than 12 hours.</desc>
+    <episode-num system="onscreen">S8 E23</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420103000 +0500" stop="20260420110000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Web of Seduction</sub-title>
+    <desc>A man is found dead in his Michigan auto-salvage shop.</desc>
+    <episode-num system="onscreen">S8 E24</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420110000 +0500" stop="20260420113000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Grounds for Indictment</sub-title>
+    <desc>A man is murdered in a drive-by shooting. When a mobile phone trace incriminates a killer, it's up to a forensic geologist to find evidence that he was at the scene.</desc>
+    <episode-num system="onscreen">S8 E25</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420113000 +0500" stop="20260420120000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Dueling Confessions</sub-title>
+    <desc>When a teenage girl is found dead, her boyfriend confesses to her murder. However, in a strange twist, so does another man; police must determine which is the killer.</desc>
+    <episode-num system="onscreen">S8 E26</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420120000 +0500" stop="20260420123000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Traces of Truth</sub-title>
+    <desc>A high school gym teacher gives his friend a ride home but never returns; his wife and friend receive letters saying he started a new life, but they suspect foul play despite no body being discovered.</desc>
+    <episode-num system="onscreen">S8 E27</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420123000 +0500" stop="20260420130000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Honor Thy Father</sub-title>
+    <desc>A 16-year-old girl is killed in her own home by her mother and father. Her parents said they acted in self-defense, but the forensic evidence indicates otherwise.</desc>
+    <episode-num system="onscreen">S8 E28</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420130000 +0500" stop="20260420133000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Hack Attack</sub-title>
+    <desc>Investigators determine if a computer crash which almost ruined a manufacturing company was accidental or deliberate sabotage.</desc>
+    <episode-num system="onscreen">S10 E14</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420133000 +0500" stop="20260420140000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Deadly Curve</sub-title>
+    <desc>Car with three Secret Service agents collides with local deputy's car; investigation launched into who was responsible for the deadly car accident finds two very different conclusions.</desc>
+    <episode-num system="onscreen">S9 E23</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Visibility Zero</sub-title>
+    <desc>The derailment of the Sunset Limited was the deadliest train crash in U.S. history killing 47 passengers and crew with several more injured.</desc>
+    <episode-num system="onscreen">S9 E29</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Flashover</sub-title>
+    <desc>Arson investigators attempt to determine the cause of the 1987 fire at the Kings Cross Underground Station in London.</desc>
+    <episode-num system="onscreen">S9 E31</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2004</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+    <title>Forensic Files</title>
+    <sub-title>Dog Day Afternoon</sub-title>
+    <desc>A canine behaviorist uses the family dogs, who are the only witnesses, to find the murderer of their owner.</desc>
+    <episode-num system="onscreen">S12 E18</episode-num>
+    <credits>
+      <actor>Peter Thomas</actor>
+    </credits><date>2008</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="HLN-US" start="20260420153000 +0500" stop="20260420160000 +0500">
     <title>Forensic Files</title>
     <sub-title>Shattered Innocence</sub-title>
     <desc>Investigators see through a killer trying to cover his tracks by staging the crime scene to learn what really happened.</desc>
@@ -2333,14 +2481,53 @@
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418173000 +0500" stop="20260418180000 +0500">
+  </programme><programme channel="HLN-US" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>CNN News Central (HLN)</title>
+    <sub-title />
+    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
+    <credits>
+      <actor>John Berman</actor>
+      <actor>Kate Bolduan</actor>
+      <actor>Sara Sidner</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260420170000 +0500" stop="20260420180000 +0500">
+    <title>CNN News Central (HLN)</title>
+    <sub-title />
+    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
+    <credits>
+      <actor>John Berman</actor>
+      <actor>Kate Bolduan</actor>
+      <actor>Sara Sidner</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>CNN News Central (HLN)</title>
+    <sub-title />
+    <desc>The anchors share the latest stories about significant events that take place across the world and interview prominent figures.</desc>
+    <credits>
+      <actor>John Berman</actor>
+      <actor>Kate Bolduan</actor>
+      <actor>Sara Sidner</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26792337_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="HLN-US" start="20260420190000 +0500" stop="20260420193000 +0500">
     <title>Forensic Files</title>
-    <sub-title>All Butt Certain</sub-title>
-    <desc>A young girl beaten after watching her grandmother killed, identifies the wrong person; years later she tries to change her statement.</desc>
-    <episode-num system="onscreen">S12 E20</episode-num>
+    <sub-title>Church Dis-service</sub-title>
+    <desc>A woman heads home after church, but never makes it there alive, triggering a homicide investigation.</desc>
+    <episode-num system="onscreen">S13 E18</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2356,7 +2543,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2364,16 +2551,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>PG</value>
+      <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418180000 +0500" stop="20260418183000 +0500">
+  </programme><programme channel="HLN-US" start="20260420193000 +0500" stop="20260420200000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Jean Pool</sub-title>
-    <desc>In 1984 police failed to convict the murderer of a college student; new technology may finally help the police to catch her killer.</desc>
-    <episode-num system="onscreen">S12 E21</episode-num>
+    <sub-title>Seedy Intentions</sub-title>
+    <desc>Volunteers and police spend weeks searching for a missing girl. A psychic later leads them to a field where the body was found.</desc>
+    <episode-num system="onscreen">S13 E19</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2389,7 +2576,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2397,45 +2584,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418183000 +0500" stop="20260418190000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Traffic Violations</sub-title>
-    <desc>Police investigate a young woman found murdered two weeks after reporting a road rage incident; evidence leads not to the aggressive driver, but one of their own.</desc>
-    <episode-num system="onscreen">S12 E22</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418190000 +0500" stop="20260418193000 +0500">
+  </programme><programme channel="HLN-US" start="20260420200000 +0500" stop="20260420203000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Brotherly Love</sub-title>
-    <desc>When a single mother is murdered, her brother vows to find the person responsible for the death of his sister, even if it takes more than 30 years.</desc>
-    <episode-num system="onscreen">S12 E23</episode-num>
+    <sub-title>DNA Dragnet</sub-title>
+    <desc>Forensic investigators try to stop a killer who is apparently responsible for two slayings in a community in South Carolina.</desc>
+    <episode-num system="onscreen">S13 E20</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2451,7 +2609,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2461,43 +2619,14 @@
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418193000 +0500" stop="20260418200000 +0500">
+  </programme><programme channel="HLN-US" start="20260420203000 +0500" stop="20260420210000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Disrobed</sub-title>
-    <desc>A husband and wife get shot, and their 16-year-old daughter manages to escape, but investigators suspect she may be involved in the murder.</desc>
-    <episode-num system="onscreen">S12 E24</episode-num>
+    <sub-title>Smiley Face</sub-title>
+    <desc>When DNA proves that a man who practically admits to a brutal attack is innocent, police wonder why he is willing to take the blame.</desc>
+    <episode-num system="onscreen">S13 E21</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418200000 +0500" stop="20260418203000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Driven to Silence</sub-title>
-    <desc>After 10 years, a witness decides to do the right thing about the rape and murder of a young hairdresser.</desc>
-    <episode-num system="onscreen">S12 E26</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2513,7 +2642,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2521,16 +2650,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>15</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418203000 +0500" stop="20260418210000 +0500">
+  </programme><programme channel="HLN-US" start="20260420210000 +0500" stop="20260420213000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Printed Proof</sub-title>
-    <desc>Police investigate the possibility of a hate crime when two women go missing and are later found murdered.</desc>
-    <episode-num system="onscreen">S12 E27</episode-num>
+    <sub-title>Dirty Laundry</sub-title>
+    <desc>When a businessman is murdered, motives and suspects are plentiful. Was it simply a disgruntled employee or client? Or do some racy photos hold the clue to the crime?</desc>
+    <episode-num system="onscreen">S13 E22</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2546,7 +2675,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2554,16 +2683,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>15</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418210000 +0500" stop="20260418213000 +0500">
+  </programme><programme channel="HLN-US" start="20260420213000 +0500" stop="20260420220000 +0500">
     <title>Forensic Files</title>
-    <sub-title>About Face</sub-title>
-    <desc>When a human skeleton is found on marshland and determined to be at least 18 months old, a computer consultant gives her a face and name.</desc>
-    <episode-num system="onscreen">S12 E28</episode-num>
+    <sub-title>Drowning Sorrows</sub-title>
+    <desc>A family break turns into a nightmare when the wife is found face-down in a lake; with no idea whether it was murder, an accident or suicide, police turn to a new forensic technique.</desc>
+    <episode-num system="onscreen">S13 E23</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2579,7 +2708,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2587,16 +2716,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>15</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418213000 +0500" stop="20260418220000 +0500">
+  </programme><programme channel="HLN-US" start="20260420220000 +0500" stop="20260420223000 +0500">
     <title>Forensic Files</title>
-    <sub-title>In the Bag</sub-title>
-    <desc>A killer places all the incriminating evidence to the murder in a plastic bag, hoping it will float down the river.</desc>
-    <episode-num system="onscreen">S12 E29</episode-num>
+    <sub-title>As Fault</sub-title>
+    <desc>When friends see a woman in the back of a car flailing her arms and screaming, they assume she is having fun, but when they later come upon a jacket and a pool of blood, they realize they witnessed an abduction in progress.</desc>
+    <episode-num system="onscreen">S13 E24</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2612,7 +2741,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2622,14 +2751,14 @@
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418220000 +0500" stop="20260418223000 +0500">
+  </programme><programme channel="HLN-US" start="20260420223000 +0500" stop="20260420230000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Yes, in Deed</sub-title>
-    <desc>A woman's body is found inside a burned mobile home and the autopsy reveals she was beaten, making this a murder.</desc>
-    <episode-num system="onscreen">S12 E16</episode-num>
+    <sub-title>Family Ties</sub-title>
+    <desc>An attack on a couple's home leaves the husband dead, the wife gravely injured and their son as a prime suspect; hundreds of miles away, a DNA sample may lead to the killer.</desc>
+    <episode-num system="onscreen">S13 E25</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2645,7 +2774,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2655,47 +2784,14 @@
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418223000 +0500" stop="20260418230000 +0500">
+  </programme><programme channel="HLN-US" start="20260420230000 +0500" stop="20260420233000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Guarded Secrets</sub-title>
-    <desc>Security guard who disappeared from his post was found a year later in a remote camp site; a decade later, a phone call and a paint smear on his boot helped scientists determine what happened during his final moments.</desc>
-    <episode-num system="onscreen">S12 E30</episode-num>
+    <sub-title>Trouble Brewing</sub-title>
+    <desc>Detectives think they've solved a murder when they find the weapon and victim's blood in a man's flat, but the evidence may have been planted.</desc>
+    <episode-num system="onscreen">S13 E26</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p439881_b_h8_bc.jpg?w=960&amp;h=540" />
-    <rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="HLN-US" start="20260418230000 +0500" stop="20260418233000 +0500">
-    <title>Forensic Files</title>
-    <sub-title>Smoking Out a Killer</sub-title>
-    <desc>When three students are brutally murdered close to campus, investigators must determine what the women had in common before their serial killer strikes again.</desc>
-    <episode-num system="onscreen">S12 E17</episode-num>
-    <credits>
-      <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>
@@ -2711,7 +2807,7 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
+      <value>MA 15+</value>
     </rating><rating system="Film &amp; Publication Board">
       <value>13</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -2719,16 +2815,16 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating><rating system="UK Content Provider">
-      <value>12</value>
+      <value>15</value>
     </rating>
-  </programme><programme channel="HLN-US" start="20260418233000 +0500" stop="20260419000000 +0500">
+  </programme><programme channel="HLN-US" start="20260420233000 +0500" stop="20260421000000 +0500">
     <title>Forensic Files</title>
-    <sub-title>Frozen Assets</sub-title>
-    <desc>A bag full of evidence recovered from an iced-over river helps to reveal the murderer of a businesswoman in her own shop.</desc>
-    <episode-num system="onscreen">S13 E1</episode-num>
+    <sub-title>Holy Terror</sub-title>
+    <desc>Detectives search for the bombers of two churches in Illinois, hoping that the materials used in the remnants of the handmade bombs will offer the clues to catch the culprits.</desc>
+    <episode-num system="onscreen">S13 E27</episode-num>
     <credits>
       <actor>Peter Thomas</actor>
-    </credits><date>2008</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Documentary</category>
     <category lang="en">Crime</category>

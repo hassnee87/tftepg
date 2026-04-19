@@ -2,155 +2,74 @@
 <tv>
   <channel id="CW-KTLA-US">
     <display-name>KTLA</display-name>
-    <icon src="https://thefilmtuition/tvlogo/CW-KTLA-US.png" />
-  </channel><programme channel="CW-KTLA-US" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>KTLA 5 News at Noon</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2020</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18702368_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>KTLA 5 News at 1</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>Off the Clock</title>
-    <sub-title />
-    <desc>Chris Schauble, Megan Henderson and Henry DiCarlo give viewers their take on the tech trends, superhero news, healthy headlines and more; they show their favorite Southern California spots while discovering more.</desc>
-    <date>2021</date>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20569224_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>KTLA 5 News at 3</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2015</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11371685_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>KTLA 5 News at 4</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>KTLA 5 News at 5</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417060000 +0500" stop="20260417063000 +0500">
-    <title>KTLA 5 News at 6</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417063000 +0500" stop="20260417070000 +0500">
-    <title>KTLA 5 News at 6:30</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2009</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417070000 +0500" stop="20260417073000 +0500">
-    <title>KTLA 5 News at 7</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2018</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417073000 +0500" stop="20260417080000 +0500">
-    <title>L.A. Unscripted</title>
-    <sub-title />
-    <desc>Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
-    <date>2020</date>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>Scrabble</title>
-    <sub-title>Scrabble Club</sub-title>
-    <desc>Contestants try to knock out their opponents and clinch a spot in the final round for a chance to win $10,000.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
+    <icon src="https://thefilmtuition.com/tvlogo/CW-KTLA-US.png" />
+  </channel><programme channel="CW-KTLA-US" start="20260419000000 +0500" stop="20260419003000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Just Horsin' Around</sub-title>
+    <desc>Jack gets horseriding tips from a cowboy in Canada; a retirement farm in Florida; the horse whisperer in California.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
     <credits>
-      <actor>Craig Ferguson</actor>
-    </credits><date>2026</date>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
     <category lang="en">Series</category>
-    <category lang="en">Game show</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31774192_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
+      <value>TVG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>Trivial Pursuit</title>
-    <sub-title>Breaking Good</sub-title>
-    <desc>A tiebreaker is needed to determine who will take on the six iconic Trivial Pursuit categories in hope of winning $20,000.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <credits>
-      <actor>LeVar Burton</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p26747985_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417100000 +0500" stop="20260417104500 +0500">
-    <title>KTLA 5 News at 10</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2005</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417104500 +0500" stop="20260417110000 +0500">
-    <title>KTLA 5 Sports Final</title>
-    <sub-title />
-    <desc />
-    <date>2015</date>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417110000 +0500" stop="20260417113500 +0500">
-    <title>KTLA 5 News at 11</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2014</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417113500 +0500" stop="20260417120500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260419003000 +0500" stop="20260419010000 +0500">
     <title>Friends</title>
-    <sub-title>The One With Rachel's Big Kiss</sub-title>
-    <desc>A college friend with whom Rachel shared an embarrassing and passionate moment shows up at Central Perk; Chandler and Ross argue for possession of Val Kilmer's tuxedo; Joey drives Monica crazy over the wedding schedule.</desc>
-    <episode-num system="onscreen">S7 E20</episode-num>
+    <sub-title>The One Where Rachel Smokes</sub-title>
+    <desc>Rachel tries to impress her boss by smoking, which gives Chandler fond memories of his former addiction; Ross's son and Joey audition for the same part in a commercial.</desc>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892578_b_h10_ap.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419010000 +0500" stop="20260419013000 +0500">
+    <title>Friends</title>
+    <sub-title>The One With Rachel's Book</sub-title>
+    <desc>Monica learns what her parents have done with her wedding fund; Joey teases Rachel about her late-night reading material.</desc>
+    <episode-num system="onscreen">S7 E2</episode-num>
     <credits>
       <actor>Jennifer Aniston</actor>
       <actor>Courteney Cox Arquette</actor>
       <actor>Lisa Kudrow</actor>
-    </credits><date>2001</date>
+    </credits><date>2000</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
@@ -178,27 +97,140 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417120500 +0500" stop="20260417123500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260419013000 +0500" stop="20260419020000 +0500">
     <title>Friends</title>
-    <sub-title>The One With the Lesbian Wedding</sub-title>
-    <desc>Ross helps put Carol and Susan's wedding plans back on track; Rachel's mother announces shocking new plans.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
+    <sub-title>The One With Rachel's Going Away Party</sub-title>
+    <desc>One of the guys becomes offended when Rachel does not give him the same goodbye she gives the others.</desc>
+    <episode-num system="onscreen">S10 E16</episode-num>
     <credits>
       <actor>Jennifer Aniston</actor>
-      <actor>Courteney Cox</actor>
+      <actor>Courteney Cox Arquette</actor>
       <actor>Lisa Kudrow</actor>
-    </credits><date>1996</date>
+    </credits><date>2004</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892599_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7892603_b_h10_ac.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>TV14</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>6</value>
     </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419020000 +0500" stop="20260419023000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419023000 +0500" stop="20260419030000 +0500">
+    <title>Pain Relief Revealed</title>
+    <sub-title />
+    <desc>Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32370428_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419030000 +0500" stop="20260419033000 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Speckerman Recurrence</sub-title>
+    <desc>Leonard must face the bully who targeted him in high school; Penny confronts her past actions.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <credits>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419033000 +0500" stop="20260419040000 +0500">
+    <title>NASCAR Countdown Live</title>
+    <sub-title />
+    <desc>A pre-race lead-up to NASCAR racing.</desc>
+    <date>2024</date>
+    <category lang="en">Auto racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28117800_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419040000 +0500" stop="20260419070000 +0500">
+    <title>Live: NASCAR O'Reilly Auto Parts Series</title>
+    <sub-title />
+    <desc>The 300-mile race in Kansas takes place at Kansas Speedway. This is the ninth race of the 2026 Xfinity Series season. This event is the second of four races in the Dash 4 Cash program, offering a bonus prize to the highest-finishing eligible driver.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto racing</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32239357_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419070000 +0500" stop="20260419073000 +0500">
+    <title>L.A. Unscripted</title>
+    <sub-title />
+    <desc>Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
+    <date>2020</date>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419073000 +0500" stop="20260419080000 +0500">
+    <title>Friends</title>
+    <sub-title>The One With the Nap Partners</sub-title>
+    <desc>Monica makes Chandler apologize to an old girlfriend (Stacy Galina) for leaving her because she was fat; Monica struggles to select a maid of honor.</desc>
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>2000</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892579_b_h11_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>S</value>
@@ -215,11 +247,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417123500 +0500" stop="20260417130500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260419080000 +0500" stop="20260419083000 +0500">
     <title>The Big Bang Theory</title>
-    <sub-title>The Weekend Vortex</sub-title>
-    <desc>Sheldon chooses to participate in a guys-only weekend Star Wars gaming marathon rather than go with Amy to her aunt's birthday party; he gets a lesson from Penny and Amy.</desc>
-    <episode-num system="onscreen">S5 E19</episode-num>
+    <sub-title>The Shiny Trinket Maneuver</sub-title>
+    <desc>Amy is upset with Sheldon when he isn't impressed with her recent accomplishment; Howard struggles with Bernadette's aversion to children.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Johnny Galecki</actor>
@@ -232,8 +264,6 @@
     <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
     </rating><rating system="Canadian Parental Rating">
@@ -242,6 +272,8 @@
       <value>13+</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
@@ -255,21 +287,450 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417130500 +0500" stop="20260417133500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260419083000 +0500" stop="20260419090000 +0500">
     <title>The Big Bang Theory</title>
-    <sub-title>The Panty Piñata Polarization</sub-title>
-    <desc>When Sheldon bans Penny from the apartment for a series of petty infractions, Penny vows to get revenge.</desc>
-    <episode-num system="onscreen">S2 E7</episode-num>
+    <sub-title>The Recombination Hypothesis</sub-title>
+    <desc>Everything could change when Leonard spontaneously invites Penny to a romantic dinner.</desc>
+    <episode-num system="onscreen">S5 E13</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
       <actor>Kaley Cuoco</actor>
-    </credits><date>2008</date>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419090000 +0500" stop="20260419093000 +0500">
+    <title>Friends</title>
+    <sub-title>The One Where No One's Ready</sub-title>
+    <desc>In a race against the clock, Ross tries to get the gang dressed and ready for a black-tie benefit at the museum.</desc>
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>1996</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892577_b_h11_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419093000 +0500" stop="20260419100000 +0500">
+    <title>Friends</title>
+    <sub-title>The One With the Videotape</sub-title>
+    <desc>Ross and Rachel argue over how they ended up in bed together weeks earlier, so Ross announces he has the encounter on tape.</desc>
+    <episode-num system="onscreen">S8 E4</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>2001</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892602_b_h11_aq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419100000 +0500" stop="20260419104500 +0500">
+    <title>KTLA 5 News at 10</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2005</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419104500 +0500" stop="20260419110000 +0500">
+    <title>KTLA 5 Sports Final</title>
+    <sub-title />
+    <desc />
+    <date>2015</date>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419110000 +0500" stop="20260419113500 +0500">
+    <title>KTLA 5 News at 11</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419113500 +0500" stop="20260419120500 +0500">
+    <title>KTLA 5 Sports Final</title>
+    <sub-title />
+    <desc />
+    <date>2015</date>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419120500 +0500" stop="20260419123500 +0500">
+    <title>Friends</title>
+    <sub-title>The One Where Monica Sings</sub-title>
+    <desc>Monica exults in the applause she receives on karaoke night, unaware that the cheering audience can see through her blouse.</desc>
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox Arquette</actor>
+      <actor>Lisa Kudrow</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892580_b_h10_ap.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Medierådet">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Medietilsynet">
+      <value>7 år</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419123500 +0500" stop="20260419130500 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Septum Deviation</sub-title>
+    <desc>Leonard has minor surgery on his nose, causing Sheldon to overreact; Bernadette and Howard work on their marriage.</desc>
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <credits>
+      <director>Anthony Rich</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco-Sweeting</actor>
+    </credits><date>2014</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419130500 +0500" stop="20260419133500 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Champagne Reflection</sub-title>
+    <desc>Sheldon says goodbye to Fun With Flags; Howard, Leonard and Raj look through their dead professor's research; Bernadette learns her co-workers' true feelings.</desc>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco-Sweeting</actor>
+    </credits><date>2014</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185554_b_h8_az.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419133500 +0500" stop="20260419140200 +0500">
+    <title>The Conners</title>
+    <sub-title>Patriarchs and Goddesses</sub-title>
+    <desc>Darlene continues to navigate her breakup with Ben; Dan offers to talk with Aldo's dad when he doesn't approve of Harris and Aldo's relationship.</desc>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419140200 +0500" stop="20260419143200 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419143200 +0500" stop="20260419150000 +0500">
+    <title>Relief from Inflammation</title>
+    <sub-title />
+    <desc>Connie Craig-Carrol &amp; Founder Ken Meares investigates Omega XL, the ultimate all-natural solution for joint pain from inflammation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18082351_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419150000 +0500" stop="20260419153000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419153000 +0500" stop="20260419160000 +0500">
+    <title>Pain Relief Revealed</title>
+    <sub-title />
+    <desc>Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32370428_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Bathroom Makeover</title>
+    <sub-title />
+    <desc>Transform your bath affordably in just one day!</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Health</category>
+    <category lang="en">House/garden</category>
+    <category lang="en">Self improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30220270_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419170000 +0500" stop="20260419173000 +0500">
+    <title>The Conners</title>
+    <sub-title>Hot for Teacher and Writing a Wrong</sub-title>
+    <desc>Mark returns to public school and finds it hard to fit in; Darlene isn't happy when she finds out what Mark's doing to make a little extra cash for college; Becky finds herself in an interesting situation with one of her college professors.</desc>
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <credits>
+      <actor>John Goodman</actor>
+      <actor>Laurie Metcalf</actor>
+      <actor>Lecy Goranson</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260419173000 +0500" stop="20260419180000 +0500">
+    <title>Inside California Politics</title>
+    <sub-title />
+    <desc />
+    <date>2020</date>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18676983_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>KTLA 5 Morning News at 6</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419190000 +0500" stop="20260419210000 +0500">
+    <title>KTLA 5 Morning News at 7</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>1995</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419210000 +0500" stop="20260419220000 +0500">
+    <title>KTLA 5 Morning News at 9</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419220000 +0500" stop="20260419230000 +0500">
+    <title>KTLA 5 Morning News at 10</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>In Touch With Dr. Charles Stanley</title>
+    <sub-title />
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <credits>
+      <actor>Charles Stanley</actor>
+    </credits><date>1979</date>
+    <category lang="en">Religious</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420000000 +0500" stop="20260420003000 +0500">
+    <title>Jack Hibbs -- Real Life</title>
+    <sub-title />
+    <desc>It's my desire that through Jesus Christ, you will know real life!</desc>
+    <date>2021</date>
+    <category lang="en">Religious</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20273513_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420003000 +0500" stop="20260420010000 +0500">
+    <title>Pain Relief Revealed</title>
+    <sub-title />
+    <desc>Discover the hidden story of OmegaXL with John Walsh. He dives deep into the groundbreaking supplement that promises hope and relief for millions battling joint pain and inflammation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32370428_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420010000 +0500" stop="20260420030000 +0500">
+    <title>Live: PBA Bowling</title>
+    <sub-title />
+    <desc>This championship honors legendary bowlers Mark Roth and Marshall Holman, who were known for their success in doubles competitions. The 2026 edition takes place at Bayside Bowl in Portland, Maine, featuring a maximum of 32 teams.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Bowling</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p845517_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420030000 +0500" stop="20260420033000 +0500">
+    <title>The Big Bang Theory</title>
+    <sub-title>The Beta Test Initiation</sub-title>
+    <desc>Penny and Leonard experiment with their new relationship; Raj forms a bond with his phone's virtual assistant.</desc>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Johnny Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8738253_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Australian Classification Board">
@@ -286,6 +747,8 @@
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><rating system="방송통신심의위원회">
       <value>15</value>
     </rating><rating system="Kijkwijzer">
@@ -293,27 +756,212 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417133500 +0500" stop="20260417140500 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>Young People Have Phlegm Too</sub-title>
-    <desc>A more mature woman helps rebuild Charlie's ego after he becomes insecure about his age.</desc>
-    <episode-num system="onscreen">S4 E16</episode-num>
+  </programme><programme channel="CW-KTLA-US" start="20260420033000 +0500" stop="20260420040000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>The Mighty Pachyderms</sub-title>
+    <desc>All about elephants, including the largest and the smallest of them.</desc>
+    <episode-num system="onscreen">S5 E12</episode-num>
     <credits>
-      <director>Andrew Weyman</director>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420040000 +0500" stop="20260420043000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Zambezi: River of Life</sub-title>
+    <desc>Jack kayaks along the Zambezi River in Zambia, which houses dangerous hippos and crocodiles.</desc>
+    <episode-num system="onscreen">S5 E11</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420043000 +0500" stop="20260420050000 +0500">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Dog Days</sub-title>
+    <desc>Stories of dogs from across the world, including dogs who save wild cheetahs and others who are given second chances at life.</desc>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <credits>
+      <director>Guy Nickerson</director>
+      <actor>Jack Hanna</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p410625_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>KTLA 5 News at 5</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420060000 +0500" stop="20260420063000 +0500">
+    <title>KTLA 5 News at 6</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420063000 +0500" stop="20260420070000 +0500">
+    <title>KTLA 5 News at 6:30</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420070000 +0500" stop="20260420100000 +0500">
+    <title>The Intern</title>
+    <sub-title />
+    <desc>Starting a new job can be a difficult challenge, especially if you're already retired. Looking to get back into the game, 70-year-old widower Ben Whittaker (Robert De Niro) seizes the opportunity to become a senior intern at an online fashion site. Ben soon becomes popular with his younger co-workers, including Jules Ostin (Anne Hathaway), the boss and founder of the company. Whittaker's charm, wisdom and sense of humor help him develop a special bond and growing friendship with Jules.</desc>
+    <credits>
+      <director>Nancy Meyers</director>
+      <actor>Robert De Niro</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Rene Russo</actor>
+    </credits><date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11550244_v_h8_bd.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420100000 +0500" stop="20260420104500 +0500">
+    <title>KTLA 5 News at 10</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2005</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420104500 +0500" stop="20260420110000 +0500">
+    <title>KTLA 5 Sports Final</title>
+    <sub-title />
+    <desc />
+    <date>2015</date>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420110000 +0500" stop="20260420113500 +0500">
+    <title>KTLA 5 News at 11</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2014</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420113500 +0500" stop="20260420120500 +0500">
+    <title>KTLA 5 Sports Final</title>
+    <sub-title />
+    <desc />
+    <date>2015</date>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420120500 +0500" stop="20260420123500 +0500">
+    <title>Two and a Half Men</title>
+    <sub-title>The Ocu or the Pado?</sub-title>
+    <desc>When Charlie swears his love to Chelsea (Jennifer Taylor), her response is nothing like what he'd expected.</desc>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <credits>
+      <director>James Widdoes</director>
       <actor>Charlie Sheen</actor>
       <actor>Jon Cryer</actor>
       <actor>Angus T. Jones</actor>
-    </credits><date>2007</date>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895722_b_h8_ag.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="Régie du cinéma">
@@ -329,54 +977,102 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417140500 +0500" stop="20260417143500 +0500">
-    <title>The Conners</title>
-    <sub-title>We Continue to Truck</sub-title>
-    <desc>As Darlene grapples with a life-changing offer from Ben, an unexpected conversation with David turns her world even more upside down; relationship problems lead Jackie to the bottom of the bottle; Dan delivers alarming news.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme><programme channel="CW-KTLA-US" start="20260420123500 +0500" stop="20260420130500 +0500">
+    <title>Two and a Half Men</title>
+    <sub-title>My Son's Enormous Head</sub-title>
+    <desc>Charlie fights the overwhelming urge to flee when Chelsea gets sick and he is forced to take care of her.</desc>
+    <episode-num system="onscreen">S6 E18</episode-num>
     <credits>
-      <director>Bob Koherr</director>
-      <actor>John Goodman</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Lecy Goranson</actor>
-    </credits><date>2019</date>
+      <director>James Widdoes</director>
+      <actor>Charlie Sheen</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+    </credits><date>2009</date>
     <category lang="en">Series</category>
     <category lang="en">Sitcom</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15661264_b_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p7895722_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417143500 +0500" stop="20260417150500 +0500">
-    <title>Live PD Presents</title>
+  </programme><programme channel="CW-KTLA-US" start="20260420130500 +0500" stop="20260420133500 +0500">
+    <title>In Touch With Dr. Charles Stanley</title>
     <sub-title />
-    <desc />
-    <episode-num system="onscreen">S1 E148</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Crime</category>
+    <desc>Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <credits>
+      <actor>Charles Stanley</actor>
+    </credits><date>1979</date>
+    <category lang="en">Religious</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31045528_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
+    <icon src="http://dtil.tmsimg.com/assets/p32199893_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417150500 +0500" stop="20260417153000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420133500 +0500" stop="20260420140500 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260420140500 +0500" stop="20260420150500 +0500">
+    <title>The Hill Sunday With Chris Stirewalt</title>
+    <sub-title />
+    <desc>Featuring a variety of politicians and newsmakers discussing the latest political news from the nation's capital.</desc>
+    <credits>
+      <actor>Chris Stirewalt</actor>
+    </credits><date>2024</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p26565107_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260420150500 +0500" stop="20260420153000 +0500">
     <title>Court Cam</title>
-    <sub-title>Episode 16</sub-title>
-    <desc>A son and daughter denounce their murderous father; a drunken driver breaks down in court; a misbehaving spectator feels the judge's wrath.</desc>
-    <episode-num system="onscreen">S5 E16</episode-num>
+    <sub-title>Episode 17</sub-title>
+    <desc>A murder suspect spits on his lawyer; a literal "Karen" is fined for refusing to wear a mask in a supermarket; a judge has had it with a rude defendant.</desc>
+    <episode-num system="onscreen">S5 E17</episode-num>
     <credits>
       <actor>Dan Abrams</actor>
     </credits><date>2022</date>
@@ -404,11 +1100,11 @@
     </rating><rating system="Kijkwijzer">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420153000 +0500" stop="20260420160000 +0500">
     <title>Judy Justice</title>
-    <sub-title>Child Abuse Allegation Nightmare</sub-title>
-    <desc>A woman who suffered abuse as a child is convinced her neighbor is guilty of neglect.</desc>
-    <episode-num system="onscreen">S2 E121 P1/2</episode-num>
+    <sub-title>Widow Cries Thief!</sub-title>
+    <desc>A young widow with a newborn baby claims her deceased husband's best friend stole money from his account; the best friend defends his actions passionately and says the money went to a GoFundMe set up for his children.</desc>
+    <episode-num system="onscreen">S2 E124</episode-num>
     <credits>
       <director>Randy Douthit</director>
       <actor>Judy Sheindlin</actor>
@@ -425,7 +1121,7 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260417160000 +0500" stop="20260417163000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420160000 +0500" stop="20260420163000 +0500">
     <title>KTLA 5 Morning News at 4</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -433,7 +1129,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p9458469_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417163000 +0500" stop="20260417170000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420163000 +0500" stop="20260420170000 +0500">
     <title>KTLA 5 Morning News at 4:30</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -441,7 +1137,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p3514986_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417170000 +0500" stop="20260417180000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420170000 +0500" stop="20260420180000 +0500">
     <title>KTLA 5 Morning News at 5</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -449,7 +1145,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755461_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417180000 +0500" stop="20260417190000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420180000 +0500" stop="20260420190000 +0500">
     <title>KTLA 5 Morning News at 6</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -457,7 +1153,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417190000 +0500" stop="20260417210000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420190000 +0500" stop="20260420210000 +0500">
     <title>KTLA 5 Morning News at 7</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -465,7 +1161,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417210000 +0500" stop="20260417220000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420210000 +0500" stop="20260420220000 +0500">
     <title>KTLA 5 Morning News at 9</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -473,7 +1169,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417220000 +0500" stop="20260417230000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420220000 +0500" stop="20260420230000 +0500">
     <title>KTLA 5 Morning News at 10</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -481,7 +1177,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260417230000 +0500" stop="20260418000000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260420230000 +0500" stop="20260421000000 +0500">
     <title>KTLA 5 Morning News at 11</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -489,7 +1185,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15468956_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418000000 +0500" stop="20260418010000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421000000 +0500" stop="20260421010000 +0500">
     <title>KTLA 5 News at Noon</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -497,7 +1193,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p18702368_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418010000 +0500" stop="20260418020000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421010000 +0500" stop="20260421020000 +0500">
     <title>KTLA 5 News at 1</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -505,7 +1201,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p3514976_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418020000 +0500" stop="20260418030000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421020000 +0500" stop="20260421030000 +0500">
     <title>Off the Clock</title>
     <sub-title />
     <desc>Chris Schauble, Megan Henderson and Henry DiCarlo give viewers their take on the tech trends, superhero news, healthy headlines and more; they show their favorite Southern California spots while discovering more.</desc>
@@ -514,7 +1210,7 @@
     <category lang="en">Entertainment</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p20569224_st_h10_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418030000 +0500" stop="20260418040000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421030000 +0500" stop="20260421040000 +0500">
     <title>KTLA 5 News at 3</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -522,7 +1218,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p11371685_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418040000 +0500" stop="20260418050000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421040000 +0500" stop="20260421050000 +0500">
     <title>KTLA 5 News at 4</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -530,15 +1226,15 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15020116_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418050000 +0500" stop="20260418060000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421050000 +0500" stop="20260421060000 +0500">
     <title>KTLA 5 News at 5</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2024</date>
+    <date>2009</date>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28641441_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418060000 +0500" stop="20260418063000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p7835394_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260421060000 +0500" stop="20260421063000 +0500">
     <title>KTLA 5 News at 6</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -546,7 +1242,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p7835554_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418063000 +0500" stop="20260418070000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421063000 +0500" stop="20260421070000 +0500">
     <title>KTLA 5 News at 6:30</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -554,7 +1250,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755462_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418070000 +0500" stop="20260418073000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421070000 +0500" stop="20260421073000 +0500">
     <title>KTLA 5 News at 7</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -562,7 +1258,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p15921240_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418073000 +0500" stop="20260418080000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421073000 +0500" stop="20260421080000 +0500">
     <title>L.A. Unscripted</title>
     <sub-title />
     <desc>Join KTLA Entertainment Reporter Dayna Devon and friends as they discuss the unique and fun lifestyles of the Los Angeles area.</desc>
@@ -570,47 +1266,62 @@
     <category lang="en">Entertainment</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p18725702_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418080000 +0500" stop="20260418090000 +0500">
-    <title>Penn &amp; Teller: Fool Us</title>
-    <sub-title>It's Magic. Literally</sub-title>
-    <desc>Featured magicians include Trigg Watson, Daniel Harel, Danny Urbanus and Jon Mobley.</desc>
-    <episode-num system="onscreen">S11 E18</episode-num>
+  </programme><programme channel="CW-KTLA-US" start="20260421080000 +0500" stop="20260421090000 +0500">
+    <title>Sullivan's Crossing</title>
+    <sub-title>Curveballs</sub-title>
+    <desc>As Maggie digs into the reasons for her ex-husband Liam's return, Cal finds himself struggling with feelings of jealousy as tensions at the Crossing rise.</desc>
+    <episode-num system="onscreen">S4 E1</episode-num>
     <credits>
-      <actor>Brooke Burke</actor>
-      <actor>Penn Jillette</actor>
-      <actor>Teller</actor>
-    </credits><date>2025</date>
+      <actor>Morgan Kohan</actor>
+      <actor>Chad Michael Murray</actor>
+      <actor>Scott Patterson</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8449504_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p24187342_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating>
+  </programme><programme channel="CW-KTLA-US" start="20260421090000 +0500" stop="20260421100000 +0500">
+    <title>Wild Cards</title>
+    <sub-title>Rack 'Em Up</sub-title>
+    <desc>Max and Ellis go undercover to catch a pool shark's killer; Max's mom, Vivienne, is miraculously back from the grave, and she's brought back a vengeful crime lord in pursuit of her, which puts them all in the crosshairs.</desc>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <credits>
+      <director>Andy Mikita</director>
+      <actor>Giacomo Gianniotti</actor>
+      <actor>Vanessa Morgan</actor>
+      <actor>Karin Konoval</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25877512_b_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
     </rating><rating system="Australian Classification Board">
       <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418090000 +0500" stop="20260418100000 +0500">
-    <title>The American Bible Challenge</title>
-    <sub-title />
-    <desc>Teams from Sacramento Calif., Chicago Ill. and Discovery Bay, Calif.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <actor>Jeff Foxworthy</actor>
-    </credits><date>2012</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9355734_b_h8_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418100000 +0500" stop="20260418104500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421100000 +0500" stop="20260421104500 +0500">
     <title>KTLA 5 News at 10</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -618,14 +1329,14 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755466_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418104500 +0500" stop="20260418110000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421104500 +0500" stop="20260421110000 +0500">
     <title>KTLA 5 Sports Final</title>
     <sub-title />
     <desc />
     <date>2015</date>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p11331887_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418110000 +0500" stop="20260418113500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421110000 +0500" stop="20260421113500 +0500">
     <title>KTLA 5 News at 11</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -633,11 +1344,11 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p10749029_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418113500 +0500" stop="20260418120500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421113500 +0500" stop="20260421120500 +0500">
     <title>Friends</title>
-    <sub-title>The One With the Vows</sub-title>
-    <desc>With only four weeks until their wedding, Monica and Chandler try to write their vows; Chandler enlists the boys' help, while Monica does the same with the girls.</desc>
-    <episode-num system="onscreen">S7 E21</episode-num>
+    <sub-title>The One With Chandler's Dad</sub-title>
+    <desc>Trying to ensure an ideal wedding, Monica arranges a meeting so Chandler and his estranged father can reconcile.</desc>
+    <episode-num system="onscreen">S7 E22</episode-num>
     <credits>
       <actor>Jennifer Aniston</actor>
       <actor>Courteney Cox Arquette</actor>
@@ -670,13 +1381,12 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418120500 +0500" stop="20260418123500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421120500 +0500" stop="20260421123500 +0500">
     <title>Friends</title>
     <sub-title>The One After the Super Bowl</sub-title>
-    <desc>Joey starts dating a fan (Brooke Shields) who is gorgeous, but soon discovers that she's also crazy; Ross is reminded how much he misses his pet monkey and travels to the San Diego Zoo to find out what has happened to him.</desc>
-    <episode-num system="onscreen">S2 E12 P1/2</episode-num>
+    <desc>Ross (David Schwimmer) catches up with Marcel on the set of a movie starring Jean-Claude Van Damme; Chandler gets a date with a girl he liked in fourth grade.</desc>
+    <episode-num system="onscreen">S2 E13 P2/2</episode-num>
     <credits>
-      <director>Michael Lembeck</director>
       <actor>Jennifer Aniston</actor>
       <actor>Courteney Cox</actor>
       <actor>Lisa Kudrow</actor>
@@ -689,12 +1399,12 @@
       <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>S</value>
     </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
       <value>6</value>
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>S</value>
     </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
       <value>12</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
@@ -708,11 +1418,11 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418123500 +0500" stop="20260418130500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421123500 +0500" stop="20260421130500 +0500">
     <title>The Big Bang Theory</title>
-    <sub-title>The Transporter Malfunction</sub-title>
-    <desc>When Penny buys Leonard and Sheldon "Star Trek" collectibles, Sheldon finds himself haunted by Mr. Spock; after a blind date, Raj believes he has met his future wife.</desc>
-    <episode-num system="onscreen">S5 E20</episode-num>
+    <sub-title>The Hawking Excitation</sub-title>
+    <desc>When Stephen Hawking comes to lecture at the university for a week, Wolowitz is given the task of maintaining his wheelchair, making Sheldon green with envy.</desc>
+    <episode-num system="onscreen">S5 E21</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Johnny Galecki</actor>
@@ -748,11 +1458,11 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418130500 +0500" stop="20260418133500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421130500 +0500" stop="20260421133500 +0500">
     <title>The Big Bang Theory</title>
-    <sub-title>The Lizard-Spock Expansion</sub-title>
-    <desc>Leonard inadvertently steals away the new woman Wolowitz thinks is the love of his life.</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
+    <sub-title>The White Asparagus Triangulation</sub-title>
+    <desc>Sheldon is thrilled when Leonard starts dating a woman who meets Sheldon's stringent standards.</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
     <credits>
       <director>Mark Cendrowski</director>
       <actor>Johnny Galecki</actor>
@@ -786,11 +1496,11 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418133500 +0500" stop="20260418140500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421133500 +0500" stop="20260421140500 +0500">
     <title>Two and a Half Men</title>
-    <sub-title>I Merely Slept With a Commie</sub-title>
-    <desc>Evelyn makes Charlie and Alan regret saying that she will not have any mourners at her funeral.</desc>
-    <episode-num system="onscreen">S4 E17</episode-num>
+    <sub-title>It Never Rains in Hooterville</sub-title>
+    <desc>After realizing that Jake's childhood is almost over, Alan makes a last-minute try at father-son bonding; Kandi embarks on a new career.</desc>
+    <episode-num system="onscreen">S4 E18</episode-num>
     <credits>
       <director>Gary Halvorson</director>
       <actor>Charlie Sheen</actor>
@@ -803,10 +1513,10 @@
     <icon src="http://dtil.tmsimg.com/assets/p7895721_b_h10_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K7</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating><rating system="Régie du cinéma">
@@ -822,11 +1532,11 @@
     </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
       <value>ATP</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418140500 +0500" stop="20260418143500 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421140500 +0500" stop="20260421143500 +0500">
     <title>The Conners</title>
-    <sub-title>A Kiss Is Just a Kiss</sub-title>
-    <desc>Darlene struggles to decide between David and Ben; Becky begins to doubt herself as a mom; Mark gets in trouble at school when a picture of him and his boyfriend kissing goes viral; Jackie avoids her problems by keeping busy with everyone else's.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <sub-title>Landford... Landford</sub-title>
+    <desc>Desperate for more income, Becky seeks a bartending position at Casita Bonita, causing major concern for Dan due to her struggle with alcoholism; Darlene finally nears a decision between David and Ben; Harris' new friend, Odessa, means new trouble.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
     <credits>
       <director>Gail Mancuso</director>
       <actor>John Goodman</actor>
@@ -842,19 +1552,19 @@
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
+      <value>TV14</value>
     </rating><rating system="Australian Classification Board">
       <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating><rating system="UK Content Provider">
       <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418143500 +0500" stop="20260418150100 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421143500 +0500" stop="20260421150500 +0500">
     <title>Live PD Presents</title>
     <sub-title />
     <desc />
-    <episode-num system="onscreen">S1 E150</episode-num>
+    <episode-num system="onscreen">S1 E152</episode-num>
     <date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
@@ -867,124 +1577,86 @@
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418150100 +0500" stop="20260418152900 +0500">
-    <title>Cindy Crawford talks about the latest breakthroughs in skincare</title>
-    <sub-title />
-    <desc>Join Cindy Crawford as she talks to real customers about the breakthrough skincare system that keeps them looking their best. Take a trip to the stunning French countryside to see the rare French melon that defies the aging process.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29044745_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418152900 +0500" stop="20260418155900 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418155900 +0500" stop="20260418160000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418160000 +0500" stop="20260418163000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418163000 +0500" stop="20260418170000 +0500">
-    <title>Popstar! Today</title>
-    <sub-title>CGI</sub-title>
-    <desc>Elizabeth Stanton takes a look at the very latest in the world of pop entertainment, plus exclusive interviews, trends and gossip.</desc>
-    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme><programme channel="CW-KTLA-US" start="20260421150500 +0500" stop="20260421153000 +0500">
+    <title>Court Cam</title>
+    <sub-title>Top 5 Accused Killers 3</sub-title>
+    <desc>Some of the wildest courtroom moments, featuring accused killers; a 28-year-old man who killed his parents for no longer financially supporting him; a woman who kills her husband in their bed; a man who murders his wife, then calls the authorities.</desc>
+    <episode-num system="onscreen">S6</episode-num>
     <credits>
-      <actor>Elizabeth Stanton</actor>
-    </credits><date>2026</date>
+      <actor>Dan Abrams</actor>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p21345381_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
+    <icon src="http://dtil.tmsimg.com/assets/p17612551_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418170000 +0500" stop="20260418173000 +0500">
-    <title>Laura McKenzie's Traveler</title>
-    <sub-title>Iconic Landmarks</sub-title>
-    <desc>The canals of Venice, Italy; the ancient ruins of Athens, Greece; the Forbidden City in Beijing, China; a legendary opera house in Sydney, Australia.</desc>
-    <episode-num system="onscreen">S18 E15</episode-num>
+  </programme><programme channel="CW-KTLA-US" start="20260421153000 +0500" stop="20260421160000 +0500">
+    <title>Judy Justice</title>
+    <sub-title>Sister vs. Brother</sub-title>
+    <desc>A struggling mother of three claims her brother and his girlfriend disposed of her possessions without her permission.</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
     <credits>
-      <actor>Laura McKenzie</actor>
-    </credits><date>2026</date>
+      <director>Randy Douthit</director>
+      <actor>Judy Sheindlin</actor>
+      <actor>Kevin Rasco</actor>
+      <actor>Whitney Kumar</actor>
+    </credits><date>2022</date>
     <category lang="en">Series</category>
-    <category lang="en">Travel</category>
-    <category lang="en">Educational</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p424773_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TVG</value>
+      <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
     </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418173000 +0500" stop="20260418180000 +0500">
-    <title>California Cooking With Jessica Holmes</title>
+  </programme><programme channel="CW-KTLA-US" start="20260421160000 +0500" stop="20260421163000 +0500">
+    <title>KTLA 5 Morning News at 4</title>
     <sub-title />
-    <desc>KTLA Morning News anchor Jessica Holmes is in the kitchen whipping up California-inspired dishes.</desc>
-    <credits>
-      <actor>Jessica Holmes</actor>
-    </credits><date>2018</date>
-    <category lang="en">Cooking</category>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2012</date>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15960347_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="CW-KTLA-US" start="20260418180000 +0500" stop="20260418190000 +0500">
+    <icon src="http://dtil.tmsimg.com/assets/p9458469_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260421163000 +0500" stop="20260421170000 +0500">
+    <title>KTLA 5 Morning News at 4:30</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2009</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3514986_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260421170000 +0500" stop="20260421180000 +0500">
+    <title>KTLA 5 Morning News at 5</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2008</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p755461_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CW-KTLA-US" start="20260421180000 +0500" stop="20260421190000 +0500">
     <title>KTLA 5 Morning News at 6</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -992,7 +1664,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755463_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418190000 +0500" stop="20260418210000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421190000 +0500" stop="20260421210000 +0500">
     <title>KTLA 5 Morning News at 7</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -1000,7 +1672,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755453_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418210000 +0500" stop="20260418220000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421210000 +0500" stop="20260421220000 +0500">
     <title>KTLA 5 Morning News at 9</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -1008,7 +1680,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p755464_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418220000 +0500" stop="20260418230000 +0500">
+  </programme><programme channel="CW-KTLA-US" start="20260421220000 +0500" stop="20260421230000 +0500">
     <title>KTLA 5 Morning News at 10</title>
     <sub-title />
     <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -1016,12 +1688,13 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p14220112_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CW-KTLA-US" start="20260418230000 +0500" stop="20260419000000 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+  </programme><programme channel="CW-KTLA-US" start="20260421230000 +0500" stop="20260422000000 +0500">
+    <title>KTLA 5 Morning News at 11</title>
     <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Consumer</category>
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p15468956_b_h8_aa.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

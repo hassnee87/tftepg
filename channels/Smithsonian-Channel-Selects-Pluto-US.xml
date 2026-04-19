@@ -2,181 +2,183 @@
 <tv>
   <channel id="Smithsonian-Channel-Selects-Pluto-US">
     <display-name>Smithsonian Channel Selects</display-name>
-    <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-Selects-US.png" />
-  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417121500 +0500" stop="20260417131500 +0500">
-    <title>The Pacific War in Color</title>
-    <sub-title>Striking Distance</sub-title>
-    <desc>Simultaneous island attacks and failed B-29 raids, captured through personal color home movies and combat footage.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <date>20180722</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417131500 +0500" stop="20260417141500 +0500">
-    <title>The Pacific War in Color</title>
-    <sub-title>Fire From The Sky</sub-title>
-    <desc>The invasions, battles, and raids that build to the Pacific War's brutal climax.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20180729</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417141500 +0500" stop="20260417151500 +0500">
-    <title>The Pacific War in Color</title>
-    <sub-title>An Ocean Apart</sub-title>
-    <desc>The first steps of the long, bloody, uphill battle for the Pacific, captured through rare color footage.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20180624</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417151500 +0500" stop="20260417161500 +0500">
-    <title>The Pacific War in Color</title>
-    <sub-title>Shockwaves</sub-title>
-    <desc>Witness the first battles and initial shockwaves of the Pacific War, captured through rare color footage.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20180701</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417161500 +0500" stop="20260417171500 +0500">
-    <title>The Pacific War in Color</title>
-    <sub-title>Island Hopping</sub-title>
-    <desc>See how America's island-hopping strategy in the Pacific nearly ended with its first invasion of the Tarawa atoll.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20180708</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/62853df881ecb70013419d9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417171500 +0500" stop="20260417181500 +0500">
-    <title>Secrets</title>
-    <sub-title>Great Wall of China</sub-title>
-    <desc>Behold the edifice that took more time, people, and material to build than any other structure on Earth.</desc>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <date>20150907</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417181500 +0500" stop="20260417191500 +0500">
-    <title>Secrets</title>
-    <sub-title>Easter Island</sub-title>
-    <desc>Unlock the secrets of an ancient religious cult behind the giant statues of Easter Island.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20141013</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417191500 +0500" stop="20260417201500 +0500">
-    <title>Secrets</title>
-    <sub-title>Great Pyramid</sub-title>
-    <desc>For over 200 years, archaeologists have debated how Egyptians built the Great Pyramid. Do we finally have an answer?</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <date>20141020</date>
-    <category>Educational</category>
-    <category>Series</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/61245f7673019a0013ed5bbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417201500 +0500" stop="20260417211500 +0500">
-    <title>Carriers At War</title>
-    <sub-title>Strike Force Arabian Gulf</sub-title>
-    <desc>The crew of the USS George H.W. Bush aircraft carrier prepares to give air support to ground troops battling ISIS in Iraq.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20180521</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417211500 +0500" stop="20260417221500 +0500">
-    <title>Carriers At War</title>
-    <sub-title>Ready To Launch</sub-title>
-    <desc>A behind-the-scenes look at the operations of a U.S. Navy aircraft carrier, and the dedicated sailors who keep it running at maximum efficiency.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20180528</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417221500 +0500" stop="20260417231500 +0500">
-    <title>Carriers At War</title>
-    <sub-title>Air Wing</sub-title>
-    <desc>Examine the history of the aircraft carrier and witness how its air wing operates.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20180604</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260417231500 +0500" stop="20260418001500 +0500">
-    <title>Carriers At War</title>
-    <sub-title>USS Ford</sub-title>
-    <desc>A behind-the-scenes look at how the U.S. Navy's radically redesigned class of aircraft carrier, the Ford, was built.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20180611</date>
-    <category>Series</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/65b02ba2d22ce50014ae6a08/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260418001500 +0500" stop="20260418011500 +0500">
-    <title>America's Lost Airship: Weapon of War</title>
-    <sub-title />
-    <desc>A look at the rise and fall of the airship and the U.S. military's failed attempts to make it the future of warfare in the 1920s and '30s.</desc>
-    <date>20220612</date>
-    <category>Educational</category>
-    <category>Movie</category>
-    <category>History</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/66b15db061ac500014e1aab7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260418011500 +0500" stop="20260418021500 +0500">
-    <title>B2: Stealth at War</title>
-    <sub-title />
-    <desc>Discover some of the secrets of one of the Air Force's most highly classified weapons: the B-2 Stealth Bomber.</desc>
-    <date>20130917</date>
-    <category>Movie</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/5fa343cde906e1001a03e0b6/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260418021500 +0500" stop="20260418031500 +0500">
-    <title>Bird vs. Plane: Miracle on the Hudson</title>
-    <sub-title />
-    <desc>Revisit the 2009 "Miracle on the Hudson" and see what's being done to solve the bird strike problem.</desc>
-    <date>20190116</date>
-    <category>Movie</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/5fa343cce906e1001a03e08f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260418031500 +0500" stop="20260418041500 +0500">
-    <title>Black Wings</title>
-    <sub-title />
-    <desc>Meet the men and women who took to the skies during the 20th century, proving to a segregated nation that skin color doesn't determine skill level.</desc>
-    <date>20120115</date>
-    <category>Movie</category>
-    <category>Documentary</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/episodes/5fa343cbe906e1001a03e068/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260418041500 +0500" stop="20260418051500 +0500">
+    <icon src="https://thefilmtuition.com/tvlogo/Smithsonian-Channel-Selects-Pluto-US.png" />
+  </channel><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419061500 +0500" stop="20260419071500 +0500">
     <title>America in Color</title>
-    <sub-title>Small Town Life</sub-title>
-    <desc>A look at the charms and challenges of small town life in America during the first half of the 20th century, presented entirely in color.</desc>
-    <episode-num system="onscreen">S03E06</episode-num>
-    <date>20191223</date>
+    <sub-title>American Royalty</sub-title>
+    <desc>Color footage of the Rockefellers, Roosevelts, and Kennedys gives an unprecedented look at America's storied families.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20181217</date>
+    <category>Educational</category>
+    <category>History</category>
     <category>Series</category>
-    <category>Documentary</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419071500 +0500" stop="20260419081500 +0500">
+    <title>America in Color</title>
+    <sub-title>Hollywood's Golden Age</sub-title>
+    <desc>Grab a front row seat to a fully colorized look at Hollywood's Golden Age.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20181224</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419081500 +0500" stop="20260419091500 +0500">
+    <title>America in Color</title>
+    <sub-title>Coming to America</sub-title>
+    <desc>A look at the immigrant experience in America during the early 1900s, told through colorized home movies and archival footage.</desc>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <date>20191118</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419091500 +0500" stop="20260419101500 +0500">
+    <title>America in Color</title>
+    <sub-title>Disasters</sub-title>
+    <desc>A look at the Hindenburg crash, the San Francisco earthquake and other disasters of the early 20th century through colorized home movies and archival footage.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <date>20191125</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419101500 +0500" stop="20260419111500 +0500">
+    <title>America in Color</title>
+    <sub-title>Alaska</sub-title>
+    <desc>The story of Alaska's evolution, from isolated wilderness to America's 49th state, during the first half of the 20th century.</desc>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <date>20191202</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419111500 +0500" stop="20260419121500 +0500">
+    <title>America in Color</title>
+    <sub-title>Made in the USA</sub-title>
+    <desc>A look at the journey of the American worker through the first half of the 20th century.</desc>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <date>20191209</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61243518d343140013d451c0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419121500 +0500" stop="20260419131500 +0500">
+    <title>America’s Secret Space Heroes</title>
+    <sub-title>Viking Mars Mission</sub-title>
+    <desc>The inside story of Project Viking and the incredible ingenuity that put the first spacecraft on Mars.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20170618</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419131500 +0500" stop="20260419141500 +0500">
+    <title>America’s Secret Space Heroes</title>
+    <sub-title>Saturn V</sub-title>
+    <desc>Witness the incredible story of the engineers who built the mighty rocket that put man on the moon: the Saturn V.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20170514</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419141500 +0500" stop="20260419151500 +0500">
+    <title>America’s Secret Space Heroes</title>
+    <sub-title>Lunar Module</sub-title>
+    <desc>See how a team of engineers, through ingenuity and dogged determination, built the spacecraft that put man on the moon.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20170521</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419151500 +0500" stop="20260419161500 +0500">
+    <title>America’s Secret Space Heroes</title>
+    <sub-title>Space Shuttle</sub-title>
+    <desc>See how NASA engineers met the challenge to build a spacecraft that can launch like a rocket and land like an airplane.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20170528</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419161500 +0500" stop="20260419171500 +0500">
+    <title>America’s Secret Space Heroes</title>
+    <sub-title>Space Station</sub-title>
+    <desc>See how a shared goal to build a space station brought Cold War enemies together and inspired visionary breakthroughs.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20170604</date>
+    <category>Educational</category>
+    <category>History</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/61b13bc4303dc2001469a897/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419171500 +0500" stop="20260419181500 +0500">
+    <title>Alaska Aircrash Investigations</title>
+    <sub-title>Forest Flight Down</sub-title>
+    <desc>What caused a routine, 20-minute commuter flight to end in disaster? The NTSB's Alaska Regional Office aims to find out.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20160313</date>
+    <category>Series</category>
+    <category>Reality</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419181500 +0500" stop="20260419191500 +0500">
+    <title>Alaska Aircrash Investigations</title>
+    <sub-title>Trapper Creek Tragedy</sub-title>
+    <desc>Follow Alaska's lead NTSB investigators as they try to find the cause of two mysterious Cessna crashes.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20160320</date>
+    <category>Series</category>
+    <category>Reality</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419191500 +0500" stop="20260419201500 +0500">
+    <title>Alaska Aircrash Investigations</title>
+    <sub-title>Engine Out in Midair</sub-title>
+    <desc>What caused a Cessna 180 to go down on a routine flight, in good weather, just miles from its destination?</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20160327</date>
+    <category>Series</category>
+    <category>Reality</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/612433b0256bf20015ada072/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419201500 +0500" stop="20260419211500 +0500">
+    <title>Combat Ships</title>
+    <sub-title>Courageous Captains</sub-title>
+    <desc>A look at four heroic sailors who led thrilling missions during the Civil War, WWII, and Vietnam, and the warships they captained.</desc>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <date>20230326</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419211500 +0500" stop="20260419221500 +0500">
+    <title>Combat Ships</title>
+    <sub-title>Explosion!</sub-title>
+    <desc>Recounting some of maritime warfare's most spectacular explosions, from World Wars to Vietnam to the nuclear tests at Bikini Atoll.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <date>20230402</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Smithsonian-Channel-Selects-Pluto-US" start="20260419221500 +0500" stop="20260419231500 +0500">
+    <title>Combat Ships</title>
+    <sub-title>Hidden Figures</sub-title>
+    <desc>The compelling stories of Black sailors who fought for the right to fight for their country during the Civil War and through the 20th century.</desc>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <date>20230409</date>
+    <category>Documentary</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/651b4b70d193e8001bebef36/tile_1760883484335.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>
 </tv>

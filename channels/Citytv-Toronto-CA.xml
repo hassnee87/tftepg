@@ -3,325 +3,65 @@
   <channel id="Citytv-Toronto-CA">
     <display-name>Citytv Toronto</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Citytv-Toronto-CA.png" />
-  </channel><programme channel="Citytv-Toronto-CA" start="20260417000000 +0500" stop="20260417003000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>Cat-Nipped</sub-title>
-    <desc>A woman sues for pain and suffering when her healthcare is disturbed by a landlord's refusal to return her security deposit; to make matters worse, the landlord is allegedly scratched in the face by her cat.</desc>
-    <episode-num system="onscreen">S1 E60</episode-num>
+  </channel><programme channel="Citytv-Toronto-CA" start="20260419100000 +0500" stop="20260419103000 +0500">
+    <title>The Twilight Zone</title>
+    <sub-title>The 7th Is Made up of Phantoms</sub-title>
+    <desc>Modern National Guardsmen maneuvering at Little Big Horn find ominous signs of an impending Indian attack.</desc>
+    <episode-num system="onscreen">S5 E10</episode-num>
     <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2023</date>
+      <director>Alan Crosland</director>
+      <actor>Ron Foster</actor>
+      <actor>Randy Boone</actor>
+      <actor>Wayne Mallory</actor>
+    </credits><date>2013</date>
     <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417003000 +0500" stop="20260417010000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>Polyamorous Debt</sub-title>
-    <desc>An aspiring teacher sues for the $10K court maximum after her boyfriend invites another person to join their open relationship; she discovers that money borrowed for his business trip to Iowa was really being used on his new love interest.</desc>
-    <episode-num system="onscreen">S1 E84</episode-num>
-    <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417010000 +0500" stop="20260417013000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Gold Pocket-Watch Mystery</sub-title>
-    <desc>A $14k gold pocket watch is allegedly stolen by an online buyer who accuses an established Ebay salesman of sending him the wrong piece of jewelry.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417013000 +0500" stop="20260417020000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Car Repo Breakdown</sub-title>
-    <desc>A woman claims she was only a day late on a payment when her ex-friend repossessed her vehicle; her friend accuses her of filing a false restraining order for harassment.</desc>
-    <episode-num system="onscreen">S1 E93</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>CityNews at 5 Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858119_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>CityNews at 6 Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>The Hunting Party</title>
-    <sub-title>Byron May</sub-title>
-    <desc>Serial killer Byron May is back on the streets and secretly living inside someone else's home; with his new skills resembling the currently incarcerated Eastside Ripper, suspicions abound as to whether the wrong man might be in prison.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <director>Bethany Rooney</director>
-      <actor>Melissa Roxburgh</actor>
-      <actor>Nick Wechsler</actor>
-      <actor>Patrick Sabongui</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31955486_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Law &amp; Order</title>
-    <sub-title>Two and Twenty</sub-title>
-    <desc>A billionaire banker is murdered and the 2-7 must investigate his many clients and employees; Price and Maroun struggle to keep the jury's focus on the crime and not the victim's darker side.</desc>
-    <episode-num system="onscreen">S25 E4</episode-num>
-    <credits>
-      <director>Martha Mitchell</director>
-      <director>Norberto Barba</director>
-      <actor>Hugh Dancy</actor>
-      <actor>Odelya Halevi</actor>
-      <actor>Tony Goldwyn</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
     <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30834665_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417060000 +0500" stop="20260417070000 +0500">
-    <title>Law &amp; Order: Special Victims Unit</title>
-    <sub-title>Feed the Craving</sub-title>
-    <desc>When a woman in active labor is abducted, Rollins and Curry look to her doula for an account of events; Carisi tries to get a confession in front of the jury.</desc>
-    <episode-num system="onscreen">S27 E5</episode-num>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
     <category lang="en">Drama</category>
-    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895480_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419103000 +0500" stop="20260419110000 +0500">
+    <title>The Twilight Zone</title>
+    <sub-title>The Jeopardy Room</sub-title>
+    <desc>An assassin plots a unique death for a defector (Martin Landau).</desc>
+    <episode-num system="onscreen">S5 E29</episode-num>
+    <credits>
+      <director>Richard Donner</director>
+      <actor>Martin Landau</actor>
+      <actor>Robert Kelljan</actor>
+      <actor>John vanDreelen</actor>
+    </credits><date>1964</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
     <category lang="en">Thriller</category>
-    <category lang="en">Mystery</category>
+    <category lang="en">Drama</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30834692_b_h8_af.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p7895480_b_h10_aa.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>16</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
+      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417070000 +0500" stop="20260417080000 +0500">
-    <title>Law &amp; Order Toronto: Criminal Intent</title>
-    <sub-title>Skin Deep</sub-title>
-    <desc>Graff and Bateman are called to investigate when an aspiring model is found dead in a landfill during Toronto's Fashion Week.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <credits>
-      <actor>Aden Young</actor>
-      <actor>Kathleen Munroe</actor>
-      <actor>Karen Robinson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32512377_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A16</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417080000 +0500" stop="20260417083500 +0500">
-    <title>CityNews Tonight Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417083500 +0500" stop="20260417093700 +0500">
-    <title>Jimmy Kimmel Live!</title>
-    <sub-title>Molly Shannon; Weird Al Yankovic; Melanie Martinez</sub-title>
-    <desc>Actress Molly Shannon; musician Weird Al Yankovic; Melanie Martinez performs.</desc>
-    <episode-num system="onscreen">S24 E103</episode-num>
-    <credits>
-      <actor>Jimmy Kimmel</actor>
-      <actor>Molly Shannon</actor>
-      <actor>Weird Al Yankovic</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417093700 +0500" stop="20260417100000 +0500">
-    <title>Impractical Jokers</title>
-    <sub-title>Haunting of the Joker House</sub-title>
-    <desc>The Jokers' mothers visit as overprotective parents meeting a Joker's girlfriend; a Joker must convince a stranger to pose as his girlfriend for a Broadway outing with his mother.</desc>
-    <episode-num system="onscreen">S12 E10</episode-num>
-    <credits>
-      <actor>Brian "Q" Quinn</actor>
-      <actor>James "Murr" Murray</actor>
-      <actor>Sal Vulcano</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8665621_b_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
+      <value>PG</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417100000 +0500" stop="20260417110000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419110000 +0500" stop="20260419120000 +0500">
     <title>Hudson &amp; Rex</title>
-    <sub-title>Rexpert Witness</sub-title>
-    <desc>When an important trial is jeopardized after Sarah's testimony is challenged by a former rival in court, it's up to Charlie, Rex and the rest of the Major Crimes team to uncover new evidence to save the case before time runs out.</desc>
-    <episode-num system="onscreen">S5 E9</episode-num>
+    <sub-title>Hand of Cod</sub-title>
+    <desc>After a severed hand is found in a box of frozen cod, the team must uncover the identity of both the victim and the killer behind the grisly crime.</desc>
+    <episode-num system="onscreen">S5 E4</episode-num>
     <credits>
       <actor>John Reardon</actor>
       <actor>Mayko Nguyen</actor>
@@ -347,12 +87,12 @@
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
     </rating><rating system="Arcom">
       <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417110000 +0500" stop="20260417120000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419120000 +0500" stop="20260419130000 +0500">
     <title>Hudson &amp; Rex</title>
     <sub-title>The Good Shepherd</sub-title>
     <desc>When Rex is accused of attacking a decorated former police officer, Charlie enlists the help of an unorthodox ally to uncover the truth in the hopes of restoring Rex's position on the team.</desc>
@@ -387,46 +127,11 @@
     </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
       <value>K12</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417120000 +0500" stop="20260417130000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419130000 +0500" stop="20260419140000 +0500">
     <title>Hudson &amp; Rex</title>
-    <sub-title>Rexpert Witness</sub-title>
-    <desc>When an important trial is jeopardized after Sarah's testimony is challenged by a former rival in court, it's up to Charlie, Rex and the rest of the Major Crimes team to uncover new evidence to save the case before time runs out.</desc>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>Best Kind</sub-title>
-    <desc>When businessman Jake Kaufman is found dead on his yacht, all suspicion falls onto a deckhand who ran from the scene; as Mark and Rex search for motives and clues, it seems that the businessman's missing watch might be what the killer was after; Rex being unable to find traces of the watch on any of the suspects, the hunt for the elusive watch and the killer becomes a race against time to save another life.</desc>
-    <episode-num system="onscreen">S8 E3</episode-num>
+    <sub-title>Runaway Witness</sub-title>
+    <desc>A young lawyer is snatched off the street, but the team can't track her down until they locate the sole witness - a child who disappeared from the scene. Rex connects with the traumatized boy, who communicates primarily through drawing. The team races to uncover who is behind the kidnapping and at the centre of a money laundering scheme before the criminal rids themselves of their depreciating asset.</desc>
+    <episode-num system="onscreen">S8 E2</episode-num>
     <credits>
       <actor>Luke Roberts</actor>
       <actor>Mayko Nguyen</actor>
@@ -453,7 +158,7 @@
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417140000 +0500" stop="20260417143000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419140000 +0500" stop="20260419143000 +0500">
     <title>CityNews Tonight Toronto</title>
     <sub-title />
     <desc>Coverage of the day's top news stories.</desc>
@@ -461,7 +166,7 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417143000 +0500" stop="20260417150000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419143000 +0500" stop="20260419150000 +0500">
     <title>CityNews Tonight Toronto</title>
     <sub-title />
     <desc>Coverage of the day's top news stories.</desc>
@@ -469,339 +174,40 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417150000 +0500" stop="20260417190000 +0500">
-    <title>Breakfast Television</title>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419150000 +0500" stop="20260419153000 +0500">
+    <title>CityNews Tonight Toronto</title>
     <sub-title />
-    <desc>The Arkells join us in studio; former professional hockey player Luke Gazdic stops by; outdoor decor trends worth tapping into this season.</desc>
-    <episode-num system="onscreen">E76</episode-num>
-    <credits>
-      <actor>Dina Pugliese</actor>
-      <actor>Tim Bolen</actor>
-      <actor>Frank Ferragine</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Newsmagazine</category>
+    <desc>Coverage of the day's top news stories.</desc>
+    <date>2019</date>
+    <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p9093159_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>The Kelly Clarkson Show</title>
-    <sub-title />
-    <desc>Cameoke: "I Got a New One"; Nick Offerman; "Epic Story Time"; Aaron Tveit; Dav Pilkey; Dasha performs; WIL: Anthony Davis.</desc>
-    <episode-num system="onscreen">S7 E117</episode-num>
+    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419153000 +0500" stop="20260419160000 +0500">
+    <title>Fish TV</title>
+    <sub-title>Inconnu Lodge</sub-title>
+    <desc>Leo &amp; Jason finally get to cross off the Yukon as a bucket list trip. Trip of a lifetime.</desc>
+    <episode-num system="onscreen">E6</episode-num>
     <credits>
-      <actor>Kelly Clarkson</actor>
-      <actor>Nick Offerman</actor>
-      <actor>Aaron Tveit</actor>
-    </credits><date>2026</date>
+      <actor>Leo Stakos</actor>
+      <actor>Ron James</actor>
+      <actor>Jeff Chisholm</actor>
+    </credits><date>2025</date>
     <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Variety</category>
-    <category lang="en">Entertainment</category>
+    <category lang="en">Fishing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>The Price Is Right</title>
-    <sub-title />
-    <desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
-    <episode-num system="onscreen">S54 E135</episode-num>
-    <credits>
-      <actor>Drew Carey</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p687113_b_h8_ae.jpg?w=960&amp;h=540" />
     <rating system="USA Parental Rating">
       <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Let's Make a Deal</title>
-    <sub-title />
-    <desc>Costumed contestants compete for cash and prizes.</desc>
-    <episode-num system="onscreen">S17 E139</episode-num>
-    <credits>
-      <actor>Wayne Brady</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31082663_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
     </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417220000 +0500" stop="20260417223000 +0500">
-    <title>Family Feud</title>
-    <sub-title />
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <episode-num system="onscreen">S25 E135</episode-num>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417223000 +0500" stop="20260417230000 +0500">
-    <title>Family Feud</title>
-    <sub-title />
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <episode-num system="onscreen">S25 E132</episode-num>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits><date>2024</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>General Hospital</title>
-    <sub-title />
-    <desc>Ethan Lovett returns; Kristina is caught off-guard; Willow confronts Jacinda; Nina receives an intriguing offer; Laura proposes an alliance.</desc>
-    <episode-num system="onscreen">S63 E151</episode-num>
-    <credits>
-      <actor>Maurice Benard</actor>
-      <actor>Steve Burton</actor>
-      <actor>Michael Easton</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418000000 +0500" stop="20260418003000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>Polyamorous Debt</sub-title>
-    <desc>An aspiring teacher sues for the $10K court maximum after her boyfriend invites another person to join their open relationship; she discovers that money borrowed for his business trip to Iowa was really being used on his new love interest.</desc>
-    <episode-num system="onscreen">S1 E84</episode-num>
-    <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418003000 +0500" stop="20260418010000 +0500">
-    <title>Tribunal Justice</title>
-    <sub-title>From Big Brother to Broken Lease</sub-title>
-    <desc>A mentor-mentee relationship among roommates breaks down after a clash over chaotic living; a visiting girlfriend, and a surprise Rottweiler partial to gnawing on furniture.</desc>
-    <episode-num system="onscreen">S1 E85</episode-num>
-    <credits>
-      <actor>Petri Hawkins-Byrd</actor>
-      <actor>Patricia DiMango</actor>
-      <actor>Tanya Acker</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24616934_b_h10_ad.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418010000 +0500" stop="20260418013000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Wrought-Iron Rage</sub-title>
-    <desc>A welder is accused of damaging a decorative, iron gate when his client did not come up with the agreed-upon cash payment for his services.</desc>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418013000 +0500" stop="20260418020000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Father and Son Payback</sub-title>
-    <desc>A man cites his mother's death and jail time for back child-support as obstacles preventing him from paying his father back for a loan.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>CityNews at 5 Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858119_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>CityNews at 6 Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418040000 +0500" stop="20260418043000 +0500">
-    <title>Family Feud</title>
-    <sub-title />
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <episode-num system="onscreen">S27 E59</episode-num>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418043000 +0500" stop="20260418050000 +0500">
-    <title>Family Feud</title>
-    <sub-title />
-    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
-    <episode-num system="onscreen">S27 E74</episode-num>
-    <credits>
-      <actor>Steve Harvey</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418050000 +0500" stop="20260418060100 +0500">
-    <title>The Price Is Right Tonight</title>
-    <sub-title>Dreams on the Line</sub-title>
-    <desc>Inviting lucky bidders to test their mastery of retail pricing; a coffee barista hopes to take more than just the big wheel for a spin.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32537527_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418060100 +0500" stop="20260418080000 +0500">
-    <title>Dateline NBC</title>
-    <sub-title>Deadly Swagger</sub-title>
-    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
-    <episode-num system="onscreen">S34 E21</episode-num>
-    <credits>
-      <actor>Lester Holt</actor>
-      <actor>Andrea Canning</actor>
-      <actor>Josh Mankiewicz</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Newsmagazine</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418080000 +0500" stop="20260418083500 +0500">
-    <title>CityNews Tonight Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418083500 +0500" stop="20260418093700 +0500">
-    <title>Jimmy Kimmel Live!</title>
-    <sub-title />
-    <desc>Emmy-winning funnyman Jimmy Kimmel serves up comedy bits and welcomes guests that include other comics, celebrities, athletes and musicians, as well as everyday people with unusual or compelling personal stories. Kimmel's family and friends take part in the festivities, including his Cousin Sal, Uncle Frank (until his death in 2011) and childhood friend Cleto Escobedo III, who leads the show's house band. Recurring segments include the FCC-pleasing This Week in Unnecessary Censorship in which they take TV clips and "bleep and blur things whether they need it or not," as Kimmel describes it. But it's too bad they consistently run out of time for Matt Damon's segment.</desc>
-    <credits>
-      <actor>Jimmy Kimmel</actor>
-    </credits><date>2003</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31166959_b_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418093700 +0500" stop="20260418100000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419160000 +0500" stop="20260419163000 +0500">
     <title>Impractical Jokers</title>
-    <sub-title>Revenge of the Joker</sub-title>
-    <desc>The Jokers are back playing lawyers, trying to convince unsuspecting focus group participants to sign off on ridiculous terms and conditions before they go in. Then they put their family businesses to the test by asking strangers if their radio ad is good to stay on the air. Later, one joker will be getting revenge in an elaborate punishment that the other two are really going to feel.</desc>
-    <episode-num system="onscreen">S12 E11</episode-num>
+    <sub-title>Vac Attack</sub-title>
+    <desc>The Jokers are hitting the floor as restaurant owners of a New York Pizzeria, forced to say and do whatever wacky things the other guys tell them to. Later, they're back at Tompkins Square bagels trying to hunt down a customer that left a scathing review. Then, the losing joker is in for a punishment that really sucks.</desc>
+    <episode-num system="onscreen">S12 E12</episode-num>
     <credits>
       <actor>Brian "Q" Quinn</actor>
       <actor>James "Murr" Murray</actor>
@@ -829,391 +235,171 @@
     </rating><rating system="Arcom">
       <value>-10</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418100000 +0500" stop="20260418110000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>The Cook, The Chief, The Cop and His Lover</sub-title>
-    <desc>Charlie and Rex sniff out the suspects when the Chief Superintendent of the St. John's Police Department dies at a popular restaurant and all signs point to poison.</desc>
-    <episode-num system="onscreen">S5 E19</episode-num>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419163000 +0500" stop="20260419170000 +0500">
+    <title>The Canadian Tradition</title>
+    <sub-title>Ladies Deer Camp "Patience"</sub-title>
+    <desc>Join Host Brittany Wright hits the field for our 4th Annual Ladies Deer Camp edition. - Part #1.</desc>
+    <episode-num system="onscreen">S17 E111 P1/2</episode-num>
     <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2023</date>
+      <actor>Taylor Wright</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
+    <category lang="en">Outdoors</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p8007609_b_h8_ab.jpg?w=960&amp;h=540" />
     <rating system="Canadian Parental Rating">
       <value>PG</value>
     </rating><rating system="USA Parental Rating">
       <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418110000 +0500" stop="20260418120000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>One for the Road</sub-title>
-    <desc>Charlie and Rex try to take down a car theft ring after one of the team is injured trying to stop a theft in progress.</desc>
-    <episode-num system="onscreen">S5 E20</episode-num>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419170000 +0500" stop="20260419173000 +0500">
+    <title>Canada in the Rough</title>
+    <sub-title>Bears of Every Colour</sub-title>
+    <desc>Paul Beasley is archery hunting black bears in the Duck Mountains of Manitoba; having colour phase bear encounters.</desc>
+    <episode-num system="onscreen">E2</episode-num>
     <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418120000 +0500" stop="20260418130000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>One Wild Night</sub-title>
-    <desc>The maid-of-honor winds up dead after a bachelorette party; it ́s up to Charlie and Rex to untangle the events of the night.</desc>
-    <episode-num system="onscreen">S5 E10</episode-num>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418130000 +0500" stop="20260418140000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>Bird's Eye View</sub-title>
-    <desc>Birdwatching tourists are ruffled when they spy the body of a landowner who had hidden the nesting site of the rare Red Crossbills from them. When the team unearths a ruby from a 25-year-old jewelry heist connected to the case, Rex tracks the birdsong to find the treasure at the secret nesting site, before the killer can get there first and destroy the endangered birds standing in his way.</desc>
-    <episode-num system="onscreen">S8 E8</episode-num>
-    <credits>
-      <director>Eleanore Lindo</director>
-      <actor>Luke Roberts</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31188264_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418140000 +0500" stop="20260418143000 +0500">
-    <title>CityNews Tonight Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418143000 +0500" stop="20260418153000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>Lost in the Barrens</sub-title>
-    <desc>When a young woman goes missing in The Barrens, suspicion turns to the woman's boyfriend; it's up to the team to uncover the truth behind her disappearance.</desc>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418153000 +0500" stop="20260418160000 +0500">
-    <title>CityNews Tonight Toronto</title>
-    <sub-title />
-    <desc>Coverage of the day's top news stories.</desc>
-    <date>2019</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418160000 +0500" stop="20260418163000 +0500">
-    <title>Angler and Hunter</title>
-    <sub-title>Crossbow Deer Hunt</sub-title>
-    <desc>Mike looks to tag a deer and save his deer season using a crossbow.</desc>
-    <episode-num system="onscreen">S2026 E8</episode-num>
-    <date>2026</date>
+      <actor>Paul Beasley</actor>
+      <actor>Keith Beasley</actor>
+      <actor>Kevin Beasley</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Outdoors</category>
     <category lang="en">Hunting</category>
-    <category lang="en">Fishing</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p24551376_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418163000 +0500" stop="20260418180000 +0500">
-    <title>Camoes TV</title>
-    <sub-title />
-    <desc>The latest in local and international Portuguese news and entertainment.</desc>
-    <date>2018</date>
-    <category lang="en">Community</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15108234_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418180000 +0500" stop="20260418190000 +0500">
-    <title>Polish Studio</title>
-    <sub-title />
-    <desc>The St. Stanislaus-St. Casimir ́s Polish parishe's own hour long broadcast in Polish associated with CHIN and broadcast on Citytv on Saturday morning.</desc>
-    <date>2000</date>
-    <category lang="en">Community</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p858786_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p216969_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
       <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418190000 +0500" stop="20260418193000 +0500">
-    <title>The Marc &amp; Mandy Show</title>
-    <sub-title />
-    <desc>Topics include home décor, parenting, food, fashion, fitness and wellness.</desc>
-    <credits>
-      <actor>Marc Atiyolil</actor>
-      <actor>Mandy Atiyolil</actor>
-    </credits><date>2015</date>
-    <category lang="en">Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12007313_b_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418193000 +0500" stop="20260418200000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Unwanted Dog Pregnancy; Divorced Parents' Dispute</sub-title>
-    <desc>A woman refuses to leave a man's home without her puppy pick-of-the-litter; he claims he never wanted to breed his pet with her mixed breed dog; divorced parents fight over an alleged assault, stimulus money and restraining orders.</desc>
-    <episode-num system="onscreen">S1 E49</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418200000 +0500" stop="20260418210000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>Due North</sub-title>
-    <desc>Rex seeks help from Detective Sidney Scott to save his stranded and injured friends.</desc>
-    <episode-num system="onscreen">S5 E16</episode-num>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
+    </rating><rating system="Canadian Parental Rating">
       <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
     </rating><rating system="Régie du cinéma">
       <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418210000 +0500" stop="20260418220000 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>The Miranda Act</sub-title>
-    <desc>Charlie's Aunt Miranda and her friends are caught investigating an investment fraud scheme, so it's up to Charlie and Rex to get to the source of the fraud.</desc>
-    <episode-num system="onscreen">S5 E13</episode-num>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419173000 +0500" stop="20260419180000 +0500">
+    <title>Impractical Jokers</title>
+    <sub-title>Subscribe to Survive</sub-title>
+    <desc>The Jokers are back as wacky inventors pitching a whole new line of AI-themed gadgets; they fill out bogus incident reports with unsuspecting deli customers; the loser will be forced to demonstrate mentally absurd and physically grueling apps.</desc>
+    <episode-num system="onscreen">S12 E13</episode-num>
     <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits><date>2023</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418220000 +0500" stop="20260418223000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Star Athlete's Tragic Accident</sub-title>
-    <desc>A college basketball star totals an ex-girlfriend's vehicle in an accident that leaves him comatose; after recovering, he is sued for totaling her car and for alleged theft.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2021</date>
+      <actor>Brian "Q" Quinn</actor>
+      <actor>James "Murr" Murray</actor>
+      <actor>Sal Vulcano</actor>
+    </credits><date>2026</date>
     <category lang="en">Series</category>
     <category lang="en">Reality</category>
-    <category lang="en">Law</category>
+    <category lang="en">Comedy</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>0</value>
-    </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418223000 +0500" stop="20260418230000 +0500">
-    <title>Judy Justice</title>
-    <sub-title>Car Title Takeover; Vegas Drinking Binge</sub-title>
-    <desc>A man demands that his ex-girlfriend sign a car title over to him but admits he has no driver's license or insurance; when a woman passed out in a Las Vegas airport, her travel partner says she missed a flight in order to take care of her.</desc>
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <credits>
-      <director>Randy Douthit</director>
-      <actor>Judy Sheindlin</actor>
-      <actor>Kevin Rasco</actor>
-      <actor>Whitney Kumar</actor>
-    </credits><date>2021</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20641302_b_h10_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="USA Parental Rating">
+    <icon src="http://dtil.tmsimg.com/assets/p8665621_b_h8_bb.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
       <value>TV14</value>
     </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
       <value>6</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418230000 +0500" stop="20260418233000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>CMCTV Em Destaque</title>
+    <sub-title />
+    <desc>Covering the Portuguese speaking communities showcasing events, interviews, music and news stories from both Canada and abroad.</desc>
+    <date>2018</date>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16261047_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419190000 +0500" stop="20260419193000 +0500">
+    <title>Church of the Rock</title>
+    <sub-title>Kicking the Bucket List Pt. 2: To Live</sub-title>
+    <desc>Helping people to know God, live free, and find purpose; with pastor Mark Hughes.</desc>
+    <episode-num system="onscreen">E18</episode-num>
+    <credits>
+      <actor>Mark Hughes</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Religious</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p624233_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419193000 +0500" stop="20260419200000 +0500">
+    <title>2 Broke Girls</title>
+    <sub-title>And the Upstairs Neighbor</sub-title>
+    <desc>Max and Caroline are suspicious of their new neighbor when they receive a threatening note.</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <credits>
+      <director>Thomas Kail</director>
+      <actor>Kat Dennings</actor>
+      <actor>Beth Behrs</actor>
+      <actor>Garrett Morris</actor>
+    </credits><date>2012</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8808502_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419200000 +0500" stop="20260419220000 +0500">
+    <title>A Bridesmaid in Love</title>
+    <sub-title />
+    <desc>While helping her best friend prepare for her wedding day, perpetual bridesmaid Cate James meets her handsome brother, Matt. Just as the perfect pair start to get close, old flames come back into the picture to confuse Cate even more.</desc>
+    <credits>
+      <director>Aubrey Arnason</director>
+      <actor>Tori Anderson</actor>
+      <actor>Sean Poague</actor>
+      <actor>Eva Tavares</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Romantic comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21316167_v_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>U</value>
+    </rating><rating system="UK Content Provider">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419220000 +0500" stop="20260419223000 +0500">
     <title>Storage Wars</title>
-    <sub-title>Bits and Pizzas</sub-title>
-    <desc>The King of Montebello can't wait to see what he can drum up this time around; Rene sniffs out a great locker, stepping over the competition to get it; Kenny does his best to fire up his profits; Brandi can't see the potential in the units.</desc>
-    <episode-num system="onscreen">S13 E2</episode-num>
+    <sub-title>Santanas Are Coming to Town</sub-title>
+    <desc>Recently separated, Brandi and Jarrod find themselves at the same auction, and tensions flare; she gets the Laura treatment, and he regresses to his childhood self; Ivy schools Ivy Jr., who needs to find his footing.</desc>
+    <episode-num system="onscreen">S13 E1</episode-num>
     <credits>
       <actor>Darrell Sheets</actor>
       <actor>Jarrod Schulz</actor>
@@ -1244,11 +430,260 @@
     </rating><rating system="UK Content Provider">
       <value>PG</value>
     </rating>
-  </programme><programme channel="Citytv-Toronto-CA" start="20260418233000 +0500" stop="20260419000000 +0500">
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419223000 +0500" stop="20260419230000 +0500">
     <title>Storage Wars</title>
-    <sub-title>Queen-baya!</sub-title>
-    <desc>The buyers get wind of some interesting units in Santa Clarita; Ivy and Isaiah choose quantity over quality; Brandi gets fancy sneaking a unit from everyone else; Kenny finds himself searching for his soul sister.</desc>
-    <episode-num system="onscreen">S13 E6</episode-num>
+    <sub-title>Let My Lockers Go</sub-title>
+    <desc>Ivy confuses profit with prophet but still manages to climb his way to success; Kenny tries to honor the history of San Bernardino, recording a win along the way; Brandi shows her literary prowess volume by volume.</desc>
+    <episode-num system="onscreen">S13</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260419230000 +0500" stop="20260420000000 +0500">
+    <title>The Emily Michelle Project</title>
+    <sub-title>Mid Century Mom Mode</sub-title>
+    <desc>Emily juggles a five-week mid-century renovation and her son's bedroom makeover, battling asbestos and setbacks to prove smart design and grit can overcome any obstacle.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Emily Michelle</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32582750_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420000000 +0500" stop="20260420010000 +0500">
+    <title>The County</title>
+    <sub-title>Tale of Three Bedrooms</sub-title>
+    <desc>From a farmhouse attic to a historic family home, Sarah and SKDS create bedrooms.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Sarah Keenleyside</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Home improvement</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32754153_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420010000 +0500" stop="20260420013000 +0500">
+    <title>House Hunters Australia</title>
+    <sub-title>Bridget and Paul</sub-title>
+    <desc>Bridget wants a Hamptons-style cottage with a pool, while Paul seeks a home with character and a toolshed; will they find their dream home?</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <credits>
+      <actor>Georgie Tunny</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30151458_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420013000 +0500" stop="20260420020000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>The Jenny, the Baker, the Prosthetics Maker</sub-title>
+    <desc>Jarrod takes Brandi to an auction on her birthday; Darrell tries to find another "All Ten" locker; Rene stands his ground to protect his honor; Mary brings in her pal from Texas to put her California counterparts in their place.</desc>
+    <episode-num system="onscreen">S12 E1</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420020000 +0500" stop="20260420023000 +0500">
+    <title>Come Dine With Me Canada 2025</title>
+    <sub-title>Niagara Night 1: Hawklene</sub-title>
+    <desc>Canada's top home chefs battle for a grand prize and bragging rights over five unforgettable nights!</desc>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31901275_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420023000 +0500" stop="20260420030000 +0500">
+    <title>Come Dine With Me Canada 2025</title>
+    <sub-title>Niagara Night 2 : Alex</sub-title>
+    <desc>Canada's top home chefs battle for a grand prize and bragging rights over five unforgettable nights!</desc>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Cooking</category>
+    <category lang="en">Competition Reality</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31901275_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420030000 +0500" stop="20260420040000 +0500">
+    <title>CityNews at 6 Toronto</title>
+    <sub-title />
+    <desc>Coverage of the day's top news stories.</desc>
+    <date>2019</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16858124_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420040000 +0500" stop="20260420050000 +0500">
+    <title>Property Brothers: Under Pressure</title>
+    <sub-title>One Day to Decide</sub-title>
+    <desc>After years spent caring for her mother, a woman's ready to restart her life in Los Angeles, and she has just a single day to search. She's turning to Jonathan and Drew to help stretch every dollar and land a place that supports her next chapter.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Home improvement</category>
+    <category lang="en">House/garden</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32322427_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420050000 +0500" stop="20260420060000 +0500">
+    <title>The Price Is Right Tonight</title>
+    <sub-title>Trip of a Lifetime</sub-title>
+    <desc>Players get to come on down for a night of games and prizes.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32537527_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420060000 +0500" stop="20260420070000 +0500">
+    <title>Blue Skies</title>
+    <sub-title>Shadows of the Pack</sub-title>
+    <desc>When a protected wolf and her pups go missing in Crystal Ridge, the NPS team are thrust into action, needing to find the culprit and the pups before it's too late.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <director>David Straiton</director>
+      <director>David Strasser</director>
+      <director>Jason Bourque</director>
+      <actor>Scarlet Hunter</actor>
+      <actor>Veronica Long</actor>
+      <actor>Markian Tarasiuk</actor>
+    </credits><category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32224849_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420070000 +0500" stop="20260420080000 +0500">
+    <title>Hudson &amp; Rex</title>
+    <sub-title>Rexit, Stage Left</sub-title>
+    <desc>When a starlet is killed onstage, Rex takes on a starring role while Charlie goes behind the scenes.</desc>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <credits>
+      <actor>John Reardon</actor>
+      <actor>Mayko Nguyen</actor>
+      <actor>Kevin Hanchard</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420080000 +0500" stop="20260420083000 +0500">
+    <title>CityNews Tonight Toronto</title>
+    <sub-title />
+    <desc>Coverage of the day's top news stories.</desc>
+    <date>2019</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420083000 +0500" stop="20260420090000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Rules #1</sub-title>
+    <desc>Ivy brings his son to Moreno Valley, where good things always happen, and leaves with yo-yo's of an unexpected kind; Rene and Casey discover that their shoes are more "air" and less "Jordan.".</desc>
+    <episode-num system="onscreen">S13 E5</episode-num>
     <credits>
       <actor>Darrell Sheets</actor>
       <actor>Jarrod Schulz</actor>
@@ -1278,6 +713,406 @@
       <value>AL</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420090000 +0500" stop="20260420093000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>A Plane Flew Over the Cuckoo's Nest</sub-title>
+    <desc>The gang is on final approach in Riverside; Darrell listens to his sports sense, and it pays off; Ivy and Ivy get distracted by a decoy but manage to find the bills in the end; Brandi tries to teach Danielle a lesson about the true meaning of trash.</desc>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420093000 +0500" stop="20260420100000 +0500">
+    <title>Storage Wars</title>
+    <sub-title>Game of Groans: Whittier Is Coming</sub-title>
+    <desc>Kenny tries to reclaim the title of King of Whittier but has trouble amassing any shillings; Ivy &amp; Ivy brave the cold to find their fortunes; Lisa finally graduates to full-fledged buyer, finding an unlikely mentor along the way.</desc>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <credits>
+      <actor>Darrell Sheets</actor>
+      <actor>Jarrod Schulz</actor>
+      <actor>Brandi Passante</actor>
+    </credits><date>2021</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Auction</category>
+    <category lang="en">Collectibles</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8354064_b_h8_at.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420100000 +0500" stop="20260420103000 +0500">
+    <title>The Twilight Zone</title>
+    <sub-title>The Grave</sub-title>
+    <desc>A hired gunman defies a western outlaw's warning that if he ever came near his grave he'd reach up and snatch away his life.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <credits>
+      <director>Montgomery Pittman</director>
+      <actor>Lee Marvin</actor>
+      <actor>Strother Martin</actor>
+      <actor>Lee Van Cleef</actor>
+    </credits><date>1961</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895479_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420103000 +0500" stop="20260420110000 +0500">
+    <title>The Twilight Zone</title>
+    <sub-title>Caesar and Me</sub-title>
+    <desc>A down-at-the heels ventriloquist is the victim of both his gangster-like dummy and a strangely evil little girl.</desc>
+    <episode-num system="onscreen">S5 E28</episode-num>
+    <credits>
+      <director>Robert Butler</director>
+      <actor>Jackie Cooper</actor>
+      <actor>Stafford Repp</actor>
+      <actor>Sarah Selby</actor>
+    </credits><date>2013</date>
+    <category lang="en">Series</category>
+    <category lang="en">Anthology</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895480_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420110000 +0500" stop="20260420120000 +0500">
+    <title>Hudson &amp; Rex</title>
+    <sub-title>Punch Drunk Glove</sub-title>
+    <desc>When Charlie's estranged brother is accused of the death of his recent boxing opponent, Charlie and the team wrestle with the possibility of his guilt.</desc>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <credits>
+      <actor>John Reardon</actor>
+      <actor>Mayko Nguyen</actor>
+      <actor>Kevin Hanchard</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420120000 +0500" stop="20260420130000 +0500">
+    <title>Hudson &amp; Rex</title>
+    <sub-title>Run, Donovan, Run</sub-title>
+    <desc>When Superintendent Donovan transports an inmate, who happens to be his former partner, he finds himself confronting the past and caught up in a daring and dangerous escape.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <credits>
+      <actor>John Reardon</actor>
+      <actor>Mayko Nguyen</actor>
+      <actor>Kevin Hanchard</actor>
+    </credits><date>2022</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420130000 +0500" stop="20260420140000 +0500">
+    <title>Hudson &amp; Rex</title>
+    <sub-title>Lost and Found</sub-title>
+    <desc>Charlie gets a break in a long-unsolved kidnapping case that has haunted him, but runs into trouble when the abductee refuses his help.</desc>
+    <episode-num system="onscreen">S5 E17</episode-num>
+    <credits>
+      <actor>John Reardon</actor>
+      <actor>Mayko Nguyen</actor>
+      <actor>Kevin Hanchard</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16646888_b_h8_bh.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420140000 +0500" stop="20260420143000 +0500">
+    <title>Family Feud</title>
+    <sub-title />
+    <desc>Steve Harvey assumes the hosting duties for this daytime game show in which five members of one family are pitted against five members of another family. Each team's goal is to guess the results of audience survey questions. A player from each team initially faces off, answering the question to earn the chance to either pass or play. The winning family gets a chance to earn extra cash in a bonus round.</desc>
+    <credits>
+      <actor>Steve Harvey</actor>
+    </credits><date>2010</date>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30902616_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420143000 +0500" stop="20260420150000 +0500">
+    <title>CityNews Tonight Toronto</title>
+    <sub-title />
+    <desc>Coverage of the day's top news stories.</desc>
+    <date>2019</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16858130_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420150000 +0500" stop="20260420173000 +0500">
+    <title>Breakfast Television Toronto</title>
+    <sub-title />
+    <desc>The latest in local news, weather and traffic, as well as celebrity interviews and lifestyle trends.</desc>
+    <credits>
+      <actor>Dina Pugliese</actor>
+      <actor>Melanie Ng</actor>
+    </credits><date>2000</date>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p599792_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420173000 +0500" stop="20260420190000 +0500">
+    <title>Breakfast Television</title>
+    <sub-title />
+    <desc>We're celebrating Volunteer Recognition Day on BT! Watch our hosts volunteer at various locations across the GTA. We're spotlighting inspiring volunteers all morning long.</desc>
+    <episode-num system="onscreen">E77</episode-num>
+    <credits>
+      <actor>Dina Pugliese</actor>
+      <actor>Tim Bolen</actor>
+      <actor>Frank Ferragine</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9093159_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Kellyoke: "In My Head"; Jaafar Jackson and Juliano Valdi; Charithra Chandran; Girls in the Game; "Elvis, 'Rocky' &amp; Me: The Carol Connors Story"; Chad King performs.</desc>
+    <episode-num system="onscreen">S7 E118</episode-num>
+    <credits>
+      <actor>Kelly Clarkson</actor>
+      <actor>Jaafar Jackson</actor>
+      <actor>Juliano Valdi</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>The Price Is Right</title>
+    <sub-title />
+    <desc>Participants must guess the prices of different types of items, ranging from vehicles to electronic appliances, to win a prize.</desc>
+    <episode-num system="onscreen">S54 E136</episode-num>
+    <credits>
+      <actor>Drew Carey</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31082639_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Let's Make a Deal</title>
+    <sub-title />
+    <desc>Costumed contestants compete for cash and prizes.</desc>
+    <episode-num system="onscreen">S17 E140</episode-num>
+    <credits>
+      <actor>Wayne Brady</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31082663_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420220000 +0500" stop="20260420223000 +0500">
+    <title>Family Feud</title>
+    <sub-title />
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <episode-num system="onscreen">S25 E137</episode-num>
+    <credits>
+      <actor>Steve Harvey</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420223000 +0500" stop="20260420230000 +0500">
+    <title>Family Feud</title>
+    <sub-title />
+    <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+    <episode-num system="onscreen">S25 E134</episode-num>
+    <credits>
+      <actor>Steve Harvey</actor>
+    </credits><date>2024</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8314079_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Citytv-Toronto-CA" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>General Hospital</title>
+    <sub-title />
+    <desc>Ethan and Kristina catch up; Sonny gets an unexpected visitor; Michael gets new intel; Willow is determined; Carly is startled.</desc>
+    <episode-num system="onscreen">S63 E152</episode-num>
+    <credits>
+      <actor>Maurice Benard</actor>
+      <actor>Steve Burton</actor>
+      <actor>Michael Easton</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Soap</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>

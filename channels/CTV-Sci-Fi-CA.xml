@@ -3,1452 +3,7 @@
   <channel id="CTV-Sci-Fi-CA">
     <display-name>CTV Sci-Fi</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Sci-Fi-CA.png" />
-  </channel><programme channel="CTV-Sci-Fi-CA" start="20260417000000 +0500" stop="20260417010000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Into the Fire</sub-title>
-    <desc>Imprisoned on Hathor's planet, the team has only one hope of escape.</desc>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417010000 +0500" stop="20260417020000 +0500">
-    <title>Killjoys</title>
-    <sub-title>The Kids Are Alright</sub-title>
-    <desc>Team Awesome Force sneaks onto the RAC to rescue Westerly's stolen children; Zeph and Pip grow closer.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <credits>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Aaron Ashmore</actor>
-      <actor>Luke MacFarlane</actor>
-    </credits><date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417020000 +0500" stop="20260417030000 +0500">
-    <title>Castle</title>
-    <sub-title>Setup</sub-title>
-    <desc>While investigating an apparent robbery/homicide, Beckett and Castle discover the victim was involved in a mysterious conspiracy; as the stakes rise, a federal agent (Adrian Pasdar) takes over the case.</desc>
-    <episode-num system="onscreen">S3 E16 P1/2</episode-num>
-    <credits>
-      <director>Rob Bowman</director>
-      <actor>Nathan Fillion</actor>
-      <actor>Stana Katic</actor>
-      <actor>Susan Sullivan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417030000 +0500" stop="20260417040000 +0500">
-    <title>Star Trek: Voyager</title>
-    <sub-title>Year of Hell</sub-title>
-    <desc>The Voyager tangles with the Krenim whose ultimate weapon-ship manipulates time to erase their enemies.</desc>
-    <episode-num system="onscreen">S4 E8 P1/2</episode-num>
-    <credits>
-      <director>Allan Kroeker</director>
-      <actor>Kate Mulgrew</actor>
-      <actor>Robert Beltran</actor>
-      <actor>Roxann Dawson</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895689_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417040000 +0500" stop="20260417050000 +0500">
-    <title>Star Trek: Voyager</title>
-    <sub-title>Year of Hell, Part II</sub-title>
-    <desc>Capt. Janeway valiantly tries to save the crippled Voyager from the Krenim weapon ship; Chakotay finds himself fascinated by Annorax's temporal mechanics lessons.</desc>
-    <episode-num system="onscreen">S4 E8 P2/2</episode-num>
-    <credits>
-      <director>Michael Vejar</director>
-      <actor>Kate Mulgrew</actor>
-      <actor>Robert Beltran</actor>
-      <actor>Roxann Dawson</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895689_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417050000 +0500" stop="20260417060000 +0500">
-    <title>Star Trek: Voyager</title>
-    <sub-title>Random Thoughts</sub-title>
-    <desc>Violent thoughts lead Torres to jail when the crew vacations on a planet among peaceful telepaths.</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <credits>
-      <director>Alexander Singer</director>
-      <actor>Kate Mulgrew</actor>
-      <actor>Robert Beltran</actor>
-      <actor>Roxann Dawson</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895689_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417060000 +0500" stop="20260417070500 +0500">
-    <title>Peacemaker</title>
-    <sub-title>A Man Is Only As Good As His Bird</sub-title>
-    <desc>As Economos clashes with his new handler, Peacemaker must deal with the consequences of his actions in the alternate dimension.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <credits>
-      <actor>John Cena</actor>
-      <actor>Danielle Brooks</actor>
-      <actor>Freddie Stroma</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20861895_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417070500 +0500" stop="20260417080000 +0500">
-    <title>Peacemaker</title>
-    <sub-title>Another Rick Up My Sleeve</sub-title>
-    <desc>As Peacemaker receives praise as a hero, he uses the alternate dimension to deepen his bond with Harcourt; Economos faces criticism for the mission's failure.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <actor>John Cena</actor>
-      <actor>Danielle Brooks</actor>
-      <actor>Freddie Stroma</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20861895_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417080000 +0500" stop="20260417090000 +0500">
-    <title>The Librarians</title>
-    <sub-title>And the Horns of a Dilemma</sub-title>
-    <desc>The librarians' first solo mission hits a snag when Baird loses the others in a mysterious labyrinth that magically exists below the skyscraper of a modern corporation.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Marc Roskin</director>
-      <actor>Rebecca Romijn</actor>
-      <actor>Christian Kane</actor>
-      <actor>Lindy Booth</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10783326_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417090000 +0500" stop="20260417100000 +0500">
-    <title>The Librarians</title>
-    <sub-title>And Santa's Midnight Run</sub-title>
-    <desc>When the Serpent Brotherhood wants to kill Santa, the librarians must rescue him and help him accomplish the secret purpose of Christmas.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Jonathan Frakes</director>
-      <actor>Rebecca Romijn</actor>
-      <actor>Christian Kane</actor>
-      <actor>Lindy Booth</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10783326_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417100000 +0500" stop="20260417110500 +0500">
-    <title>Peacemaker</title>
-    <sub-title>A Man Is Only As Good As His Bird</sub-title>
-    <desc>As Economos clashes with his new handler, Peacemaker must deal with the consequences of his actions in the alternate dimension.</desc>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <credits>
-      <actor>John Cena</actor>
-      <actor>Danielle Brooks</actor>
-      <actor>Freddie Stroma</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20861895_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417110500 +0500" stop="20260417120000 +0500">
-    <title>Peacemaker</title>
-    <sub-title>Another Rick Up My Sleeve</sub-title>
-    <desc>As Peacemaker receives praise as a hero, he uses the alternate dimension to deepen his bond with Harcourt; Economos faces criticism for the mission's failure.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <credits>
-      <actor>John Cena</actor>
-      <actor>Danielle Brooks</actor>
-      <actor>Freddie Stroma</actor>
-    </credits><date>2025</date>
-    <category lang="en">Series</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20861895_b_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVMA</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>16+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>18</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417120000 +0500" stop="20260417130000 +0500">
-    <title>Star Trek: Voyager</title>
-    <sub-title>Concerning Flight</sub-title>
-    <desc>Voyager encounters a space pirate who uses a transporter to steal machinery from passing ships; Janeway works with the Leonardo da Vinci hologram to get Voyager's things back.</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <credits>
-      <director>Jesús Salvador Treviño</director>
-      <actor>Kate Mulgrew</actor>
-      <actor>Robert Beltran</actor>
-      <actor>Roxann Dawson</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895689_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417130000 +0500" stop="20260417140000 +0500">
-    <title>The Librarians</title>
-    <sub-title>And the Horns of a Dilemma</sub-title>
-    <desc>The librarians' first solo mission hits a snag when Baird loses the others in a mysterious labyrinth that magically exists below the skyscraper of a modern corporation.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <credits>
-      <director>Marc Roskin</director>
-      <actor>Rebecca Romijn</actor>
-      <actor>Christian Kane</actor>
-      <actor>Lindy Booth</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10783326_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417140000 +0500" stop="20260417150000 +0500">
-    <title>The Librarians</title>
-    <sub-title>And Santa's Midnight Run</sub-title>
-    <desc>When the Serpent Brotherhood wants to kill Santa, the librarians must rescue him and help him accomplish the secret purpose of Christmas.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <credits>
-      <director>Jonathan Frakes</director>
-      <actor>Rebecca Romijn</actor>
-      <actor>Christian Kane</actor>
-      <actor>Lindy Booth</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Holiday</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10783326_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417150000 +0500" stop="20260417160000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Legacy</sub-title>
-    <desc>The SG-1 team becomes infected by Machello's deadly legacy. Stars Richard Dean Anderson.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417160000 +0500" stop="20260417170000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Learning Curve</sub-title>
-    <desc>O'Neill (Richard Dean Anderson) risks a potential court-martial to teach an alien child the joys of childhood.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417170000 +0500" stop="20260417180000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Point of View</sub-title>
-    <desc>When an alternate Earth is invaded by the Goa'uld, its versions of Dr. Carter and Maj. Kawalsky seek aid from SGC.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417180000 +0500" stop="20260417190000 +0500">
-    <title>Castle</title>
-    <sub-title>One Life to Lose</sub-title>
-    <desc>When the head writer on a popular soap opera is killed with a fire axe, Castle is able to use his skills as an author to make a discovery about the killer.</desc>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <credits>
-      <director>David M Barrett</director>
-      <actor>Nathan Fillion</actor>
-      <actor>Stana Katic</actor>
-      <actor>Susan Sullivan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417190000 +0500" stop="20260417200000 +0500">
-    <title>Castle</title>
-    <sub-title>Law &amp; Murder</sub-title>
-    <desc>A juror suddenly dies during a high-profile trial involving a murdered socialite.</desc>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <credits>
-      <director>Jeff Bleckner</director>
-      <actor>Nathan Fillion</actor>
-      <actor>Stana Katic</actor>
-      <actor>Susan Sullivan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417200000 +0500" stop="20260417210000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Dead Man Switch</sub-title>
-    <desc>A cold-hearted alien bounty hunter captures SG-1 while the team is making a routine planetary exploration.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417210000 +0500" stop="20260417220000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Learning Curve</sub-title>
-    <desc>O'Neill (Richard Dean Anderson) risks a potential court-martial to teach an alien child the joys of childhood.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417220000 +0500" stop="20260417230000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Point of View</sub-title>
-    <desc>When an alternate Earth is invaded by the Goa'uld, its versions of Dr. Carter and Maj. Kawalsky seek aid from SGC.</desc>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260417230000 +0500" stop="20260418000000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Legacy</sub-title>
-    <desc>The SG-1 team becomes infected by Machello's deadly legacy. Stars Richard Dean Anderson.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <credits>
-      <director>Peter DeLuise</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418000000 +0500" stop="20260418010000 +0500">
-    <title>Stargate SG-1</title>
-    <sub-title>Learning Curve</sub-title>
-    <desc>O'Neill (Richard Dean Anderson) risks a potential court-martial to teach an alien child the joys of childhood.</desc>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <credits>
-      <director>Martin Wood</director>
-      <actor>Richard Dean Anderson</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Amanda Tapping</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418010000 +0500" stop="20260418020000 +0500">
-    <title>Killjoys</title>
-    <sub-title>Sporemageddon</sub-title>
-    <desc>Aneela brings the Jaqobis brothers into Greenspace to defeat the Lady.</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <credits>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Aaron Ashmore</actor>
-      <actor>Luke MacFarlane</actor>
-    </credits><date>2018</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418020000 +0500" stop="20260418030000 +0500">
-    <title>Castle</title>
-    <sub-title>One Life to Lose</sub-title>
-    <desc>When the head writer on a popular soap opera is killed with a fire axe, Castle is able to use his skills as an author to make a discovery about the killer.</desc>
-    <episode-num system="onscreen">S3 E18</episode-num>
-    <credits>
-      <director>David M Barrett</director>
-      <actor>Nathan Fillion</actor>
-      <actor>Stana Katic</actor>
-      <actor>Susan Sullivan</actor>
-    </credits><date>2011</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418030000 +0500" stop="20260418040000 +0500">
-    <title>Star Trek: Voyager</title>
-    <sub-title>Mortal Coil</sub-title>
-    <desc>Neelix questions the purpose of his life when Seven of Nine "reactivates" him following a fatal accident.</desc>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <credits>
-      <director>Allan Kroeker</director>
-      <actor>Kate Mulgrew</actor>
-      <actor>Robert Beltran</actor>
-      <actor>Roxann Dawson</actor>
-    </credits><date>1997</date>
-    <category lang="en">Series</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895689_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418040000 +0500" stop="20260418052500 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Come, Let's Away</sub-title>
-    <desc>During the cadets' first training mission on an abandoned ship, they encounter a dangerous new enemy; as the cadets fight for survival, Nahla must risk everything to save them by seeking help from an unexpected source.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418052500 +0500" stop="20260418064000 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Ko'Zeine</sub-title>
-    <desc>During a school holiday, cadets return home and must choose between family expectations and dreams.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418064000 +0500" stop="20260418080500 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>The Life of the Stars</sub-title>
-    <desc>A visiting instructor arrives at the Academy and uses an unorthodox method to help the cadets process the emotions of what it takes to become a Starfleet officer.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31454500_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418080500 +0500" stop="20260418093000 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Come, Let's Away</sub-title>
-    <desc>During the cadets' first training mission on an abandoned ship, they encounter a dangerous new enemy; as the cadets fight for survival, Nahla must risk everything to save them by seeking help from an unexpected source.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418093000 +0500" stop="20260418104500 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Ko'Zeine</sub-title>
-    <desc>During a school holiday, cadets return home and must choose between family expectations and dreams.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418104500 +0500" stop="20260418121000 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>The Life of the Stars</sub-title>
-    <desc>A visiting instructor arrives at the Academy and uses an unorthodox method to help the cadets process the emotions of what it takes to become a Starfleet officer.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31454500_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418121000 +0500" stop="20260418133500 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Come, Let's Away</sub-title>
-    <desc>During the cadets' first training mission on an abandoned ship, they encounter a dangerous new enemy; as the cadets fight for survival, Nahla must risk everything to save them by seeking help from an unexpected source.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418133500 +0500" stop="20260418150000 +0500">
-    <title>Star Trek: Starfleet Academy</title>
-    <sub-title>Ko'Zeine</sub-title>
-    <desc>During a school holiday, cadets return home and must choose between family expectations and dreams.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Holly Hunter</actor>
-      <actor>Sandro Rosta</actor>
-      <actor>Karim Diane</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Comedy drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31245860_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A12</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418150000 +0500" stop="20260418160000 +0500">
-    <title>Killjoys</title>
-    <sub-title>A Glitch in the System</sub-title>
-    <desc>An easy salvage job takes an insidious turn; when something takes control of a ship, the Killjoys must confront their own dark secrets.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <credits>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Aaron Ashmore</actor>
-      <actor>Luke MacFarlane</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>16</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418160000 +0500" stop="20260418170000 +0500">
-    <title>Killjoys</title>
-    <sub-title>One Blood</sub-title>
-    <desc>Top Killjoys are pitted against each other in a race to find a rogue Killjoy; Khlyen uses Dutch, forcing John and D'avin to team up with a nemesis.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <credits>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Aaron Ashmore</actor>
-      <actor>Luke MacFarlane</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418170000 +0500" stop="20260418180000 +0500">
-    <title>Killjoys</title>
-    <sub-title>Kiss Kiss, Bye Bye</sub-title>
-    <desc>The quest to uncover the mystery behind D'avin's missing memories leads the Killjoys to a black market.</desc>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <credits>
-      <actor>Hannah John-Kamen</actor>
-      <actor>Aaron Ashmore</actor>
-      <actor>Luke MacFarlane</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Crime</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>18+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418180000 +0500" stop="20260418203000 +0500">
-    <title>Cowboys &amp; Aliens</title>
-    <sub-title />
-    <desc>Bearing a mysterious metal shackle on his wrist, an amnesiac gunslinger wanders into a frontier town called Absolution. He quickly finds that strangers are unwelcome, and no one does anything without the approval of tyrannical Col. Dolarhyde. But when Absolution faces a threat from beyond Earth, the stranger finds that he is its only hope of salvation. He unites townspeople, outlaws and Apache warriors against the alien forces in an epic battle for survival.</desc>
-    <credits>
-      <director>Jon Favreau</director>
-      <actor>Daniel Craig</actor>
-      <actor>Harrison Ford</actor>
-      <actor>Olivia Wilde</actor>
-    </credits><date>2011</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Western</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8223393_v_h8_az.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 15 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>15</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418203000 +0500" stop="20260418230000 +0500">
-    <title>Jurassic World</title>
-    <sub-title />
-    <desc>Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok. Now, it's up to a former military man and animal expert (Chris Pratt) to use his special skills to save two young brothers and the rest of the tourists from an all-out, prehistoric assault.</desc>
-    <credits>
-      <director>Colin Trevorrow</director>
-      <actor>Chris Pratt</actor>
-      <actor>Bryce Dallas Howard</actor>
-      <actor>Irrfan Khan</actor>
-    </credits><date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Thriller</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10815284_v_h8_ag.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>R</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="CTV-Sci-Fi-CA" start="20260418230000 +0500" stop="20260419013000 +0500">
+  </channel><programme channel="CTV-Sci-Fi-CA" start="20260419093000 +0500" stop="20260419120000 +0500">
     <title>Jurassic World: Fallen Kingdom</title>
     <sub-title />
     <desc>Three years after the destruction of the Jurassic World theme park, Owen Grady and Claire Dearing return to the island of Isla Nublar to save the remaining dinosaurs from a volcano that's about to erupt. They soon encounter terrifying new breeds of gigantic dinos while uncovering a conspiracy that threatens the entire planet.</desc>
@@ -1518,5 +73,990 @@
     </rating><star-rating>
       <value>5.0/10</value>
     </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419120000 +0500" stop="20260419150000 +0500">
+    <title>Jurassic World Dominion</title>
+    <sub-title />
+    <desc>Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.</desc>
+    <credits>
+      <director>Colin Trevorrow</director>
+      <actor>Chris Pratt</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Laura Dern</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17013216_v_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419150000 +0500" stop="20260419160000 +0500">
+    <title>Killjoys</title>
+    <sub-title>Come the Rain</sub-title>
+    <desc>A toxic rain storm forces John and Pawter to take shelter with criminals; Dutch and D'avin are trapped on Lucy.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Aaron Ashmore</actor>
+      <actor>Luke MacFarlane</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419160000 +0500" stop="20260419170000 +0500">
+    <title>Killjoys</title>
+    <sub-title>Enemy Khlyen</sub-title>
+    <desc>Dutch and John turn the tables on Khlyen and discover the shocking truth behind his presence; Dutch wonders if she was ever free.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Aaron Ashmore</actor>
+      <actor>Luke MacFarlane</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419170000 +0500" stop="20260419180000 +0500">
+    <title>Killjoys</title>
+    <sub-title>Escape Velocity</sub-title>
+    <desc>Tensions boil over when the Company arrests a friend; peace in the Quad hangs in the balance, forcing the Killjoys to choose a side.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Aaron Ashmore</actor>
+      <actor>Luke MacFarlane</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419180000 +0500" stop="20260419190000 +0500">
+    <title>Killjoys</title>
+    <sub-title>Escape Velocity</sub-title>
+    <desc>Tensions boil over when the Company arrests a friend; peace in the Quad hangs in the balance, forcing the Killjoys to choose a side.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <actor>Hannah John-Kamen</actor>
+      <actor>Aaron Ashmore</actor>
+      <actor>Luke MacFarlane</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p11670661_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>18+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419190000 +0500" stop="20260419220000 +0500">
+    <title>Transformers: Dark of the Moon</title>
+    <sub-title />
+    <desc>Sam Witwicky and his new girlfriend, Carly, join the fray when the evil Decepticons renew their longstanding war against the Autobots. Optimus Prime believes that resurrecting ancient Transformer Sentinel Prime, once the leader of the Autobots, may lead to victory. That decision, however, has devastating consequences. The war appears to tip in favor of the Decepticons, leading to a climactic battle in Chicago.</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Shia LaBeouf</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>John Turturro</actor>
+    </credits><date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8176375_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260419220000 +0500" stop="20260420013000 +0500">
+    <title>Transformers: Age of Extinction</title>
+    <sub-title />
+    <desc>After an epic battle, a great city lies in ruins, but the Earth itself is saved. As humanity begins to pick up the pieces, a shadowy group emerges to try to take control of history. Meanwhile, an ancient and powerful new menace sets its sights on Earth. A new group of humans, led by Cade Yeager (Mark Wahlberg), helps Optimus Prime (Peter Cullen) and the Autobots rise up to meet their most fearsome challenge yet: a worldwide war of good versus evil.</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Li Bingbing</actor>
+    </credits><date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10024445_v_h8_az.jpg?w=960&amp;h=540" />
+    <rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420013000 +0500" stop="20260420050000 +0500">
+    <title>Transformers: The Last Knight</title>
+    <sub-title />
+    <desc>Humans are at war with the Transformers, and Optimus Prime is gone. The key to saving the future lies buried in the secrets of the past and the hidden history of Transformers on Earth. Now, it's up to the unlikely alliance of inventor Cade Yeager, Bumblebee, an English lord and an Oxford professor to save the world.</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Josh Duhamel</actor>
+    </credits><date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12608063_v_h8_aw.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>I12</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420050000 +0500" stop="20260420070000 +0500">
+    <title>M3GAN</title>
+    <sub-title />
+    <desc>M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl a M3GAN prototype, a decision that leads to unimaginable consequences.</desc>
+    <credits>
+      <director>Gerard Johnstone</director>
+      <actor>Allison Williams</actor>
+      <actor>Violet McGraw</actor>
+      <actor>Ronny Chieng</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p21514424_v_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420070000 +0500" stop="20260420093000 +0500">
+    <title>The Suicide Squad</title>
+    <sub-title />
+    <desc>The government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.</desc>
+    <credits>
+      <director>James Gunn</director>
+      <actor>Margot Robbie</actor>
+      <actor>Idris Elba</actor>
+      <actor>John Cena</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18707169_v_h8_bf.jpg?w=960&amp;h=540" />
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="映倫">
+      <value>R15+</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420093000 +0500" stop="20260420123000 +0500">
+    <title>Transformers: Dark of the Moon</title>
+    <sub-title />
+    <desc>Sam Witwicky and his new girlfriend, Carly, join the fray when the evil Decepticons renew their longstanding war against the Autobots. Optimus Prime believes that resurrecting ancient Transformer Sentinel Prime, once the leader of the Autobots, may lead to victory. That decision, however, has devastating consequences. The war appears to tip in favor of the Decepticons, leading to a climactic battle in Chicago.</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Shia LaBeouf</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>John Turturro</actor>
+    </credits><date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8176375_v_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>VM14</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420123000 +0500" stop="20260420150000 +0500">
+    <title>The Suicide Squad</title>
+    <sub-title />
+    <desc>The government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.</desc>
+    <credits>
+      <director>James Gunn</director>
+      <actor>Margot Robbie</actor>
+      <actor>Idris Elba</actor>
+      <actor>John Cena</actor>
+    </credits><date>2021</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18707169_v_h8_bf.jpg?w=960&amp;h=540" />
+    <rating system="Statens medieråd">
+      <value>Från 15 år</value>
+    </rating><rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="映倫">
+      <value>R15+</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>C</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420150000 +0500" stop="20260420160000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Demons</sub-title>
+    <desc>Encountering a medieval civilization, the SG-1 team members are mistaken for demons. Stars Richard Dean Anderson.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <director>Peter DeLuise</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420160000 +0500" stop="20260420170000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Rules of Engagement</sub-title>
+    <desc>The team travels to a planet occupied by young soldiers engaged in deadly war games. Stars Richard Dean Anderson, Michael Shanks, Amanda Tapping and Christopher Judge.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <director>William Gereghty</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420170000 +0500" stop="20260420180000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Forever in a Day</sub-title>
+    <desc>Daniel Jackson's reunion with Sha're leads to painful consequences.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <director>Peter DeLuise</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420180000 +0500" stop="20260420190000 +0500">
+    <title>Castle</title>
+    <sub-title>Slice of Death</sub-title>
+    <desc>When a reporter is found dead inside a pizza oven, Castle and Beckett try to determine why he was murdered.</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <credits>
+      <director>Steve Boyum</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420190000 +0500" stop="20260420200000 +0500">
+    <title>Castle</title>
+    <sub-title>The Dead Pool</sub-title>
+    <desc>Castle and Beckett investigate the death of a champion swimmer; authors Michael Connelly and Dennis Lehane give Castle advice.</desc>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <credits>
+      <director>Paul Holahan</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+    </credits><date>2011</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8257644_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420200000 +0500" stop="20260420210000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Past and Present</sub-title>
+    <desc>SG-1 encounters an entire world suffering from amnesia. Stars Richard Dean Anderson.</desc>
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <credits>
+      <director>William Gereghty</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420210000 +0500" stop="20260420220000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Rules of Engagement</sub-title>
+    <desc>The team travels to a planet occupied by young soldiers engaged in deadly war games. Stars Richard Dean Anderson, Michael Shanks, Amanda Tapping and Christopher Judge.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <director>William Gereghty</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420220000 +0500" stop="20260420230000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Forever in a Day</sub-title>
+    <desc>Daniel Jackson's reunion with Sha're leads to painful consequences.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <director>Peter DeLuise</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
+  </programme><programme channel="CTV-Sci-Fi-CA" start="20260420230000 +0500" stop="20260421000000 +0500">
+    <title>Stargate SG-1</title>
+    <sub-title>Demons</sub-title>
+    <desc>Encountering a medieval civilization, the SG-1 team members are mistaken for demons. Stars Richard Dean Anderson.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <director>Peter DeLuise</director>
+      <actor>Richard Dean Anderson</actor>
+      <actor>Michael Shanks</actor>
+      <actor>Amanda Tapping</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184337_b_h10_ao.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating>
   </programme>
 </tv>
