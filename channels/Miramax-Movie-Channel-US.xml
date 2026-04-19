@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Miramax-Movie-Channel-US">
+    <display-name>Miramax Movie Channel</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Miramax-Movie-Channel-US.png" />
+  </channel><programme channel="Miramax-Movie-Channel-US" start="20260417114717 +0500" stop="20260417135804 +0500">
+    <title>The Untouchables</title>
+    <sub-title />
+    <desc>Eliot Ness sets out to stop Chicago gangster Al Capone, and assembles an incorruptible team to help him.</desc>
+    <date>19870603</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d9be11b46f30711785916185a45dd6d5.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417135804 +0500" stop="20260417161626 +0500">
+    <title>Saturday Night Fever</title>
+    <sub-title />
+    <desc>A teen from Brooklyn tries to escape the harsh reality of his family life by dominating the dance floor.</desc>
+    <date>19771216</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5e263fe92167f0fb909fc9f1f003f894.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417161626 +0500" stop="20260417184042 +0500">
+    <title>Walking Tall</title>
+    <sub-title />
+    <desc>Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town</desc>
+    <date>19730222</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417184042 +0500" stop="20260417214857 +0500">
+    <title>Gangs of New York</title>
+    <sub-title />
+    <desc>A young Irish immigrant (Leonardo DiCaprio) seeks revenge against the rival gang leader who killed his father.</desc>
+    <date>20021220</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ea5f5f8a531206d7256edf0d31091a9e.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260417214857 +0500" stop="20260418001445 +0500">
+    <title>Marathon Man</title>
+    <sub-title />
+    <desc>Dustin Hoffman (Rainman) plays the likeable graduate student and marathon runner of the title</desc>
+    <date>19761008</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0ea54bf39639d32f9f6bcd092c4cb93.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418001445 +0500" stop="20260418022133 +0500">
+    <title>Witness</title>
+    <sub-title />
+    <desc>A young Amish woman and her son get caught up in the murder of an undercover narcotics agent.</desc>
+    <date>19850208</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a80489788c623ad24e7b876e39034bab.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418022133 +0500" stop="20260418043220 +0500">
+    <title>The Untouchables</title>
+    <sub-title />
+    <desc>Eliot Ness sets out to stop Chicago gangster Al Capone, and assembles an incorruptible team to help him.</desc>
+    <date>19870603</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d9be11b46f30711785916185a45dd6d5.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418043220 +0500" stop="20260418065042 +0500">
+    <title>Saturday Night Fever</title>
+    <sub-title />
+    <desc>A teen from Brooklyn tries to escape the harsh reality of his family life by dominating the dance floor.</desc>
+    <date>19771216</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/5e263fe92167f0fb909fc9f1f003f894.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418065042 +0500" stop="20260418091458 +0500">
+    <title>Walking Tall</title>
+    <sub-title />
+    <desc>Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town</desc>
+    <date>19730222</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/768c2e2a3a1d6b6381bb31398c2085b0.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418091458 +0500" stop="20260418114046 +0500">
+    <title>Marathon Man</title>
+    <sub-title />
+    <desc>Dustin Hoffman (Rainman) plays the likeable graduate student and marathon runner of the title</desc>
+    <date>19761008</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a0ea54bf39639d32f9f6bcd092c4cb93.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260418114046 +0500" stop="20260418141739 +0500">
+    <title>Seabiscuit</title>
+    <sub-title />
+    <desc>True story of the undersized Depression-era racehorse.</desc>
+    <date>20030725</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0b809b7cc1cfa2eda962aab492a63c50.jpg" />
+  </programme>
+</tv>

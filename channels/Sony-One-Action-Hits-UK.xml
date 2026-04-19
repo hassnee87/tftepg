@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Sony-One-Action-Hits-UK">
+    <display-name>Sony One Action HITS</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Action-Hits-UK.png" />
+  </channel><programme channel="Sony-One-Action-Hits-UK" start="20260417142145 +0500" stop="20260417164500 +0500">
+    <title>The 6th Day</title>
+    <sub-title />
+    <desc>Human cloning technology has fallen into destructive, corrupt hands but one man refuses to be a pawn in the deadly conspiracy.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462860233_7_20251222T145928329Z_100_imageprocessorclient-tvplus-linear-85d7d49859-z5txn.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260417164500 +0500" stop="20260417185344 +0500">
+    <title>Elysium</title>
+    <sub-title />
+    <desc>In 2154, two classes of people exist: the very wealthy, and the rest, who live on a ruined Earth.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462826521_4_20251222T145934150Z_108_imageprocessorclient-tvplus-linear-85d7d49859-sxbhs.png" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme><programme channel="Sony-One-Action-Hits-UK" start="20260417185344 +0500" stop="20260417213520 +0500">
+    <title>Ivanhoe (1982)</title>
+    <sub-title />
+    <desc>Sir Walter Scott's epic novel of timeless romance and knightly daring comes to life! The year is 1194. At long last, the noble knight Wilfred of Ivanhoe (Anthony Andrews) has returned from the Crusades to regain his title and win the hand of his beloved Lady Rowena (Lysette Anthony).</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1473042996_1_20251225T053907015Z_107_imageprocessorclient-tvplus-linear-85d7d49859-f9b9t.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+</tv>

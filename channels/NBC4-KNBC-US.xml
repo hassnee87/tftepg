@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="NBC4-KNBC-US">
+    <display-name>KNBC</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/NBC4-KNBC-US.png" />
+  </channel><programme channel="NBC4-KNBC-US" start="20260417000000 +0500" stop="20260417010000 +0500">
+    <title>NBC News Daily</title>
+    <sub-title />
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <episode-num system="onscreen">E65</episode-num>
+    <credits>
+      <actor>Vicky Nguyen</actor>
+      <actor>Morgan Radford</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417010000 +0500" stop="20260417020000 +0500">
+    <title>Access Daily With Mario &amp; Kit</title>
+    <sub-title />
+    <desc>Actress Jane Seymour talks about her Open Hearts Foundation; author Amy DuBois Barnett talks about her new "If I Rule the World" book; artist/songwriter Alana Springsteen discusses her new "I Hope This Helps" album; chef Sheldon Simeon prepares a tasty recipe; UCLA women's basketball player Charlisse Leger-Walker; daily feed!</desc>
+    <episode-num system="onscreen">S16 E127</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417020000 +0500" stop="20260417030000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Kellyoke encore: "I Will (When You Do)"; Bob Odenkirk; Anna Cathcart; rad human: Green Bronx Machine; Kelly Extra: Steve Carell, Danielle Deadwyler, Phil Dunster and Charly Clive; WIL: origami shelters.</desc>
+    <episode-num system="onscreen">S7 E116</episode-num>
+    <credits>
+      <actor>Kelly Clarkson</actor>
+      <actor>Bob Odenkirk</actor>
+      <actor>Anna Cathcart</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417030000 +0500" stop="20260417033000 +0500">
+    <title>NBC4 News at 3pm</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417033000 +0500" stop="20260417040000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E98</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417040000 +0500" stop="20260417050000 +0500">
+    <title>NBC4 News at 4pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2012</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417050000 +0500" stop="20260417060000 +0500">
+    <title>NBC4 News at 5pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417060000 +0500" stop="20260417063000 +0500">
+    <title>6PM: NBC4 News at 6PM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781145_b_h10_af.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417063000 +0500" stop="20260417070000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E98</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417070000 +0500" stop="20260417073000 +0500">
+    <title>NBC4 News at 7 PM</title>
+    <sub-title />
+    <desc>The latest in local breaking news, weather reports and feature stories covering the vast Southern California region.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417073000 +0500" stop="20260417080000 +0500">
+    <title>Access Hollywood</title>
+    <sub-title />
+    <desc>"Running Point" Season 2 premiere with Kate Hudson and the cast.</desc>
+    <episode-num system="onscreen">S30 E152</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417080000 +0500" stop="20260417090000 +0500">
+    <title>Law &amp; Order</title>
+    <sub-title>Two and Twenty</sub-title>
+    <desc>A billionaire banker is murdered and the 2-7 must investigate his many clients and employees; Price and Maroun struggle to keep the jury's focus on the crime and not the victim's darker side.</desc>
+    <episode-num system="onscreen">S25 E4</episode-num>
+    <credits>
+      <director>Martha Mitchell</director>
+      <director>Norberto Barba</director>
+      <actor>Hugh Dancy</actor>
+      <actor>Odelya Halevi</actor>
+      <actor>Tony Goldwyn</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30834665_b_h8_ai.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417090000 +0500" stop="20260417100000 +0500">
+    <title>Law &amp; Order: Special Victims Unit</title>
+    <sub-title>Feed the Craving</sub-title>
+    <desc>When a woman in active labor is abducted, Rollins and Curry look to her doula for an account of events; Carisi tries to get a confession in front of the jury.</desc>
+    <episode-num system="onscreen">S27 E5</episode-num>
+    <credits>
+      <actor>Mariska Hargitay</actor>
+      <actor>Ice-T</actor>
+      <actor>Kelli Giddish</actor>
+    </credits><date>2025</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30834692_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>16</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>16</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417100000 +0500" stop="20260417110000 +0500">
+    <title>The Hunting Party</title>
+    <sub-title>Byron May</sub-title>
+    <desc>Serial killer Byron May is back on the streets and secretly living inside someone else's home; with his new skills resembling the currently incarcerated Eastside Ripper, suspicions abound whether the wrong man might be in prison.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor>Melissa Roxburgh</actor>
+      <actor>Nick Wechsler</actor>
+      <actor>Patrick Sabongui</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31955486_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>A14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417110000 +0500" stop="20260417113400 +0500">
+    <title>NBC4 News at 11pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417113400 +0500" stop="20260417123700 +0500">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title>Jamie Lee Curtis; Sam Heughan; Andrew Jarecki; Megan Moroney</sub-title>
+    <desc>Actress Jamie Lee Curtis; actor Sam Heughan; filmmaker Andrew Jarecki; Megan Moroney performs.</desc>
+    <episode-num system="onscreen">S13 E73</episode-num>
+    <credits>
+      <actor>Jimmy Fallon</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Sam Heughan</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417123700 +0500" stop="20260417133700 +0500">
+    <title>Late Night With Seth Meyers</title>
+    <sub-title>Daniel Radcliffe; Kate Mara</sub-title>
+    <desc>Actor Daniel Radcliffe; actress Kate Mara.</desc>
+    <episode-num system="onscreen">S13 E78</episode-num>
+    <credits>
+      <actor>Seth Meyers</actor>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Kate Mara</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Political News Satire &amp; Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417133700 +0500" stop="20260417140700 +0500">
+    <title>NBC4 News at 11pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417140700 +0500" stop="20260417143700 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E98</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417143700 +0500" stop="20260417153000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Kellyoke encore: "I Will (When You Do)"; Bob Odenkirk; Anna Cathcart; rad human: Green Bronx Machine; Kelly Extra: Steve Carell, Danielle Deadwyler, Phil Dunster and Charly Clive; WIL: origami shelters.</desc>
+    <episode-num system="onscreen">S7 E116</episode-num>
+    <credits>
+      <actor>Kelly Clarkson</actor>
+      <actor>Bob Odenkirk</actor>
+      <actor>Anna Cathcart</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417153000 +0500" stop="20260417160000 +0500">
+    <title>Early Today</title>
+    <sub-title />
+    <desc>This early-morning news covers overnight events, breaking domestic and international news as well as a preview of the day's anticipated events. The program also presents regular reports from the worlds of business, entertainment and sports.</desc>
+    <date>1999</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p185301_b_h8_ag.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417160000 +0500" stop="20260417163000 +0500">
+    <title>Today in LA @ 4AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18627049_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417163000 +0500" stop="20260417170000 +0500">
+    <title>Today in LA @ 4:30AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18627053_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417170000 +0500" stop="20260417180000 +0500">
+    <title>Today in LA @ 5AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18627056_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417180000 +0500" stop="20260417190000 +0500">
+    <title>Today in LA @ 6AM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18627061_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417190000 +0500" stop="20260417210000 +0500">
+    <title>Today</title>
+    <sub-title />
+    <desc>Viral best friends Diana and Candace; inside London's David Bowie tribute; spring cleaning one's money with Christine Romans.</desc>
+    <episode-num system="onscreen">S74 E175</episode-num>
+    <credits>
+      <actor>Savannah Guthrie</actor>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260417210000 +0500" stop="20260417220000 +0500">
+    <title>Today 3rd Hour</title>
+    <sub-title />
+    <desc>Cleaning out one's medicine cabinet with Dr. Kavita Patel; rock, paper, scissors competitions; actor John Lithgow; the winner of "The Voice" performs.</desc>
+    <episode-num system="onscreen">S8 E149</episode-num>
+    <credits>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
+      <actor>Dylan Dreyer</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30939266_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417220000 +0500" stop="20260417230000 +0500">
+    <title>Today With Jenna &amp; Sheinelle</title>
+    <sub-title />
+    <desc>Singer-songwriter Kelsea Ballerini; actress Susan Lucci; dating trends with Devyn Simone; spring closet cleanout with Jasmine Snow.</desc>
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <credits>
+      <actor>Jenna Bush-Hager</actor>
+      <actor>Sheinelle Jones</actor>
+      <actor>Kelsea Ballerini</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31933424_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417230000 +0500" stop="20260417233000 +0500">
+    <title>NBC4 News at 11am</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2016</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12892190_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260417233000 +0500" stop="20260418000000 +0500">
+    <title>California Live</title>
+    <sub-title />
+    <desc>A daily lifestyle show that takes a ride through all of California, discovering many of the hidden treasures the state and its people have to offer including beauty, glamour, fitness, food, health, and tech.</desc>
+    <date>2019</date>
+    <category lang="en">Community</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16325568_b_h10_ac.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418000000 +0500" stop="20260418010000 +0500">
+    <title>NBC News Daily</title>
+    <sub-title />
+    <desc>NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news.</desc>
+    <episode-num system="onscreen">E66</episode-num>
+    <credits>
+      <actor>Vicky Nguyen</actor>
+      <actor>Morgan Radford</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22712535_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418010000 +0500" stop="20260418020000 +0500">
+    <title>Access Daily With Mario &amp; Kit</title>
+    <sub-title />
+    <desc>WNBA legend Cheryl Miller; TV host Adam Richman (History's "Food That Built America"); music updates with radio personality EJ; sports in the news; MorningSave shoppable finds!</desc>
+    <episode-num system="onscreen">S16 E128</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p22894952_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418020000 +0500" stop="20260418030000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Cameoke: "I Got a New One"; Nick Offerman; "Epic Story Time"; Aaron Tveit; Dav Pilkey; Dasha performs; WIL: Anthony Davis.</desc>
+    <episode-num system="onscreen">S7 E117</episode-num>
+    <credits>
+      <actor>Kelly Clarkson</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aaron Tveit</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418030000 +0500" stop="20260418033000 +0500">
+    <title>NBC4 News at 3pm</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2018</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15054848_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418033000 +0500" stop="20260418040000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E99</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418040000 +0500" stop="20260418050000 +0500">
+    <title>NBC4 News at 4pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2012</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9358491_b_h10_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418050000 +0500" stop="20260418060000 +0500">
+    <title>NBC4 News at 5pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781144_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418060000 +0500" stop="20260418063000 +0500">
+    <title>6PM: NBC4 News at 6PM</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781145_b_h10_af.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418063000 +0500" stop="20260418070000 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E99</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418070000 +0500" stop="20260418073000 +0500">
+    <title>NBC4 News at 7 PM</title>
+    <sub-title />
+    <desc>The latest in local breaking news, weather reports and feature stories covering the vast Southern California region.</desc>
+    <date>2020</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18102973_b_h10_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418073000 +0500" stop="20260418080000 +0500">
+    <title>Access Hollywood</title>
+    <sub-title />
+    <desc>The "Landman" cast hits the red carpet for a Television Academy FYC event.</desc>
+    <episode-num system="onscreen">S30 E153</episode-num>
+    <credits>
+      <actor>Mario Lopez</actor>
+      <actor>Kit Hoover</actor>
+      <actor>Scott Evans</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30926755_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418080000 +0500" stop="20260418083000 +0500">
+    <title>Happy's Place</title>
+    <sub-title>AI-AI-No</sub-title>
+    <desc>After Bobbie and Isabella request that Steve find how the tavern can save money, he discovers a way by replacing himself with an AI accountant; Gabby gives Emmett a crash course on proper texting etiquette.</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <credits>
+      <director>Gloria Calderón Kellett</director>
+      <actor>Reba McEntire</actor>
+      <actor>Belissa Escobedo</actor>
+      <actor>Melissa Peterman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418083000 +0500" stop="20260418090100 +0500">
+    <title>Happy's Place</title>
+    <sub-title>Dart to the Heart</sub-title>
+    <desc>Bobbie tries to help Emmett and Isabella reconnect by forcing them into a darts tournament; Steve celebrates killing a spider until Takoda informs him about Iktomi, the Lakota trickster spirit.</desc>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor>Reba McEntire</actor>
+      <actor>Belissa Escobedo</actor>
+      <actor>Melissa Peterman</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30959008_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418090100 +0500" stop="20260418110000 +0500">
+    <title>Dateline NBC</title>
+    <sub-title>Deadly Swagger</sub-title>
+    <desc>Compelling mysteries, powerful documentaries, in-depth investigations.</desc>
+    <episode-num system="onscreen">S34 E21</episode-num>
+    <credits>
+      <actor>Lester Holt</actor>
+      <actor>Andrea Canning</actor>
+      <actor>Josh Mankiewicz</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Crime</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184061_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418110000 +0500" stop="20260418113400 +0500">
+    <title>NBC4 News at 11pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418113400 +0500" stop="20260418123700 +0500">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title>Sting; Minnie Driver; Ruthie Rogers; Shaggy</sub-title>
+    <desc>Musician Sting; actress Minnie Driver; chef Ruthie Rogers; Sting and Shaggy performance from "The Last Ship.".</desc>
+    <episode-num system="onscreen">S13 E78</episode-num>
+    <credits>
+      <actor>Jimmy Fallon</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Sting</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p9898935_b_h8_am.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418123700 +0500" stop="20260418133700 +0500">
+    <title>Late Night With Seth Meyers</title>
+    <sub-title>Tessa Thompson; Steve Zahn; Mark Normand</sub-title>
+    <desc>Actress Tessa Thompson; actor Steve Zahn; comic Mark Normand.</desc>
+    <episode-num system="onscreen">S13 E79</episode-num>
+    <credits>
+      <actor>Seth Meyers</actor>
+      <actor>Tessa Thompson</actor>
+      <actor>Steve Zahn</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Political News Satire &amp; Talk</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31240203_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418133700 +0500" stop="20260418140700 +0500">
+    <title>NBC4 News at 11pm</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2011</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8781143_b_h10_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418140700 +0500" stop="20260418143700 +0500">
+    <title>NBC Nightly News With Tom Llamas</title>
+    <sub-title />
+    <desc>Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them.</desc>
+    <episode-num system="onscreen">S2 E99</episode-num>
+    <credits>
+      <actor>Tom Llamas</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30141511_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418143700 +0500" stop="20260418153000 +0500">
+    <title>The Kelly Clarkson Show</title>
+    <sub-title />
+    <desc>Cameoke: "I Got a New One"; Nick Offerman; "Epic Story Time"; Aaron Tveit; Dav Pilkey; Dasha performs; WIL: Anthony Davis.</desc>
+    <episode-num system="onscreen">S7 E117</episode-num>
+    <credits>
+      <actor>Kelly Clarkson</actor>
+      <actor>Nick Offerman</actor>
+      <actor>Aaron Tveit</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16993616_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418153000 +0500" stop="20260418160000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418160000 +0500" stop="20260418163000 +0500">
+    <title>1st Look</title>
+    <sub-title>Destination Dallas</sub-title>
+    <desc>Jared Haibon heads down to Dallas, stirring up some southern charm with Opal Lee; Texas State Fair; chef Tiffany Derry.</desc>
+    <episode-num system="onscreen">S15 E4</episode-num>
+    <credits>
+      <actor>Johnny "Bananas" Devenanzio</actor>
+    </credits><date>2023</date>
+    <category lang="en">Series</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16039361_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418163000 +0500" stop="20260418170000 +0500">
+    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
+    <sub-title />
+    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418170000 +0500" stop="20260418183000 +0500">
+    <title>Today</title>
+    <sub-title />
+    <desc>News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being.</desc>
+    <episode-num system="onscreen">S74 E176</episode-num>
+    <credits>
+      <actor>Savannah Guthrie</actor>
+      <actor>Craig Melvin</actor>
+      <actor>Al Roker</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">News</category>
+    <category lang="en">Public affairs</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30939383_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418183000 +0500" stop="20260418190000 +0500">
+    <title>Forever Young With Dr. Pablo Prichard</title>
+    <sub-title>Hormones, Then and Now</sub-title>
+    <desc>Dr. Pablo, Danielle and Dr. Tania Elliott break down what's really happening inside the body, connecting the dots between teenage hormonal surges and adult stress while also revealing what can be done today to control hormone disruptions.</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <credits>
+      <actor>Danielle Robb</actor>
+      <actor>Pablo Prichard</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Educational</category>
+    <category lang="en">Health</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30941009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418190000 +0500" stop="20260418200000 +0500">
+    <title>Today in LA Weekend</title>
+    <sub-title />
+    <desc>The latest local news, weather and investigative stories impacting the community.</desc>
+    <date>2006</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p960593_b_h10_af.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418200000 +0500" stop="20260418203000 +0500">
+    <title>Mutual of Omaha's Wild Kingdom Protecting the Wild</title>
+    <sub-title>Whale Watch</sub-title>
+    <desc>In the Puget Sound, Peter and Dr. Rae witness the urgent struggle of resident orcas facing a critical threat to survival; the journey continues to a remote lagoon in Mexico's coastal desert, where gray whales have staged an extraordinary comeback.</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <credits>
+      <actor>Peter Gros</actor>
+      <actor>Rae Wynn-Grant</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Science</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31221399_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418203000 +0500" stop="20260418210000 +0500">
+    <title>Earth Odyssey With Dylan Dreyer</title>
+    <sub-title>Cold-Blooded Creatures</sub-title>
+    <desc>Dylan Dreyer meets remarkable reptiles and amphibians, like enormous green sea turtles, tiny dancing frogs and a bright blue lizard.</desc>
+    <episode-num system="onscreen">S8 E17</episode-num>
+    <credits>
+      <actor>Dylan Dreyer</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Educational</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16357440_b_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418210000 +0500" stop="20260418213000 +0500">
+    <title>Wild Child</title>
+    <sub-title>Best Babies of Spring</sub-title>
+    <desc>Sheinelle Jones meets the new babies of spring, including adorable foals, bear cubs and coyote pups.</desc>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <credits>
+      <actor>Sheinelle Jones</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Animals</category>
+    <category lang="en">Documentary</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p19191402_b_h8_an.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="NBC4-KNBC-US" start="20260418213000 +0500" stop="20260418233000 +0500">
+    <title>Live: Premier League Soccer</title>
+    <sub-title />
+    <desc>Tottenham (7-9-16) hosts Brighton (12-10-10) at Tottenham Hotspur Stadium. It is a crucial match as the season ends. Tottenham is in 18th, two points above the relegation zone, while Brighton is sitting in 9th and pushing for a top-half finish.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032HMDD.jpg?w=960&amp;h=540" />
+  </programme><programme channel="NBC4-KNBC-US" start="20260418233000 +0500" stop="20260419000000 +0500">
+    <title>Live: Premier League Goal Zone</title>
+    <sub-title />
+    <desc>The best moments from the weekend in Premier League action.</desc>
+    <date>2013</date>
+    <category lang="en">Sports talk</category>
+    <category lang="en">Soccer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10112820_b_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme>
+</tv>

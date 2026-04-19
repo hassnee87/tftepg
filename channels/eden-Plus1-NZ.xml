@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="eden-Plus1-NZ">
+    <display-name>eden +1</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/eden-Plus1-NZ.png" />
+  </channel><programme channel="eden-Plus1-NZ" start="20260417000000 +0500" stop="20260417110000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417110000 +0500" stop="20260417123000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417123000 +0500" stop="20260417130000 +0500">
+    <title>JUICE TV - The Plug</title>
+    <sub-title />
+    <desc>Premieres of this week's latest local releases - freshly squeezed New Zealand music every Friday.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417130000 +0500" stop="20260417150000 +0500">
+    <title>JUICE TV - Friday Night Rock</title>
+    <sub-title />
+    <desc>Showcasing the best of Rock from the 60's to today.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417150000 +0500" stop="20260417170000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417170000 +0500" stop="20260417200000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260417200000 +0500" stop="20260418020000 +0500">
+    <title>France 24 News</title>
+    <sub-title />
+    <desc>Live overnight coverage from the France 24 English News service.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260418020000 +0500" stop="20260418130000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260418130000 +0500" stop="20260418150000 +0500">
+    <title>JUICE TV - Saturday Night Fever</title>
+    <sub-title />
+    <desc>The best of soul, funk, disco and reggae.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260418150000 +0500" stop="20260418170000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260418170000 +0500" stop="20260418200000 +0500">
+    <title>JUICE TV</title>
+    <sub-title />
+    <desc>Music videos.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="eden-Plus1-NZ" start="20260418200000 +0500" stop="20260419020000 +0500">
+    <title>France 24 News</title>
+    <sub-title />
+    <desc>Live overnight coverage from the France 24 English News service.</desc>
+    <language>en</language>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+</tv>

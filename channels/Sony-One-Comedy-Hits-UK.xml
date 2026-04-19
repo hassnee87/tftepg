@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv>
+  <channel id="Sony-One-Comedy-Hits-UK">
+    <display-name>Sony One Comedy HITS</display-name>
+    <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Comedy-Hits-UK.png" />
+  </channel><programme channel="Sony-One-Comedy-Hits-UK" start="20260417140300 +0500" stop="20260417162710 +0500">
+    <title>Stepmom</title>
+    <sub-title />
+    <desc>An unlikely friendship develops when a mother of two is forced to teach another woman to raise her kids. Julia Roberts and Susan Sarandon star.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1636829598_0_20260219T054003565Z_94_imageprocessorclient-tvplus-linear-85d7d49859-f2qqp.png" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Comedy-Hits-UK" start="20260417162710 +0500" stop="20260417184657 +0500">
+    <title>How Do You Know?</title>
+    <sub-title />
+    <desc>Feeling a bit past her prime at 27, former athlete Lisa Jorgenson finds herself in the middle of a love triangle, as a corporate guy in crisis competes with Lisa's current, baseball-playing beau.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462875383_20_20251222T145931345Z_85_imageprocessorclient-tvplus-linear-85d7d49859-f9b9t.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Comedy-Hits-UK" start="20260417184657 +0500" stop="20260417210700 +0500">
+    <title>Think Like A Man</title>
+    <sub-title />
+    <desc>Four friends conspire to turn the tables on their women when they discover the ladies have been using Steve Harvey's relationship advice against them.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462842039_5_20251222T145928093Z_89_imageprocessorclient-tvplus-linear-85d7d49859-fz6dc.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme><programme channel="Sony-One-Comedy-Hits-UK" start="20260417210700 +0500" stop="20260417234447 +0500">
+    <title>As Good As It Gets</title>
+    <sub-title />
+    <desc>The Academy Award-winning (best actor Jack Nicholson, best actress Helen Hunt) offbeat comedy celebrates the unique bond between three very different characters. Also stars Greg Kinnear.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_1462907301_14_20251222T145934279Z_39_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+</tv>
