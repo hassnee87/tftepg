@@ -3,258 +3,7 @@
   <channel id="ITV-4-UK">
     <display-name>itv4</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ITV-4-UK.png" />
-  </channel><programme channel="ITV-4-UK" start="20260419022000 +0500" stop="20260419023500 +0500">
-    <title>Goals of the 1990s</title>
-    <sub-title />
-    <desc>Goals of the 1990s (ITV Sport Standby Filler 2026): A look back at some memorable goals from the 1990s.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a0f9f215-0f62-4083-8522-b0d04df3d58d/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419023500 +0500" stop="20260419033500 +0500">
-    <title>Universal Soldier</title>
-    <sub-title />
-    <desc>High-kicking sci-fi action-adventure film starring Jean-Claude Van Damme and Dolph Lundgren, 1992. Two soldiers killed in Vietnam are revived in a secret government project.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/cb2f7226-e91d-45d8-ac38-367d0fb3b34d/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419033500 +0500" stop="20260419034000 +0500">
-    <title>FYI Daily</title>
-    <sub-title />
-    <desc>Latest news from the world of entertainment.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Showbiz</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5dfeb0fd-7766-4abf-a6af-70e7e894dcbf/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419034000 +0500" stop="20260419044000 +0500">
-    <title>Universal Soldier</title>
-    <sub-title />
-    <desc>High-kicking sci-fi action-adventure film starring Jean-Claude Van Damme and Dolph Lundgren, 1992. Two soldiers killed in Vietnam are revived in a secret government project.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/cb2f7226-e91d-45d8-ac38-367d0fb3b34d/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419044000 +0500" stop="20260419053000 +0500">
-    <title>Minder</title>
-    <sub-title>Waiting for Goddard</sub-title>
-    <desc>Drama series about the shady dealings of a loveable rogue and his sidekick. Arthur is only too willing to help when a local tramp comes into an inheritance.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/54f51b60-2de6-4051-92a7-bbb41a5a74b2/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419053000 +0500" stop="20260419060000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title>No Sniffing, No Wowing</sub-title>
-    <desc>US sitcom about a bachelor whose life is disrupted when his brother and young nephew move in with him. Alan's divorce settlement is put in peril by Charlie.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/fdc27d1f-7e37-48e5-9442-15bd6f185427/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419060000 +0500" stop="20260419062000 +0500">
-    <title>Two and a Half Men</title>
-    <sub-title />
-    <desc>My Doctor Has A Cow Puppet: US sitcom about a bachelor whose life is disrupted when his brother and young nephew move in. Charlie attempts to cure Alan of his tendency to sleepwalk.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/014857f8-a3ab-4526-b4c4-3403d0209a90/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419062000 +0500" stop="20260419064500 +0500">
-    <title>Auto Mundial</title>
-    <sub-title />
-    <desc>The latest news and reviews from the world of cars.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/826d8366-5bef-439c-8adb-723821d04ca4/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419064500 +0500" stop="20260419070000 +0500">
-    <title>Unwind with ITV</title>
-    <sub-title />
-    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/15e1d19b-483e-4347-afc8-c3d5452cf3cf/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419070000 +0500" stop="20260419073000 +0500">
-    <title>Teleshopping</title>
-    <sub-title />
-    <desc>Shopping from home.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-  </programme><programme channel="ITV-4-UK" start="20260419073000 +0500" stop="20260419080000 +0500">
-    <title>Motorsport Mundial</title>
-    <sub-title />
-    <desc>This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/610f6080-29bb-4f36-a7eb-f62fcb052b35/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419080000 +0500" stop="20260419100000 +0500">
-    <title>Teleshopping</title>
-    <sub-title />
-    <desc>Shopping from home.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-  </programme><programme channel="ITV-4-UK" start="20260419100000 +0500" stop="20260419102500 +0500">
-    <title>Great Racehorses</title>
-    <sub-title />
-    <desc>From Nijinsky to Tiger Roll, Ed Chamberlin introduces some of the great racehorses of the modern era - enjoy Best Mate's third Gold Cup and Shergar racing to Derby glory.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4e565391-56dd-4f5f-aea6-7814f51f5d3f/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419102500 +0500" stop="20260419105500 +0500">
-    <title>Auto Mundial</title>
-    <sub-title />
-    <desc>The latest news and reviews from the world of cars.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/08cb6bb0-35b8-4dee-91a6-d18582356475/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419105500 +0500" stop="20260419112500 +0500">
-    <title>Motorsport Mundial</title>
-    <sub-title />
-    <desc>This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/51c1bb53-7c76-4078-9fd2-099292843cea/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419112500 +0500" stop="20260419120000 +0500">
-    <title>The Protectors</title>
-    <sub-title>Ceremony for the Dead</sub-title>
-    <desc>Europe-based adventure series. The wife of a president hires the Protectors to guard her critically-ill husband when she fears he may be kidnapped.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/82aa39d9-3057-4452-8609-6465a0dc5936/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419120000 +0500" stop="20260419133000 +0500">
-    <title>English Football League Highlights</title>
-    <sub-title />
-    <desc>Action from across the Football League, including Portsmouth v Ipswich in the Championship, and Bolton v Stevenage, Huddersfield v Cardiff and Port Vale v Barnsley in League One.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/937238fd-84e9-4fb5-9a42-53e586a56fe2/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419133000 +0500" stop="20260419134000 +0500">
-    <title>World of Sport</title>
-    <sub-title />
-    <desc>The Good, the Bad and the Ugly: Featuring George Best, Zaire at the World Cup, and a few funny own goals.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ca72af76-32e5-463b-bb25-7160df5c50eb/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419134000 +0500" stop="20260419144500 +0500">
-    <title>Plato Racing: All or Nothing</title>
-    <sub-title />
-    <desc>Plato Racing: All or Nothing: Going behind the scenes with Team Plato ahead of the new BTCC season.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Racing</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e03d9b09-76a8-425e-b0b2-3a6d63c233f3/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419144500 +0500" stop="20260419224500 +0500">
-    <title>British Touring Car Championship Live</title>
-    <sub-title />
-    <desc>Nicki Shields presents live coverage of the first weekend of the 2026 British Touring Car Championship season at Donington Park.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Motor Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f4b7898c-ac65-49cd-90d8-ffa0474a2949/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419224500 +0500" stop="20260419230000 +0500">
-    <title>British Touring Car Crashes and Smashes</title>
-    <sub-title />
-    <desc>A short sports film depicting extraordinary British Touring Car crashes and smashes.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ef6fac27-e4d5-363a-a466-29ad13e91980/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260419230000 +0500" stop="20260420000000 +0500">
-    <title>American Pickers</title>
-    <sub-title>Big Bear</sub-title>
-    <desc>The very first episode of the US documentary series. Salvage experts Mike Wolff and Frank Fritz purchase a Japanese sword and visit a reluctant seller with 12 packed barns.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Antiques</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d6e8cef3-fd53-46bb-936f-4b4cfdf9299b/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420000000 +0500" stop="20260420011000 +0500">
-    <title>The Avengers</title>
-    <sub-title />
-    <desc>Thrilling action-adventure film based on the TV series of the same name and starring Ralph Fiennes and Uma Thurman, 1998. Two British agents hunt for a weather-changing machine.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/354b7d90-a052-44c8-9e25-2c0a351faa1c/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420011000 +0500" stop="20260420011500 +0500">
-    <title>FYI Daily</title>
-    <sub-title />
-    <desc>Latest news from the world of entertainment.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Showbiz</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9e945c32-aea5-4c66-8804-8450f1bd0837/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420011500 +0500" stop="20260420020000 +0500">
-    <title>The Avengers</title>
-    <sub-title />
-    <desc>Thrilling action-adventure film based on the TV series of the same name and starring Ralph Fiennes and Uma Thurman, 1998. Two British agents hunt for a weather-changing machine.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/354b7d90-a052-44c8-9e25-2c0a351faa1c/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420020000 +0500" stop="20260420030000 +0500">
-    <title>Tremors</title>
-    <sub-title />
-    <desc>Cult horror comedy film starring Kevin Bacon and Fred Ward, 1990. A small US town is terrorised by strange subterranean creatures who are killing the town's residents one by one.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c53205dc-78a8-4125-a6e6-4636f5be0dee/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420030000 +0500" stop="20260420030500 +0500">
-    <title>FYI Daily</title>
-    <sub-title />
-    <desc>Latest news from the world of entertainment.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Showbiz</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/49b486aa-2916-4a8b-8e8c-832a2b250ca9/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420030500 +0500" stop="20260420035000 +0500">
-    <title>Tremors</title>
-    <sub-title />
-    <desc>Cult horror comedy film starring Kevin Bacon and Fred Ward, 1990. A small US town is terrorised by strange subterranean creatures who are killing the town's residents one by one.</desc>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c53205dc-78a8-4125-a6e6-4636f5be0dee/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420035000 +0500" stop="20260420045000 +0500">
-    <title>Black Sails</title>
-    <sub-title>VIII</sub-title>
-    <desc>Swashbuckling action-adventure drama. Silver gives Captain Flint the last details of the schedule with the location of the ship, and Eleanor's situation is changed abruptly.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a9b4b408-1372-4b47-a951-ab9d19fd87fd/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420045000 +0500" stop="20260420054500 +0500">
-    <title>Lost Car Rescue</title>
-    <sub-title>Black Gold</sub-title>
-    <desc>Reality series following an ambitious team of classic car hunters. Matt's team turns west on a mission to uncover iconic pieces from Canada's Gold Rush era.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Motors</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d7652215-82f2-34e9-9378-96cda5353029/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420054500 +0500" stop="20260420064000 +0500">
-    <title>The Sweeney</title>
-    <sub-title>Hit and Run</sub-title>
-    <desc>George Carter's wife Alison is mistaken for a fellow teacher with dubious connections and is killed by a hired assassin.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/75c592e9-a700-4eab-b86c-967ddbe929b2/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420064000 +0500" stop="20260420070000 +0500">
-    <title>Unwind with ITV</title>
-    <sub-title />
-    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3b5090b8-4461-47dd-bf69-b3d9c0006c62/16-9" />
-  </programme><programme channel="ITV-4-UK" start="20260420070000 +0500" stop="20260420073000 +0500">
+  </channel><programme channel="ITV-4-UK" start="20260420070000 +0500" stop="20260420073000 +0500">
     <title>Teleshopping</title>
     <sub-title />
     <desc>Shopping from home.</desc>
@@ -380,5 +129,297 @@
     <category lang="en">Fishing</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/626287b7-e096-4251-9fc0-083d0a80d411/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421000000 +0500" stop="20260421010000 +0500">
+    <title>The Motorbike Show</title>
+    <sub-title />
+    <desc>Henry takes a glorious ride through the south of France and finds some of the twistiest roads imaginable - once back home, he meets the designers behind Aston Martin's first bike.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Transport</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/de219843-32dd-41a7-85ac-1d18094cc9ab/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421010000 +0500" stop="20260421013000 +0500">
+    <title>River Monsters</title>
+    <sub-title>Death Ray</sub-title>
+    <desc>Extreme angler Jeremy Wade goes to Thailand in search of the 700-pound giant freshwater stingray, a creature that is one of the world's most terrifying fish.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/6b733429-9643-4c49-8687-512c0369b044/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421013000 +0500" stop="20260421023500 +0500">
+    <title>The Taking of Pelham 123</title>
+    <sub-title />
+    <desc>Thrilling crime action film remake starring Denzel Washington and John Travolta, 2009. Armed men hijack a New York City subway train to hold its passengers hostage for a ransom.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7aa9164a-b293-40d1-9df8-029ba2587ded/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421023500 +0500" stop="20260421024000 +0500">
+    <title>FYI Daily</title>
+    <sub-title />
+    <desc>Latest news from the world of entertainment.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Showbiz</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8d305e24-af91-4384-8bb8-dec2fd0d621c/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421024000 +0500" stop="20260421034000 +0500">
+    <title>The Taking of Pelham 123</title>
+    <sub-title />
+    <desc>Thrilling crime action film remake starring Denzel Washington and John Travolta, 2009. Armed men hijack a New York City subway train to hold its passengers hostage for a ransom.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7aa9164a-b293-40d1-9df8-029ba2587ded/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421034000 +0500" stop="20260421053500 +0500">
+    <title>All Elite Wrestling: Collision</title>
+    <sub-title />
+    <desc>Hard-hitting action from AEW's newest show, featuring stars including Kyle Fletcher, Kazuchika Okada, Megan Bayne, Tommaso Ciampa and Claudio Castagnoli.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a52aa963-080e-42ca-9027-c2f2fd9f3320/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421053500 +0500" stop="20260421062000 +0500">
+    <title>Lost</title>
+    <sub-title>Numbers</sub-title>
+    <desc>When Hurley becomes obsessed with the French woman and heads into the jungle to find her, Jack, Sayid and Charlie have no choice but to follow.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7d88fb73-ff95-478a-b6c1-6bdc79e8586d/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421062000 +0500" stop="20260421064500 +0500">
+    <title>Auto Mundial</title>
+    <sub-title />
+    <desc>The latest news and reviews from the world of cars.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f8dabec7-8320-49ec-84e1-e6603fe2946c/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421064500 +0500" stop="20260421070000 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1cf6340c-60fe-4b97-b1cd-184b74b554c4/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421070000 +0500" stop="20260421073000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="ITV-4-UK" start="20260421073000 +0500" stop="20260421080000 +0500">
+    <title>Motorsport Mundial</title>
+    <sub-title />
+    <desc>This programme brings you up to date with the latest action from the world of motorsport and features race coverage, insights, and behind-the-scenes footage from the best series.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/51c1bb53-7c76-4078-9fd2-099292843cea/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421080000 +0500" stop="20260421100000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="ITV-4-UK" start="20260421100000 +0500" stop="20260421110500 +0500">
+    <title>Magnum, P.I.</title>
+    <sub-title>Death of the Flowers</sub-title>
+    <desc>Carol asks Thomas to investigate her mentor Judge Hannibal Kerns as she is convinced that he is being bribed to dismiss cases.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/73f06031-6c93-3bb6-b291-7b1478e5158a/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421110500 +0500" stop="20260421121000 +0500">
+    <title>Kojak</title>
+    <sub-title>A Strange Kind of Love</sub-title>
+    <desc>Classic US detective drama. An emotionally disturbed taxi driver becomes obsessed with a radio talk show host and starts to stalk and murder her subjects.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/dc5a13e4-cba5-3d1b-ba2d-7f4117e9ffef/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421121000 +0500" stop="20260421131500 +0500">
+    <title>The Saint</title>
+    <sub-title>The Angel's Eye</sub-title>
+    <desc>Action drama series. The Saint is asked to take a diamond to Amsterdam for recutting, but crooks are determined to get their hands on it by any means necessary.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e71c11db-c0d7-483e-9605-119fd7342d1b/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421131500 +0500" stop="20260421142500 +0500">
+    <title>Boon</title>
+    <sub-title>Message in a Bottle</sub-title>
+    <desc>Ken investigates the case of a larger than life businessman who is accused of kidnapping a young child.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1c2a4a62-d63b-47fd-b6ec-c32e937e8af5/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421142500 +0500" stop="20260421153000 +0500">
+    <title>The Sweeney</title>
+    <sub-title>Poppy</sub-title>
+    <desc>Violent criminal Vic Labbett returns to England to recover the proceeds of an earlier robbery, and Regan and Carter must stop him before he can get his hands on the loot.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/be4f8817-edb8-496b-a055-a2dc2f47844d/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421153000 +0500" stop="20260421163000 +0500">
+    <title>BattleBots</title>
+    <sub-title>The Final Qualifiers</sub-title>
+    <desc>US robot combat series. The sixth series' Qualifying Rounds wrap up with the final must-win match-ups and the field for the Round of 32 being revealed.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/cc3ba5c2-b7f8-49c7-a4e0-e0a685447724/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421163000 +0500" stop="20260421173500 +0500">
+    <title>Magnum, P.I.</title>
+    <sub-title>Autumn Warrior</sub-title>
+    <desc>Classic US action drama series. Higgins goes on a jungle trip with a group of young offenders as part of a programme to help improve their self-esteem.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d5efd339-ca0b-3e8c-9c70-2821a0024e72/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421173500 +0500" stop="20260421184000 +0500">
+    <title>Kojak</title>
+    <sub-title>Laid Off</sub-title>
+    <desc>Classic US detective drama. A rookie cop with two civilian jobs on the side and mounting debts goes to work for a loan shark in a desperate bid to foot the bills.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/607f4e81-b05e-3edd-93ff-d8475264c34a/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421184000 +0500" stop="20260421194500 +0500">
+    <title>The Saint</title>
+    <sub-title>The Man Who Liked Lions</sub-title>
+    <desc>Freelance troubleshooter Simon Templar embarks on another case. The Saint investigates a murder that leads him to a cult obsessed with ancient Rome.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/79dd3358-a1e1-47db-9cc2-ba65949313e3/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421194500 +0500" stop="20260421205000 +0500">
+    <title>Boon</title>
+    <sub-title>The Sharp End</sub-title>
+    <desc>Ken helps some traders and Harry and Alex try to win a big security contract, but they soon find themselves at odds with their partner.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/afb45853-0d84-4ecf-8840-603d717e2e38/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421205000 +0500" stop="20260421215500 +0500">
+    <title>The Sweeney</title>
+    <sub-title>Stay Lucky, Eh?</sub-title>
+    <desc>Classic 70s police drama series. Regan and Carter are on the case when a pair of robbers are themselves robbed at gunpoint.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ed57bcec-a85a-41ff-afdf-a015ea5a70f4/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421215500 +0500" stop="20260421230000 +0500">
+    <title>Minder</title>
+    <sub-title>The Last Video Show</sub-title>
+    <desc>Comedy-drama series about a loveable rogue and his reluctant sidekick. A video implicating two senior police officers is mistakenly returned to Daley Videos.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/36c1c596-5564-45e3-b308-edd69f80fdda/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260421230000 +0500" stop="20260422000000 +0500">
+    <title>Underwater Grand Fishing Adventure</title>
+    <sub-title />
+    <desc>The final part of Ali Hamidi and Bobby Zamora's mission at Iktus in France kicks off on the cameras as the lads try to catch a koi each and a carp of 50 pounds or more.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1abce0fb-cc34-4c5f-892d-894ce78e8630/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422000000 +0500" stop="20260422010000 +0500">
+    <title>World Superbike Highlights</title>
+    <sub-title />
+    <desc>The 2026 World Superbike Championship continues with the Pirelli Dutch Round as the 4.542km track at the TT Assen Circuit pushes the riders to their limits.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/dfbb6979-1c3f-42ba-9652-64c1c094a1f2/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422010000 +0500" stop="20260422020000 +0500">
+    <title>Rocky IV</title>
+    <sub-title />
+    <desc>Boxing drama film sequel starring Sylvester Stallone and Dolph Lundgren, 1985. Rocky Balboa vows to get revenge when a Soviet boxer kills his friend Apollo Creed in the ring.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/07cc868b-fd29-42d7-a8bf-b9275c8fb13c/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422020000 +0500" stop="20260422020500 +0500">
+    <title>FYI Daily</title>
+    <sub-title />
+    <desc>Latest news from the world of entertainment.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Showbiz</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/180d3849-26c2-4153-936e-430d5ba2c10e/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422020500 +0500" stop="20260422025500 +0500">
+    <title>Rocky IV</title>
+    <sub-title />
+    <desc>Boxing drama film sequel starring Sylvester Stallone and Dolph Lundgren, 1985. Rocky Balboa vows to get revenge when a Soviet boxer kills his friend Apollo Creed in the ring.</desc>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/07cc868b-fd29-42d7-a8bf-b9275c8fb13c/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422025500 +0500" stop="20260422035500 +0500">
+    <title>Auf Wiedersehen, Pet</title>
+    <sub-title>The Return of the Seven</sub-title>
+    <desc>Part Two: Comedy-drama series. Dennis returns to Newcastle and meets up with Oz, and Ally is unhappy to find that his Jaguar has had a run-in with a skip.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e678f095-6baf-4fa6-b2d2-a4b44f5b291e/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422035500 +0500" stop="20260422045500 +0500">
+    <title>Auf Wiedersehen, Pet</title>
+    <sub-title>A Law for the Rich</sub-title>
+    <desc>Comedy-drama series about a group of British builders. The lads take a step up in the world when they are asked to convert Thornley Manor into timeshare units.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8fece502-3843-41ee-92d0-90d7349ce779/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422045500 +0500" stop="20260422055500 +0500">
+    <title>The Sweeney</title>
+    <sub-title>Trap</sub-title>
+    <desc>Classic '70s police drama series. Regan and Carter are confronted by a newsman with information on an unsolved robbery, but why are the pair being photographed.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2b589ed6-65db-4b8a-a027-2da365541016/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422055500 +0500" stop="20260422065000 +0500">
+    <title>Minder</title>
+    <sub-title>It's a Sorry Lorry Morrie</sub-title>
+    <desc>Comedy-drama series. Terry leaves his fingerprints on a stolen lorry while doing a job for Arthur.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/73f41bc4-db19-402e-b717-f63cc1142285/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422065000 +0500" stop="20260422070000 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/35dc1de4-e3b1-49d4-9cd0-af68ed9a4a46/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422070000 +0500" stop="20260422073000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="ITV-4-UK" start="20260422073000 +0500" stop="20260422080000 +0500">
+    <title>Auto Mundial</title>
+    <sub-title />
+    <desc>The latest news and reviews from the world of cars.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motor Sports</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f8dabec7-8320-49ec-84e1-e6603fe2946c/16-9" />
+  </programme><programme channel="ITV-4-UK" start="20260422080000 +0500" stop="20260422100000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
   </programme>
 </tv>

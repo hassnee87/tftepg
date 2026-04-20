@@ -3,204 +3,7 @@
   <channel id="Duke-NZ">
     <display-name>Duke</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Duke-NZ.png" />
-  </channel><programme channel="Duke-NZ" start="20260419011500 +0500" stop="20260419013500 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Treehouse Of Horror XXX</sub-title>
-    <desc>Treehouse of Horror Special: Milhouse is trapped in another dimension; dead Homer's spirit tries some new bodies on for size; and Selma finds love in an unlikely place!</desc>
-    <episode-num system="onscreen">S31 E4</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG-VC</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419013500 +0500" stop="20260419020000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Gorillas On The Mast</sub-title>
-    <desc>After a trip to a water park, Lisa's determined to set free Springfield's most vicious captive animals; Homer fulfils a lifelong dream.</desc>
-    <episode-num system="onscreen">S31 E5</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419020000 +0500" stop="20260419080000 +0500">
-    <title>Live: UFC Fight Night</title>
-    <sub-title>Ufc Fight Night: Burns V Malott</sub-title>
-    <desc>Live coverage of the UFC Fight Night from the Canada Life Centre in Winnipeg, Canada which will feature Brazilian Gilbert Burns taking on Mike Malott from Canada.</desc>
-    <language>en</language>
-  </programme><programme channel="Duke-NZ" start="20260419080000 +0500" stop="20260419084500 +0500">
-    <title>On Duke Today...</title>
-    <sub-title />
-    <desc>Here's what's on DUKE today.</desc>
-    <language>en</language>
-  </programme><programme channel="Duke-NZ" start="20260419084500 +0500" stop="20260419094500 +0500">
-    <title>Resto My Ride</title>
-    <sub-title />
-    <desc>All eyes are on this 1939 Chrysler Royal as it arrives out of storage to Resto’s and Rods garage. The Chrysler undergoes a surprise transformation for this client.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419094500 +0500" stop="20260419104500 +0500">
-    <title>NZ Hunter Adventures</title>
-    <sub-title>Splitting Up On Sika</sub-title>
-    <desc>Greg and Willie split Sika roar teams between the Central North Island’s Kaweka and Kaimanawa forests. With a monster caught on trail camera, will their paths cross?</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG-L</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419104500 +0500" stop="20260419120000 +0500">
-    <title>New: Saving Lives At Sea</title>
-    <sub-title>Saving Lives At Sea</sub-title>
-    <desc>In Walmer, the crew respond to reports of a major incident involving a small boat in the Channel; on arrival they are faced with mass casualties in the freezing water.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419120000 +0500" stop="20260419123000 +0500">
-    <title>New: Hunting Aotearoa</title>
-    <sub-title>Kāpiti</sub-title>
-    <desc>Tiki sets off to Kāpiti and teams up with fit hunters Kane, Tara and family for a pig hunt in the coastal hills.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419123000 +0500" stop="20260419130000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Marge The Lumberjill</sub-title>
-    <desc>When Marge realises that everyone views her as boring, she takes up competitive lumber-jacking.</desc>
-    <episode-num system="onscreen">S31 E6</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419130000 +0500" stop="20260419133000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Livin' La Pura Vida</sub-title>
-    <desc>The Simpsons join other Springfield families on the Van Houtens' annual trip to Costa Rica.</desc>
-    <episode-num system="onscreen">S31 E7</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419133000 +0500" stop="20260419143000 +0500">
-    <title>New: 24 Hours In Police Custody</title>
-    <sub-title>Butcher Of Suburbia Part Two</sub-title>
-    <desc>The suspect admits to killing Anette. But a deeply disturbing tale that shocks experienced detectives has only just begun.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-LC</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419143000 +0500" stop="20260419153500 +0500">
-    <title>Night Coppers</title>
-    <sub-title />
-    <desc>The coppers break up a mass brawl and tackle some urban explorers up a crane. And an inebriated nuisance neighbour doesn’t want to go to bed.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>16-VL</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419153500 +0500" stop="20260419160500 +0500">
-    <title>New: Hunting Aotearoa</title>
-    <sub-title>Kāpiti</sub-title>
-    <desc>Tiki sets off to Kāpiti and teams up with fit hunters Kane, Tara and family for a pig hunt in the coastal hills.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG-C</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419160500 +0500" stop="20260419170500 +0500">
-    <title>SAS: Catching The Criminals</title>
-    <sub-title />
-    <desc>Greater Manchester Police make multiple raids on suspected organised crime gangs. Ex-SAS leader Billy Billingham joins the teams searching for ill-gotten gains.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419170500 +0500" stop="20260419180000 +0500">
-    <title>I Escaped A Murderer</title>
-    <sub-title>Holly</sub-title>
-    <desc>Two women who escaped killers share their experiences. One survived an attack by serial killer Angel Maturino Resendiz, also known as the 'Railroad Killer'.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>M-C</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260419180000 +0500" stop="20260419230000 +0500">
-    <title>Duke - Back In The Future</title>
-    <sub-title />
-    <desc>We'll catch you later on DUKE.</desc>
-    <language>en</language>
-  </programme><programme channel="Duke-NZ" start="20260419230000 +0500" stop="20260420041500 +0500">
-    <title>On Duke Today...</title>
-    <sub-title />
-    <desc>Here's what's on DUKE today.</desc>
-    <language>en</language>
-  </programme><programme channel="Duke-NZ" start="20260420041500 +0500" stop="20260420043500 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Marge The Lumberjill</sub-title>
-    <desc>When Marge realises that everyone views her as boring, she takes up competitive lumber-jacking.</desc>
-    <episode-num system="onscreen">S31 E6</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260420043500 +0500" stop="20260420050000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Livin' La Pura Vida</sub-title>
-    <desc>The Simpsons join other Springfield families on the Van Houtens' annual trip to Costa Rica.</desc>
-    <episode-num system="onscreen">S31 E7</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260420050000 +0500" stop="20260420052500 +0500">
-    <title>Fresh Off The Boat</title>
-    <sub-title>Phillip Goldstein</sub-title>
-    <desc>Eddie tries to befriend the only other Chinese kid in school, but he's in for a letdown after he finds out that they have nothing in common. Louis feels betrayed.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260420052500 +0500" stop="20260420063000 +0500">
-    <title>Mythbusters: There's Your Problem</title>
-    <sub-title />
-    <desc>Can paper only be folded seven times, or is someone bending the truth? The MythBusters investigate whether toilet paper could be a prisoner's ticket to freedom.</desc>
-    <language>en</language>
-    <video>
-      <quality>HD</quality>
-    </video><rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="Duke-NZ" start="20260420063000 +0500" stop="20260420073000 +0500">
+  </channel><programme channel="Duke-NZ" start="20260420063000 +0500" stop="20260420073000 +0500">
     <title>Mythbusters: There's Your Problem</title>
     <sub-title />
     <desc>Have you ever wondered whether the box or the cereal has more nutritional value? Does toast always land buttered side down? And can you really fry shrimp on the fly?</desc>
@@ -356,5 +159,276 @@
     <sub-title />
     <desc>Here's what's on DUKE today.</desc>
     <language>en</language>
+  </programme><programme channel="Duke-NZ" start="20260421042000 +0500" stop="20260421044500 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Thanksgiving Of Horror</sub-title>
+    <desc>The Simpsons are all forced to face various Thanksgiving nightmares!</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421044500 +0500" stop="20260421051000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Todd, Todd, Why Hast Thou Forsaken Me?</sub-title>
+    <desc>When Todd blames God for the death of his mother and rejects his faith, Ned sends him to live with the Simpsons in an attempt to scare him back to God.</desc>
+    <episode-num system="onscreen">S31 E9</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421051000 +0500" stop="20260421054000 +0500">
+    <title>Fresh Off The Boat</title>
+    <sub-title>License To Sell</sub-title>
+    <desc>Jessica worries she can't compete with a top realtor and puts off taking the exam for her license; Eddie asks Louis for advice about winning over an older girl.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421054000 +0500" stop="20260421063500 +0500">
+    <title>American Pickers</title>
+    <sub-title>Skateboards And Gutter Balls</sub-title>
+    <desc>Season Premiere: A California almond farm serves up a hidden stash of retro surf shop relics, and a Prohibition Era bowling alley in L.A. offers a mind-blowing trip back in time.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421063500 +0500" stop="20260421073500 +0500">
+    <title>Alone</title>
+    <sub-title>A Day In The Life: Kelsey</sub-title>
+    <desc>Ten new participants must survive in the Great Karoo desert as they face extreme temperatures, new species of predators and a host of exhausting challenges.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG-C</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421073500 +0500" stop="20260421083000 +0500">
+    <title>Curse Of Oak Island</title>
+    <sub-title>A Loose Cannonball</sub-title>
+    <desc>With cold weather approaching and time running out, another discovery in the swamp stuns the fellowship.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421083000 +0500" stop="20260421090000 +0500">
+    <title>Hyundai Country Calendar</title>
+    <sub-title>Rawhide</sub-title>
+    <desc>Rawhide: Farmers become weekend cowboys as their cutting horses hit the arena.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421090000 +0500" stop="20260421093500 +0500">
+    <title>Hyundai Country Calendar</title>
+    <sub-title>Young Wine</sub-title>
+    <desc>A young couple start a biodynamic winery from scratch.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421093500 +0500" stop="20260421103500 +0500">
+    <title>Trucking Hell</title>
+    <sub-title />
+    <desc>A truck careens off on the A1 and crash lands on top of live electrical components with a gas pipe dangerously close by. A lorry is precarious on soft ground.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421103500 +0500" stop="20260421113000 +0500">
+    <title>American Pickers</title>
+    <sub-title>Country Road Gold</sub-title>
+    <desc>Mike and Robbie visit an old-school general store filled with country road gold; a serious collector opens the doors to his empire of vintage coin-op scales.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421113000 +0500" stop="20260421120000 +0500">
+    <title>The Office U.S</title>
+    <sub-title>Business Ethics</sub-title>
+    <desc>Following Ryan's recent scandal at corporate, Holly must hold a business ethics seminar. Meanwhile, Jim makes Dwight comply with the company's "time theft" policy.</desc>
+    <episode-num system="onscreen">S5 E3</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421120000 +0500" stop="20260421123000 +0500">
+    <title>Fresh Off The Boat</title>
+    <sub-title>This Is Us</sub-title>
+    <desc>Eddie looks forward to starting high school with his friends; Jessica considers moving the family to a new neighbourhood; Louis gets the opportunity to expand Cattleman's Ranch.</desc>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421123000 +0500" stop="20260421130000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Bobby, It's Cold Outside</sub-title>
+    <desc>Sideshow Bob gets contracted as the mall Santa; someone steals all the Christmas packages off people's front porches.</desc>
+    <episode-num system="onscreen">S31 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG-C</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421130000 +0500" stop="20260421133000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Hail To The Teeth</sub-title>
+    <desc>Homer and Marge attend Artie Ziff's wedding and become quite uncomfortable when they realise that his bride-to-be is a clone of Marge.</desc>
+    <episode-num system="onscreen">S31 E11</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421133000 +0500" stop="20260421160500 +0500">
+    <title>Movie: Battleship</title>
+    <sub-title>Battleship</sub-title>
+    <desc>An international fleet of ships encounter an alien armada and discover their destructive goals. Starring Alexander Skarsgard and Rihanna..</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-V</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421160500 +0500" stop="20260421170500 +0500">
+    <title>Outrageous Fortune</title>
+    <sub-title />
+    <desc>The Wests take sides as Judd faces trial, and Pascalle fears for the honour of her bridesmaid.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>16-LS</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421170500 +0500" stop="20260421180000 +0500">
+    <title>Head High</title>
+    <sub-title />
+    <desc>An unexpected visitor throws the O’Kane whanau into turmoil; Tai is tempted to go to the dark side; Aria confides in the wrong person.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>M-L</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421180000 +0500" stop="20260421184500 +0500">
+    <title>History's Greatest Escapes With Morgan Freeman</title>
+    <sub-title>Vietnam Pow Escape</sub-title>
+    <desc>A German American pilot, Dieter Dengler, uses survival skills honed as a child to escape a secret prison in Laos during the early years of the Vietnam war.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260421184500 +0500" stop="20260421230000 +0500">
+    <title>Duke - Back In The Future</title>
+    <sub-title />
+    <desc>We'll catch you later on DUKE.</desc>
+    <language>en</language>
+  </programme><programme channel="Duke-NZ" start="20260421230000 +0500" stop="20260422043000 +0500">
+    <title>On Duke Today...</title>
+    <sub-title />
+    <desc>Here's what's on DUKE today.</desc>
+    <language>en</language>
+  </programme><programme channel="Duke-NZ" start="20260422043000 +0500" stop="20260422045000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Bobby, It's Cold Outside</sub-title>
+    <desc>Sideshow Bob gets contracted as the mall Santa; someone steals all the Christmas packages off people's front porches.</desc>
+    <episode-num system="onscreen">S31 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG-C</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422045000 +0500" stop="20260422051000 +0500">
+    <title>The Simpsons</title>
+    <sub-title>Hail To The Teeth</sub-title>
+    <desc>Homer and Marge attend Artie Ziff's wedding and become quite uncomfortable when they realise that his bride-to-be is a clone of Marge.</desc>
+    <episode-num system="onscreen">S31 E11</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422051000 +0500" stop="20260422054000 +0500">
+    <title>Fresh Off The Boat</title>
+    <sub-title>Blind Spot</sub-title>
+    <desc>Jessica's college boyfriend, Oscar Chow, comes to visit. She's a bit miffed that Louis isn't a little more jealous but she's got a blind spot and is oblivious to the fact that Oscar is gay.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422054000 +0500" stop="20260422064000 +0500">
+    <title>American Pickers</title>
+    <sub-title>Country Road Gold</sub-title>
+    <desc>Mike and Robbie visit an old-school general store filled with country road gold; a serious collector opens the doors to his empire of vintage coin-op scales.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422064000 +0500" stop="20260422074000 +0500">
+    <title>Alone</title>
+    <sub-title>A Day In The Life Dug</sub-title>
+    <desc>Ten new participants must survive in the Great Karoo desert as they face extreme temperatures, new species of predators and a host of exhausting challenges.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422074000 +0500" stop="20260422083500 +0500">
+    <title>Curse Of Oak Island</title>
+    <sub-title>Fire In The Hole</sub-title>
+    <desc>Evidence of a continuous burn event in the swamp energizes the team, supporting the theory that a ship was burned and buried there centuries ago.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="Duke-NZ" start="20260422083500 +0500" stop="20260422090500 +0500">
+    <title>Hyundai Country Calendar</title>
+    <sub-title>Forest Giants</sub-title>
+    <desc>Forest Giants: A Taranaki couple fell giant rimu trees in privately-owned bush.</desc>
+    <language>en</language>
+    <video>
+      <quality>HD</quality>
+    </video><rating system="NZ">
+      <value>G</value>
+    </rating>
   </programme>
 </tv>

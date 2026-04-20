@@ -3,94 +3,85 @@
   <channel id="F1-Channel-Pluto-US">
     <display-name>F1 Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/F1-Channel-Pluto-US.png" />
-  </channel><programme channel="F1-Channel-Pluto-US" start="20260419060400 +0500" stop="20260419072200 +0500">
+  </channel><programme channel="F1-Channel-Pluto-US" start="20260420053000 +0500" stop="20260420080500 +0500">
     <title>Formula 1 Racing</title>
-    <sub-title>2023: Qatar Grand Prix, Sprint</sub-title>
-    <desc>From Oct. 7, 2023.</desc>
+    <sub-title>2023: Miami Grand Prix</sub-title>
+    <desc>From Miami International Autodrome in Miami, Florida.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419072200 +0500" stop="20260419095200 +0500">
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420080500 +0500" stop="20260420103900 +0500">
     <title>Formula 1 Racing</title>
-    <sub-title>2023: Qatar Grand Prix</sub-title>
-    <desc>From Losail International Circuit in Doha, Qatar.</desc>
+    <sub-title>2006: Bahrain Grand Prix</sub-title>
+    <desc>From Bahrain International Circuit in Sakhir, Bahrain.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419095200 +0500" stop="20260419110200 +0500">
-    <title>F1 Academy</title>
-    <sub-title>Qatar: Race 1</sub-title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/663bbe76bec25d0013281cb3/tile_1755209389520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419110200 +0500" stop="20260419120500 +0500">
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420103900 +0500" stop="20260420131700 +0500">
     <title>Formula 1 Racing</title>
-    <sub-title>2024: Qatar Grand Prix, Sprint</sub-title>
-    <desc>From Nov. 30, 2024.</desc>
+    <sub-title>2021: Bahrain Grand Prix</sub-title>
+    <desc>From March 28, 2021.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419120500 +0500" stop="20260419140300 +0500">
-    <title>FIA Formula 2 Championship</title>
-    <sub-title>Qatar, Feature Race</sub-title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420131700 +0500" stop="20260420143900 +0500">
+    <title>Formula 3</title>
+    <sub-title>Silverstone, Sprint Race</sub-title>
+    <desc>From Silverstone Circuit in Northamptonshire, England, United Kingdom.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147886bc9410013408b55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419140300 +0500" stop="20260419150200 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>Qatar Grand Prix, Sprint</sub-title>
-    <desc>From Losail International Circuit in Doha, Ad Dawhah, Qatar.</desc>
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408cda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420143900 +0500" stop="20260420162200 +0500">
+    <title>Formula 3</title>
+    <sub-title>Silverstone, Feature Race</sub-title>
+    <desc>From Silverstone Circuit in Northamptonshire, England, United Kingdom.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147866bc941001340884b/tile_1756402994889.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419150200 +0500" stop="20260419172800 +0500">
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408cda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420162200 +0500" stop="20260420183700 +0500">
     <title>Formula 1 Racing</title>
-    <sub-title>Qatar Grand Prix</sub-title>
-    <desc>The Formula One campaign nears a frenetic end with the penultimate race, the Qatar Grand Prix. A double disqualification for McLaren's Lando Norris and Oscar Piastri in Las Vegas has opened the door for four-time defending champ Max Verstappen.</desc>
+    <sub-title>1989: Japanese Grand Prix</sub-title>
+    <desc>From Oct. 22, 1989.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147866bc941001340884b/tile_1756402994889.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419172800 +0500" stop="20260419201300 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>Chinese Grand Prix</sub-title>
-    <desc>The 2026 Chinese Grand Prix marks a revolutionary era at the Shanghai International Circuit. As the second round of the season, it serves as a critical trial for new technical regulations, featuring a 50/50 power split and active aerodynamics.</desc>
-    <date>19700101</date>
     <category>Series</category>
-    <category>Sports</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147866bc941001340884b/tile_1756402994889.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419201300 +0500" stop="20260419222900 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2011: Italian Grand Prix</sub-title>
-    <desc>From Autodromo Nazionale di Monza in Monza, Italy.</desc>
-    <date>19700101</date>
-    <category>Series</category>
-    <category>Sports</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260419222900 +0500" stop="20260420021200 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2023: Dutch Grand Prix</sub-title>
-    <desc>From Circuit Zandvoort in Zandvoort, Netherlands.</desc>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420183700 +0500" stop="20260420195200 +0500">
+    <title>1981 in Review</title>
+    <sub-title>Caesars Palace Grand Prix</sub-title>
+    <desc>Jones endures Vegas heat, battles to finish, and seizes F1 crown in a dramatic Caesars showdown.</desc>
     <date>19700101</date>
-    <category>Series</category>
     <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/671fd44c132dfe001347052d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420195200 +0500" stop="20260420210700 +0500">
+    <title>1982 in Review</title>
+    <sub-title>Caesars Palace Grand Prix</sub-title>
+    <desc>Rosberg seals title in searing Vegas heat as Alboreto stuns with maiden win in a wild desert showdown.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/670422a97dcabd0013e7c94c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260420210700 +0500" stop="20260421000100 +0500">
+    <title>Formula 1 Racing</title>
+    <sub-title>1996: Spanish Grand Prix</sub-title>
+    <desc>From Circuit de Barcelona-Catalunya in Barcelona, Spain.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
   </programme>

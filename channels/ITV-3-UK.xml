@@ -3,158 +3,7 @@
   <channel id="ITV-3-UK">
     <display-name>itv3</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ITV-3-UK.png" />
-  </channel><programme channel="ITV-3-UK" start="20260419000000 +0500" stop="20260419020000 +0500">
-    <title>Midsomer Murders</title>
-    <sub-title>The Magician's Nephew</sub-title>
-    <desc>Barnaby and Jones investigate the secretive world of Midsomer's Magic Circle when a magician's assistant drops dead during a show after being poisoned.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3c4803b5-92db-439e-a550-693ee20e23cb/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419020000 +0500" stop="20260419035000 +0500">
-    <title>Grace</title>
-    <sub-title>Dead If You Don't</sub-title>
-    <desc>Crime drama. A Brighton football stadium receives a terrifying demand that locks Grace into a frantic race to save countless lives and prevent a chilling death.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/26ce0cf0-8ad0-4b46-af03-24e888a4c4d9/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419035000 +0500" stop="20260419055000 +0500">
-    <title>A Touch of Frost</title>
-    <sub-title>If Dogs Run Free</sub-title>
-    <desc>Part One: First in a two-parter ending the popular series. There are deadly consequences when Frost joins forces with RSPCA inspector Christine Moorhead on a case.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/77002714-5e15-4658-b300-1896260eaa61/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419055000 +0500" stop="20260419061500 +0500">
-    <title>On the Buses</title>
-    <sub-title>On the Omnibuses</sub-title>
-    <desc>Sitcom about a bus driver and his conductor pal. The company celebrates its centenary.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/78e20f46-ca5b-4574-8f19-f8ff1099e808/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419061500 +0500" stop="20260419063000 +0500">
-    <title>Unwind with ITV</title>
-    <sub-title />
-    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b1633c9e-b4ea-3b02-b9b2-95e7c111c5a8/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419063000 +0500" stop="20260419100000 +0500">
-    <title>Teleshopping</title>
-    <sub-title />
-    <desc>Shopping from home.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-  </programme><programme channel="ITV-3-UK" start="20260419100000 +0500" stop="20260419120000 +0500">
-    <title>Lewis</title>
-    <sub-title>Your Sudden Death Question</sub-title>
-    <desc>Lewis and Hathaway are called in when a top quiz competitor is found floating dead in the fountain of an Oxford college on a bank holiday weekend.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b584bfc9-ce1d-4495-9610-06453f9a5454/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419120000 +0500" stop="20260419140000 +0500">
-    <title>Lewis</title>
-    <sub-title>Falling Darkness</sub-title>
-    <desc>Lewis and Hathaway investigate the murder of a university friend of Hobson - as more deaths occur, they realise that Laura's past may hold the key.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/064ce408-daef-4782-8458-a72044624eee/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419140000 +0500" stop="20260419160000 +0500">
-    <title>Lewis</title>
-    <sub-title>Old Unhappy Far Off Things</sub-title>
-    <desc>A reunion at Oxford's last all-female college ends in tragedy when one of the alumnae is killed - is it connected to an attack there ten years before.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6e286b08-e1f9-4574-af82-bdcd99619648/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419160000 +0500" stop="20260419170000 +0500">
-    <title>Doc Martin</title>
-    <sub-title>The Wrong Goodbye</sub-title>
-    <desc>Comedy-drama series. Martin fears that Louisa is in danger when he links a woman's collapse at Portwenn's Harbour Day celebrations to a taxi driver's migraines.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c3e09aa3-dd72-4acb-a704-e77a7c34d885/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419170000 +0500" stop="20260419180000 +0500">
-    <title>Doc Martin</title>
-    <sub-title>Preserve the Romance</sub-title>
-    <desc>Comedy-drama series. Martin struggles to come to terms with fatherhood, has doubts about Portwenn's new GP, and receives a devastating personal blow.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3c0f446d-4efc-40e1-9ffa-111eac800759/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419180000 +0500" stop="20260419190000 +0500">
-    <title>Rosemary and Thyme</title>
-    <sub-title>The Language of Flowers</sub-title>
-    <desc>Light-hearted drama series about two amateur sleuths. Laura and Rosemary are doing restoration work at a health spa when the owner is found strangled.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9b10d6b6-dc24-43ab-b05e-f1374b66ee99/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419190000 +0500" stop="20260419200500 +0500">
-    <title>Rosemary and Thyme</title>
-    <sub-title>Sweet Angelica</sub-title>
-    <desc>Light-hearted drama series about a couple of amateur sleuths. Rosemary and Laura are not convinced by police theories when two bodies are found at a language school.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a115bd6f-39a9-4304-8584-5a498b62a104/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419200500 +0500" stop="20260419220000 +0500">
-    <title>McDonald and Dodds</title>
-    <sub-title>Detective drama series</sub-title>
-    <desc>McDonald and Dodds are sucked into the fast and furious world of Formula One after a promising young driver dies in suspicious circumstances.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/85e871c4-35ef-4d50-a401-a05220a4bcca/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260419220000 +0500" stop="20260420000000 +0500">
-    <title>Agatha Christie's Marple</title>
-    <sub-title>Sleeping Murder</sub-title>
-    <desc>Crime thriller. When Gwenda Halliday moves into the home of her dreams, she begins to see ghostly apparitions that lead Miss Marple to an unsolved murder.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d383138d-e03d-4d5c-aa14-cb2774c42612/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260420000000 +0500" stop="20260420020000 +0500">
-    <title>Midsomer Murders</title>
-    <sub-title>Days of Misrule</sub-title>
-    <desc>Barnaby investigates an explosion at a haulage yard. When a body turns up, there are plenty of suspects, including a grieving mother and a group of TA soldiers.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e2393c52-b45a-47ce-a1de-0a565c8e0a22/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260420020000 +0500" stop="20260420035000 +0500">
-    <title>Midsomer Murders</title>
-    <sub-title>The Straw Woman</sub-title>
-    <desc>Murder mystery drama. Barnaby investigates when a priest is burned to death inside the effigy of a straw woman and more people burst into flames spontaneously.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Detective</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/68d1a2a9-58ac-4e32-891e-45f92792db04/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260420035000 +0500" stop="20260420045000 +0500">
-    <title>Code of Silence</title>
-    <sub-title>Suspenseful crime drama</sub-title>
-    <desc>Alison discovers Liam's betrayal and races to stop the gang's heist - chaos erupts as lives are endangered and Alison is forced to confront the fallout.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/70f3be60-3b27-4053-9b60-77608eb28735/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260420045000 +0500" stop="20260420055500 +0500">
-    <title>Code of Silence</title>
-    <sub-title>Suspenseful crime drama</sub-title>
-    <desc>Alison is reeling from Liam's betrayal and consumed with guilt over her role in the heist when her life is suddenly threatened by one of the gang.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8868ca70-0e97-4a6f-a256-177d22759f75/16-9" />
-  </programme><programme channel="ITV-3-UK" start="20260420055500 +0500" stop="20260420062000 +0500">
+  </channel><programme channel="ITV-3-UK" start="20260420055500 +0500" stop="20260420062000 +0500">
     <title>On the Buses</title>
     <sub-title>Goodbye Stan</sub-title>
     <desc>Sitcom about a bus driver and his conductor pal. Stan gets a job up north and decides to get himself sacked in order to earn an extra week's wages.</desc>
@@ -289,5 +138,227 @@
     <category lang="en">Drama</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/4531f249-c775-4fad-9fd7-4a76c73635ca/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421000000 +0500" stop="20260421020000 +0500">
+    <title>Midsomer Murders</title>
+    <sub-title>Talking to the Dead</sub-title>
+    <desc>Barnaby investigates a supposedly haunted forest, the disappearances of two couples, and a gang of antiquity thieves.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/27608b7b-d2a2-48f0-b31d-503c48e6392e/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421020000 +0500" stop="20260421035000 +0500">
+    <title>McDonald and Dodds</title>
+    <sub-title>Detective drama series</sub-title>
+    <desc>Peak wedding season in Bath results in a race against time for the duo when a spate of suspicious deaths affects ceremonies across the city.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/12ba7d3e-4713-3a55-850a-7ece1ecd5458/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421035000 +0500" stop="20260421054500 +0500">
+    <title>Lewis</title>
+    <sub-title>Wild Justice</sub-title>
+    <desc>When Lewis investigates the poisoning of a visiting female bishop, two more deaths mirroring macabre murders from Jacobean revenge tragedy convolute proceedings.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fe97112a-765a-471b-9ce2-9e4a1b4fc37f/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421054500 +0500" stop="20260421061500 +0500">
+    <title>On the Buses</title>
+    <sub-title>The Allowance</sub-title>
+    <desc>Sitcom about a bus driver and his conductor pal. The inspector puts a new recruit on Jack's bus for training knowing that she will drive him mad with her nagging.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/410613eb-e4e7-462d-9a47-8b276829720a/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421061500 +0500" stop="20260421063000 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3376d562-f33e-3f8d-8107-43a9a89530a7/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421063000 +0500" stop="20260421100000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="ITV-3-UK" start="20260421100000 +0500" stop="20260421103500 +0500">
+    <title>Never the Twain</title>
+    <sub-title>Born Again</sub-title>
+    <desc>Classic British sitcom. A soul-searching Simon gets on his soapbox when he thinks that he has discovered the meaning of life after listening to a preacher in the park.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a6d548ac-0b3e-41cd-9b28-dec6c15f3f62/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421103500 +0500" stop="20260421110500 +0500">
+    <title>On the Buses</title>
+    <sub-title>Friends in High Places</sub-title>
+    <desc>Sitcom about a bus driver and his conductor pal. Jack suggests that Mum should work as a cook in the depot canteen.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/72ac8c1e-fca0-42c2-bfee-226f4c951a97/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421110500 +0500" stop="20260421120500 +0500">
+    <title>Classic Emmerdale</title>
+    <sub-title />
+    <desc>Carl suggests Anna take one of the trucks out, but she runs out petrol. Matthew pulls up in his car and relishes finding out who Anna is.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3386151f-df89-4fe0-8ace-d97a0490e371/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421120500 +0500" stop="20260421124000 +0500">
+    <title>Classic Coronation Street</title>
+    <sub-title />
+    <desc>Jerry's ex-wife Teresa turns up to help the Morton family, and a mortified Chesney gets a pep talk from Kirk. Meanwhile, Sean overhears Becky enthusing about her night of passion.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/61f8a974-02cf-4eef-9ad5-c4ddeee72e69/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421124000 +0500" stop="20260421131000 +0500">
+    <title>Classic Coronation Street</title>
+    <sub-title />
+    <desc>Jerry is less than impressed to have Teresa at his bedside. Steve and Dan play dirty as they try to outdo each other and Chesney lands the lead role in the school play.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/60abeaa5-da49-4bb9-ad35-d5d10d563842/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421131000 +0500" stop="20260421151500 +0500">
+    <title>Lewis</title>
+    <sub-title>The Mind Has Mountains</sub-title>
+    <desc>When a student dies during a clinical trial for a new drug, Lewis uncovers a web of lies, jealousy and madness that he himself could fall victim to.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/99db8e96-22ab-4600-a9e7-5c6ddfc8ed1d/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421151500 +0500" stop="20260421162000 +0500">
+    <title>Heartbeat</title>
+    <sub-title>Treading Carefully</sub-title>
+    <desc>Police drama series set in Yorkshire in the 1960s. There are plenty of people to give advice when Nick and Kate's marriage is thrown into turmoil.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f6f3a169-5ef0-4367-9a9c-529e584925bb/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421162000 +0500" stop="20260421172500 +0500">
+    <title>Heartbeat</title>
+    <sub-title>Bad Blood</sub-title>
+    <desc>Police drama series set in Yorkshire in the 1960s. Nick investigates a malicious burglary and Greengrass is discovered handling stolen goods.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4531f249-c775-4fad-9fd7-4a76c73635ca/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421172500 +0500" stop="20260421193000 +0500">
+    <title>Midsomer Murders</title>
+    <sub-title>The Animal Within</sub-title>
+    <desc>A woman in search of her uncle finds that he has spread rumours about her and disappeared, but worse is to follow when his corpse is discovered.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/76dc881d-7b14-4087-a685-490d2142af20/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421193000 +0500" stop="20260421200500 +0500">
+    <title>Classic Emmerdale</title>
+    <sub-title />
+    <desc>Jonny is crushed when he spies Paul in an embrace with Gray. Jimmy is surprised to hear of Carl and Lexi's reunion, while Matthew enjoys a lunch date with Anna.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9d9d9f3b-4495-444c-9435-2af5f1435820/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421200500 +0500" stop="20260421204000 +0500">
+    <title>Classic Emmerdale</title>
+    <sub-title />
+    <desc>Set in the heart of the beautiful countryside of the Yorkshire Dales, this realistic down-to-earth drama superbly chronicles the joys and the heartbreaks of a tight-knit community.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e5fbe765-5663-4080-b5a2-b27775d4b1b6/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421204000 +0500" stop="20260421211500 +0500">
+    <title>Classic Coronation Street</title>
+    <sub-title />
+    <desc>Lloyd begins to think Finlay is his son after Teresa reveals they shared a night of passion years ago. A besotted Becky pushes Jason too far and Chesney wins Kayleigh's affections.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d686f311-8fa5-4664-97d6-f6f0769fbbb5/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421211500 +0500" stop="20260421215000 +0500">
+    <title>Classic Coronation Street</title>
+    <sub-title />
+    <desc>Teresa leads Lloyd on a guilt trip, prompting him to contemplate shelling out cash to support Finlay. Vernon is unsettled by Liz's attentiveness and Becky drives Jason to despair.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Soap</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a987fc3e-6b8e-4a97-8378-6377c6283bbd/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421215000 +0500" stop="20260421225500 +0500">
+    <title>Heartbeat</title>
+    <sub-title>Assault and Battery</sub-title>
+    <desc>Police drama series set in Yorkshire in the 1960s. Nick investigates graffiti at a battery egg farm, and Greengrass tries his hand at selling free-range eggs.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a960045b-660a-482f-87f5-f527bea6e0fc/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260421225500 +0500" stop="20260422000000 +0500">
+    <title>Heartbeat</title>
+    <sub-title>Lost and Found</sub-title>
+    <desc>Police drama series set in Yorkshire in the 1960s. The apparently simple case of a lost suitcase reveals a long-standing family feud.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/14b2fe51-9fa0-414d-b29e-d622d59e52f7/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422000000 +0500" stop="20260422020000 +0500">
+    <title>Vera</title>
+    <sub-title>The Way The Wind Blows</sub-title>
+    <desc>Crime drama. Vera uncovers a web of intrigue, betrayal, and lost promises as she unravels the complicated lives of a late woman found by the River Tyne.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2fb87016-374e-4cf6-9245-e853e38f180b/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422020000 +0500" stop="20260422030000 +0500">
+    <title>DCI Banks</title>
+    <sub-title>Aftermath</sub-title>
+    <desc>Part One: The first part of a two-part crime thriller. A routine domestic call-out to a house leads to a policeman's murder and a shocking discovery for DCI Alan Banks.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5c411456-e8c0-43c2-ae4b-52b5399926b3/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422030000 +0500" stop="20260422035000 +0500">
+    <title>DCI Banks</title>
+    <sub-title>Aftermath</sub-title>
+    <desc>Part Two: Conclusion of the two-part pilot case. DCI Banks and DS Annie Cabbot have to find the killer's accomplice and locate a missing girl, but time is against them.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3659a485-edb6-49da-a3b0-a4e84acba437/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422035000 +0500" stop="20260422054500 +0500">
+    <title>Lewis</title>
+    <sub-title>The Mind Has Mountains</sub-title>
+    <desc>When a student dies during a clinical trial for a new drug, Lewis uncovers a web of lies, jealousy and madness that he himself could fall victim to.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Detective</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/99db8e96-22ab-4600-a9e7-5c6ddfc8ed1d/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422054500 +0500" stop="20260422061000 +0500">
+    <title>On the Buses</title>
+    <sub-title>Friends in High Places</sub-title>
+    <desc>Sitcom about a bus driver and his conductor pal. Jack suggests that Mum should work as a cook in the depot canteen.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/72ac8c1e-fca0-42c2-bfee-226f4c951a97/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422061000 +0500" stop="20260422063000 +0500">
+    <title>Unwind with ITV</title>
+    <sub-title />
+    <desc>Your daily escape designed to calm the mind and encourage relaxation and reflection.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/45c2951b-a187-3bc1-97cc-12f4234caeaa/16-9" />
+  </programme><programme channel="ITV-3-UK" start="20260422063000 +0500" stop="20260422100000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Shopping from home.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
   </programme>
 </tv>

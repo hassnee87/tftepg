@@ -3,121 +3,7 @@
   <channel id="Film-4-UK">
     <display-name>Film4</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Film-4-UK.png" />
-  </channel><programme channel="Film-4-UK" start="20260419005000 +0500" stop="20260419010000 +0500">
-    <title>Last Night in Soho Interview Special</title>
-    <sub-title />
-    <desc>Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Review</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a71392b5-4675-4ae1-8659-edc5a16398fc/16-9" />
-  </programme><programme channel="Film-4-UK" start="20260419010000 +0500" stop="20260419032000 +0500">
-    <title>Anna</title>
-    <sub-title />
-    <desc>Luc Besson's action-thriller about a young Russian assassin, with Sasha Luss. A scout offers Anna an opportunity to become a model in Paris, but can she escape her links to the KGB.</desc>
-    <date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f75cc4e8-fff3-476e-b7cf-226816739aee/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260419032000 +0500" stop="20260419053500 +0500">
-    <title>Last Night in Soho</title>
-    <sub-title />
-    <desc>Edgar Wright's horror with Thomasin McKenzie, Anya Taylor-Joy and Matt Smith. A fashion student's transported back to Swinging-60s London. But nostalgia's not what it used to be..</desc>
-    <date>2021</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3a4db777-ac9d-4c5c-b1fd-5630e6fed637/16-9" />
-    <rating system="UK">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260419053500 +0500" stop="20260419074500 +0500">
-    <title>The Frighteners</title>
-    <sub-title />
-    <desc>Peter Jackson's comedy horror stars Michael J Fox as a psychic investigator in a town that has more ghouls and ghosties than you can shake a spirit stick at. But is he a fraud.</desc>
-    <date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/75710c5c-4ea8-4fb2-90b7-7012af30bd34/16-9" />
-    <rating system="UK">
-      <value>15</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260419074500 +0500" stop="20260419110000 +0500">
-    <title>Teleshopping</title>
-    <sub-title />
-    <desc>Teleshopping.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-  </programme><programme channel="Film-4-UK" start="20260419110000 +0500" stop="20260419150000 +0500">
-    <title>Teleshopping</title>
-    <sub-title />
-    <desc>Teleshopping.</desc>
-    <category lang="en">Specialist</category>
-    <category lang="en">Shopping</category>
-    <language>en</language>
-  </programme><programme channel="Film-4-UK" start="20260419150000 +0500" stop="20260419171500 +0500">
-    <title>Local Hero</title>
-    <sub-title />
-    <desc>Comedy starring Peter Riegert, Burt Lancaster and Peter Capaldi. A US oil company executive tries to persuade a small Scottish seaside community to sell up their entire village.</desc>
-    <date>1983</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9d2c1678-85e9-434c-bd91-36dd0a5bd831/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260419171500 +0500" stop="20260419172000 +0500">
-    <title>Last Night in Soho Interview Special</title>
-    <sub-title />
-    <desc>Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Review</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a71392b5-4675-4ae1-8659-edc5a16398fc/16-9" />
-  </programme><programme channel="Film-4-UK" start="20260419172000 +0500" stop="20260419221000 +0500">
-    <title>Cleopatra</title>
-    <sub-title />
-    <desc>Drama. Elizabeth Taylor plays the Egyptian queen who, to protect her realm, uses political guile and her body to woo Julius Caesar (Rex Harrison) and Mark Antony (Richard Burton).</desc>
-    <date>1963</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/98bc6839-053f-44a3-9fe2-d2e5eb3b40cf/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260419221000 +0500" stop="20260420010000 +0500">
-    <title>Independence Day</title>
-    <sub-title />
-    <desc>Blockbusting landmark sci-fi action-thriller starring Will Smith and Jeff Goldblum. A US Air Force pilot and a scientist battle aliens who are spectacularly destroying our planet.</desc>
-    <date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Sci-Fi</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/00fa57bb-0a63-417b-a451-a3738359c072/16-9" />
-    <rating system="UK">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260420010000 +0500" stop="20260420031500 +0500">
-    <title>Memory</title>
-    <sub-title />
-    <desc>Action with Liam Neeson as a septuagenarian hitman; Monica Bellucci as a villain who hires hitmen to hit him, and Guy Pearce as an FBI agent investigating it all.</desc>
-    <date>2022</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ec03981b-3e37-4a81-93b9-93c53a67cd0c/16-9" />
-    <rating system="UK">
-      <value>18</value>
-    </rating>
-  </programme><programme channel="Film-4-UK" start="20260420031500 +0500" stop="20260420052500 +0500">
+  </channel><programme channel="Film-4-UK" start="20260420031500 +0500" stop="20260420052500 +0500">
     <title>Violent Night</title>
     <sub-title />
     <desc>A gang of violent home-invaders find out the hard way that you REALLY don't want to be on Santa's naughty list, in Tommy Wirkola's dark, violent Christmas comedy. With David Harbour.</desc>
@@ -230,5 +116,158 @@
     <rating system="UK">
       <value>PG</value>
     </rating>
+  </programme><programme channel="Film-4-UK" start="20260421010000 +0500" stop="20260421030500 +0500">
+    <title>The Contractor</title>
+    <sub-title />
+    <desc>Action thriller with Chris Pine. An ex-soldier takes on private work to feed his family, but finds himself in dire straits (danger; not the band). With Kiefer Sutherland.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/fa8287b5-01d3-45f9-8a30-619bbd5a310d/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421030500 +0500" stop="20260421051000 +0500">
+    <title>The Look of Love</title>
+    <sub-title />
+    <desc>Comedy-drama biopic. Steve Coogan plays Paul Raymond, who ran Britain's first strip club, revolutionised the erotic entertainment industry and became rich. Strong language/sex/drugs.</desc>
+    <date>2013</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0746d729-38fd-4eb4-b6ce-82639afea8e7/16-9" />
+    <rating system="UK">
+      <value>18</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421051000 +0500" stop="20260421070000 +0500">
+    <title>Wish You Were Here</title>
+    <sub-title />
+    <desc>Award-winning comedy-drama set in an English seaside town in the early 1950s. Emily Lloyd stars as a spirited teenager whose sexual awakening comes at a price. With Tom Bell.</desc>
+    <date>1987</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/cb67777a-d313-45ba-b9cb-30a5159cbd37/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421070000 +0500" stop="20260421110000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="Film-4-UK" start="20260421110000 +0500" stop="20260421150000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
+  </programme><programme channel="Film-4-UK" start="20260421150000 +0500" stop="20260421172000 +0500">
+    <title>A Foreign Affair</title>
+    <sub-title />
+    <desc>Billy Wilder's film stars Jean Arthur and Marlene Dietrich as the chalk-and-cheese women in post-war Berlin with John Lund as the man caught between them.</desc>
+    <date>1948</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5ed004fc-99d3-4e0e-8fcc-0ba7c18f53a0/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421172000 +0500" stop="20260421190000 +0500">
+    <title>Forty Guns</title>
+    <sub-title />
+    <desc>Western. Barbara Stanwyck stars as a cattle rancher who, with her hired guns, rules a town as if it were her own. But then a federal marshal (Barry Sullivan) arrives on the scene.</desc>
+    <date>1957</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Western</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/253a3779-dd5b-4dcf-aa0d-01310b825013/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421190000 +0500" stop="20260421205000 +0500">
+    <title>Winchester '73</title>
+    <sub-title />
+    <desc>Western. James Stewart stars as sharpshooter Lin McAdam, who wins a Winchester rifle. But a murderous rival steals his prize, so McAdam sets out on an epic journey in pursuit.</desc>
+    <date>1950</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Western</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2468855e-0661-4588-8b05-47ebc31ff00e/16-9" />
+    <rating system="UK">
+      <value>U</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421205000 +0500" stop="20260421231000 +0500">
+    <title>Von Ryan's Express</title>
+    <sub-title />
+    <desc>Second World War adventure. Frank Sinatra stars as the leader of Allied prisoners of war attempting to slip the clutches of their Italian captors. Co-starring Trevor Howard.</desc>
+    <date>1965</date>
+    <category lang="en">Movie</category>
+    <category lang="en">War</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9a338965-ec1d-4989-a0ae-768258959aa3/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260421231000 +0500" stop="20260422010000 +0500">
+    <title>Daddy's Home</title>
+    <sub-title />
+    <desc>Comedy starring Mark Wahlberg, Will Ferrell and Linda Cardellini. A man's living happily with his wife and stepchildren - until the kids' biological dad swaggers back onto the scene.</desc>
+    <date>2015</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1e9325bb-5fb3-429f-bd40-eff45d552aaf/16-9" />
+    <rating system="UK">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260422010000 +0500" stop="20260422034000 +0500">
+    <title>Kingsman: The Secret Service</title>
+    <sub-title />
+    <desc>Action-comedy with Colin Firth, Taron Egerton and Samuel L Jackson. A London teenager is introduced to a secret society of immaculately dressed agents that exists to save the world.</desc>
+    <date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b11981ef-5ed6-4dd5-b31e-a7991f7882eb/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260422034000 +0500" stop="20260422054500 +0500">
+    <title>Jennifer's Body</title>
+    <sub-title />
+    <desc>Gory horror starring Megan Fox and Amanda Seyfried. A macabre ritual literally turns a cheerleader into a man-eater. Can her nerdy friend save the day.</desc>
+    <date>2009</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Horror</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e8e00e13-d61d-49e0-8328-1109180514b0/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260422054500 +0500" stop="20260422073500 +0500">
+    <title>I Am Not a Witch</title>
+    <sub-title />
+    <desc>Rungano Nyoni's BAFTA Film Award-winning satirical drama. In a rural Zambian village, a quiet, serious-looking girl is accused of witchcraft. In Nyanja/Bemba/Tonga/subs.</desc>
+    <date>2017</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3ca3123f-2f3c-4c65-97fb-208c8ef83099/16-9" />
+    <rating system="UK">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="Film-4-UK" start="20260422073500 +0500" stop="20260422110000 +0500">
+    <title>Teleshopping</title>
+    <sub-title />
+    <desc>Teleshopping.</desc>
+    <category lang="en">Specialist</category>
+    <category lang="en">Shopping</category>
+    <language>en</language>
   </programme>
 </tv>

@@ -3,8 +3,8 @@
   <channel id="South-Station-IN">
     <display-name>South Station</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/South-Station-IN.png" />
-  </channel><programme channel="South-Station-IN" start="20260419062943 +0500" stop="20260419122943 +0500">
-    <title>Time Story</title>
+  </channel><programme channel="South-Station-IN" start="20260420080212 +0500" stop="20260420093230 +0500">
+    <title>Adbhut Prem Kahani</title>
     <sub-title />
     <desc>South Station</desc>
     <language>en</language>
@@ -12,8 +12,26 @@
     <rating>
       <value>NA</value>
     </rating>
-  </programme><programme channel="South-Station-IN" start="20260419122943 +0500" stop="20260419182943 +0500">
-    <title>Time Story</title>
+  </programme><programme channel="South-Station-IN" start="20260420093230 +0500" stop="20260420114724 +0500">
+    <title>Badle Ki Raat</title>
+    <sub-title />
+    <desc>South Station</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="South-Station-IN" start="20260420114724 +0500" stop="20260420135824 +0500">
+    <title>Jaanbaaz Commando</title>
+    <sub-title />
+    <desc>South Station</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2099930475_0_20251031T074240810Z_1_imageprocessorclient-tvplus-linear-76c46fff7-smjtb.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="South-Station-IN" start="20260420135824 +0500" stop="20260420161954 +0500">
+    <title>Haathi Friends forever</title>
     <sub-title />
     <desc>South Station</desc>
     <language>en</language>

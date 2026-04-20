@@ -3,539 +3,7 @@
   <channel id="TRT-World-TR">
     <display-name>TRT World</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TRT-World-TR.png" />
-  </channel><programme channel="TRT-World-TR" start="20260419000000 +0500" stop="20260419003000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a3e59458-8216-45c5-84c4-01ae138b78e8/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419003000 +0500" stop="20260419004500 +0500">
-    <title>Scoreline</title>
-    <sub-title />
-    <desc>Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/72095f82-f610-4dae-acf6-43c93ab365cf/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419004500 +0500" stop="20260419010000 +0500">
-    <title>Debrief</title>
-    <sub-title />
-    <desc>DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/05ab6a74-06cc-434b-b668-2f83dc6a7c94/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419010000 +0500" stop="20260419013000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c64dd3e6-b7b5-4799-8607-b20e8ddf19a6/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419013000 +0500" stop="20260419020000 +0500">
-    <title>Money Talks</title>
-    <sub-title />
-    <desc>Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Business</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/1f87e9b4-fc62-4494-ae39-1bc66b83426d/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419020000 +0500" stop="20260419023000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c2eba2c2-9ee8-42e2-8a5a-18c014686306/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419023000 +0500" stop="20260419030000 +0500">
-    <title>Roundtable</title>
-    <sub-title />
-    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6501bd5a-b77c-48e9-9e67-2cc064a75475/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419030000 +0500" stop="20260419040000 +0500">
-    <title>Storyteller: Skygods -  the Price of Our Love of Flying</title>
-    <sub-title />
-    <desc>A frequent flier goes on a journey to learn about the excessive growth of aviation and explore what it will take to make flying more sustainable.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8cfb2d86-1f21-4728-b437-0a586a099b4f/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419040000 +0500" stop="20260419043000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d782af63-27a8-4686-a776-46c2a912a301/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419043000 +0500" stop="20260419044500 +0500">
-    <title>Scoreline</title>
-    <sub-title />
-    <desc>Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8e4ba0d4-36e6-4e61-ab03-22a4eca393d2/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419044500 +0500" stop="20260419050000 +0500">
-    <title>Newsfeed</title>
-    <sub-title />
-    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5e90f66c-79ac-4764-98f6-83b8be54a38e/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419050000 +0500" stop="20260419053000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4d473e3d-ecef-491c-90ae-f8a4eba48206/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419053000 +0500" stop="20260419060000 +0500">
-    <title>Just 2 Degrees</title>
-    <sub-title />
-    <desc>A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Affairs</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f83888de-de99-4ae5-a9d2-01693453c745/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419060000 +0500" stop="20260419061500 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6c9af99a-87bc-46f3-965b-4419cd974769/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419061500 +0500" stop="20260419063000 +0500">
-    <title>Debrief</title>
-    <sub-title />
-    <desc>DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/bb03e420-da37-467c-8906-961d810d9524/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419063000 +0500" stop="20260419070000 +0500">
-    <title>The Newsmakers</title>
-    <sub-title />
-    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2ac2b8b5-166c-447d-8d20-2a809f1c882f/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419070000 +0500" stop="20260419073000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/fd9c3246-7d03-47a7-b37d-95a3a0a9d0ce/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419073000 +0500" stop="20260419080000 +0500">
-    <title>Forging the Future Human Immortality</title>
-    <sub-title />
-    <desc>Pioneer scientists and biologists work tirelessly to slow or reverse ageing. Is human immortality a matter of "if" or "when?</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/26969903-5113-41ac-9145-255d26cec003/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419080000 +0500" stop="20260419090000 +0500">
-    <title>Storyteller: Plastic: The Silent Killer</title>
-    <sub-title />
-    <desc>This film investigates how being exposed to dangerous chemicals through our use of plastic, leads to an increase in certain diseases and disorders.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/cc654adc-f8cd-422b-b652-f74ebe1d4a99/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419090000 +0500" stop="20260419093000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/1e15b55d-291a-4f03-8055-61466282ecbb/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419093000 +0500" stop="20260419100000 +0500">
-    <title>Bigger Than Five</title>
-    <sub-title />
-    <desc>A critical look at foreign policy decisions made in Washington DC and other global centres of power and their impact on the rest of the world.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6e974377-7257-4581-9450-0f8d9fb33402/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419100000 +0500" stop="20260419103000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d683617f-9a64-413d-bd03-c210778d6f93/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419103000 +0500" stop="20260419110000 +0500">
-    <title>The Longest Day: Water</title>
-    <sub-title />
-    <desc>We follow a durian farmer in Vietnam, urban fish farmers in Singapore and well diggers in Jakarta as they face lack of access to fresh water.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b337eab2-2831-323d-a227-78a18d9e407b/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419110000 +0500" stop="20260419113000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e34e9716-5d99-44ae-b9b1-66fc094c5b8b/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419113000 +0500" stop="20260419120000 +0500">
-    <title>Money Talks</title>
-    <sub-title />
-    <desc>Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Business</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e4d2321b-d675-42f8-b971-02f34b5c9c3f/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419120000 +0500" stop="20260419123000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/54a91d01-6470-4fa9-a6a5-27c09ab5514d/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419123000 +0500" stop="20260419130000 +0500">
-    <title>Strait Talk</title>
-    <sub-title />
-    <desc>An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e6bbd70a-0080-4350-9df5-411c95144971/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419130000 +0500" stop="20260419133000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0e22c8d6-7ffd-4637-adf5-f849b12ae160/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419133000 +0500" stop="20260419140000 +0500">
-    <title>Roundtable</title>
-    <sub-title />
-    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3561456c-9e41-4c28-8bd9-cd3a842a94ce/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419140000 +0500" stop="20260419143000 +0500">
-    <title>Nexus</title>
-    <sub-title />
-    <desc>TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/812a7f16-c734-49bb-a2fe-746e3708947c/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419143000 +0500" stop="20260419150000 +0500">
-    <title>The Newsmakers</title>
-    <sub-title />
-    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e780189c-5f88-4879-9fc4-6d9039359051/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419150000 +0500" stop="20260419153000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/cda985b2-c3df-4bbe-8db4-01d4957d90fa/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419153000 +0500" stop="20260419160000 +0500">
-    <title>NexTech</title>
-    <sub-title />
-    <desc>NexTech looks at tomorrow's industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d925f971-3c9d-4755-a4ee-e8a9c97bd939/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419160000 +0500" stop="20260419163000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5372d95c-422b-4745-91cf-998e4e0ffcd3/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419163000 +0500" stop="20260419170000 +0500">
-    <title>Beyond Borders: No Pain, No Spain</title>
-    <sub-title />
-    <desc>Risking death to reach Europe. Why Spain can't survive without migrants.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Politics</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0043aad6-8700-469a-be0b-07c9b7ae2982/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419170000 +0500" stop="20260419173000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/96a98b00-eac4-4bb5-a333-080a9b57e811/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419173000 +0500" stop="20260419174500 +0500">
-    <title>Debrief</title>
-    <sub-title />
-    <desc>DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7289e1b7-456c-48fd-abcb-e2f36b3fb618/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419174500 +0500" stop="20260419180000 +0500">
-    <title>Newsfeed</title>
-    <sub-title />
-    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/11239142-8996-4328-9443-61601c77a3c4/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419180000 +0500" stop="20260419183000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/63d78709-0ab2-4b6f-bea6-5404caeeee5a/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419183000 +0500" stop="20260419190000 +0500">
-    <title>Africa Matters</title>
-    <sub-title />
-    <desc>Every week, Africa Matters will bring you the untold, under-reported stories from across the continent. We'll also unpack the issues that matter to Africans.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Affairs</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f630baf4-793c-4cf9-9ed8-1d98b7dba961/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419190000 +0500" stop="20260419193000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9fb1ccd6-cc18-4972-b119-4c7319459331/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419193000 +0500" stop="20260419200000 +0500">
-    <title>Just 2 Degrees</title>
-    <sub-title />
-    <desc>A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Affairs</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d6807eaf-f9c6-4430-9680-1aaae0140169/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419200000 +0500" stop="20260419210000 +0500">
-    <title>Storyteller: A State of Passion</title>
-    <sub-title />
-    <desc>A war surgeon's Gaza frontline journey transforms him into an unexpected global voice challenging colonial narratives and inspiring change.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">War Documentary</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a65ac625-9d2b-40c4-bb49-d9448de43061/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419210000 +0500" stop="20260419213000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/337d66d6-29a0-40cd-83b4-2d1269081483/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419213000 +0500" stop="20260419220000 +0500">
-    <title>Strait Talk</title>
-    <sub-title />
-    <desc>An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6db42e8b-ab88-4db4-8afa-f20d791c65a9/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419220000 +0500" stop="20260419223000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/54611458-6fe5-4eb0-bd20-68f3fba45f74/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419223000 +0500" stop="20260419230000 +0500">
-    <title>Money Talks</title>
-    <sub-title />
-    <desc>Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Business</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9b0c0578-a04a-4568-9e33-09767142bb07/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419230000 +0500" stop="20260419233000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/a1496c14-528b-426a-8363-543ee43c49b9/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260419233000 +0500" stop="20260420000000 +0500">
-    <title>Across the Balkans</title>
-    <sub-title />
-    <desc>Across The Balkans takes you to a land of breathtaking beauty with a painful past, to discover the issues and fault lines shaping Southeast Europe today.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Affairs</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/0face071-af4e-46a2-b63d-ec4a36952511/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420000000 +0500" stop="20260420003000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/84be33ee-0d92-43fa-9020-14ddbad89905/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420003000 +0500" stop="20260420004500 +0500">
-    <title>Scoreline</title>
-    <sub-title />
-    <desc>Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/729a0ebe-9482-4920-8661-bdaaf67a7ef3/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420004500 +0500" stop="20260420010000 +0500">
-    <title>Debrief</title>
-    <sub-title />
-    <desc>DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/41f6de72-f04f-4a7d-a98b-159666c3c56e/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420010000 +0500" stop="20260420013000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9a9e0485-8637-475a-96ca-6917d80a2bbd/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420013000 +0500" stop="20260420020000 +0500">
-    <title>Roundtable</title>
-    <sub-title />
-    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/fa803fa9-8d97-4523-9577-31b5f2a1afa1/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420020000 +0500" stop="20260420023000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/1e54f10f-01ef-4f24-a98e-ddd366aa1b15/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420023000 +0500" stop="20260420030000 +0500">
-    <title>The Newsmakers</title>
-    <sub-title />
-    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d0487817-ea7c-499b-9e2f-886bb6818374/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420030000 +0500" stop="20260420033000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b89ce0b5-47d9-44f3-94c9-0151d0ae8eb8/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420033000 +0500" stop="20260420040000 +0500">
-    <title>The Longest Day: Water</title>
-    <sub-title />
-    <desc>We follow a durian farmer in Vietnam, urban fish farmers in Singapore and well diggers in Jakarta as they face lack of access to fresh water.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b337eab2-2831-323d-a227-78a18d9e407b/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420040000 +0500" stop="20260420043000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8d3756a8-3fdc-4808-b1c4-9f632f32b1c7/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420043000 +0500" stop="20260420044500 +0500">
-    <title>Scoreline</title>
-    <sub-title />
-    <desc>Do you need a fast-paced and punchy show to cover all the weekend's sport action? TRT World's Scoreline is your programme on Saturday and Sundays.</desc>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3c273f28-5a3d-43f1-bed8-45082d6e2ebd/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420044500 +0500" stop="20260420053000 +0500">
-    <title>Newsfeed</title>
-    <sub-title />
-    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/15cbccc0-d273-49a4-be0a-0f15dadfec0f/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420053000 +0500" stop="20260420060000 +0500">
-    <title>Across the Balkans</title>
-    <sub-title />
-    <desc>Across The Balkans takes you to a land of breathtaking beauty with a painful past, to discover the issues and fault lines shaping Southeast Europe today.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Affairs</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/bdc52d3b-8569-408c-b3c5-72da1de2437d/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420060000 +0500" stop="20260420061500 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/843555d3-2402-4603-925a-b91c539337f4/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420061500 +0500" stop="20260420063000 +0500">
-    <title>Debrief</title>
-    <sub-title />
-    <desc>DEBRIEF is a weekly show that delivers the most important news and stories from the week in a concise format.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/06de64fa-3f21-4822-9477-5082bc802802/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420063000 +0500" stop="20260420070000 +0500">
-    <title>Where To Next</title>
-    <sub-title />
-    <desc>Where to Next takes audiences off the beaten path in Türkiye to uncover hidden gems, culinary treasures, and rich cultural highlights.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Culture</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/1749795d-d8c1-4311-bcef-e8f0916fe58e/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420070000 +0500" stop="20260420073000 +0500">
-    <title>News</title>
-    <sub-title />
-    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4a6c3894-bf3e-445a-b46a-6df16b818b01/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420073000 +0500" stop="20260420080000 +0500">
-    <title>Money Talks</title>
-    <sub-title />
-    <desc>Helping the 99% navigate their financial world. With in-depth reports and analysis, Money Talks makes the news your business.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Business</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8d6408c1-c0d3-4ed6-8603-d3a2e65651f9/16-9" />
-  </programme><programme channel="TRT-World-TR" start="20260420080000 +0500" stop="20260420083000 +0500">
+  </channel><programme channel="TRT-World-TR" start="20260420080000 +0500" stop="20260420083000 +0500">
     <title>The Newsmakers</title>
     <sub-title />
     <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
@@ -775,5 +243,517 @@
     <category lang="en">Nature</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/558d66d0-7b68-3f95-a347-ab041866d967/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421000000 +0500" stop="20260421010000 +0500">
+    <title>Newshour - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8866d6eb-1c8c-4abe-8c9e-138599c0de38/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421010000 +0500" stop="20260421013000 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421013000 +0500" stop="20260421020000 +0500">
+    <title>Nexus</title>
+    <sub-title />
+    <desc>TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/4e099b20-b982-413c-b346-d931e99e6c36/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421020000 +0500" stop="20260421023000 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421023000 +0500" stop="20260421030000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d22c668d-4846-402e-bbf5-08554c446afd/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421030000 +0500" stop="20260421033000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c3eb58c4-76ba-463f-91e0-61cb2218ff0c/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421033000 +0500" stop="20260421040000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e50fdb35-67c1-4ecd-88db-f0b291282dae/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421040000 +0500" stop="20260421043000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d693d2fd-0140-47a0-a2a2-9b86536c7699/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421043000 +0500" stop="20260421050000 +0500">
+    <title>Inside America</title>
+    <sub-title />
+    <desc>Weekly in-depth interviews with American opinion and policy-makers exploring the issues shaping US politics, with Ghida Fakhry.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1b9773ff-6566-4514-9ff8-2f790bc7bd50/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421050000 +0500" stop="20260421053000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3015dfd0-ce8e-4b89-b2b1-495852061386/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421053000 +0500" stop="20260421060000 +0500">
+    <title>Strait Talk</title>
+    <sub-title />
+    <desc>An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/51554cfb-bdb0-4116-a7a4-75755a1e3359/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421060000 +0500" stop="20260421061500 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/69998700-a6d8-4288-8cd8-c791e785bddc/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421061500 +0500" stop="20260421063000 +0500">
+    <title>Newsfeed</title>
+    <sub-title />
+    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a7bd28c4-47ef-4f58-82f7-4bf4d18df830/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421063000 +0500" stop="20260421070000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2836f3e5-bbed-4b27-ab60-17db14945cb6/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421070000 +0500" stop="20260421073000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e09590ac-a627-433d-ad18-9e881e53984c/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421073000 +0500" stop="20260421080000 +0500">
+    <title>The Longest Day: Heat</title>
+    <sub-title />
+    <desc>In this episode, we meet those who are most vulnerable to heat - schoolchildren in Indonesia and Singapore and slum-dwellers in Delhi.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Nature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/558d66d0-7b68-3f95-a347-ab041866d967/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421080000 +0500" stop="20260421090000 +0500">
+    <title>Storyteller: Magic Mud</title>
+    <sub-title />
+    <desc>Greenlandic geologist Minik Rosing leads a global team exploring how nutrient-rich glacial mud could transform poor tropical soils and reduce global inequality.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Science</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8d0035ae-fc18-434a-bdbb-39203a1a03ca/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421090000 +0500" stop="20260421093000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/96f24c82-d865-4d3b-a15a-f7f76005599b/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421093000 +0500" stop="20260421100000 +0500">
+    <title>Nexus</title>
+    <sub-title />
+    <desc>TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7c520651-b986-4d09-b660-13257e67fb87/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421100000 +0500" stop="20260421103000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/7a1f8df1-caa6-45ca-9bad-b1805ed4d05c/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421103000 +0500" stop="20260421110000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/21dacd55-55f0-48a5-a1a5-2da84f795e70/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421110000 +0500" stop="20260421113000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ad3ee8d2-a4c5-46bd-b8d8-98c1f16e23a5/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421113000 +0500" stop="20260421120000 +0500">
+    <title>Inside America</title>
+    <sub-title />
+    <desc>Weekly in-depth interviews with American opinion and policy-makers exploring the issues shaping US politics, with Ghida Fakhry.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e2a16955-a94b-4574-aa7e-e7c5c2b0283e/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421120000 +0500" stop="20260421123000 +0500">
+    <title>Business News</title>
+    <sub-title />
+    <desc>As the world grapples with ever changing politics and crises, economy is always center stage. TRT World's Business News gives you the insight.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Business</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2545ad5b-6584-4d6a-a5cc-8dad791a218d/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421123000 +0500" stop="20260421130000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c1374be0-ee73-400b-97b2-c56754a62972/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421130000 +0500" stop="20260421140000 +0500">
+    <title>Newshour</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/37356a89-d826-4f0c-8c42-43c6dc6f6b1c/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421140000 +0500" stop="20260421143000 +0500">
+    <title>Africa Matters</title>
+    <sub-title />
+    <desc>Every week, Africa Matters will bring you the untold, under-reported stories from across the continent. We'll also unpack the issues that matter to Africans.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0e611810-afb1-449e-aeee-c1f1b88fec6b/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421143000 +0500" stop="20260421150000 +0500">
+    <title>Just 2 Degrees</title>
+    <sub-title />
+    <desc>A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a6af00d8-07c6-4dba-b29c-0b56520de14e/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421150000 +0500" stop="20260421153000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/632ab5c7-358c-4093-a9e2-66c9f33d2062/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421153000 +0500" stop="20260421160000 +0500">
+    <title>Nextech: No TX</title>
+    <sub-title />
+    <desc>NexTech looks at tomorrow's industries, getting ahead of future trends and understanding the challenges that come with any new technological breakthroughs.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Science</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e0ed9feb-272b-41fe-b114-f9c4e652103a/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421160000 +0500" stop="20260421163000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/07bb2a6e-dc4c-40c7-9f51-6ff15dd1ca2a/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421163000 +0500" stop="20260421170000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d3ea4569-beb0-4b46-995c-68e5f399ff6e/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421170000 +0500" stop="20260421180000 +0500">
+    <title>Newshour</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/aa54b059-cf7f-4f5f-97f2-a3ebc7dce0fb/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421180000 +0500" stop="20260421183000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3f511eaf-2ed8-40e7-b71a-0d1167ba231f/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421183000 +0500" stop="20260421190000 +0500">
+    <title>Bigger Than Five</title>
+    <sub-title />
+    <desc>A critical look at foreign policy decisions made in Washington DC and other global centres of power and their impact on the rest of the world.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/6552218b-7858-431a-8b25-67a4f073d3e2/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421190000 +0500" stop="20260421193000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b7047d2e-753c-415f-aa80-b05c1b76c6e0/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421193000 +0500" stop="20260421200000 +0500">
+    <title>Nexus</title>
+    <sub-title />
+    <desc>TRT World's Nexus is a forensic, fast-paced and sometimes irreverent take on the news.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/51554237-31e7-4617-a55b-f23113f86ad5/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421200000 +0500" stop="20260421203000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/669cd5c2-8a20-4e36-8635-a3116c40c668/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421203000 +0500" stop="20260421210000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3f0f69ea-e84c-493a-a934-c245089baf9c/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421210000 +0500" stop="20260421220000 +0500">
+    <title>Newshour</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9bb9d4a2-89ee-4c9e-bcb4-d19b45868f77/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421220000 +0500" stop="20260421223000 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421223000 +0500" stop="20260421230000 +0500">
+    <title>My America</title>
+    <sub-title />
+    <desc>We examine one of the highest profile cases of FBI entrapment after 9/11 and the fallout for the Muslim community.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e224750b-ca75-4786-874a-ec35b85486f5/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421230000 +0500" stop="20260421231500 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421231500 +0500" stop="20260421233000 +0500">
+    <title>Newsfeed</title>
+    <sub-title />
+    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/51c5d212-d3e2-4acf-9cda-268ef839eb96/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260421233000 +0500" stop="20260422000000 +0500">
+    <title>Strait Talk</title>
+    <sub-title />
+    <desc>An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/20f57b61-48ba-4fdb-9982-b58ecc340ffa/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422000000 +0500" stop="20260422010000 +0500">
+    <title>Newshour - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8866d6eb-1c8c-4abe-8c9e-138599c0de38/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422010000 +0500" stop="20260422013000 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422013000 +0500" stop="20260422020000 +0500">
+    <title>Across the Balkans</title>
+    <sub-title />
+    <desc>Across The Balkans takes you to a land of breathtaking beauty with a painful past, to discover the issues and fault lines shaping Southeast Europe today.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b028c501-50bf-40b9-b42f-3e86ed7cf2a4/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422020000 +0500" stop="20260422023000 +0500">
+    <title>News - London</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2f798d74-460e-4a82-a99b-c0cc32e52504/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422023000 +0500" stop="20260422030000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a915fea1-38a5-4daf-8d08-2ef397b2b3c7/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422030000 +0500" stop="20260422033000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/71da3787-d53a-4bdd-a7e3-509791862aff/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422033000 +0500" stop="20260422040000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3eca3e89-f5b4-4f12-8e14-d2af2b91a5e0/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422040000 +0500" stop="20260422043000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/eebf7779-af2c-4298-945a-a98cdaffe7b7/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422043000 +0500" stop="20260422050000 +0500">
+    <title>Strait Talk</title>
+    <sub-title />
+    <desc>An inside look at the players and policymakers who are shaping the world we live in. To give you a unique perspective on global events.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/17a14384-ab2c-47c0-a81d-9f834f250220/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422050000 +0500" stop="20260422053000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/eae78e8c-4675-4f45-956b-5ed23a20f765/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422053000 +0500" stop="20260422060000 +0500">
+    <title>Africa Matters</title>
+    <sub-title />
+    <desc>Every week, Africa Matters will bring you the untold, under-reported stories from across the continent. We'll also unpack the issues that matter to Africans.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c7ac7fcf-a921-4cf8-8a06-18dea2eaeb17/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422060000 +0500" stop="20260422061500 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/62f71d0c-9eb4-4180-9501-494a12b5d083/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422061500 +0500" stop="20260422063000 +0500">
+    <title>Newsfeed</title>
+    <sub-title />
+    <desc>Newsfeed reflects the day's events and opinions, as reported or discussed on social media.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/929be764-cb7a-44ab-86c5-53618a98a443/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422063000 +0500" stop="20260422070000 +0500">
+    <title>Roundtable</title>
+    <sub-title />
+    <desc>Ideas are changing our world. See them discussed and dissected, every weekday.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/6f2b09e6-2372-4d39-ac9a-08592cf42c53/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422070000 +0500" stop="20260422073000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/6d3e5d3b-fbc1-481e-88ba-127f3851f1f2/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422073000 +0500" stop="20260422080000 +0500">
+    <title>Just 2 Degrees</title>
+    <sub-title />
+    <desc>A rise of just two degrees in average temperatures means catastrophe for planet Earth. TRT World looks at the cold, hard truths behind a warming planet.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">World Affairs</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c1c3594d-0c4d-4105-ac63-6fb0e8c04b41/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422080000 +0500" stop="20260422083000 +0500">
+    <title>The Newsmakers</title>
+    <sub-title />
+    <desc>With in-depth reports and strong, unfiltered debates: The Newsmakers examine the people and the stories that are shaping our lives.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/bb1b7447-ca07-4c0f-804a-92274ba5606f/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422083000 +0500" stop="20260422090000 +0500">
+    <title>Beyond Borders</title>
+    <sub-title />
+    <desc>Beyond Borders with David Foster: The untold stories about the people and places left behind, and the communities falling through the cracks.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Politics</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/31f3b7d6-c45c-45c1-b788-a86ad2a22cb5/16-9" />
+  </programme><programme channel="TRT-World-TR" start="20260422090000 +0500" stop="20260422093000 +0500">
+    <title>News</title>
+    <sub-title />
+    <desc>TRT World brings the latest news from around the globe, when it happens.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/999a2307-2c4f-4e41-b6ca-636ae4868ca1/16-9" />
   </programme>
 </tv>

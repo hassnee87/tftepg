@@ -3,631 +3,7 @@
   <channel id="SBS-Food-Sydney-AU">
     <display-name>SBS Food Sydney</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/SBS-Food-Sydney-AU.png" />
-  </channel><programme channel="SBS-Food-Sydney-AU" start="20260419000000 +0500" stop="20260419003000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>Tamales and Iguana, Oaxacan Style</sub-title>
-    <desc>Chef Tony Bourdain explores Mexico's Oaxaca region where he tastes toasted grasshoppers and other delicacies.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419003000 +0500" stop="20260419013000 +0500">
-    <title>Masters of Savours</title>
-    <sub-title>Master of Tofu</sub-title>
-    <desc>Originally from China, tofu appeared on our plates a few years ago, quickly becoming the star of wellness magazines.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422814/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419013000 +0500" stop="20260419022500 +0500">
-    <title>Inside Iceland: A Budget Supermarket</title>
-    <sub-title />
-    <desc>Brits who are seeking more value for money are buying more frozen food. Iceland is battling to keep its frozen crown as supermakrets look to cash in.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/431730/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419022500 +0500" stop="20260419023000 +0500">
-    <title>Destination Flavour Singapore Bitesize</title>
-    <sub-title>Lamb Kebabs</sub-title>
-    <desc>The best bits of Adam Liaw's travels in Singapore, as he explores its vibrant food scene.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/367591/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419023000 +0500" stop="20260419030000 +0500">
-    <title>Tom Kerridge Cooks Britain</title>
-    <sub-title>Scotland - Mussels and Strawberries</sub-title>
-    <desc>Tom Kerridge heads to Scotland in his food truck to discover what it takes to produce the food on our plate and to cook with the British ingredients he finds along the way. This episode - mussels and strawberries!</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/431061/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419030000 +0500" stop="20260419033000 +0500">
-    <title>Nadiya's Family Favourites</title>
-    <sub-title>Nothing in the House</sub-title>
-    <desc>Nadiya Hussain creates dishes for those nothing-in-the-house days, visits a herb garden with spice expert Roopa, and meets Lynn, a homemade pasta fanatic in Derby.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/380770/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419033000 +0500" stop="20260419043000 +0500">
-    <title>Jamie Cooks Italy</title>
-    <sub-title>Naples</sub-title>
-    <desc>This week Jamie heads to fiery Naples, the pizza capital of Italy, to seek out undiscovered family recipes the locals love to eat.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/381594/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419043000 +0500" stop="20260419052500 +0500">
-    <title>Tour de Fred: Northern Ireland</title>
-    <sub-title>Belfast</sub-title>
-    <desc>Fred's bike challenge takes him to explore Belfast, where he also takes on a former Irish champion in the boxing ring and discovers a new talent at the pottery wheel.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Action &amp; Adventure</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/439362/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419052500 +0500" stop="20260419053000 +0500">
-    <title>Destination Flavour China Bitesize</title>
-    <sub-title>Bamboo Shoots and Cured Ham Stir Fry</sub-title>
-    <desc>All the best moments and bits from Destination Flavour China, led by famed chef and author Adam Liaw.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/379882/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419053000 +0500" stop="20260419063500 +0500">
-    <title>Rick Stein's Long Weekends</title>
-    <sub-title>Palermo</sub-title>
-    <desc>Rick Stein visits the fascinating city of Palermo in northern Sicily. Like a vibrant carpet, the city is patterned with echoes of Arab, North African, French, Spanish, and Italian influence - making its cuisine unique and irresistible. Pine nuts, raisins, almonds, and golden breadcrumbs are combined with flavours of local sun-ripened tomatoes, lemons, and the finest olive oil to create unforgettable dishes that just have to be replicated back home. Palermo is a grand city with rough edges synonymous with Garibaldi and the setting for one of Rick's favourite novels of all-time - The Leopard. He arrives just in time to see locals celebrating a festival in honour of Palermo's patron saint, Rosalia.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/344965/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419063500 +0500" stop="20260419073500 +0500">
-    <title>Masters of Savours</title>
-    <sub-title>Master of Tofu</sub-title>
-    <desc>Originally from China, tofu appeared on our plates a few years ago, quickly becoming the star of wellness magazines.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422814/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419073500 +0500" stop="20260419083000 +0500">
-    <title>Inside Iceland: A Budget Supermarket</title>
-    <sub-title />
-    <desc>Brits who are seeking more value for money are buying more frozen food. Iceland is battling to keep its frozen crown as supermakrets look to cash in.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/431730/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419083000 +0500" stop="20260419090000 +0500">
-    <title>Tom Kerridge Cooks Britain</title>
-    <sub-title>Scotland - Mussels and Strawberries</sub-title>
-    <desc>Tom Kerridge heads to Scotland in his food truck to discover what it takes to produce the food on our plate and to cook with the British ingredients he finds along the way. This episode - mussels and strawberries!</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/431061/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419090000 +0500" stop="20260419093000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Kitchen Keepers</sub-title>
-    <desc>Tonight, Adam and his guests, chef Natalie Murphy and comedian Daniel Connell, serve up their kitchen keepers.</desc>
-    <episode-num system="onscreen">S9 E25</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419093000 +0500" stop="20260419100000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>My Fastest Pasta</sub-title>
-    <desc>Time flies by as Adam and his guests, chef Aaron Ward and wheelchair rugby legend Shae Graham make their fastest pastas.</desc>
-    <episode-num system="onscreen">S9 E26</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419100000 +0500" stop="20260419103000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Wrapped, Rolled Or Folded</sub-title>
-    <desc>Literary sensation Alice Pung and culinary sensation Bee Satongun join Adam in The Cook Up kitchen to make food that's wrapped, rolled or folded.</desc>
-    <episode-num system="onscreen">S9 E27</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419103000 +0500" stop="20260419110000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Fast Fresh Bites</sub-title>
-    <desc>Tonight's food is quick and easy, as Adam and his guests, musician Elly-May Barnes and chef Hamish Ingham make fast fresh bites.</desc>
-    <episode-num system="onscreen">S7 E83</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419110000 +0500" stop="20260419113000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Spicy Sausage</sub-title>
-    <desc>It's a spicy sausage spectacular, and the heat is on Adam's guests, chef Ruben Lopez Mesa and radio host Megan Burslem.</desc>
-    <episode-num system="onscreen">S7 E84</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419113000 +0500" stop="20260419120000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Patient Cook</sub-title>
-    <desc>Chef Asma Khan celebrates being a patient cook with dishes that are worth the wait. Slow cooked mutton Kosha Mangsho, a divine Duck Bhuna.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419120000 +0500" stop="20260419123000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Classics</sub-title>
-    <desc>Celebrate timeless Indian classics. Dal, Jhal Farezi, Aloo Gobi Matter and 1st Class Railway Curry-each dish rich in flavour, heat and history.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419123000 +0500" stop="20260419132500 +0500">
-    <title>Secrets of Spain</title>
-    <sub-title />
-    <desc>Gioconda and George Scott reveal unexpected of - the-beaten path locations for the best food experiences in southern Spain.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/439636/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419132500 +0500" stop="20260419133000 +0500">
-    <title>Please Eat Slowly Bitesize</title>
-    <sub-title>Mango Pancakes</sub-title>
-    <desc>Learn how to create sumptuous mango pancakes. Victor's French training comes in handy as he shares some simple steps to ensure your crepes come out round and flat every time.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/419597/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419133000 +0500" stop="20260419142500 +0500">
-    <title>Gordon Ramsay: Uncharted</title>
-    <sub-title>A Royal Taste of Jordan</sub-title>
-    <desc>Gordon digs deep into the verdant north and arid south of Jordan to discover rich, fresh flavors as he prepares to impress royalty at Petra.</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/385402/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419142500 +0500" stop="20260419143000 +0500">
-    <title>A Taste of Island Dreams</title>
-    <sub-title>Quick Fried Fish with Vegetable Acar</sub-title>
-    <desc>This fish dish is a prime example of how something well-seasoned can be the star of the show. Salt, turmeric and a little bit of stock powder are all you need.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428533/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419143000 +0500" stop="20260419150000 +0500">
-    <title>Guillaume's French Atlantic</title>
-    <sub-title />
-    <desc>Join Guillaume Brahimi on this exciting journey through the windswept landscapes and gastronomic wonders of Brittany and uncover the deep-rooted traditions and flavours that have shaped his culinary heritage.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/429492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419150000 +0500" stop="20260419153000 +0500">
-    <title>Girls Guide:Hunting Fishing Wild Cooking</title>
-    <sub-title />
-    <desc>Analiese makes the most of a busy spring as she starts to build her pantry and kitchen garden, before going diving for wild scallops at a friend's secret diving spot.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/409175/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419153000 +0500" stop="20260419160000 +0500">
-    <title>Rick Stein's Food Stories</title>
-    <sub-title>Glasgow</sub-title>
-    <desc>Rick discovers the story of Italian food in Glasgow plus the best chocolate he's ever had, made by an ex-car engineer. He makes rofiteroles and a Stein family favourite, osso buco.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428822/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419160000 +0500" stop="20260419163000 +0500">
-    <title>Rick Stein's Food Stories</title>
-    <sub-title>Yorkshire</sub-title>
-    <desc>In God's own country, Rick discovers the history of the Yorkshire pud and how best to make it. He visits the UK's biggest tofu factory and cooks delicious veggie dishes at home.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428822/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419163000 +0500" stop="20260419170000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>So Much Vodka, So Little Time</sub-title>
-    <desc>Tony tries his hand at ice-fishing, drinks a lot of vodka, feasts on Russian foods, eats smoked fish and ends the outing with a dip in the outdoor cold pool.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419170000 +0500" stop="20260419173000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>A Pleasing Palate</sub-title>
-    <desc>Tony attempts to dispel the myth that all English food is disgusting and over-boiled. Tony tries Nose to Tail Eating, explores traditional fare at Pie and Mash Shoppes, and visits a predominantly Indian community.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419173000 +0500" stop="20260419183000 +0500">
-    <title>Big Zuu And AJ Tracey: Rich Flavours</title>
-    <sub-title>South Korea</sub-title>
-    <desc>Big Zuu &amp; AJ Tracey hit South Korea to taste the World's most pricey BBQ. They discover Seoul's supercar scene, meet a famous muck banger &amp; cook a fried chicken feast fit for a King.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441285/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419183000 +0500" stop="20260419190000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Patient Cook</sub-title>
-    <desc>Chef Asma Khan celebrates being a patient cook with dishes that are worth the wait. Slow cooked mutton Kosha Mangsho, a divine Duck Bhuna.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419190000 +0500" stop="20260419193000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Classics</sub-title>
-    <desc>Celebrate timeless Indian classics. Dal, Jhal Farezi, Aloo Gobi Matter and 1st Class Railway Curry-each dish rich in flavour, heat and history.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419193000 +0500" stop="20260419202500 +0500">
-    <title>Secrets of Spain</title>
-    <sub-title />
-    <desc>Gioconda and George Scott reveal unexpected of - the-beaten path locations for the best food experiences in southern Spain.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/439636/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419202500 +0500" stop="20260419203000 +0500">
-    <title>Please Eat Slowly Bitesize</title>
-    <sub-title>Mango Pancakes</sub-title>
-    <desc>Learn how to create sumptuous mango pancakes. Victor's French training comes in handy as he shares some simple steps to ensure your crepes come out round and flat every time.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/419597/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419203000 +0500" stop="20260419212500 +0500">
-    <title>Gordon Ramsay: Uncharted</title>
-    <sub-title>A Royal Taste of Jordan</sub-title>
-    <desc>Gordon digs deep into the verdant north and arid south of Jordan to discover rich, fresh flavors as he prepares to impress royalty at Petra.</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/385402/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419212500 +0500" stop="20260419213000 +0500">
-    <title>A Taste of Island Dreams</title>
-    <sub-title>Quick Fried Fish with Vegetable Acar</sub-title>
-    <desc>This fish dish is a prime example of how something well-seasoned can be the star of the show. Salt, turmeric and a little bit of stock powder are all you need.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428533/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419213000 +0500" stop="20260419220000 +0500">
-    <title>Guillaume's French Atlantic</title>
-    <sub-title />
-    <desc>Join Guillaume Brahimi on this exciting journey through the windswept landscapes and gastronomic wonders of Brittany and uncover the deep-rooted traditions and flavours that have shaped his culinary heritage.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/429492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419220000 +0500" stop="20260419223000 +0500">
-    <title>Girls Guide:Hunting Fishing Wild Cooking</title>
-    <sub-title />
-    <desc>Analiese makes the most of a busy spring as she starts to build her pantry and kitchen garden, before going diving for wild scallops at a friend's secret diving spot.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/409175/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419223000 +0500" stop="20260419230000 +0500">
-    <title>Rick Stein's Food Stories</title>
-    <sub-title>Glasgow</sub-title>
-    <desc>Rick discovers the story of Italian food in Glasgow plus the best chocolate he's ever had, made by an ex-car engineer. He makes rofiteroles and a Stein family favourite, osso buco.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428822/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419230000 +0500" stop="20260419233000 +0500">
-    <title>Rick Stein's Food Stories</title>
-    <sub-title>Yorkshire</sub-title>
-    <desc>In God's own country, Rick discovers the history of the Yorkshire pud and how best to make it. He visits the UK's biggest tofu factory and cooks delicious veggie dishes at home.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428822/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260419233000 +0500" stop="20260420000000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>So Much Vodka, So Little Time</sub-title>
-    <desc>Tony tries his hand at ice-fishing, drinks a lot of vodka, feasts on Russian foods, eats smoked fish and ends the outing with a dip in the outdoor cold pool.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420000000 +0500" stop="20260420003000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Kitchen Keepers</sub-title>
-    <desc>Tonight, Adam and his guests, chef Natalie Murphy and comedian Daniel Connell, serve up their kitchen keepers.</desc>
-    <episode-num system="onscreen">S9 E25</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420003000 +0500" stop="20260420010000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>My Fastest Pasta</sub-title>
-    <desc>Time flies by as Adam and his guests, chef Aaron Ward and wheelchair rugby legend Shae Graham make their fastest pastas.</desc>
-    <episode-num system="onscreen">S9 E26</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420010000 +0500" stop="20260420013000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Wrapped, Rolled Or Folded</sub-title>
-    <desc>Literary sensation Alice Pung and culinary sensation Bee Satongun join Adam in The Cook Up kitchen to make food that's wrapped, rolled or folded.</desc>
-    <episode-num system="onscreen">S9 E27</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420013000 +0500" stop="20260420020000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Fast Fresh Bites</sub-title>
-    <desc>Tonight's food is quick and easy, as Adam and his guests, musician Elly-May Barnes and chef Hamish Ingham make fast fresh bites.</desc>
-    <episode-num system="onscreen">S7 E83</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420020000 +0500" stop="20260420023000 +0500">
-    <title>The Cook Up with Adam Liaw</title>
-    <sub-title>Spicy Sausage</sub-title>
-    <desc>It's a spicy sausage spectacular, and the heat is on Adam's guests, chef Ruben Lopez Mesa and radio host Megan Burslem.</desc>
-    <episode-num system="onscreen">S7 E84</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420023000 +0500" stop="20260420030000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Patient Cook</sub-title>
-    <desc>Chef Asma Khan celebrates being a patient cook with dishes that are worth the wait. Slow cooked mutton Kosha Mangsho, a divine Duck Bhuna.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420030000 +0500" stop="20260420033000 +0500">
-    <title>Secrets of the Curry Kitchen</title>
-    <sub-title>The Classics</sub-title>
-    <desc>Celebrate timeless Indian classics. Dal, Jhal Farezi, Aloo Gobi Matter and 1st Class Railway Curry-each dish rich in flavour, heat and history.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438943/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420033000 +0500" stop="20260420042500 +0500">
-    <title>Secrets of Spain</title>
-    <sub-title />
-    <desc>Gioconda and George Scott reveal unexpected of - the-beaten path locations for the best food experiences in southern Spain.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/439636/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420042500 +0500" stop="20260420043000 +0500">
-    <title>Please Eat Slowly Bitesize</title>
-    <sub-title>Mango Pancakes</sub-title>
-    <desc>Learn how to create sumptuous mango pancakes. Victor's French training comes in handy as he shares some simple steps to ensure your crepes come out round and flat every time.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/419597/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420043000 +0500" stop="20260420052500 +0500">
-    <title>Gordon Ramsay: Uncharted</title>
-    <sub-title>A Royal Taste of Jordan</sub-title>
-    <desc>Gordon digs deep into the verdant north and arid south of Jordan to discover rich, fresh flavors as he prepares to impress royalty at Petra.</desc>
-    <episode-num system="onscreen">S4 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/385402/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420052500 +0500" stop="20260420053000 +0500">
-    <title>A Taste of Island Dreams</title>
-    <sub-title>Quick Fried Fish with Vegetable Acar</sub-title>
-    <desc>This fish dish is a prime example of how something well-seasoned can be the star of the show. Salt, turmeric and a little bit of stock powder are all you need.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/428533/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420053000 +0500" stop="20260420060000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>So Much Vodka, So Little Time</sub-title>
-    <desc>Tony tries his hand at ice-fishing, drinks a lot of vodka, feasts on Russian foods, eats smoked fish and ends the outing with a dip in the outdoor cold pool.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420060000 +0500" stop="20260420063000 +0500">
-    <title>Anthony Bourdain: A Cook's Tour</title>
-    <sub-title>A Pleasing Palate</sub-title>
-    <desc>Tony attempts to dispel the myth that all English food is disgusting and over-boiled. Tony tries Nose to Tail Eating, explores traditional fare at Pie and Mash Shoppes, and visits a predominantly Indian community.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422707/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420063000 +0500" stop="20260420073000 +0500">
-    <title>Big Zuu And AJ Tracey: Rich Flavours</title>
-    <sub-title>South Korea</sub-title>
-    <desc>Big Zuu &amp; AJ Tracey hit South Korea to taste the World's most pricey BBQ. They discover Seoul's supercar scene, meet a famous muck banger &amp; cook a fried chicken feast fit for a King.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441285/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420073000 +0500" stop="20260420080000 +0500">
-    <title>Paula McIntyre's Hamely Kitchen</title>
-    <sub-title />
-    <desc>Paula demonstrates her fail-safe method for cooking the perfect pork chop with a side of creamy parsnips and smoked potatoes. She pays a visit to Glenarm Castle, where she enlists help.</desc>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/424981/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Food-Sydney-AU" start="20260420080000 +0500" stop="20260420083000 +0500">
+  </channel><programme channel="SBS-Food-Sydney-AU" start="20260420080000 +0500" stop="20260420083000 +0500">
     <title>Lorraine Pascale: Be a Better Cook</title>
     <sub-title>Sally Mack</sub-title>
     <desc>With plenty of deceptively easy recipes and fantastic tips, Lorraine Pascale shows people with no kitchen confidence how to pull off an impressive meal for friends and family.</desc>
@@ -956,6 +332,743 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/program/424981/image/334x188" />
     <rating system="AU">
       <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421000000 +0500" stop="20260421003000 +0500">
+    <title>Lorraine Pascale: Be a Better Cook</title>
+    <sub-title>Sally Mack</sub-title>
+    <desc>With plenty of deceptively easy recipes and fantastic tips, Lorraine Pascale shows people with no kitchen confidence how to pull off an impressive meal for friends and family.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/328362/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421003000 +0500" stop="20260421010000 +0500">
+    <title>Pati's Mexican Table</title>
+    <sub-title>Paquime &amp; Pecans</sub-title>
+    <desc>Pati visits a haven of Chihuahuan culture and learns what makes their pecans so delicious.</desc>
+    <episode-num system="onscreen">S13 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/350526/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421010000 +0500" stop="20260421013000 +0500">
+    <title>David Rocco's Dolce Italia</title>
+    <sub-title>Fat Bologna, City of Food</sub-title>
+    <desc>Known as Italy's pasta and food capital David learns first hand how serious Bolognese people are about fats- from the heavy, rich butter based pasta sauces to the delicious mortadella and salumi to the pork stuffed tortellini.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430930/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421013000 +0500" stop="20260421020000 +0500">
+    <title>Kriol Kitchen</title>
+    <sub-title>Minarinyj: Sylvia Clarke</sub-title>
+    <desc>Ali and Mitch travel north of Broome on Djabber Djabber country. They make whiting soup with chilli, garlic, and ginger and mullet soup with black bean.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/311604/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421020000 +0500" stop="20260421023000 +0500">
+    <title>Marcus Wareing's Kitchen Garden Tales</title>
+    <sub-title>Tomatoes</sub-title>
+    <desc>Marcus Wareing starts his day by setting off to The Knepp in Horsham to learn all about different tomato varieties in their impressive market garden.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410257/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421023000 +0500" stop="20260421030000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>Matt prepares a Vietnamese banh mi. Tobie Puttock, with Chef Leslie Chan, cooks sweet and sour pork with a twist. Mike and David Mann make a barbecued mango and spatchcock chicken.</desc>
+    <episode-num system="onscreen">S6 E26</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421030000 +0500" stop="20260421033000 +0500">
+    <title>Lidia's Kitchen</title>
+    <sub-title>The 1970s Italian American</sub-title>
+    <desc>Lidia honours the Italian American culinary culture and prepares a chicken parmigiana, a leftover meatball panino and a baked tomato pasta, then meatballs and eggs.</desc>
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/398549/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421033000 +0500" stop="20260421040000 +0500">
+    <title>Tastes And Traditions</title>
+    <sub-title />
+    <desc>In this episode of Tastes and Traditions, we explore two vibrant and flavorful recipes perfect for home cooking.</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441881/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421040000 +0500" stop="20260421043000 +0500">
+    <title>Jamie at Home</title>
+    <sub-title>Winter Vegetables</sub-title>
+    <desc>It may be November but the garden is still offering up some beautiful winter veg. Jamie explores what the garden has proffered and takes his finds to the kitchen to make a seasonal winter veg coleslaw. More of the fabulous veg gets used for the best bubble &amp; squeak.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/200916/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421043000 +0500" stop="20260421050000 +0500">
+    <title>Food Safari</title>
+    <sub-title>Lebanese</sub-title>
+    <desc>Maeve goes in search of the fresh green flavours of Lebanese food when she visits one of her favourite Middle Eastern emporiums with master chef Greg Malouf. There, she discovers how to choose the best tahini, yoghurt, burgul, chickpeas and spice mixes for use in the Lebanese kitchen. Later, Maeve visits Samira Saab, whose tabouli is legendary and who has some simple tips on making it taste amazing.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/198762/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421050000 +0500" stop="20260421053000 +0500">
+    <title>The Chocolate Queen</title>
+    <sub-title />
+    <desc>Start the day right with Kirsten's hot chocolate cubes and a fruity chocolate babka. Next on the menu is a luscious strawberry cream trifle and a tasty white chocolate peanut parfait.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/384596/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421053000 +0500" stop="20260421060000 +0500">
+    <title>Everyday Gourmet with Justine Schofield</title>
+    <sub-title />
+    <desc>Trish McKenzie drops by to make her hazelnut popcorn clusters and then Justine makes an Indian-style dry chicken curry and a beautiful spaghetti marinara.</desc>
+    <episode-num system="onscreen">S4 E40</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/266808/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421060000 +0500" stop="20260421063000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Sandwich Secrets</sub-title>
+    <desc>Tonight, Adam and his guests, social media stars Katie Lolas and Jasmin Weston are lifting the bread on some incredibly delicious sandwich secrets.</desc>
+    <episode-num system="onscreen">S9 E28</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421063000 +0500" stop="20260421070000 +0500">
+    <title>Donal's Super Food in Minutes</title>
+    <sub-title />
+    <desc>Super Foods promises to deliver streamlined, quick-cooking methods with minimal effort.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413374/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421070000 +0500" stop="20260421073000 +0500">
+    <title>The Streets Hong Kong</title>
+    <sub-title />
+    <desc>Dan ventures out of the city in search of an old school Hakka dumpling house. He then visits the last remaining underground roasting facility to discover the art of Chinese style roast pork.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/429288/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421073000 +0500" stop="20260421080000 +0500">
+    <title>Paula McIntyre's Hamely Kitchen</title>
+    <sub-title />
+    <desc>Paula makes the perfect comfort food: beef olives with onion gravy and creamy mash. And in Mournes, cooks up monkfish with potato bread chips and a seaweed flavoured mayo.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/424981/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421080000 +0500" stop="20260421083000 +0500">
+    <title>Lorraine's Fast, Fresh and Easy Food</title>
+    <sub-title>Easy Entertaining</sub-title>
+    <desc>The show is brimming with recipes that are perfect for a whole host of occasions from an impromptu dinner with friends to fresh and fun party food.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432451/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421083000 +0500" stop="20260421090000 +0500">
+    <title>Pati's Mexican Table</title>
+    <sub-title>The Magic of Mata Ortiz</sub-title>
+    <desc>Pati visits the village of Mata Ortiz to learn about the exquisite pottery it's known for.</desc>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/350526/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421090000 +0500" stop="20260421093000 +0500">
+    <title>David Rocco's Dolce Italia</title>
+    <sub-title>Old Traditional Rome</sub-title>
+    <desc>Rome, the eternal city, is often referred to as an open air museum, where it's beautify really is second to none. However in the past few years, Rome has undergone many changes.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430930/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421093000 +0500" stop="20260421100000 +0500">
+    <title>Kriol Kitchen</title>
+    <sub-title>Broome: Ali &amp; Mitch</sub-title>
+    <desc>Mushroom Chicken with Vermicelli and Gubinge Custard - Mushroom and Chicken is a popular dish in Kriol cooking. Handed down by families who had a Chinese connection, this dish has many variations.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/311604/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421100000 +0500" stop="20260421103000 +0500">
+    <title>Marcus Wareing's Kitchen Garden Tales</title>
+    <sub-title>Bees</sub-title>
+    <desc>After his bees mysteriously disappeared last year, Marcus and gardener Anatoliy decide they need some advice. He travels to The Newt to meet Paula and learn more about beekeeping.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410257/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421103000 +0500" stop="20260421110000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>Mike makes chicken karaage bao in the market kitchen. Laura prepares a Tuscan panzanella salad. Matt is joined by Adam Walls to match Tasmanian wines with salmon nigiri in tropical Noosa.</desc>
+    <episode-num system="onscreen">S6 E27</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421110000 +0500" stop="20260421113000 +0500">
+    <title>Lidia's Kitchen</title>
+    <sub-title>A Day at the Market</sub-title>
+    <desc>Lidia has always loved trips to the food market as they have always been an adventure since childhood. She makes shrimp roasted pepper and olive salad, then eggplant parmigiana stacks.</desc>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/398549/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421113000 +0500" stop="20260421120000 +0500">
+    <title>Tastes And Traditions</title>
+    <sub-title />
+    <desc>In this festive episode of Tastes and Traditions, we celebrate hearty and traditional dishes perfect for the holiday table.</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441881/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421120000 +0500" stop="20260421123000 +0500">
+    <title>Jamie at Home</title>
+    <sub-title>Furred Game</sub-title>
+    <desc>Most people think nothing of eating a chicken but what about a rabbit?</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/200916/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421123000 +0500" stop="20260421130000 +0500">
+    <title>Food Safari</title>
+    <sub-title>Mexican Safari</sub-title>
+    <desc>Mexican cuisine is one of the most ancient and developed on Earth. In this episode, Mexican expatriates in Australia welcome Maeve O'Meara into their kitchens to explain some of the recipes and tips.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/198762/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421130000 +0500" stop="20260421133000 +0500">
+    <title>The Chocolate Queen</title>
+    <sub-title />
+    <desc>An episode to make the kids happy: learn to make nutty chocolate pops, a luscious chocolate and meringue cake, ice cream with a Lamington twist or caramel filled choc nut cups - the options are endless.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/384596/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421133000 +0500" stop="20260421140000 +0500">
+    <title>Everyday Gourmet with Justine Schofield</title>
+    <sub-title />
+    <desc>Justine has Darren Purchese in the kitchen to make his lamington ice-cream sandwich and then she makes her Gran's meatloaf and shares and easy roasted almond butter.</desc>
+    <episode-num system="onscreen">S4 E41</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/266808/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421140000 +0500" stop="20260421143000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Timeless &amp; Tasty</sub-title>
+    <desc>Tonight, comedian Elouise Eftos and acclaimed chef Ollie Hansford share their timeless and tasty recipes with Adam.</desc>
+    <episode-num system="onscreen">S9 E29</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421143000 +0500" stop="20260421150000 +0500">
+    <title>Silvia's Italian Masterclass</title>
+    <sub-title />
+    <desc>Festive, flavourful, and fuss-free-Silvia's holiday recipes are designed to impress guests while keeping the cook relaxed and joyful.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427451/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421150000 +0500" stop="20260421153000 +0500">
+    <title>Taste of Australia in Vietnam</title>
+    <sub-title>Hanoi</sub-title>
+    <desc>In Hanoi, Luke learns about the work of pioneering social enterprise, KOTO, and enjoys some of his favourite street food, including the city's signature dish of Cha Ca.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432734/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421153000 +0500" stop="20260421162500 +0500">
+    <title>Eva Longoria: Searching for Spain</title>
+    <sub-title>Barcelona and the Catalonia Region</sub-title>
+    <desc>With Barcelona on the coast, the region of Catalonia is strategically positioned on the Mediterranean making it a powerhouse of trade, ideas and creativity, producing a globally recognised cuisine and world class chefs that push the boundaries of what Spanish food can be.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/439089/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421162500 +0500" stop="20260421163000 +0500">
+    <title>Destination Flavour Down Under Bitesize</title>
+    <sub-title />
+    <desc>Some of your favourite moments and recipes from Adam Liaw's culinary and cultural journey through Australia and New Zealand.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/318354/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421163000 +0500" stop="20260421170000 +0500">
+    <title>Come Dine with Me</title>
+    <sub-title>West Country: Natalia</sub-title>
+    <desc>This week's competition is in the West Country, where third night's host, barber Natalia, is hoping her nineties-themed night will be a cut above the rest.</desc>
+    <episode-num system="onscreen">S22 E23</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/190061/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421170000 +0500" stop="20260421173000 +0500">
+    <title>Come Dine with Me</title>
+    <sub-title>West Country: Richard</sub-title>
+    <desc>This week's competition is in the West Country, where fourth night's host, account manager Richard, is hoping his top-notch British bistro fare will knock the socks off the competition.</desc>
+    <episode-num system="onscreen">S22 E24</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/190061/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421173000 +0500" stop="20260421180000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Timeless &amp; Tasty</sub-title>
+    <desc>Tonight, comedian Elouise Eftos and acclaimed chef Ollie Hansford share their timeless and tasty recipes with Adam.</desc>
+    <episode-num system="onscreen">S9 E29</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421180000 +0500" stop="20260421183000 +0500">
+    <title>The Cook and the Chef</title>
+    <sub-title>The Restaurant and Mietta</sub-title>
+    <desc>Maggie and Simon celebrate the era of 'grand cuisine'. The 1970s and '80s heralded a renaissance in Australian restaurant culture, heavily influenced by French 'haute' or 'grand cuisine', which was as much about the atmosphere and service, as it was food and wine.</desc>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/187443/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421183000 +0500" stop="20260421190000 +0500">
+    <title>Tastes And Traditions</title>
+    <sub-title />
+    <desc>In this festive episode of Tastes and Traditions, we celebrate hearty and traditional dishes perfect for the holiday table.</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441881/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421190000 +0500" stop="20260421193000 +0500">
+    <title>Jamie at Home</title>
+    <sub-title>Furred Game</sub-title>
+    <desc>Most people think nothing of eating a chicken but what about a rabbit?</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/200916/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421193000 +0500" stop="20260421200000 +0500">
+    <title>Silvia's Italian Masterclass</title>
+    <sub-title />
+    <desc>Festive, flavourful, and fuss-free-Silvia's holiday recipes are designed to impress guests while keeping the cook relaxed and joyful.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427451/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421200000 +0500" stop="20260421203000 +0500">
+    <title>Taste of Australia in Vietnam</title>
+    <sub-title>Hanoi</sub-title>
+    <desc>In Hanoi, Luke learns about the work of pioneering social enterprise, KOTO, and enjoys some of his favourite street food, including the city's signature dish of Cha Ca.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432734/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421203000 +0500" stop="20260421212500 +0500">
+    <title>Eva Longoria: Searching for Spain</title>
+    <sub-title>Barcelona and the Catalonia Region</sub-title>
+    <desc>With Barcelona on the coast, the region of Catalonia is strategically positioned on the Mediterranean making it a powerhouse of trade, ideas and creativity, producing a globally recognised cuisine and world class chefs that push the boundaries of what Spanish food can be.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/439089/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421212500 +0500" stop="20260421213000 +0500">
+    <title>Destination Flavour Down Under Bitesize</title>
+    <sub-title />
+    <desc>Some of your favourite moments and recipes from Adam Liaw's culinary and cultural journey through Australia and New Zealand.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/318354/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421213000 +0500" stop="20260421220000 +0500">
+    <title>Come Dine with Me</title>
+    <sub-title>West Country: Natalia</sub-title>
+    <desc>This week's competition is in the West Country, where third night's host, barber Natalia, is hoping her nineties-themed night will be a cut above the rest.</desc>
+    <episode-num system="onscreen">S22 E23</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/190061/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421220000 +0500" stop="20260421223000 +0500">
+    <title>Come Dine with Me</title>
+    <sub-title>West Country: Richard</sub-title>
+    <desc>This week's competition is in the West Country, where fourth night's host, account manager Richard, is hoping his top-notch British bistro fare will knock the socks off the competition.</desc>
+    <episode-num system="onscreen">S22 E24</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/190061/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421223000 +0500" stop="20260421230000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Timeless &amp; Tasty</sub-title>
+    <desc>Tonight, comedian Elouise Eftos and acclaimed chef Ollie Hansford share their timeless and tasty recipes with Adam.</desc>
+    <episode-num system="onscreen">S9 E29</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421230000 +0500" stop="20260421233000 +0500">
+    <title>The Cook and the Chef</title>
+    <sub-title>The Restaurant and Mietta</sub-title>
+    <desc>Maggie and Simon celebrate the era of 'grand cuisine'. The 1970s and '80s heralded a renaissance in Australian restaurant culture, heavily influenced by French 'haute' or 'grand cuisine', which was as much about the atmosphere and service, as it was food and wine.</desc>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/187443/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260421233000 +0500" stop="20260422000000 +0500">
+    <title>Paula McIntyre's Hamely Kitchen</title>
+    <sub-title />
+    <desc>Paula makes the perfect comfort food: beef olives with onion gravy and creamy mash. And in Mournes, cooks up monkfish with potato bread chips and a seaweed flavoured mayo.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/424981/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422000000 +0500" stop="20260422003000 +0500">
+    <title>Lorraine's Fast, Fresh and Easy Food</title>
+    <sub-title>Easy Entertaining</sub-title>
+    <desc>The show is brimming with recipes that are perfect for a whole host of occasions from an impromptu dinner with friends to fresh and fun party food.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432451/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422003000 +0500" stop="20260422010000 +0500">
+    <title>Pati's Mexican Table</title>
+    <sub-title>The Magic of Mata Ortiz</sub-title>
+    <desc>Pati visits the village of Mata Ortiz to learn about the exquisite pottery it's known for.</desc>
+    <episode-num system="onscreen">S13 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/350526/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422010000 +0500" stop="20260422013000 +0500">
+    <title>David Rocco's Dolce Italia</title>
+    <sub-title>Old Traditional Rome</sub-title>
+    <desc>Rome, the eternal city, is often referred to as an open air museum, where it's beautify really is second to none. However in the past few years, Rome has undergone many changes.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430930/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422013000 +0500" stop="20260422020000 +0500">
+    <title>Kriol Kitchen</title>
+    <sub-title>Broome: Ali &amp; Mitch</sub-title>
+    <desc>Mushroom Chicken with Vermicelli and Gubinge Custard - Mushroom and Chicken is a popular dish in Kriol cooking. Handed down by families who had a Chinese connection, this dish has many variations.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/311604/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422020000 +0500" stop="20260422023000 +0500">
+    <title>Marcus Wareing's Kitchen Garden Tales</title>
+    <sub-title>Bees</sub-title>
+    <desc>After his bees mysteriously disappeared last year, Marcus and gardener Anatoliy decide they need some advice. He travels to The Newt to meet Paula and learn more about beekeeping.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/410257/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422023000 +0500" stop="20260422030000 +0500">
+    <title>My Market Kitchen</title>
+    <sub-title />
+    <desc>Mike makes chicken karaage bao in the market kitchen. Laura prepares a Tuscan panzanella salad. Matt is joined by Adam Walls to match Tasmanian wines with salmon nigiri in tropical Noosa.</desc>
+    <episode-num system="onscreen">S6 E27</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/348538/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422030000 +0500" stop="20260422033000 +0500">
+    <title>Lidia's Kitchen</title>
+    <sub-title>A Day at the Market</sub-title>
+    <desc>Lidia has always loved trips to the food market as they have always been an adventure since childhood. She makes shrimp roasted pepper and olive salad, then eggplant parmigiana stacks.</desc>
+    <episode-num system="onscreen">S8 E16</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/398549/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422033000 +0500" stop="20260422040000 +0500">
+    <title>Tastes And Traditions</title>
+    <sub-title />
+    <desc>In this festive episode of Tastes and Traditions, we celebrate hearty and traditional dishes perfect for the holiday table.</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/441881/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422040000 +0500" stop="20260422043000 +0500">
+    <title>Jamie at Home</title>
+    <sub-title>Furred Game</sub-title>
+    <desc>Most people think nothing of eating a chicken but what about a rabbit?</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/200916/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422043000 +0500" stop="20260422050000 +0500">
+    <title>Food Safari</title>
+    <sub-title>Mexican Safari</sub-title>
+    <desc>Mexican cuisine is one of the most ancient and developed on Earth. In this episode, Mexican expatriates in Australia welcome Maeve O'Meara into their kitchens to explain some of the recipes and tips.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/198762/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422050000 +0500" stop="20260422053000 +0500">
+    <title>The Chocolate Queen</title>
+    <sub-title />
+    <desc>An episode to make the kids happy: learn to make nutty chocolate pops, a luscious chocolate and meringue cake, ice cream with a Lamington twist or caramel filled choc nut cups - the options are endless.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/384596/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422053000 +0500" stop="20260422060000 +0500">
+    <title>Everyday Gourmet with Justine Schofield</title>
+    <sub-title />
+    <desc>Justine has Darren Purchese in the kitchen to make his lamington ice-cream sandwich and then she makes her Gran's meatloaf and shares and easy roasted almond butter.</desc>
+    <episode-num system="onscreen">S4 E41</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/266808/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422060000 +0500" stop="20260422063000 +0500">
+    <title>The Cook Up with Adam Liaw</title>
+    <sub-title>Timeless &amp; Tasty</sub-title>
+    <desc>Tonight, comedian Elouise Eftos and acclaimed chef Ollie Hansford share their timeless and tasty recipes with Adam.</desc>
+    <episode-num system="onscreen">S9 E29</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/403506/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422063000 +0500" stop="20260422070000 +0500">
+    <title>Silvia's Italian Masterclass</title>
+    <sub-title />
+    <desc>Festive, flavourful, and fuss-free-Silvia's holiday recipes are designed to impress guests while keeping the cook relaxed and joyful.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/427451/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422070000 +0500" stop="20260422073000 +0500">
+    <title>Taste of Australia in Vietnam</title>
+    <sub-title>Hanoi</sub-title>
+    <desc>In Hanoi, Luke learns about the work of pioneering social enterprise, KOTO, and enjoys some of his favourite street food, including the city's signature dish of Cha Ca.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432734/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422073000 +0500" stop="20260422080000 +0500">
+    <title>Paula McIntyre's Hamely Kitchen</title>
+    <sub-title />
+    <desc>Paula cooks up a healthy version of a sausage roll with carrot ketchup on the side. She meets a Highland dance teacher and her father then shows them how to make the perfect barbecue lamb kebabs.</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/424981/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422080000 +0500" stop="20260422083000 +0500">
+    <title>Lorraine's Fast, Fresh and Easy Food</title>
+    <sub-title>Comfort Food</sub-title>
+    <desc>To start, we cook a breakfast of ginger bread pancakes with parma ham and maple syrup, then a warming prawn linguine with chorizo and cabernet tomato sauce, and a soft and satisfying butternut and sweet potato.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432451/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422083000 +0500" stop="20260422090000 +0500">
+    <title>Pati's Mexican Table</title>
+    <sub-title>Chihuahua's Cheesiest Cheese</sub-title>
+    <desc>Pati explores the culture of the mysterious Mennonites, a religious community who came to Chihuahua from Germany.</desc>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/350526/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Food-Sydney-AU" start="20260422090000 +0500" stop="20260422093000 +0500">
+    <title>David Rocco's Dolce Italia</title>
+    <sub-title>Rome's Music and Immigrants</sub-title>
+    <desc>Spending time with a few socially-minded Roman chefs and entrepreneurs, David learns how they have opened their kitchens and restaurants to give training and jobs to the influx of immigrants who call the city home.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/430930/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
