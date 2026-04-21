@@ -1,217 +1,213 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Bloomberg-US">
-    <display-name>Bloomberg TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Bloomberg-US.png" />
-  </channel><programme channel="Bloomberg-US" start="20260419000000 +0500" stop="20260419010000 +0500">
-    <title>Bloomberg Investigates</title>
-    <sub-title>Inside North Korea's Secret Remote IT Workforce</sub-title>
-    <desc>How an Arizona woman’s house became a gateway for North Korea’s IT operatives, an underground laptop farm that infiltrated US companies and pumped millions to the regime.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419010000 +0500" stop="20260419013000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>How Flying Cars Became a Billion-Dollar Bet</sub-title>
-    <desc>The idea of flying cars has largely remained science fiction, until now; a new generation of electrified aircraft is attracting the attention of investors and venture capitalists around the world.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419013000 +0500" stop="20260419020000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>Is the Moon the Future of the Space Economy?</sub-title>
-    <desc>Governments and entrepreneurs race to commercialize the moon; the efforts could unlock a new, deep-space economy, but to return and stay requires the highest levels of innovation.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419020000 +0500" stop="20260419023000 +0500">
-    <title>LEADERS With Francine Lacqua</title>
-    <sub-title>The Podcast: Wael Sawan on Leading Shell: Control What You Can Amid Global Uncertainty</sub-title>
-    <desc>The anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419023000 +0500" stop="20260419030000 +0500">
-    <title>Posthuman</title>
-    <sub-title>Conquering the Miracle of Life</sub-title>
-    <desc>From birth to death, tech is stretching the boundaries of biology; exploring the discoveries that could transform reproduction, healthcare and how humans die.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419030000 +0500" stop="20260419033000 +0500">
-    <title>The Mishal Husain Show</title>
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>Bloomberg TV</display-name>
+  </channel><programme channel="Bloomberg-US" start="20260421230000 +0500" stop="20260422000000 +0500">
+    <title>Bloomberg Businessweek Daily</title>
     <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
+    <desc>Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
     <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419033000 +0500" stop="20260419040000 +0500">
-    <title>The Mishal Husain Show</title>
+  </programme><programme channel="Bloomberg-US" start="20260422000000 +0500" stop="20260422020000 +0500">
+    <title>Bloomberg: The Close</title>
     <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
+    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
     <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419040000 +0500" stop="20260419043000 +0500">
-    <title>Bloomberg Investigates</title>
-    <sub-title>MACC</sub-title>
-    <desc>The Malaysian Anti-Corruption Commission is supposed to root out graft. Instead, some of its members have been accused of perpetuating the very wrongdoing they were meant to stop.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419043000 +0500" stop="20260419050000 +0500">
-    <title>Bloomberg New Economy</title>
-    <sub-title>Thriving in an Age of Extremes</sub-title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419050000 +0500" stop="20260419060000 +0500">
-    <title>Businessweek Convenes: Black Leaders Face the DEI Backlash</title>
+  </programme><programme channel="Bloomberg-US" start="20260422020000 +0500" stop="20260422030000 +0500">
+    <title>Bloomberg: Balance of Power</title>
     <sub-title />
-    <desc>Bloomberg Businessweek hosts an exclusive roundtable with Black business leaders like Ursula Burns and Lisa Wardell to discuss the impact of DEI rollbacks across corporate America.</desc>
+    <desc>"Bloomberg Balance of Power" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.</desc>
     <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419060000 +0500" stop="20260419063000 +0500">
-    <title>Bloomberg Originals</title>
-    <sub-title />
-    <desc>"Bloomberg Originals" offers bold takes for curious minds on today's biggest topics; hosted by experts covering stories you haven't seen and viewpoints you haven't heard, you'll discover cinematic, data-led shows that investigate the intersection of business and culture; exploring every angle of climate change, technology, finance, sports and beyond, "Bloomberg Originals" is business as you've never seen it.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419063000 +0500" stop="20260419070000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>How Flying Cars Became a Billion-Dollar Bet</sub-title>
-    <desc>The idea of flying cars has largely remained science fiction, until now; a new generation of electrified aircraft is attracting the attention of investors and venture capitalists around the world.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419070000 +0500" stop="20260419073000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>Is the Moon the Future of the Space Economy?</sub-title>
-    <desc>Governments and entrepreneurs race to commercialize the moon; the efforts could unlock a new, deep-space economy, but to return and stay requires the highest levels of innovation.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419073000 +0500" stop="20260419080000 +0500">
-    <title>The Circuit</title>
-    <sub-title />
-    <desc>Emily Chang meets Snap CEO Evan Spiegel in Los Angeles for a conversation about his entrepreneurial journey, building Snap and his latest consumer hardware bet; Spiegel is doubling down on smart glasses and going head-to-head with giants like Google.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419080000 +0500" stop="20260419090000 +0500">
-    <title>Bloomberg Investigates</title>
-    <sub-title>Inside North Korea's Secret Remote IT Workforce</sub-title>
-    <desc>How an Arizona woman’s house became a gateway for North Korea’s IT operatives, an underground laptop farm that infiltrated US companies and pumped millions to the regime.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419090000 +0500" stop="20260419093000 +0500">
-    <title>Bloomberg Originals</title>
-    <sub-title />
-    <desc>"Bloomberg Originals" offers bold takes for curious minds on today's biggest topics; hosted by experts covering stories you haven't seen and viewpoints you haven't heard, you'll discover cinematic, data-led shows that investigate the intersection of business and culture; exploring every angle of climate change, technology, finance, sports and beyond, "Bloomberg Originals" is business as you've never seen it.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419093000 +0500" stop="20260419100000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>Why Money Is Flowing Into Geoengineering</sub-title>
-    <desc>Scientists and entrepreneurs are testing radical ideas like solar radiation management and ocean fertilization; they are finding funding for them.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419100000 +0500" stop="20260419110000 +0500">
+  </programme><programme channel="Bloomberg-US" start="20260422030000 +0500" stop="20260422040000 +0500">
     <title>The Deal With Alex Rodriguez and Jason Kelly</title>
-    <sub-title>The CEO Behind Barstool Sports &amp; Food52</sub-title>
-    <desc>Alex Rodriguez and Jason Kelly sit with Erika Ayers Badan, former chief executive of Barstool Sports and current CEO of Food52, to discuss navigating turnarounds and how setbacks can fuel growth.</desc>
+    <sub-title>How Jerry Jones Built a Cowboys Empire</sub-title>
+    <desc>Alex Rodriguez and Jason Kelly interview Dallas Cowboys owner Jerry Jones on risk-taking, making bold trades and the Main Street philosophy that fueled his rise with the Cowboys.</desc>
     <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419110000 +0500" stop="20260419113000 +0500">
-    <title>Best of Bloomberg Invest 2026</title>
-    <sub-title />
-    <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419113000 +0500" stop="20260419120000 +0500">
-    <title>The Mishal Husain Show</title>
-    <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419120000 +0500" stop="20260419123000 +0500">
-    <title>LEADERS With Francine Lacqua</title>
-    <sub-title>The Podcast: Wael Sawan on Leading Shell: Control What You Can Amid Global Uncertainty</sub-title>
-    <desc>The anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419123000 +0500" stop="20260419130000 +0500">
-    <title>Bloomberg New Economy</title>
-    <sub-title>Thriving in an Age of Extremes</sub-title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419130000 +0500" stop="20260419140000 +0500">
-    <title>Bloomberg Wall Street Week</title>
-    <sub-title />
-    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419140000 +0500" stop="20260419150000 +0500">
-    <title>Businessweek Convenes: Black Leaders Face the DEI Backlash</title>
-    <sub-title />
-    <desc>Bloomberg Businessweek hosts an exclusive roundtable with Black business leaders like Ursula Burns and Lisa Wardell to discuss the impact of DEI rollbacks across corporate America.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419150000 +0500" stop="20260419160000 +0500">
-    <title>Bloomberg Wall Street Week</title>
-    <sub-title />
-    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419160000 +0500" stop="20260419190000 +0500">
-    <title>Bloomberg This Weekend</title>
-    <sub-title />
-    <desc>The news doesn't stop when markets close; hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend's biggest headlines, LIVE from New York.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419190000 +0500" stop="20260419193000 +0500">
-    <title>The Mishal Husain Show</title>
-    <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419193000 +0500" stop="20260419200000 +0500">
-    <title>The David Rubenstein Show: Peer to Peer Conversations</title>
-    <sub-title />
-    <desc>Maria Sharapova, Former No. 1 World Tennis Player.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419200000 +0500" stop="20260419210000 +0500">
-    <title>Bloomberg Investigates</title>
-    <sub-title>Inside North Korea's Secret Remote IT Workforce</sub-title>
-    <desc>How an Arizona woman’s house became a gateway for North Korea’s IT operatives, an underground laptop farm that infiltrated US companies and pumped millions to the regime.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419210000 +0500" stop="20260419220000 +0500">
-    <title>Bloomberg Wall Street Week</title>
-    <sub-title />
-    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419220000 +0500" stop="20260419223000 +0500">
-    <title>The David Rubenstein Show: Peer to Peer Conversations</title>
-    <sub-title />
-    <desc>Maria Sharapova, Former No. 1 World Tennis Player.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419223000 +0500" stop="20260419230000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>Is the Moon the Future of the Space Economy?</sub-title>
-    <desc>Governments and entrepreneurs race to commercialize the moon; the efforts could unlock a new, deep-space economy, but to return and stay requires the highest levels of innovation.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419230000 +0500" stop="20260419233000 +0500">
-    <title>Best of Bloomberg Invest 2026</title>
-    <sub-title />
-    <desc>A recap of Bloomberg Invest New York, featuring interviews with leaders in asset management, banking, private capital and wealth.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260419233000 +0500" stop="20260420000000 +0500">
-    <title>Bloomberg New Economy</title>
-    <sub-title>Thriving in an Age of Extremes</sub-title>
-    <desc>Candid conversations with CEOs, investors, and government leaders focused on how to navigate and prosper in this age of economic uncertainty. Hosted by Erik Schatzker in Singapore.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420000000 +0500" stop="20260420003000 +0500">
-    <title>LEADERS With Francine Lacqua</title>
-    <sub-title>The Podcast: Wael Sawan on Leading Shell: Control What You Can Amid Global Uncertainty</sub-title>
-    <desc>The anchor sits down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420003000 +0500" stop="20260420010000 +0500">
-    <title>The Mishal Husain Show</title>
-    <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420010000 +0500" stop="20260420013000 +0500">
-    <title>The Mishal Husain Show</title>
-    <sub-title />
-    <desc>Make sense of the world with one essential conversation every weekend; Mishal Husain, one of Britain's best interviewers, brings her signature blend of curiosity and tenacity to weekly conversations with world leaders, business titans and cultural icons, revealing who they really are and how they see the world changing around them.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420013000 +0500" stop="20260420020000 +0500">
-    <title>Bloomberg Chief Future Officer</title>
-    <sub-title>Gina Goetter, Hasbro</sub-title>
-    <desc>Gina Goetter is the CFO and COO of Hasbro; she's the architect of the company's transformation, while diversifying its manufacturing footprint and investing in Hasbro's video game ambitions.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420020000 +0500" stop="20260420023000 +0500">
-    <title>Bloomberg Primer</title>
-    <sub-title>Is the Moon the Future of the Space Economy?</sub-title>
-    <desc>Governments and entrepreneurs race to commercialize the moon; the efforts could unlock a new, deep-space economy, but to return and stay requires the highest levels of innovation.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420023000 +0500" stop="20260420030000 +0500">
-    <title>Bloomberg Originals</title>
-    <sub-title />
-    <desc>"Bloomberg Originals" offers bold takes for curious minds on today's biggest topics; hosted by experts covering stories you haven't seen and viewpoints you haven't heard, you'll discover cinematic, data-led shows that investigate the intersection of business and culture; exploring every angle of climate change, technology, finance, sports and beyond, "Bloomberg Originals" is business as you've never seen it.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420030000 +0500" stop="20260420040000 +0500">
-    <title>Bloomberg Wall Street Week</title>
-    <sub-title />
-    <desc>A weekly program telling the stories of capitalism from around the world, David Westin in New York hosts.</desc>
-    <language>en</language>
-  </programme><programme channel="Bloomberg-US" start="20260420040000 +0500" stop="20260420060000 +0500">
+  </programme><programme channel="Bloomberg-US" start="20260422040000 +0500" stop="20260422060000 +0500">
     <title>Bloomberg The Asia Trade</title>
     <sub-title />
     <desc>Bringing global investors everything you need to know as the trading day begins in Asia; Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets, from tech, to geopolitics, and the world's energy transition.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422060000 +0500" stop="20260422080000 +0500">
+    <title>Bloomberg: The China Show</title>
+    <sub-title />
+    <desc>Your definitive source for news and analysis on the world's second-biggest economy; from politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422080000 +0500" stop="20260422090000 +0500">
+    <title>Insight With Haslinda Amin</title>
+    <sub-title />
+    <desc>The definitive guide for global news audiences to get the complete picture on the story of the day, through probing interviews and nuanced conversations.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422090000 +0500" stop="20260422100000 +0500">
+    <title>Bloomberg Horizons Middle East &amp; Africa</title>
+    <sub-title />
+    <desc>A spotlight on the fast paced growth and major deals happening across the Middle East and Africa; linking the market drivers from overnight in the US and across Asia into the region's trading day, with deep dive analysis of the top business, energy and geopolitical stories shaping the decisions of traders across the Middle East, Africa and beyond.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422100000 +0500" stop="20260422110000 +0500">
+    <title>Bloomberg Daybreak: Europe</title>
+    <sub-title />
+    <desc>From London, essential morning viewing to stay ahead of the day's market trends with news stories from the U.S. and Asia in the lead-up to the opening of European markets.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422110000 +0500" stop="20260422130000 +0500">
+    <title>Bloomberg The Opening Trade</title>
+    <sub-title />
+    <desc>"The Opening Trade" explores things to know as markets open across Europe; analysis that isn't available anywhere else, a break-down of the biggest stories of the day and top guests who have skin in the game.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422130000 +0500" stop="20260422140000 +0500">
+    <title>The Pulse with Francine Lacqua</title>
+    <sub-title />
+    <desc>"The Pulse With Francine Lacqua" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics; based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422140000 +0500" stop="20260422150000 +0500">
+    <title>Bloomberg Brief</title>
+    <sub-title />
+    <desc>"Bloomberg Brief" delivers the market news, data and analysis viewers need to set their agendas.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422150000 +0500" stop="20260422180000 +0500">
+    <title>Bloomberg Surveillance</title>
+    <sub-title />
+    <desc>Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern have the economy and global markets "under surveillance"; their daily conversations with leaders and decision makers from Wall Street to Washington and beyond cover the latest in business, investment, and geopolitics; no other program better positions investors and executives for the trading day.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422180000 +0500" stop="20260422200000 +0500">
+    <title>Bloomberg Open Interest</title>
+    <sub-title />
+    <desc>Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422200000 +0500" stop="20260422210000 +0500">
+    <title>Bloomberg Tech</title>
+    <sub-title />
+    <desc>Bloomberg Tech is the only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories. The program brings the audience interviews from the biggest names in the business, offering in-depth analysis and critical insights.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422210000 +0500" stop="20260422220000 +0500">
+    <title>Bloomberg Deals</title>
+    <sub-title />
+    <desc>A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the market. With a mix of original Bloomberg reporting, market data, guest analysis, and Bloomberg Intelligence.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422220000 +0500" stop="20260422230000 +0500">
+    <title>Bloomberg: Balance of Power</title>
+    <sub-title />
+    <desc>"Bloomberg Balance of Power" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260422230000 +0500" stop="20260423000000 +0500">
+    <title>Bloomberg Businessweek Daily</title>
+    <sub-title />
+    <desc>Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423000000 +0500" stop="20260423020000 +0500">
+    <title>Bloomberg: The Close</title>
+    <sub-title />
+    <desc>Romaine Bostick and Katie Greifeld break down the day's top market-moving stories and trading action around the closing bell.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423020000 +0500" stop="20260423030000 +0500">
+    <title>Bloomberg: Balance of Power</title>
+    <sub-title />
+    <desc>"Bloomberg Balance of Power" with host David Westin is a daily look at how politics is impacting global business decisions; top lawmakers, business executives and government leaders join to discuss doing business in today's volatile political climate.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423030000 +0500" stop="20260423033000 +0500">
+    <title>Bloomberg Primer</title>
+    <sub-title>The Race to Challenge China's EV Lead</sub-title>
+    <desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423033000 +0500" stop="20260423040000 +0500">
+    <title>Bloomberg Primer</title>
+    <sub-title>How New Magnets Could Power the Future</sub-title>
+    <desc>Scientists are developing more powerful magnets to enable clean energy sources like fusion; China's dominance of the supply chain for rare earth magnets threatens their global availability.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423040000 +0500" stop="20260423060000 +0500">
+    <title>Bloomberg The Asia Trade</title>
+    <sub-title />
+    <desc>Bringing global investors everything you need to know as the trading day begins in Asia; Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets, from tech, to geopolitics, and the world's energy transition.</desc>
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423060000 +0500" stop="20260423070000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423070000 +0500" stop="20260423080000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423080000 +0500" stop="20260423090000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423090000 +0500" stop="20260423100000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423100000 +0500" stop="20260423110000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423110000 +0500" stop="20260423120000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423120000 +0500" stop="20260423130000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423130000 +0500" stop="20260423140000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423140000 +0500" stop="20260423150000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423150000 +0500" stop="20260423160000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423160000 +0500" stop="20260423170000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423170000 +0500" stop="20260423180000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423180000 +0500" stop="20260423190000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423190000 +0500" stop="20260423200000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423200000 +0500" stop="20260423210000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423210000 +0500" stop="20260423220000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423220000 +0500" stop="20260423230000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Bloomberg-US" start="20260423230000 +0500" stop="20260424000000 +0500">
+    <title>Business News &amp; Talk</title>
+    <sub-title />
+    <desc />
     <language>en</language>
   </programme>
 </tv>

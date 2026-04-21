@@ -1,315 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="CW-Gold-US">
-    <display-name>CW Gold</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CW-Gold-US.png" />
-  </channel><programme channel="CW-Gold-US" start="20260420071042 +0500" stop="20260420080139 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don's old flame Robin returns to prosecute a criminal. The team realize that the next victim may be Robin.</desc>
-    <episode-num system="onscreen">S04E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420080139 +0500" stop="20260420085140 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team tracks a gang of military thieves after they kidnap the family of an ex-marine wanted for murder.</desc>
-    <episode-num system="onscreen">S04E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420085140 +0500" stop="20260420094210 +0500">
-    <title>NUMB3RS</title>
-    <desc>A mass poisoning at a cult compound leads the FBI team into a maze of old grudges and a complex murder plot.</desc>
-    <episode-num system="onscreen">S04E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420094210 +0500" stop="20260420103227 +0500">
-    <title>NUMB3RS</title>
-    <desc>While investigating the murder of a rap star, the team uncovers a conspiracy of embezzlement and bribery.</desc>
-    <episode-num system="onscreen">S04E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420103227 +0500" stop="20260420112122 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don and Charlie find themselves in conflict as they investigate a case involving national security.</desc>
-    <episode-num system="onscreen">S04E18</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420112122 +0500" stop="20260420120945 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don and the team hunt down the killers of two rock climbers in possession of a stolen diamond.</desc>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420120945 +0500" stop="20260420130035 +0500">
-    <title>Rookie Blue</title>
-    <desc>Traci shadows Steve to disprove her fears. Dov, Gail, Nick, &amp; Andy execute a risky plan to uncover the truth.</desc>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420130035 +0500" stop="20260420135051 +0500">
-    <title>Rookie Blue</title>
-    <desc>During a heat wave, 15 Division opens to the public as a cooling station.</desc>
-    <episode-num system="onscreen">S06E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420135051 +0500" stop="20260420144142 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy considers leaving town for a four-month undercover project.</desc>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420144142 +0500" stop="20260420153233 +0500">
-    <title>Rookie Blue</title>
-    <desc>On their wedding day, Andy's car is stolen, and Sam faces an uninvited guest.</desc>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420153233 +0500" stop="20260420162209 +0500">
-    <title>Rookie Blue</title>
-    <desc>Triumph turns to humiliation when a high-stakes take-down of a suspect goes awry.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420162209 +0500" stop="20260420171238 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy gets a lesson in the dangers of undercover work when they search for a missing informant.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420171238 +0500" stop="20260420180221 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy wrestles with a dilemma of her own while rookies participate in the annual "Fite Nite" charity event.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420180221 +0500" stop="20260420185218 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy's undercover skills are tested when she's brought in to pose as a prostitute during a sting operation.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420185218 +0500" stop="20260420194133 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy and Traci are part of a massive first response to a home invasion at an upscale address.</desc>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420194133 +0500" stop="20260420203127 +0500">
-    <title>Rookie Blue</title>
-    <desc>A traffic collision reveals a shocking truth; Andy and Callaghan's relationship gets complicated.</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420203127 +0500" stop="20260420212213 +0500">
-    <title>Rookie Blue</title>
-    <desc>The combination of a heat wave and a city-wide blackout stretches the resources of 15 Division.</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420212213 +0500" stop="20260420221331 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team investigates a pattern of increased ATM kidnappings when a woman who was abducted.</desc>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420221331 +0500" stop="20260420230352 +0500">
-    <title>NUMB3RS</title>
-    <desc>When eight people are executed in a coffee shop, an LAPD detective gets the team on the case.</desc>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420230352 +0500" stop="20260420235221 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don and his team are called in to help a veteran FBI agent track down a con man who has eluded him for years.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260420235221 +0500" stop="20260421004333 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team hunts a crew stealing from a shipping service. They get help from an employee with savant abilities.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421004333 +0500" stop="20260421013153 +0500">
-    <title>NUMB3RS</title>
-    <desc>David sees a magic show but quickly becomes involved in the performance when the magician really vanishes.</desc>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421013153 +0500" stop="20260421022111 +0500">
-    <title>NUMB3RS</title>
-    <desc>When the death of a family friend is ruled an accident, Don and Charlie investigate.</desc>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421022111 +0500" stop="20260421031146 +0500">
-    <title>NUMB3RS</title>
-    <desc>A passenger train collides with a freight train transporting toxic chemicals.</desc>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421031146 +0500" stop="20260421040009 +0500">
-    <title>NUMB3RS</title>
-    <desc>The office of a controversial charity organization is bombed.</desc>
-    <episode-num system="onscreen">S05E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421040009 +0500" stop="20260421045002 +0500">
-    <title>NUMB3RS</title>
-    <desc>When a vigilante group goes after a known criminal mastermind, Charlie turns to his rival for help.</desc>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421045002 +0500" stop="20260421054115 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don looks toward his newly found religious beliefs to help himwith an escaped criminal bent on revenge.</desc>
-    <episode-num system="onscreen">S05E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421054115 +0500" stop="20260421063002 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team has only four hours to stop a group of hijackers who take a bus full of Hollywood tourists hostage.</desc>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421054115 +0500" stop="20260421063002 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team has only four hours to stop a group of hijackers who take a bus full of Hollywood tourists hostage.</desc>
-    <episode-num system="onscreen">S05E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421063002 +0500" stop="20260421072024 +0500">
-    <title>NUMB3RS</title>
-    <desc>A feud between Chinese gangs leads to the kidnapping of an undercover agent.</desc>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421072024 +0500" stop="20260421081038 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team is lead into the world of sneaker collecting after an Ambassador finds his prized pair missing.</desc>
-    <episode-num system="onscreen">S05E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421081038 +0500" stop="20260421090101 +0500">
-    <title>NUMB3RS</title>
-    <desc>When Robin's case against a weapons smuggler falls apart, the team looks into the jury who heard the case.</desc>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421090101 +0500" stop="20260421094946 +0500">
-    <title>NUMB3RS</title>
-    <desc>To stop a new drug from hitting the streets, Charlie devises a plan that could put Liz in harm's way.</desc>
-    <episode-num system="onscreen">S05E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421094946 +0500" stop="20260421104051 +0500">
-    <title>NUMB3RS</title>
-    <desc>When a super computer is the suspect in the death a scientist, the team must use new means to crack the case.</desc>
-    <episode-num system="onscreen">S05E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421104051 +0500" stop="20260421113031 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team gets a last-minute tip that could exonerate a mob boss who is about to be executed.</desc>
-    <episode-num system="onscreen">S05E18</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421113031 +0500" stop="20260421121830 +0500">
-    <title>NUMB3RS</title>
-    <desc>The investigation takes a dangerous turn when the lead suspect has ties to a radical animal rights group.</desc>
-    <episode-num system="onscreen">S05E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421121830 +0500" stop="20260421130817 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy and Chris investigate a nightclub beating, but are left with a decision that could end their careers.</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421130817 +0500" stop="20260421135854 +0500">
-    <title>Rookie Blue</title>
-    <desc>Division 15 starts a city-wide search for an abducted 9-year-old girl.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421135854 +0500" stop="20260421144819 +0500">
-    <title>Rookie Blue</title>
-    <desc>An inmate escapes during a prisoner transport; Gail and Dov try to help a man with amnesia.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421144819 +0500" stop="20260421153816 +0500">
-    <title>Rookie Blue</title>
-    <desc>After finding evidence that Andy's father may have murdered, Andy &amp; Swarek search for proof of his innocence.</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421153816 +0500" stop="20260421162900 +0500">
-    <title>Rookie Blue</title>
-    <desc>It's judgment day for the rookies, who soon will learn whether or not they've passed their evaluations.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421162900 +0500" stop="20260421171948 +0500">
-    <title>Rookie Blue</title>
-    <desc>When Andy and Chris make an untimely arrest, they unknowingly compromise a major drug bust.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421171948 +0500" stop="20260421180926 +0500">
-    <title>Rookie Blue</title>
-    <desc>Andy's world explodes when a university student is caught in the crossfire during a concert shooting.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421180926 +0500" stop="20260421185903 +0500">
-    <title>Rookie Blue</title>
-    <desc>Everyone's living their "might-have-beens". Andy and Gail go undercover as cocktail waitresses.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421185903 +0500" stop="20260421194950 +0500">
-    <title>Rookie Blue</title>
-    <desc>As a full moon hangs over the city, the rookies are unnerved by a series of strange occurrences.</desc>
-    <episode-num system="onscreen">S02E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421194950 +0500" stop="20260421203839 +0500">
-    <title>Rookie Blue</title>
-    <desc>A series of arson culminates in the torching of a laundromat.</desc>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421203839 +0500" stop="20260421212847 +0500">
-    <title>Rookie Blue</title>
-    <desc>Using a local car dealership, 15 Division runs a sting operation to crack down on suspects with warrants.</desc>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/36060e7d81c6545ea32cf107de2d6050/images/gracenote/assets/p8085120_b_h10_ak.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421212847 +0500" stop="20260421221857 +0500">
-    <title>Scorpion</title>
-    <desc>Team Scorpion becomes stranded on a floating island of trash they were trying to destroy.</desc>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421221857 +0500" stop="20260421230907 +0500">
-    <title>Scorpion</title>
-    <desc>Team Scorpion tries to help a father and his daughter when their plane crashes nearby.</desc>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421230907 +0500" stop="20260421235917 +0500">
-    <title>Scorpion</title>
-    <desc>The team anxiously awaits the verdict of Cabe's trial which could send him to prison.</desc>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260421235917 +0500" stop="20260422004737 +0500">
-    <title>Scorpion</title>
-    <desc>Walter hits his head and, while unconscious, enters a dream world where Team Scorpion never existed.</desc>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260422004737 +0500" stop="20260422013747 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>CW Gold</display-name>
+  </channel><programme channel="CW-Gold-US" start="20260422004737 +0500" stop="20260422013747 +0500">
     <title>Scorpion</title>
     <desc>The team is locked inside an artificially intelligent doomsday bunker that aims to kill them.</desc>
     <episode-num system="onscreen">S04E13</episode-num>
@@ -351,12 +46,6 @@
     <episode-num system="onscreen">S04E19</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260422054020 +0500" stop="20260422062920 +0500">
-    <title>Scorpion</title>
-    <desc>Team Scorpion heads to the bayou to track down a cagey alligator to stop a deadly virus.</desc>
-    <episode-num system="onscreen">S04E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260422062920 +0500" stop="20260422071930 +0500">
     <title>Scorpion</title>
     <desc>Team Scorpion must use their high IQs to win a softball game.</desc>
@@ -381,5 +70,317 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422094618 +0500" stop="20260422103424 +0500">
+    <title>Scorpion</title>
+    <desc>The team is called upon by the governor when a virus leaves his daughter with only 24 hours to live.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422103424 +0500" stop="20260422112319 +0500">
+    <title>Scorpion</title>
+    <desc>The team fails a training session; an Internet infrastructure is threatened by a bomber.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422112319 +0500" stop="20260422121401 +0500">
+    <title>Scorpion</title>
+    <desc>The members of the team disregard Cabe's advice and go to Las Vegas for a casino job.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422121401 +0500" stop="20260422130407 +0500">
+    <title>Wild Cards</title>
+    <desc>A murdered dog show judge leads Max and Ellis to a dog competition to sniff out the killer.</desc>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422130407 +0500" stop="20260422135411 +0500">
+    <title>Wild Cards</title>
+    <desc>Max and Ellis go undercover, joining the crew of a reality show to find out who murdered its star.</desc>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422135411 +0500" stop="20260422144417 +0500">
+    <title>Wild Cards</title>
+    <desc>A gruff cop and a con woman are offered the opportunity to redeem themselves by working together.</desc>
+    <episode-num system="onscreen">S02E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422144417 +0500" stop="20260422153423 +0500">
+    <title>Wild Cards</title>
+    <desc>Ellis gets new information that may lead to the person responsible for Daniel's death.</desc>
+    <episode-num system="onscreen">S02E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422153423 +0500" stop="20260422162428 +0500">
+    <title>Wild Cards</title>
+    <desc>Ellis makes a shocking discovery about the criminal kingpin responsible for Daniel's death.</desc>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422162428 +0500" stop="20260422171434 +0500">
+    <title>Wild Cards</title>
+    <desc>Cole Ellis is assigned to work with Max Mitchell, a spirited con artist who could help catch an elusive thief.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422171434 +0500" stop="20260422180441 +0500">
+    <title>Wild Cards</title>
+    <desc>A harmless porch pirate case leads Max and Ellis to stumble upon the murder of a cutthroat sports agent.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422180441 +0500" stop="20260422185447 +0500">
+    <title>Wild Cards</title>
+    <desc>Things go from quaint to creepy when Max and Ellis look into the disappearance of a butcher in a small town.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422185447 +0500" stop="20260422194453 +0500">
+    <title>Wild Cards</title>
+    <desc>After a surfer gets shot and washes up on the beach, Ellis goes undercover.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422194453 +0500" stop="20260422203459 +0500">
+    <title>Wild Cards</title>
+    <desc>After an accountant is kidnapped, Ellis gets an urgent call from an old friend to help get him back.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422203459 +0500" stop="20260422212501 +0500">
+    <title>Wild Cards</title>
+    <desc>The leads of the most popular vampire show on TV become the target of a stalker.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422212501 +0500" stop="20260422221432 +0500">
+    <title>Scorpion</title>
+    <desc>A nuclear reactor in Los Angeles is on the verge of a cataclysmic meltdown.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422221432 +0500" stop="20260422230407 +0500">
+    <title>Scorpion</title>
+    <desc>After being accused of destroying a piece of art, the team must pass a mandated psych evaluation.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422230407 +0500" stop="20260422235441 +0500">
+    <title>Scorpion</title>
+    <desc>Three convicts -- including a brilliant hacker -- escape from prison; Ralph's father returns.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422235441 +0500" stop="20260423004322 +0500">
+    <title>Scorpion</title>
+    <desc>A musician helps the team investigate the murder of a music blogger.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260422235441 +0500" stop="20260423004322 +0500">
+    <title>Scorpion</title>
+    <desc>A musician helps the team investigate the murder of a music blogger.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423004322 +0500" stop="20260423013059 +0500">
+    <title>Scorpion</title>
+    <desc>Cabe's ex-wife discovers evidence that suggests a prominent congressman's death involved foul play.</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423013059 +0500" stop="20260423022132 +0500">
+    <title>Scorpion</title>
+    <desc>The team must recover stealth technology from a military plane that was shot down in Bosnia.</desc>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423022132 +0500" stop="20260423030831 +0500">
+    <title>Scorpion</title>
+    <desc>Sylvester ends up in critical condition after accidentally triggering an explosion.</desc>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423030831 +0500" stop="20260423035837 +0500">
+    <title>Scorpion</title>
+    <desc>On Christmas Eve, a boy is trapped in a beach-side cave, where the rising tide threatens his life.</desc>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423035837 +0500" stop="20260423044646 +0500">
+    <title>Scorpion</title>
+    <desc>Ralph's web game play unintentionally reveals a CIA safe house's location.</desc>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423044646 +0500" stop="20260423053511 +0500">
+    <title>Scorpion</title>
+    <desc>The team searches for a CIA mole who has been coerced into stealing deadly chemicals.</desc>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423053511 +0500" stop="20260423062427 +0500">
+    <title>Scorpion</title>
+    <desc>The team works to stop the launching of weapons of mass destruction.</desc>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423062427 +0500" stop="20260423071300 +0500">
+    <title>Scorpion</title>
+    <desc>The team members go under cover on a cruise ship in order to locate and disable stolen rockets.</desc>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423071300 +0500" stop="20260423080259 +0500">
+    <title>Scorpion</title>
+    <desc>The members of the team travel to Mexico when the daughter of a tech billionaire is abducted.</desc>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423080259 +0500" stop="20260423085016 +0500">
+    <title>Scorpion</title>
+    <desc>The team must facilitate peace discussions when a conflict in Eastern Europe threatens to escalate.</desc>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423085016 +0500" stop="20260423093724 +0500">
+    <title>Scorpion</title>
+    <desc>Team Scorpion's helicopter crashes, igniting a large wildfire and injuring the pilot.</desc>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423093724 +0500" stop="20260423102515 +0500">
+    <title>Scorpion</title>
+    <desc>The team must protect a witness who is on her way to testify against a dangerous drug cartel.</desc>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423102515 +0500" stop="20260423111527 +0500">
+    <title>Scorpion</title>
+    <desc>When Walter learns Cabe's secret about the Baghdad mission, the future of the team is threatened.</desc>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423111527 +0500" stop="20260423120239 +0500">
+    <title>Scorpion</title>
+    <desc>When Walter's car ends up at the edge of a cliff, the fractured team must come together.</desc>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423120239 +0500" stop="20260423125243 +0500">
+    <title>Wild Cards</title>
+    <desc>George gets a three-day pass from jail to spend his birthday with Max.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423125243 +0500" stop="20260423134246 +0500">
+    <title>Wild Cards</title>
+    <desc>When a celebrated therapist is murdered, Max and Ellis go under cover to find her killer.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423134246 +0500" stop="20260423143230 +0500">
+    <title>Wild Cards</title>
+    <desc>A gruff cop and a con woman are offered the opportunity to redeem themselves by working together.</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423143230 +0500" stop="20260423152232 +0500">
+    <title>Wild Cards</title>
+    <desc>Ellis is drawn into a case involving Max, her ex, and a world-famous imperial egg.</desc>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423152232 +0500" stop="20260423161238 +0500">
+    <title>Wild Cards</title>
+    <desc>Ellis comes to terms with Max's betrayal knowing she risked it all to share info about the killer.</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423161238 +0500" stop="20260423170244 +0500">
+    <title>Wild Cards</title>
+    <desc>Max and Ellis pursue the killer who attempted to murder a stallion, uncovering a family secret.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423170244 +0500" stop="20260423175250 +0500">
+    <title>Wild Cards</title>
+    <desc>A paranoid biomedical engineer with a case of amnesia comes to Ellis.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423175250 +0500" stop="20260423184256 +0500">
+    <title>Wild Cards</title>
+    <desc>Max is convinced she has witnessed a murder while snooping on the condo across the street.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423184256 +0500" stop="20260423193300 +0500">
+    <title>Wild Cards</title>
+    <desc>While Ellis investigates the murder of a former tennis pro, BFFs go undercover to find the killer.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423193300 +0500" stop="20260423202306 +0500">
+    <title>Wild Cards</title>
+    <desc>Max and Ellis investigate a mysterious murder among an eccentric family where everyone is a suspect.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423202306 +0500" stop="20260423211312 +0500">
+    <title>Wild Cards</title>
+    <desc>When Chief Li and Max are trapped as our wheels aren't gone. Ellis tries to find a way to get them out safely without letting emotion cloud his judgment.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/37e3a81867c35c7b8144e9ab138009fa/rokuFeed/assets/1641f995118e5c3c84828699cedd01cc.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423211312 +0500" stop="20260423220434 +0500">
+    <title>NUMB3RS</title>
+    <desc>When the team investigates a series of home invasions, Charlie's math skills help to profile the suspects.</desc>
+    <episode-num system="onscreen">S05E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423220434 +0500" stop="20260423225529 +0500">
+    <title>NUMB3RS</title>
+    <desc>Feeling responsible for Don's near-fatal stabbing, Charlie focuses on tracking an unnoticed serial killer.</desc>
+    <episode-num system="onscreen">S05E21</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423225529 +0500" stop="20260423234547 +0500">
+    <title>NUMB3RS</title>
+    <desc>The team investigate a string of copycat bank robberies and zero in on disgraced FBI Agent Roger Bloom.</desc>
+    <episode-num system="onscreen">S05E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423234547 +0500" stop="20260424003701 +0500">
+    <title>NUMB3RS</title>
+    <desc>When Amita is abducted, Don and the team's frantic search for her leads them to a charismatic sociopath.</desc>
+    <episode-num system="onscreen">S05E23</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260423234547 +0500" stop="20260424003701 +0500">
+    <title>NUMB3RS</title>
+    <desc>When Amita is abducted, Don and the team's frantic search for her leads them to a charismatic sociopath.</desc>
+    <episode-num system="onscreen">S05E23</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260424003701 +0500" stop="20260424012800 +0500">
+    <title>NUMB3RS</title>
+    <desc>Don and the team must protect high-profile activist Benjamin Polk at a political rally.</desc>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260424012800 +0500" stop="20260424021623 +0500">
+    <title>NUMB3RS</title>
+    <desc>When two FBI agents are killed during a shootout with bank robbers, the team must investigate what happened.</desc>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260424021623 +0500" stop="20260424030505 +0500">
+    <title>NUMB3RS</title>
+    <desc>The team investigates a gambling ring that runs a Russian-roulette tournament.</desc>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/08fa746254e15a3dbcaa9cdf64a47f86/images/gracenote/assets/p185069_b_h8_ag.jpg" />
   </programme>
 </tv>

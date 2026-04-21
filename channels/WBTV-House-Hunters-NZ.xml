@@ -1,612 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="WBTV-House-Hunters-NZ">
-    <display-name>WBTV House Hunters</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/WBTV-House-Hunters-NZ.png" />
-  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260420081000 +0500" stop="20260420083500 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>WBTV House Hunters</display-name>
+  </channel><programme channel="WBTV-House-Hunters-NZ" start="20260422015500 +0500" stop="20260422021500 +0500">
     <title>House Hunters</title>
-    <sub-title>Must Be New In South Carolina</sub-title>
+    <sub-title>Its An Us Thing In Atlanta</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S200E01</episode-num>
+    <episode-num system="onscreen">S199E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420083500 +0500" stop="20260420090000 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422021500 +0500" stop="20260422024000 +0500">
     <title>House Hunters</title>
-    <sub-title>Firsttimers In The Twin Cities</sub-title>
+    <sub-title>A Fresh Start In Tampa</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S201E01</episode-num>
+    <episode-num system="onscreen">S200E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420090000 +0500" stop="20260420092500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Big Budget Bigger Drama In Spain</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S187E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420092500 +0500" stop="20260420095000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>House Flippers Seek Costa Rica</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S188E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420095000 +0500" stop="20260420101000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>A New Beginning In Germany</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420101000 +0500" stop="20260420103500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Alaskans Play Ball Down Under</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420103500 +0500" stop="20260420110000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Civilization Or Serenity In Roero Italy</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E01</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420110000 +0500" stop="20260420112500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Rebounding In Oslo</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S181E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420112500 +0500" stop="20260420114500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Cookies And Dreams In Mildenhall</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S182E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420114500 +0500" stop="20260420121000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Miami Vibes In Lyon, France</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S183E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420121000 +0500" stop="20260420123500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>In Love (Again) With Brisbane</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S184E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420123500 +0500" stop="20260420130000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Storybook Style In Utrecht, Netherlands</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S185E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420130000 +0500" stop="20260420132000 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422024000 +0500" stop="20260422030500 +0500">
     <title>House Hunters</title>
-    <sub-title>An Education In Charleston</sub-title>
+    <sub-title>Heading To Sonoma Wine Country</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
+    <episode-num system="onscreen">S201E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420132000 +0500" stop="20260420134500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Emotion Over Investment In Dallas</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420134500 +0500" stop="20260420140500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Waterfront Or Land In Florida</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420140500 +0500" stop="20260420143000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Making Space In Maryland</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S200E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420143000 +0500" stop="20260420145500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Agents Battle In San Antonio</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S201E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420145500 +0500" stop="20260420152000 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422030500 +0500" stop="20260422033000 +0500">
     <title>House Hunters International</title>
-    <sub-title>Grad School Roommate Revelations In Manchester Eng</sub-title>
+    <sub-title>Growing A Family In Yokosuka Japan</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S187E02</episode-num>
+    <episode-num system="onscreen">S187E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420152000 +0500" stop="20260420154500 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422033000 +0500" stop="20260422035500 +0500">
     <title>House Hunters International</title>
-    <sub-title>All Work And No Play In Hanoi</sub-title>
+    <sub-title>The Finer Side Of Valencia</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S188E02</episode-num>
+    <episode-num system="onscreen">S188E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420154500 +0500" stop="20260420160500 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422035500 +0500" stop="20260422041500 +0500">
     <title>House Hunters International</title>
-    <sub-title>Friends And Art In Mexico City</sub-title>
+    <sub-title>New York To Wiesbaden</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
+    <episode-num system="onscreen">S197E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420160500 +0500" stop="20260420163000 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422041500 +0500" stop="20260422044000 +0500">
     <title>House Hunters International</title>
-    <sub-title>Higher Education In Edinburgh</sub-title>
+    <sub-title>A Friend In Need In Stuttgart</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
+    <episode-num system="onscreen">S198E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420163000 +0500" stop="20260420165500 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422044000 +0500" stop="20260422050500 +0500">
     <title>House Hunters International</title>
-    <sub-title>Family Reboot In Wellington New Zealand</sub-title>
+    <sub-title>Mom Follows Daughter To Barcelona</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
+    <episode-num system="onscreen">S199E03</episode-num>
     <category>General Entertainment</category>
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420165500 +0500" stop="20260420172000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Rebounding In Oslo</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S181E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420172000 +0500" stop="20260420174000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Cookies And Dreams In Mildenhall</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S182E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420174000 +0500" stop="20260420180500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Miami Vibes In Lyon, France</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S183E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420180500 +0500" stop="20260420183000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>In Love (Again) With Brisbane</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S184E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420183000 +0500" stop="20260420185500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Storybook Style In Utrecht, Netherlands</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S185E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420185500 +0500" stop="20260420191500 +0500">
-    <title>House Hunters</title>
-    <sub-title>An Education In Charleston</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420191500 +0500" stop="20260420194000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Emotion Over Investment In Dallas</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420194000 +0500" stop="20260420200000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Waterfront Or Land In Florida</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420200000 +0500" stop="20260420202500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Making Space In Maryland</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S200E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420202500 +0500" stop="20260420205000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Agents Battle In San Antonio</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S201E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420205000 +0500" stop="20260420211500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Grad School Roommate Revelations In Manchester Eng</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S187E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420211500 +0500" stop="20260420214000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>All Work And No Play In Hanoi</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S188E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420214000 +0500" stop="20260420220000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Friends And Art In Mexico City</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420220000 +0500" stop="20260420222500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Higher Education In Edinburgh</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420222500 +0500" stop="20260420225000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Family Reboot In Wellington New Zealand</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420231000 +0500" stop="20260420233500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Rebounding In Oslo</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S181E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420233500 +0500" stop="20260420235500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Cookies And Dreams In Mildenhall</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S182E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260420235500 +0500" stop="20260421002000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Miami Vibes In Lyon, France</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S183E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421002000 +0500" stop="20260421004500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>In Love (Again) With Brisbane</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S184E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421004500 +0500" stop="20260421010500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Storybook Style In Utrecht, Netherlands</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S185E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421010500 +0500" stop="20260421013000 +0500">
-    <title>House Hunters</title>
-    <sub-title>An Education In Charleston</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421013000 +0500" stop="20260421015500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Emotion Over Investment In Dallas</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421015500 +0500" stop="20260421021500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Waterfront Or Land In Florida</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421021500 +0500" stop="20260421024000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Making Space In Maryland</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S200E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421024000 +0500" stop="20260421030500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Agents Battle In San Antonio</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S201E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421030500 +0500" stop="20260421033000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Grad School Roommate Revelations In Manchester Eng</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S187E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421033000 +0500" stop="20260421035000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>All Work And No Play In Hanoi</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S188E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421035000 +0500" stop="20260421041500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Friends And Art In Mexico City</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421041500 +0500" stop="20260421044000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Higher Education In Edinburgh</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421044000 +0500" stop="20260421050500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Family Reboot In Wellington New Zealand</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421050500 +0500" stop="20260421053000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Rebounding In Oslo</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S181E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421053000 +0500" stop="20260421055000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Cookies And Dreams In Mildenhall</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S182E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421055000 +0500" stop="20260421061500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Miami Vibes In Lyon, France</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S183E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421061500 +0500" stop="20260421064000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>In Love (Again) With Brisbane</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S184E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421064000 +0500" stop="20260421070000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Storybook Style In Utrecht, Netherlands</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S185E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421070000 +0500" stop="20260421072500 +0500">
-    <title>House Hunters</title>
-    <sub-title>An Education In Charleston</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421072500 +0500" stop="20260421075000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Emotion Over Investment In Dallas</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421075000 +0500" stop="20260421081000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Waterfront Or Land In Florida</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421081000 +0500" stop="20260421083500 +0500">
-    <title>House Hunters</title>
-    <sub-title>Making Space In Maryland</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S200E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421083500 +0500" stop="20260421090000 +0500">
-    <title>House Hunters</title>
-    <sub-title>Agents Battle In San Antonio</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S201E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421090000 +0500" stop="20260421092500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Grad School Roommate Revelations In Manchester Eng</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S187E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421092500 +0500" stop="20260421094500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>All Work And No Play In Hanoi</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S188E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421094500 +0500" stop="20260421101000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Friends And Art In Mexico City</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S197E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421101000 +0500" stop="20260421103500 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Higher Education In Edinburgh</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S198E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421103500 +0500" stop="20260421110000 +0500">
-    <title>House Hunters International</title>
-    <sub-title>Family Reboot In Wellington New Zealand</sub-title>
-    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
-    <episode-num system="onscreen">S199E02</episode-num>
-    <category>General Entertainment</category>
-    <language>en</language>
-    <orig-language>en</orig-language>
-    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421110000 +0500" stop="20260421112500 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422050500 +0500" stop="20260422053000 +0500">
     <title>House Hunters International</title>
     <sub-title>Quibbling Over Quirk In Vaucluse, France</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
@@ -615,7 +85,7 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421112500 +0500" stop="20260421114500 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422053000 +0500" stop="20260422055000 +0500">
     <title>House Hunters International</title>
     <sub-title>From Hectic DC to Costa Rica</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
@@ -624,7 +94,7 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
-  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260421114500 +0500" stop="20260421121000 +0500">
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422055000 +0500" stop="20260422061500 +0500">
     <title>House Hunters International</title>
     <sub-title>Life And Love In Chiang Mai</sub-title>
     <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
@@ -633,5 +103,650 @@
     <language>en</language>
     <orig-language>en</orig-language>
     <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422061500 +0500" stop="20260422064000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Living Her Best Life In Ajijic, Mexico</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S184E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422064000 +0500" stop="20260422070500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Comfort And Compromise In Madrid</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S185E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422070500 +0500" stop="20260422072500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Time To Grow Up In Columbus</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422072500 +0500" stop="20260422075000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Country Life For Family Of Seven In Georgia</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422075000 +0500" stop="20260422081000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Its An Us Thing In Atlanta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422081000 +0500" stop="20260422083500 +0500">
+    <title>House Hunters</title>
+    <sub-title>A Fresh Start In Tampa</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S200E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422083500 +0500" stop="20260422090000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Heading To Sonoma Wine Country</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S201E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422090000 +0500" stop="20260422092500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Growing A Family In Yokosuka Japan</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S187E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422092500 +0500" stop="20260422095000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>The Finer Side Of Valencia</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S188E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422095000 +0500" stop="20260422101000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>New York To Wiesbaden</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422101000 +0500" stop="20260422103500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>A Friend In Need In Stuttgart</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422103500 +0500" stop="20260422110000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Mom Follows Daughter To Barcelona</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E03</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422110000 +0500" stop="20260422112500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Love In Action In Puerto Vallarta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S181E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422112500 +0500" stop="20260422114500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>From Hollywood To Hackney With A Meow</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S182E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422114500 +0500" stop="20260422121000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Newlywed Duel In Mexico City</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S183E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422121000 +0500" stop="20260422123500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Dilemma In Dublin</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S184E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422123500 +0500" stop="20260422130000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Minnesotans To French Genevois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S185E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422130000 +0500" stop="20260422132000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Crafty Agent In Lexington, Kentucky</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422132000 +0500" stop="20260422134500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Doing It For My Daughter In Illinois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422134500 +0500" stop="20260422140500 +0500">
+    <title>House Hunters</title>
+    <sub-title>The Perfect House In Phoenix</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422140500 +0500" stop="20260422143000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Plastic Surgeon Glam In Atlanta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S200E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422143000 +0500" stop="20260422145500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Compromising Cousins In New Jersey</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S201E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422145500 +0500" stop="20260422152000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Downsizing Their Home But Expanding Their Wish Lis</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S187E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422152000 +0500" stop="20260422154000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Bikes In Utrecht, Netherlands</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S188E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422154000 +0500" stop="20260422160500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Mummy's Making It In Mexico</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422160500 +0500" stop="20260422163000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Adventures Of Friends, Madrid</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422163000 +0500" stop="20260422165500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Leaving Hectic Toronto For Costa Rica</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422165500 +0500" stop="20260422172000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Love In Action In Puerto Vallarta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S181E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422172000 +0500" stop="20260422174000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>From Hollywood To Hackney With A Meow</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S182E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422174000 +0500" stop="20260422180500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Newlywed Duel In Mexico City</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S183E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422180500 +0500" stop="20260422183000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Dilemma In Dublin</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S184E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422183000 +0500" stop="20260422185000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Minnesotans To French Genevois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S185E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422185000 +0500" stop="20260422191500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Crafty Agent In Lexington, Kentucky</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422191500 +0500" stop="20260422194000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Doing It For My Daughter In Illinois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422194000 +0500" stop="20260422200000 +0500">
+    <title>House Hunters</title>
+    <sub-title>The Perfect House In Phoenix</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422200000 +0500" stop="20260422202500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Plastic Surgeon Glam In Atlanta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S200E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422202500 +0500" stop="20260422205000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Compromising Cousins In New Jersey</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S201E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422205000 +0500" stop="20260422211500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Downsizing Their Home But Expanding Their Wish Lis</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S187E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422211500 +0500" stop="20260422213500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Bikes In Utrecht, Netherlands</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S188E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422213500 +0500" stop="20260422220000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Mummy's Making It In Mexico</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422220000 +0500" stop="20260422222500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Adventures Of Friends, Madrid</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422222500 +0500" stop="20260422225000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Leaving Hectic Toronto For Costa Rica</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422231000 +0500" stop="20260422233500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Love In Action In Puerto Vallarta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S181E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260422233500 +0500" stop="20260423000000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>From Hollywood To Hackney With A Meow</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S182E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423000000 +0500" stop="20260423002000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Newlywed Duel In Mexico City</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S183E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423002000 +0500" stop="20260423004500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Dilemma In Dublin</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S184E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423004500 +0500" stop="20260423011000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Minnesotans To French Genevois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S185E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423011000 +0500" stop="20260423013000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Crafty Agent In Lexington, Kentucky</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423013000 +0500" stop="20260423015500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Doing It For My Daughter In Illinois</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423015500 +0500" stop="20260423022000 +0500">
+    <title>House Hunters</title>
+    <sub-title>The Perfect House In Phoenix</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423022000 +0500" stop="20260423024000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Plastic Surgeon Glam In Atlanta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S200E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423024000 +0500" stop="20260423030500 +0500">
+    <title>House Hunters</title>
+    <sub-title>Compromising Cousins In New Jersey</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S201E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35532/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423030500 +0500" stop="20260423033000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Downsizing Their Home But Expanding Their Wish Lis</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S187E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423033000 +0500" stop="20260423035500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Bikes In Utrecht, Netherlands</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S188E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423035500 +0500" stop="20260423042000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Mummy's Making It In Mexico</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S197E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423042000 +0500" stop="20260423044000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Adventures Of Friends, Madrid</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S198E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423044000 +0500" stop="20260423050500 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Leaving Hectic Toronto For Costa Rica</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S199E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423050500 +0500" stop="20260423053000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>Love In Action In Puerto Vallarta</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S181E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423053000 +0500" stop="20260423055000 +0500">
+    <title>House Hunters International</title>
+    <sub-title>From Hollywood To Hackney With A Meow</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <episode-num system="onscreen">S182E04</episode-num>
+    <category>General Entertainment</category>
+    <language>en</language>
+    <orig-language>en</orig-language>
+    <icon src="https://cdn.fullscreen.nz/v1/images/show/35533/showSpotlight.jpg?height=[height]&amp;width=[width]&amp;crop=auto&amp;placeholder=false" />
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423055000 +0500" stop="20260423065000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423065000 +0500" stop="20260423075000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423075000 +0500" stop="20260423085000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423085000 +0500" stop="20260423095000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423095000 +0500" stop="20260423105000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423105000 +0500" stop="20260423115000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423115000 +0500" stop="20260423125000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423125000 +0500" stop="20260423135000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423135000 +0500" stop="20260423145000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423145000 +0500" stop="20260423155000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423155000 +0500" stop="20260423165000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423165000 +0500" stop="20260423175000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423175000 +0500" stop="20260423185000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423185000 +0500" stop="20260423195000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423195000 +0500" stop="20260423205000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423205000 +0500" stop="20260423215000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423215000 +0500" stop="20260423225000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423225000 +0500" stop="20260423235000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="WBTV-House-Hunters-NZ" start="20260423235000 +0500" stop="20260424005000 +0500">
+    <title>House Hunters</title>
+    <sub-title>Episode</sub-title>
+    <desc>House Hunters provides real estate, home buying journeys, and lifestyle programming focused on property searches.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
   </programme>
 </tv>

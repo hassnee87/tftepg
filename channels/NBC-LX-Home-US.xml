@@ -1,609 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="NBC-LX-Home-US">
-    <display-name>NBC LX Home</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/NBC-LX-Home-US.png" />
-  </channel><programme channel="NBC-LX-Home-US" start="20260420081400 +0500" stop="20260420084000 +0500">
-    <title>Open House NYC</title>
-    <desc>Dinero's former home; a cozy apartment downtown; design hacks.</desc>
-    <episode-num system="onscreen">S08E18</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420084000 +0500" stop="20260420090500 +0500">
-    <title>Open House NYC</title>
-    <desc>Stylish homes of fashion designers in Manhattan and Palm Springs.</desc>
-    <episode-num system="onscreen">S08E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420090500 +0500" stop="20260420093100 +0500">
-    <title>Open House NYC</title>
-    <desc>A celebration of amazing architecture and design from Los Angeles to New York City to Scotland.</desc>
-    <episode-num system="onscreen">S08E21</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420093100 +0500" stop="20260420095600 +0500">
-    <title>Open House NYC</title>
-    <desc>Homes inspired by global travel and passion projects.</desc>
-    <episode-num system="onscreen">S08E22</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420095600 +0500" stop="20260420102200 +0500">
-    <title>Open House NYC</title>
-    <desc>Designer tips to create a lush vibe; solve the trickiest design dilemmas.</desc>
-    <episode-num system="onscreen">S08E23</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420102200 +0500" stop="20260420104700 +0500">
-    <title>Open House NYC</title>
-    <desc>A nautical-themed home in New Jersey; a home in Westchester County.</desc>
-    <episode-num system="onscreen">S08E25</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420104700 +0500" stop="20260420111300 +0500">
-    <title>Open House NYC</title>
-    <desc>A team of creative experts share tips to add personality to a neutral space.</desc>
-    <episode-num system="onscreen">S08E26</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420111300 +0500" stop="20260420113800 +0500">
-    <title>Open House NYC</title>
-    <desc>Slip into a state of peace and tranquility with zen-inspired spaces.</desc>
-    <episode-num system="onscreen">S08E27</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420113800 +0500" stop="20260420120400 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S08E30</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420120400 +0500" stop="20260420122900 +0500">
-    <title>Open House NYC</title>
-    <desc>Visit the properties in Chelsea, Bedford and Westchester County.</desc>
-    <episode-num system="onscreen">S08E31</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420122900 +0500" stop="20260420125500 +0500">
-    <title>Open House NYC</title>
-    <desc>A "Sex and the City" inspired home; a costume designer's stylish space.</desc>
-    <episode-num system="onscreen">S08E33</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420125500 +0500" stop="20260420132000 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S08E34</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420132000 +0500" stop="20260420134600 +0500">
-    <title>Open House NYC</title>
-    <desc>Properties in the West side and Connecticut.</desc>
-    <episode-num system="onscreen">S08E36</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420134600 +0500" stop="20260420141100 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S08E37</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420141100 +0500" stop="20260420143700 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S08E39</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420143700 +0500" stop="20260420150200 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S08E40</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420150200 +0500" stop="20260420152800 +0500">
-    <title>Open House NYC</title>
-    <desc>Fashion designer Halstons former Upper East Side home.</desc>
-    <episode-num system="onscreen">S08E41</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420152800 +0500" stop="20260420155300 +0500">
-    <title>Open House NYC</title>
-    <desc>Tamara Mellon's penthouse; Michael Jackson's former Fifth Avenue apartment.</desc>
-    <episode-num system="onscreen">S09E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420155300 +0500" stop="20260420161900 +0500">
-    <title>Open House NYC</title>
-    <desc>Homes in the Brooklyn neighborhoods of Brooklyn Heights and Bed-Stuy.</desc>
-    <episode-num system="onscreen">S09E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420161900 +0500" stop="20260420164400 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420164400 +0500" stop="20260420171000 +0500">
-    <title>Open House NYC</title>
-    <desc>All-access tour of Thimble islands.</desc>
-    <episode-num system="onscreen">S09E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420171000 +0500" stop="20260420173500 +0500">
-    <title>Open House NYC</title>
-    <desc>Brokers and buyers participate in shopping for apartments and houses.</desc>
-    <episode-num system="onscreen">S09E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420173500 +0500" stop="20260420180100 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420180100 +0500" stop="20260420182600 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420182600 +0500" stop="20260420185200 +0500">
-    <title>Open House NYC</title>
-    <desc>Exploring designs through the lenses of Orlando Soria, Cheryl Eisen, and Robin Baron.</desc>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420185200 +0500" stop="20260420191700 +0500">
-    <title>Open House NYC</title>
-    <desc>Tour Sasha Bikoff's Soho loft creation and the home from The Bachelor and The Bachelorette.</desc>
-    <episode-num system="onscreen">S09E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420191700 +0500" stop="20260420194300 +0500">
-    <title>Open House NYC</title>
-    <desc>The home and still functioning workspace of famous woodworker George Nakashima.</desc>
-    <episode-num system="onscreen">S09E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420194300 +0500" stop="20260420200800 +0500">
-    <title>Open House NYC</title>
-    <desc>A beautifully preserved townhouse in Harlem; a modern mansion in the heart of Chelsea.</desc>
-    <episode-num system="onscreen">S09E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420200800 +0500" stop="20260420203400 +0500">
-    <title>Open House NYC</title>
-    <desc>Sally Bennet, Vern Yip and Anna Burke's approach to using colors and patterns.</desc>
-    <episode-num system="onscreen">S09E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420203400 +0500" stop="20260420205900 +0500">
-    <title>Open House NYC</title>
-    <desc>Sara Bliss, Amir Khamneipur, and Tony Ingrao's stylish hotel-inspired spots.</desc>
-    <episode-num system="onscreen">S09E20</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420205900 +0500" stop="20260420212500 +0500">
-    <title>Open House NYC</title>
-    <desc>Luxury downtown living; chic and unqiue homes with a history.</desc>
-    <episode-num system="onscreen">S09E21</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420212500 +0500" stop="20260420215000 +0500">
-    <title>Open House NYC</title>
-    <desc>The best in style and design in Bronxville, NYC, and Santa Monica.</desc>
-    <episode-num system="onscreen">S09E23</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420215000 +0500" stop="20260420221600 +0500">
-    <title>Open House NYC</title>
-    <desc>Explore Eliot Noyes' Cannan masterpiece; a modern interpretation in a California coastal home.</desc>
-    <episode-num system="onscreen">S09E24</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420221600 +0500" stop="20260420224100 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E26</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420224100 +0500" stop="20260420230700 +0500">
-    <title>Open House NYC</title>
-    <desc>A $250 million lavish home; Lucy Harris' colorful downtown pad.</desc>
-    <episode-num system="onscreen">S09E27</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420230700 +0500" stop="20260420233200 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E28</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420233200 +0500" stop="20260420235800 +0500">
-    <title>Open House NYC</title>
-    <desc>An elegant 18th-century Georgian mansion; the presidential retreat of an American icon.</desc>
-    <episode-num system="onscreen">S09E30</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260420235800 +0500" stop="20260421002300 +0500">
-    <title>Open House NYC</title>
-    <desc>From Parkslope and Brooklyn Heights to showcase homes in Brooklyn.</desc>
-    <episode-num system="onscreen">S09E32</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421002300 +0500" stop="20260421004900 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E33</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421004900 +0500" stop="20260421011400 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E34</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421011400 +0500" stop="20260421014000 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E35</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421014000 +0500" stop="20260421020500 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E36</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421020500 +0500" stop="20260421023100 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E37</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421023100 +0500" stop="20260421025600 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S09E39</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421025600 +0500" stop="20260421032100 +0500">
-    <title>Open House</title>
-    <desc>Tour peacful and private getaways with unbelieveable views.</desc>
-    <episode-num system="onscreen">S08E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421032100 +0500" stop="20260421034600 +0500">
-    <title>Open House</title>
-    <desc>An L.A. masterpiece that is classic, yet modern and that was also once home to Smokey Robinson.</desc>
-    <episode-num system="onscreen">S08E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421034600 +0500" stop="20260421041100 +0500">
-    <title>Open House</title>
-    <desc>The new generation of designers to watch; in Los Angeles to see The Maison De Luxe Showhouse.</desc>
-    <episode-num system="onscreen">S08E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421041100 +0500" stop="20260421043600 +0500">
-    <title>Open House</title>
-    <desc>A charming apartment on Manhattan's iconic Fifth Ave; the home of T.G. Sheppard and Kelly Lang.</desc>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421043600 +0500" stop="20260421050100 +0500">
-    <title>Open House</title>
-    <desc>Visiting a mega mansion in the Beverly Hills; stopping by a duplex penthouse located in Manhattan.</desc>
-    <episode-num system="onscreen">S08E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421050100 +0500" stop="20260421052600 +0500">
-    <title>Open House</title>
-    <desc>Designer Mark Culter shows his latest masterpiece; Kathryn Ireland shows off her Santa Monica home.</desc>
-    <episode-num system="onscreen">S08E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421052600 +0500" stop="20260421055100 +0500">
-    <title>Open House</title>
-    <desc>Audrina Patridge hunts for a new home in NYC and LA;. visit Doyenne at his Savannah estate.</desc>
-    <episode-num system="onscreen">S08E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421055100 +0500" stop="20260421061600 +0500">
-    <title>Open House</title>
-    <desc>"Million Dollar listing New York's" Fredrik Eklund shows one of his high profile listings.</desc>
-    <episode-num system="onscreen">S08E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421055100 +0500" stop="20260421061600 +0500">
-    <title>Open House</title>
-    <desc>"Million Dollar listing New York's" Fredrik Eklund shows one of his high profile listings.</desc>
-    <episode-num system="onscreen">S08E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421061600 +0500" stop="20260421064100 +0500">
-    <title>Open House</title>
-    <desc>Visiting Tyra Banks's chic and cozy home; Steve Harvey's stylish Chicago office space.</desc>
-    <episode-num system="onscreen">S08E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421064100 +0500" stop="20260421070600 +0500">
-    <title>Open House</title>
-    <desc>Luis Ortiz from Bravo's "Million Dollar Listing New York" shows one of his hot properties.</desc>
-    <episode-num system="onscreen">S08E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421070600 +0500" stop="20260421073100 +0500">
-    <title>Open House</title>
-    <desc>Visiting former homes of old Hollywood stars such as Katharine Hepburn's Connecticut estate.</desc>
-    <episode-num system="onscreen">S08E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421073100 +0500" stop="20260421075600 +0500">
-    <title>Open House</title>
-    <desc>Robert Dinero's former NYC penthouse; Cheryl Eisen shares her design tips.</desc>
-    <episode-num system="onscreen">S08E18</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421075600 +0500" stop="20260421082100 +0500">
-    <title>Open House</title>
-    <desc>The homes of veteran fashion designers Pamela Roland and Trina Turk.</desc>
-    <episode-num system="onscreen">S08E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421082100 +0500" stop="20260421084600 +0500">
-    <title>Open House</title>
-    <desc>Traveling to Scotland to visit an historic estate that inspired the work of a literary legend.</desc>
-    <episode-num system="onscreen">S08E21</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421084600 +0500" stop="20260421091100 +0500">
-    <title>Open House</title>
-    <desc>Olympian Tara Lipinski tours her home in South Carolina that was inspired by life on an island.</desc>
-    <episode-num system="onscreen">S08E22</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421091100 +0500" stop="20260421093600 +0500">
-    <title>Open House</title>
-    <desc>Fashion designer Rachel Pally, shows off her stylish pad; a designer's modern home in L.A.</desc>
-    <episode-num system="onscreen">S08E23</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421093600 +0500" stop="20260421100100 +0500">
-    <title>Open House</title>
-    <desc>Journalist Geraldo Rivera shows his nautical-inspired New Jersey home.</desc>
-    <episode-num system="onscreen">S08E25</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421100100 +0500" stop="20260421102600 +0500">
-    <title>Open House</title>
-    <desc>Ryan Serhant of "Million Dollar Listing New York" shows a modern, yet historic Manhattan townhouse.</desc>
-    <episode-num system="onscreen">S08E26</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421102600 +0500" stop="20260421105100 +0500">
-    <title>Open House</title>
-    <desc>Go behind the doors of a family friend's Malibu home; a landmark that's been restored in L.A.</desc>
-    <episode-num system="onscreen">S08E27</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421105100 +0500" stop="20260421111600 +0500">
-    <title>Open House</title>
-    <desc>Visit the former home of actress Sally Field; townhouse once belonging to Billie Holiday.</desc>
-    <episode-num system="onscreen">S08E30</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421111600 +0500" stop="20260421114100 +0500">
-    <title>Open House</title>
-    <desc>Inside one of the most colorful homes in Newport Beach; a luxury retreat in Beverly Hills.</desc>
-    <episode-num system="onscreen">S08E31</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421114100 +0500" stop="20260421120600 +0500">
-    <title>Open House</title>
-    <desc>Visiting homes with views of the Pacific Ocean; inside a home inspired by "Sex and the City."</desc>
-    <episode-num system="onscreen">S08E33</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421120600 +0500" stop="20260421123100 +0500">
-    <title>Open House</title>
-    <desc>A visit to the presidential retreat of an American icon, and tour a charming Bedford, NY estate.</desc>
-    <episode-num system="onscreen">S08E34</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421123100 +0500" stop="20260421125600 +0500">
-    <title>Open House</title>
-    <desc>Casey Debois gives a tour of her client's stylish space; the Hollywood home of Marjorie Skouras.</desc>
-    <episode-num system="onscreen">S08E36</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421125600 +0500" stop="20260421132100 +0500">
-    <title>Open House</title>
-    <desc>Discover the allure of Bermuda and visit one of the island's hidden gems.</desc>
-    <episode-num system="onscreen">S08E37</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421132100 +0500" stop="20260421134600 +0500">
-    <title>Open House</title>
-    <desc>From luxurious estates to designer spaces; the best of the Hamptons.</desc>
-    <episode-num system="onscreen">S08E39</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421134600 +0500" stop="20260421141100 +0500">
-    <title>Open House NYC</title>
-    <desc>Host Sara Gore presents a guide to upscale real estate in and around the Big Apple.</desc>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421141100 +0500" stop="20260421143600 +0500">
-    <title>Open House</title>
-    <desc>A visit to a sun-filled penthouse in Manhattan's soho neighborhood.</desc>
-    <episode-num system="onscreen">S08E41</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421143600 +0500" stop="20260421150100 +0500">
-    <title>Open House</title>
-    <desc>A small studio apartment is turned into a stylish and comfortable one bedroom.</desc>
-    <episode-num system="onscreen">S09E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421150100 +0500" stop="20260421152600 +0500">
-    <title>Open House</title>
-    <desc>Inside a contemporary estate in Laguna Beach; a community in Malibu with breathtaking ocean views.</desc>
-    <episode-num system="onscreen">S09E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421152600 +0500" stop="20260421155100 +0500">
-    <title>Open House</title>
-    <desc>A visit to the incredible archipelago off the Long Island Sound, known as Thimble Islands.</desc>
-    <episode-num system="onscreen">S09E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421155100 +0500" stop="20260421161600 +0500">
-    <title>Open House</title>
-    <desc>A Beverly Hills home filled with Hollywood history; a whimsical home dubbed "The Gingerbread House."</desc>
-    <episode-num system="onscreen">S09E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421161600 +0500" stop="20260421164100 +0500">
-    <title>Open House</title>
-    <desc>A piece of the Caribbean to help beat the winter blues; touring an architectural-contemporary.</desc>
-    <episode-num system="onscreen">S09E11</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421164100 +0500" stop="20260421170600 +0500">
-    <title>Open House</title>
-    <desc>Designer tours with Garrow Kedigan and Steven Gambrel's homes in New York..</desc>
-    <episode-num system="onscreen">S09E23</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421170600 +0500" stop="20260421173100 +0500">
-    <title>Open House</title>
-    <desc>Home tours with costume designer Janie Bryant, stylist Erica Pelosini, and designer Tatum Kendrick.</desc>
-    <episode-num system="onscreen">S09E32</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421173100 +0500" stop="20260421175600 +0500">
-    <title>Open House</title>
-    <desc>Architect Alexander Gorlin shows off his theatrical approach to design.</desc>
-    <episode-num system="onscreen">S09E33</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421175600 +0500" stop="20260421182100 +0500">
-    <title>Open House</title>
-    <desc>Go behind the gates to some of the best golf courses from coast to coast.</desc>
-    <episode-num system="onscreen">S09E34</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421182100 +0500" stop="20260421184600 +0500">
-    <title>Open House</title>
-    <desc>Tour the homes of celebrities, Clive Davis, Kandi Burress, Susan Lucci, and Billy Joel.</desc>
-    <episode-num system="onscreen">S09E35</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421184600 +0500" stop="20260421191100 +0500">
-    <title>Open House</title>
-    <desc>Tour a modern home in New York and a one of a kind compound in Malibu with amazing ocean views.</desc>
-    <episode-num system="onscreen">S09E36</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421191100 +0500" stop="20260421193600 +0500">
-    <title>Open House</title>
-    <desc>Exploring the best of waterside living from a modern lakeside home upstate to the Thimble Islands.</desc>
-    <episode-num system="onscreen">S09E37</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421193600 +0500" stop="20260421200100 +0500">
-    <title>Open House</title>
-    <desc>Go behind the doors of celebrity homes and get chic décor tips from their interior designers.</desc>
-    <episode-num system="onscreen">S09E39</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421200100 +0500" stop="20260421202600 +0500">
-    <title>Open House</title>
-    <desc>Visiting Rihanna's home in Pacific Palisades; Tamara Mellon gives a tour of her Manhattan penthouse.</desc>
-    <episode-num system="onscreen">S09E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421202600 +0500" stop="20260421205100 +0500">
-    <title>Open House</title>
-    <desc>Tour the Tribeca triplex once occupied by Kanye West and Kim Kardashian.</desc>
-    <episode-num system="onscreen">S09E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421205100 +0500" stop="20260421211600 +0500">
-    <title>Open House</title>
-    <desc>A home in Newport Beach with beautiful views; Ryan Serhant and his wife redo a New York loft.</desc>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421211600 +0500" stop="20260421214100 +0500">
-    <title>Open House</title>
-    <desc>Go behind the gates of an exclusive community in Malibu.</desc>
-    <episode-num system="onscreen">S09E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421214100 +0500" stop="20260421220600 +0500">
-    <title>Open House</title>
-    <desc>Internationally acclaimed artist Hunt Slonem tours his Brooklyn studio showroom.</desc>
-    <episode-num system="onscreen">S09E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421220600 +0500" stop="20260421223100 +0500">
-    <title>Open House</title>
-    <desc>Visit an elegant estate in Laguna Beach; a hidden gem in Connecticut.</desc>
-    <episode-num system="onscreen">S09E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421223100 +0500" stop="20260421225600 +0500">
-    <title>Open House</title>
-    <desc>Interior designer Vern Yip shares tips and inspiration to help create a timeless style at home.</desc>
-    <episode-num system="onscreen">S09E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421225600 +0500" stop="20260421232100 +0500">
-    <title>Open House</title>
-    <desc>A newly built mondern masterpiece in Bel-Air; tour a regal guilded age mansion in Brooklyn.</desc>
-    <episode-num system="onscreen">S09E20</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421232100 +0500" stop="20260421234600 +0500">
-    <title>Open House</title>
-    <desc>Tour a desert paradise in Nevada; a grand country house by the Hamptons.</desc>
-    <episode-num system="onscreen">S09E21</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260421234600 +0500" stop="20260422001100 +0500">
-    <title>Open House</title>
-    <desc>Million Dollar Listing Los Angeles, Madison Hildebrand tours an entertainers dream home.</desc>
-    <episode-num system="onscreen">S09E24</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422001100 +0500" stop="20260422003600 +0500">
-    <title>Open House</title>
-    <desc>An up close and personal look at the home of Frank Lloyd Wright.</desc>
-    <episode-num system="onscreen">S09E26</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422003600 +0500" stop="20260422010100 +0500">
-    <title>Open House</title>
-    <desc>The Brooklyn home of acclaimed architect Winka Dubbeldamn; touring the home of a Hollywood legend.</desc>
-    <episode-num system="onscreen">S09E27</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422010100 +0500" stop="20260422012600 +0500">
-    <title>Open House</title>
-    <desc>Visiting the country's most exclusive golf estates; Annika Sorenstam shows her Lake Nona home.</desc>
-    <episode-num system="onscreen">S09E28</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422012600 +0500" stop="20260422015100 +0500">
-    <title>Open House</title>
-    <desc>Visiting the city of Brotherly Love; touring an art filled home; other properties in Pennsylvania.</desc>
-    <episode-num system="onscreen">S09E30</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422015100 +0500" stop="20260422021600 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>NBC LX Home</display-name>
+  </channel><programme channel="NBC-LX-Home-US" start="20260422015100 +0500" stop="20260422021600 +0500">
     <title>Open House</title>
     <desc>A newly built mondern masterpiece in Bel-Air; tour a regal guilded age mansion in Brooklyn.</desc>
     <episode-num system="onscreen">S09E20</episode-num>
@@ -663,12 +64,6 @@
     <episode-num system="onscreen">S10E29</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
-  </programme><programme channel="NBC-LX-Home-US" start="20260422053600 +0500" stop="20260422060100 +0500">
-    <title>Open House</title>
-    <desc>Cricket Burns' Carnegie Hill apartment; Brock Forsblom's Greenwich Village pad.</desc>
-    <episode-num system="onscreen">S10E29</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
   </programme><programme channel="NBC-LX-Home-US" start="20260422060100 +0500" stop="20260422062600 +0500">
     <title>Open House</title>
     <desc>An inside look at waterfront living reimagined; a home originally envisioned by Frank Lloyd Wright..</desc>
@@ -717,5 +112,617 @@
     <episode-num system="onscreen">S10E18</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422092100 +0500" stop="20260422094600 +0500">
+    <title>Open House</title>
+    <desc>Some of the biggest names show how they brought unique style while maintaining universal appeal.</desc>
+    <episode-num system="onscreen">S10E19</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422094600 +0500" stop="20260422101100 +0500">
+    <title>Open House</title>
+    <desc>A Hollywood power broker's home; other amazing Bel-Air estates.</desc>
+    <episode-num system="onscreen">S10E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422101100 +0500" stop="20260422103600 +0500">
+    <title>Open House</title>
+    <desc>Exploring the best of Malibu living.</desc>
+    <episode-num system="onscreen">S10E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422103600 +0500" stop="20260422110100 +0500">
+    <title>Open House</title>
+    <desc>A trippy Brooklyn funhouse; designer Craig Wright's stylish Spanish colonial.</desc>
+    <episode-num system="onscreen">S10E24</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422110100 +0500" stop="20260422112600 +0500">
+    <title>Open House</title>
+    <desc>Taking a closer look at stylish living by the water.</desc>
+    <episode-num system="onscreen">S10E25</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422112600 +0500" stop="20260422115100 +0500">
+    <title>Open House</title>
+    <desc>Tour one of the largest homes in Beverly Hills; a chic Manhattan beach home.</desc>
+    <episode-num system="onscreen">S10E26</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422115100 +0500" stop="20260422121600 +0500">
+    <title>Open House</title>
+    <desc>Getting an inside look at an ultra-modern homage to Italy's Amalfi coast.</desc>
+    <episode-num system="onscreen">S10E28</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422121600 +0500" stop="20260422124100 +0500">
+    <title>Open House</title>
+    <desc>Taking a closer look at midcentury modern reimagined with architect Paul Mcclean.</desc>
+    <episode-num system="onscreen">S10E31</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422124100 +0500" stop="20260422130600 +0500">
+    <title>Open House</title>
+    <desc>Touring a cinematic Brentwood Home cut into the hillside; a Greenwich Village bachelor pad.</desc>
+    <episode-num system="onscreen">S10E32</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422130600 +0500" stop="20260422133100 +0500">
+    <title>Open House</title>
+    <desc>Sheree Whitfield gives a tour of her opulent and much-talked-about estate.</desc>
+    <episode-num system="onscreen">S10E35</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422133100 +0500" stop="20260422135600 +0500">
+    <title>Open House NYC</title>
+    <desc>Architect and designer Mark Zeff shows off his chic rustic estate.</desc>
+    <episode-num system="onscreen">S10E36</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/524d3e2f7d5a5c75ab731e3f1a091d12/rokuFeed/assets/6b49f4f3b99c5f31ac538ca5a281c708.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422135600 +0500" stop="20260422142100 +0500">
+    <title>Open House</title>
+    <desc>David Parnes and James Harris show sleek L.A. style and luxury living.</desc>
+    <episode-num system="onscreen">S10E38</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422142100 +0500" stop="20260422144600 +0500">
+    <title>Open House</title>
+    <desc>From Greenwich Village to Tribeca, Nolita to SoHo, checking out the very best of Downtown living.</desc>
+    <episode-num system="onscreen">S10E39</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422144600 +0500" stop="20260422151100 +0500">
+    <title>Open House</title>
+    <desc>A mid-century gem in Hawaii; an ultra-modern cliffside lair in La Jolla.</desc>
+    <episode-num system="onscreen">S11E35</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422151100 +0500" stop="20260422153600 +0500">
+    <title>Open House</title>
+    <desc>Exploring some of New York City's most unique properties.</desc>
+    <episode-num system="onscreen">S11E37</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422153600 +0500" stop="20260422160100 +0500">
+    <title>Open House</title>
+    <desc>Celebrating the last days of summer with design, architecture, food and fun on Long Island.</desc>
+    <episode-num system="onscreen">S11E39</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422160100 +0500" stop="20260422162600 +0500">
+    <title>Open House</title>
+    <desc>A New York chef's Miami beach escape; a contemporary interpretation of mid-century modern design.</desc>
+    <episode-num system="onscreen">S11E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422162600 +0500" stop="20260422165100 +0500">
+    <title>Open House</title>
+    <desc>Visiting an architectural gem in Coral Gables; some dramatic décor in Brooklyn, N.Y.</desc>
+    <episode-num system="onscreen">S11E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422165100 +0500" stop="20260422171600 +0500">
+    <title>Open House</title>
+    <desc>Designers and artists show how they embrace and are inspired by color in their home décor.</desc>
+    <episode-num system="onscreen">S11E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422171600 +0500" stop="20260422174100 +0500">
+    <title>Open House</title>
+    <desc>Getting a closer look at the distinctive design from the Pacific Palisades to Miami.</desc>
+    <episode-num system="onscreen">S11E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422174100 +0500" stop="20260422180600 +0500">
+    <title>Open House</title>
+    <desc>A visit to Montreal for an inside look at what it's like to live at the iconic Habitat 67.</desc>
+    <episode-num system="onscreen">S11E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422180600 +0500" stop="20260422183100 +0500">
+    <title>Open House</title>
+    <desc>Visiting a lakeside retreat in Westchester; a penthouse battle between New York and Los Angeles.</desc>
+    <episode-num system="onscreen">S11E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422183100 +0500" stop="20260422185600 +0500">
+    <title>Open House</title>
+    <desc>Homes overlooking the iconic Sunset Strip, including a contemporary property with cinematic views.</desc>
+    <episode-num system="onscreen">S11E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422185600 +0500" stop="20260422192100 +0500">
+    <title>Open House</title>
+    <desc>Patricia Altschul shows her grand estate; renowned chef Mike Lata.</desc>
+    <episode-num system="onscreen">S11E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422192100 +0500" stop="20260422194600 +0500">
+    <title>Open House</title>
+    <desc>Celebrating some of the most innovative and exciting design professionals in the industry.</desc>
+    <episode-num system="onscreen">S11E16</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422194600 +0500" stop="20260422201100 +0500">
+    <title>Open House</title>
+    <desc>Tour a majestic penthouse in New Tork and the hilltop estate of a true Hollywood icon.</desc>
+    <episode-num system="onscreen">S11E17</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422201100 +0500" stop="20260422203600 +0500">
+    <title>Open House</title>
+    <desc>A Connecticut home with nods to both modernist and Japanese architecture.</desc>
+    <episode-num system="onscreen">S2021E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422203600 +0500" stop="20260422210100 +0500">
+    <title>Open House</title>
+    <desc>Designer Jason Lie shows off his Santa Monica home; Jessie Schuster tours her Greenwich Village pad.</desc>
+    <episode-num system="onscreen">S11E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422210100 +0500" stop="20260422212600 +0500">
+    <title>Open House</title>
+    <desc>A closer look at unique and personalized spaces, including the apartment of designer David Mann.</desc>
+    <episode-num system="onscreen">S11E21</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422212600 +0500" stop="20260422215100 +0500">
+    <title>Open House</title>
+    <desc>Interior designer Raili Clasen shows off a beautiful Newport Beach home that redefines coastal chic.</desc>
+    <episode-num system="onscreen">S11E23</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422215100 +0500" stop="20260422221600 +0500">
+    <title>Open House</title>
+    <desc>Desert, design and architecture of Palm Springs, Calif.; a cinematic slice of the Old West.</desc>
+    <episode-num system="onscreen">S11E24</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422221600 +0500" stop="20260422224100 +0500">
+    <title>Open House</title>
+    <desc>A loving ode to mid-century California chic; an ultra-modern estate built onto the side of a canyon.</desc>
+    <episode-num system="onscreen">S11E26</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422224100 +0500" stop="20260422230600 +0500">
+    <title>Open House</title>
+    <desc>A Venice, Calif., home that dissolves the barriers between indoors and outdoors.</desc>
+    <episode-num system="onscreen">S11E27</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422230600 +0500" stop="20260422233100 +0500">
+    <title>Open House</title>
+    <desc>Checking out some of the country's most striking home luxuries and amenities.</desc>
+    <episode-num system="onscreen">S11E28</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422233100 +0500" stop="20260422235600 +0500">
+    <title>Open House</title>
+    <desc>Joining some of the country's biggest lifestyle influencers for a look at where they live and work.</desc>
+    <episode-num system="onscreen">S11E30</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422235600 +0500" stop="20260423002100 +0500">
+    <title>Open House</title>
+    <desc>Designer, Morgan Brown tours a truly dynamic compound in West Hollywood.</desc>
+    <episode-num system="onscreen">S11E31</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260422235600 +0500" stop="20260423002100 +0500">
+    <title>Open House</title>
+    <desc>Designer, Morgan Brown tours a truly dynamic compound in West Hollywood.</desc>
+    <episode-num system="onscreen">S11E31</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423002100 +0500" stop="20260423004600 +0500">
+    <title>Open House</title>
+    <desc>Ramona Singer of Bravo's "Real Housewives" gives a peek inside her New York home.</desc>
+    <episode-num system="onscreen">S11E32</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423004600 +0500" stop="20260423011100 +0500">
+    <title>Open House</title>
+    <desc>Seeing the views from a San Francisco stunner; the most luxurious way to see Europe.</desc>
+    <episode-num system="onscreen">S12E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423011100 +0500" stop="20260423013600 +0500">
+    <title>Open House</title>
+    <desc>Willa Ford shows the labor of love she calls home; a Miami stunner in a true architectural gem.</desc>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423013600 +0500" stop="20260423020100 +0500">
+    <title>Open House</title>
+    <desc>Designers and architects share solutions for getting the most out of every inch of a small space.</desc>
+    <episode-num system="onscreen">S12E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423020100 +0500" stop="20260423022600 +0500">
+    <title>Open House</title>
+    <desc>The ultra-modern, eco-friendly Greenwich Village dream home of fashion icon Anna Sui.</desc>
+    <episode-num system="onscreen">S12E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423022600 +0500" stop="20260423025100 +0500">
+    <title>Open House</title>
+    <desc>Touring a designer abode with iconic windy city views and a Beverly Hills compound.</desc>
+    <episode-num system="onscreen">S12E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423025100 +0500" stop="20260423031600 +0500">
+    <title>Open House</title>
+    <desc>Exploring daring designs that embrace their views from Malibu to Brooklyn.</desc>
+    <episode-num system="onscreen">S12E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423031600 +0500" stop="20260423034100 +0500">
+    <title>Open House</title>
+    <desc>Architectural gems in L.A.; a restaurateur's opulent retreat in New Jersey.</desc>
+    <episode-num system="onscreen">S12E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423034100 +0500" stop="20260423040600 +0500">
+    <title>Open House</title>
+    <desc>Getting a closer look at a Los Feliz homage to a British country home; architectural gem in Aspen.</desc>
+    <episode-num system="onscreen">S12E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423040600 +0500" stop="20260423043100 +0500">
+    <title>Open House</title>
+    <desc>Heading to South Florida to explore stunning homes from the magic city to Fort Lauderdale.</desc>
+    <episode-num system="onscreen">S12E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423043100 +0500" stop="20260423045600 +0500">
+    <title>Open House</title>
+    <desc>A Bel Air estate overlooking a country club; exploring a gut renovation of a Brooklyn Brownstone.</desc>
+    <episode-num system="onscreen">S12E16</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423045600 +0500" stop="20260423052100 +0500">
+    <title>Open House</title>
+    <desc>Inside an ultra-modern, entertainer's dream home with the star of CNBC's Listing Impossible.</desc>
+    <episode-num system="onscreen">S12E17</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423052100 +0500" stop="20260423054600 +0500">
+    <title>Open House</title>
+    <desc>Learning how one architect maximized indoor-outdoor living at this Bel Air beauty.</desc>
+    <episode-num system="onscreen">S12E18</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423054600 +0500" stop="20260423061100 +0500">
+    <title>Open House</title>
+    <desc>Learning how this designer embraced colors and patterns in her client's Santa Monica loft.</desc>
+    <episode-num system="onscreen">S12E19</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423061100 +0500" stop="20260423063600 +0500">
+    <title>Open House</title>
+    <desc>Taking a tour of a sleek Hollywood Hills home that makes the most of its surroundings.</desc>
+    <episode-num system="onscreen">S12E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423063600 +0500" stop="20260423070100 +0500">
+    <title>Open House</title>
+    <desc>Shining the spotlight on eco-friendly homes that celebrate the planet but also happen to be stylish.</desc>
+    <episode-num system="onscreen">S12E21</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423070100 +0500" stop="20260423072600 +0500">
+    <title>Open House</title>
+    <desc>Holiday cheer, good food, friends, gifts and, of course, beautiful design.</desc>
+    <episode-num system="onscreen">S12E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423072600 +0500" stop="20260423075100 +0500">
+    <title>Open House</title>
+    <desc>Touring architectural gems in LA; visiting a restaurateur's opulent retreat in New Jersey.</desc>
+    <episode-num system="onscreen">S12E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423075100 +0500" stop="20260423081600 +0500">
+    <title>Open House</title>
+    <desc>Design for everyday celebration with colors, patterns, and good food.</desc>
+    <episode-num system="onscreen">S12E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423081600 +0500" stop="20260423084100 +0500">
+    <title>Open House</title>
+    <desc>Contrasting stylish living in New York and L.A., with colors, patterns, views, and light.</desc>
+    <episode-num system="onscreen">S12E23</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423084100 +0500" stop="20260423090600 +0500">
+    <title>Open House</title>
+    <desc>A personalized apartment in the East Village.</desc>
+    <episode-num system="onscreen">S12E24</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423090600 +0500" stop="20260423093100 +0500">
+    <title>Open House</title>
+    <desc>Celebrating Los Angeles living with these stunning abodes.</desc>
+    <episode-num system="onscreen">S12E25</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423093100 +0500" stop="20260423095600 +0500">
+    <title>Open House</title>
+    <desc>Style in the city that never sleeps, including tastemaker Athena Calderone's Brooklyn townhouse.</desc>
+    <episode-num system="onscreen">S12E26</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423095600 +0500" stop="20260423102100 +0500">
+    <title>Open House</title>
+    <desc>All about homes that celebrate what summer is all about, from the sublime to the surreal.</desc>
+    <episode-num system="onscreen">S12E27</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423102100 +0500" stop="20260423104600 +0500">
+    <title>Open House</title>
+    <desc>From a Venice beach home filled with warm details to a bold townhouses in Brooklyn.</desc>
+    <episode-num system="onscreen">S13E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423104600 +0500" stop="20260423111100 +0500">
+    <title>Open House</title>
+    <desc>Exploring a pair of homes as different as night and day; a colorful desert escape in Palm Springs.</desc>
+    <episode-num system="onscreen">S13E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423111100 +0500" stop="20260423113600 +0500">
+    <title>Open House</title>
+    <desc>A Brooklyn townhome with a rooftop oasis; a home in Bel Air, Calif., with a jaw-dropping pool.</desc>
+    <episode-num system="onscreen">S13E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423113600 +0500" stop="20260423120100 +0500">
+    <title>Open House</title>
+    <desc>A cinematic entertainer's palace in Bel Air; a beautifully preserved historical Tudor-style estate.</desc>
+    <episode-num system="onscreen">S13E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423120100 +0500" stop="20260423122600 +0500">
+    <title>Open House</title>
+    <desc>Exploring comfort and style with a wide range of homes on both coasts that impress and surprise.</desc>
+    <episode-num system="onscreen">S13E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423122600 +0500" stop="20260423125100 +0500">
+    <title>Open House</title>
+    <desc>Exploring homes with surprising twists on the traditional; a Frank Lloyd Wright masterpiece.</desc>
+    <episode-num system="onscreen">S13E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423125100 +0500" stop="20260423131600 +0500">
+    <title>Open House</title>
+    <desc>A New York bachelor pad with European influences; a mid-century gem evoking "The Golden Girls."</desc>
+    <episode-num system="onscreen">S13E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423131600 +0500" stop="20260423134100 +0500">
+    <title>Open House</title>
+    <desc>Exploring some dramatic dwellings, including a one-of-a-kind estate in Bel Air, Calif.</desc>
+    <episode-num system="onscreen">S13E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423134100 +0500" stop="20260423140600 +0500">
+    <title>Open House</title>
+    <desc>Touring a personalized design in Los Angeles and a Westchester abode styled like a downtown loft.</desc>
+    <episode-num system="onscreen">S13E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423140600 +0500" stop="20260423143100 +0500">
+    <title>Open House</title>
+    <desc>Touring a sleek contemporary in Los Angeles; an iconic hilltop home in Westchester, N.Y.</desc>
+    <episode-num system="onscreen">S13E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423143100 +0500" stop="20260423145600 +0500">
+    <title>Open House</title>
+    <desc>A meticulously restored, mid-century gem in Silver Lake; inside the home of Louis Armstrong.</desc>
+    <episode-num system="onscreen">S13E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423145600 +0500" stop="20260423152100 +0500">
+    <title>Open House</title>
+    <desc>A penthouse in Century City, L.A., owned by actor Matthew Perry.</desc>
+    <episode-num system="onscreen">S13E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423152100 +0500" stop="20260423154600 +0500">
+    <title>Open House</title>
+    <desc>A modern yet inviting apartment in Little Italy; a designer's apartment overlooking the East River.</desc>
+    <episode-num system="onscreen">S13E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423154600 +0500" stop="20260423161100 +0500">
+    <title>Open House</title>
+    <desc>Design partners whose harmony in work and life coalesces beautifully in the homes they create.</desc>
+    <episode-num system="onscreen">S13E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423161100 +0500" stop="20260423163600 +0500">
+    <title>Open House</title>
+    <desc>A dramatic modern take on a classic New York loft; a modern Los Angeles home with views to spare.</desc>
+    <episode-num system="onscreen">S13E17</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423163600 +0500" stop="20260423170100 +0500">
+    <title>Open House</title>
+    <desc>Innovative interiors and imaginative decor.</desc>
+    <episode-num system="onscreen">S13E19</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423170100 +0500" stop="20260423172600 +0500">
+    <title>Open House</title>
+    <desc>An inside look at some of the best beach living, including an oceanfront estate in New York City.</desc>
+    <episode-num system="onscreen">S13E20</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423172600 +0500" stop="20260423175100 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S13E21</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423175100 +0500" stop="20260423181600 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S13E22</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423181600 +0500" stop="20260423184100 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S13E23</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423184100 +0500" stop="20260423190600 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S13E24</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423190600 +0500" stop="20260423193100 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S13E25</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423193100 +0500" stop="20260423195600 +0500">
+    <title>Open House</title>
+    <desc>Exploring timeless opulence, including a tour of a Versaille-inspired estate in Westchester.</desc>
+    <episode-num system="onscreen">S13E26</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423195600 +0500" stop="20260423202100 +0500">
+    <title>Open House</title>
+    <desc>Viewing luxurious houses while learning some tips from the experts on how to style a home to sell.</desc>
+    <episode-num system="onscreen">S13E27</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423202100 +0500" stop="20260423204600 +0500">
+    <title>Open House</title>
+    <desc>Designer, artist and social media maven Dabito offers a look at his personalized Los Angeles home.</desc>
+    <episode-num system="onscreen">S13E29</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423204600 +0500" stop="20260423211100 +0500">
+    <title>Open House</title>
+    <desc>TV personality Jason Oppenheim shows off one of his newest listings.</desc>
+    <episode-num system="onscreen">S13E30</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423211100 +0500" stop="20260423213600 +0500">
+    <title>Open House</title>
+    <desc>East Coast luxury meets West Coast opulence including one of Mary Fitzgerald's newest listings.</desc>
+    <episode-num system="onscreen">S13E31</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423213600 +0500" stop="20260423220100 +0500">
+    <title>Open House</title>
+    <desc>Gorgeous getaways; the Westport home of fashion designer Christian Siriano.</desc>
+    <episode-num system="onscreen">S13E32</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423220100 +0500" stop="20260423222600 +0500">
+    <title>Open House</title>
+    <desc>Luxury redefined from the classic to the modern.</desc>
+    <episode-num system="onscreen">S13E33</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423222600 +0500" stop="20260423225100 +0500">
+    <title>Open House</title>
+    <desc>The beautifully designed homes of some of history's great writers.</desc>
+    <episode-num system="onscreen">S13E34</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423225100 +0500" stop="20260423231600 +0500">
+    <title>Open House</title>
+    <desc>The home of wellness influencer Shayna Taylor; getting physical with Isaac Boots.</desc>
+    <episode-num system="onscreen">S14E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423231600 +0500" stop="20260423234100 +0500">
+    <title>Open House</title>
+    <desc>Touring bright and airy designs including a Connecticut home with nods to Japanese architecture.</desc>
+    <episode-num system="onscreen">S14E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423234100 +0500" stop="20260424000600 +0500">
+    <title>Open House</title>
+    <desc>Exploring some imaginative and creative one bedroom apartments in the Big Apple.</desc>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260423234100 +0500" stop="20260424000600 +0500">
+    <title>Open House</title>
+    <desc>Exploring some imaginative and creative one bedroom apartments in the Big Apple.</desc>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424000600 +0500" stop="20260424003100 +0500">
+    <title>Open House</title>
+    <desc />
+    <episode-num system="onscreen">S2023E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424003100 +0500" stop="20260424005600 +0500">
+    <title>Open House</title>
+    <desc>Touring the vibrant home of fashion icon Betsey Johnson.</desc>
+    <episode-num system="onscreen">S14E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424005600 +0500" stop="20260424012100 +0500">
+    <title>Open House</title>
+    <desc>Inside some truly dreamy homes.</desc>
+    <episode-num system="onscreen">S14E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424012100 +0500" stop="20260424014600 +0500">
+    <title>Open House</title>
+    <desc>Dream homes in New York and Los Angeles.</desc>
+    <episode-num system="onscreen">S14E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424014600 +0500" stop="20260424021100 +0500">
+    <title>Open House</title>
+    <desc>Go inside the penthouse inspired by Barbie in Los Angeles and an entertainers dream on the Upper West Side.</desc>
+    <episode-num system="onscreen">S2023E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424021100 +0500" stop="20260424023600 +0500">
+    <title>Open House</title>
+    <desc>Real estate trends and opportunities; home design.</desc>
+    <episode-num system="onscreen">S14E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3e3e737bc4da518982534af06ba4e476/rokuFeed/assets/cce175364935503296b7b65fef6f49ec.jpg" />
+  </programme><programme channel="NBC-LX-Home-US" start="20260424023600 +0500" stop="20260424030100 +0500">
+    <title>Open House</title>
+    <desc>Fashion tastemaker and infuencer Danielle Bernstein of We Wore What fame shows off her Soho loft, plus Icelandic design in LA with an architectural power couple.</desc>
+    <episode-num system="onscreen">S2023E00</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b8bf9d76fa55150b04808ad8cc56439/images/gracenote/assets/p18209126_b_h10_aa.jpg" />
   </programme>
 </tv>

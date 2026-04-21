@@ -3,72 +3,7 @@
   <channel id="BBC-Four-UK">
     <display-name>BBC Four</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Four-UK.png" />
-  </channel><programme channel="BBC-Four-UK" start="20260419060500 +0500" stop="20260419063500 +0500">
-    <title>Keeping Up Appearances</title>
-    <sub-title />
-    <desc>Sitcom. Hyacinth arranges one of her candlelight suppers, planning to impress Emmet with her singing. However, events soon take a turn for the worse.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d8cf2ade-f4bf-4b5a-8d7b-1cf0d381e5be/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260419063500 +0500" stop="20260419071000 +0500">
-    <title>Sorry!</title>
-    <sub-title />
-    <desc>When Timothy's parents go on a second honeymoon, he plans to hold a party - with the intention of seducing Veronica Straddles.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ac5c4ba4-3fca-4119-9347-d7ad91c7e3f3/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260419071000 +0500" stop="20260419093000 +0500">
-    <title>This is BBC Four</title>
-    <sub-title />
-    <desc>Programmes start at 7.00pm.</desc>
-    <language>en</language>
-  </programme><programme channel="BBC-Four-UK" start="20260419093000 +0500" stop="20260419153000 +0500">
-    <title>..programmes start at 7.00pm</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Four-UK" start="20260419153000 +0500" stop="20260419213000 +0500">
-    <title>..programmes start at 7.00pm</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Four-UK" start="20260419213000 +0500" stop="20260419225800 +0500">
-    <title>..programmes start at 7.00pm</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Four-UK" start="20260419225800 +0500" stop="20260419230000 +0500">
-    <title>This is BBC Four</title>
-    <sub-title />
-    <desc>Programmes start at 7.00pm.</desc>
-    <language>en</language>
-  </programme><programme channel="BBC-Four-UK" start="20260419230000 +0500" stop="20260420020000 +0500">
-    <title>Snooker: World Championship</title>
-    <sub-title />
-    <desc>Coverage of day 2 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Snooker/Pool</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/25567afc-5264-4d21-80cb-d17b747c3910/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420020000 +0500" stop="20260420033000 +0500">
-    <title>Northern Soul at the Proms</title>
-    <sub-title />
-    <desc>The roof of the Royal Albert Hall nearly comes off in this special Prom dedicated to northern soul, curated by Wigan's Stuart Maconie and Manchester's Joe Duddell.</desc>
-    <category lang="en">Music &amp; Radio</category>
-    <category lang="en">Classical</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4c4ecc48-a7f7-3307-918e-247cbe9ed03a/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420033000 +0500" stop="20260420043000 +0500">
-    <title>The Riviera: A History in Pictures</title>
-    <sub-title />
-    <desc>Richard E Grant follows in the footsteps of artists who have lived, loved and painted on France's Cote d'Azur, including Cezanne, Monet, Renoir and Matisse.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/aca3092f-072a-4a77-a424-064b48ba3e9e/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420043000 +0500" stop="20260420053000 +0500">
+  </channel><programme channel="BBC-Four-UK" start="20260420050500 +0500" stop="20260420060500 +0500">
     <title>Discovering the Music of Antiquity</title>
     <sub-title />
     <desc>The discovery of an ancient music score in the Louvre sets researchers on a mission to recreate the music as it was originally heard by the Greeks 2,400 years ago.</desc>
@@ -76,23 +11,13 @@
     <category lang="en">Factual</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/e64a8e09-bb15-3757-b169-5e87bebab0f1/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420053000 +0500" stop="20260420063000 +0500">
-    <title>Buddha: Genius of the Ancient World</title>
-    <sub-title />
-    <desc>Bettany Hughes travels to India to investigate the revolutionary ideas of the Buddha.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6b742e8e-d497-4767-88b8-17210dd406de/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420063000 +0500" stop="20260420073000 +0500">
+  </programme><programme channel="BBC-Four-UK" start="20260420060500 +0500" stop="20260420070500 +0500">
     <title>The Riviera: A History in Pictures</title>
     <sub-title />
     <desc>Richard E Grant follows in the footsteps of artists who have lived, loved and painted on France's Cote d'Azur, including Cezanne, Monet, Renoir and Matisse.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/aca3092f-072a-4a77-a424-064b48ba3e9e/16-9" />
-  </programme><programme channel="BBC-Four-UK" start="20260420073000 +0500" stop="20260420093000 +0500">
+  </programme><programme channel="BBC-Four-UK" start="20260420070500 +0500" stop="20260420093000 +0500">
     <title>This is BBC Four</title>
     <sub-title />
     <desc>Programmes start at 7.00pm.</desc>
@@ -302,5 +227,69 @@
     <category lang="en">Factual</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/91f8427c-b26b-46e2-a31e-4a9c0800313d/16-9" />
+  </programme><programme channel="BBC-Four-UK" start="20260423044000 +0500" stop="20260423054000 +0500">
+    <title>Horizon: Volcanoes of the Solar System</title>
+    <sub-title />
+    <desc>Horizon follows an international team of volcanologists in Iceland as they draw fascinating parallels between the volcanoes on Earth and those elsewhere in the solar system.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/93a7192b-9483-44e8-a299-0b9cdcb0ede6/16-9" />
+  </programme><programme channel="BBC-Four-UK" start="20260423054000 +0500" stop="20260423064000 +0500">
+    <title>Concorde: A Supersonic Story</title>
+    <sub-title />
+    <desc>The life of the most glamorous plane ever built, as told by the people whose lives she touched. Narrated by Sophie Okonedo.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f0cf93f5-4106-375d-b683-e7690b982984/16-9" />
+  </programme><programme channel="BBC-Four-UK" start="20260423064000 +0500" stop="20260423093000 +0500">
+    <title>This is BBC Four</title>
+    <sub-title />
+    <desc>Programmes start at 7.00pm.</desc>
+    <language>en</language>
+  </programme><programme channel="BBC-Four-UK" start="20260423093000 +0500" stop="20260423153000 +0500">
+    <title>..programmes start at 7.00pm</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="BBC-Four-UK" start="20260423153000 +0500" stop="20260423213000 +0500">
+    <title>..programmes start at 7.00pm</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="BBC-Four-UK" start="20260423213000 +0500" stop="20260423225800 +0500">
+    <title>..programmes start at 7.00pm</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="BBC-Four-UK" start="20260423225800 +0500" stop="20260423230000 +0500">
+    <title>This is BBC Four</title>
+    <sub-title />
+    <desc>Programmes start at 7.00pm.</desc>
+    <language>en</language>
+  </programme><programme channel="BBC-Four-UK" start="20260423230000 +0500" stop="20260424020000 +0500">
+    <title>Snooker: World Championship</title>
+    <sub-title />
+    <desc>Coverage of day 6 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Snooker/Pool</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0c1eedc5-ce22-4d23-8477-991ee0b3db9e/16-9" />
+  </programme><programme channel="BBC-Four-UK" start="20260424020000 +0500" stop="20260424033000 +0500">
+    <title>The Wicker Man</title>
+    <sub-title />
+    <desc>A puritan police sergeant arrives on a Scottish island in search of a missing girl, who the Pagan locals claim never existed. Contains some sexual content and disturbing scenes.</desc>
+    <category lang="en">Movie</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/cf10a9cc-44fc-4aa2-841a-9dcc4d7efda9/16-9" />
+  </programme><programme channel="BBC-Four-UK" start="20260424033000 +0500" stop="20260424040000 +0500">
+    <title>Ex-S: The Wicker Man</title>
+    <sub-title />
+    <desc>Documentary about cult British horror film The Wicker Man. Featuring actors Christopher Lee, Edward Woodward and Ingrid Pitt and director Robin Hardy. Deals with adult themes.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ec27f8ae-8002-3d32-918d-81db4ee90c38/16-9" />
   </programme>
 </tv>

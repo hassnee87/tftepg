@@ -1,239 +1,360 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="True-Crime-UK">
-    <display-name>True Crime UK</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/True-Crime-UK.png" />
-  </channel><programme channel="True-Crime-UK" start="20260420073253 +0500" stop="20260420082226 +0500">
-    <title>Real Detective</title>
-    <sub-title>Vengeance</sub-title>
-    <desc>Vengeance</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420082226 +0500" stop="20260420091220 +0500">
-    <title>Real Detective</title>
-    <sub-title>Misery</sub-title>
-    <desc>Misery</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420091220 +0500" stop="20260420093816 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>True Crime UK</display-name>
+  </channel><programme channel="True-Crime-UK" start="20260422004233 +0500" stop="20260422010815 +0500">
     <title>Medical Detectives</title>
-    <sub-title>Murder on the Menu</sub-title>
-    <desc>Murder on the Menu</desc>
-    <episode-num system="onscreen">S10E37</episode-num>
+    <sub-title>Moss, Not Grass</sub-title>
+    <desc>Moss, Not Grass</desc>
+    <episode-num system="onscreen">S10E30</episode-num>
     <date>20260401</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420093816 +0500" stop="20260420100414 +0500">
-    <title>Medical Detectives</title>
-    <sub-title>Hot on the Trail</sub-title>
-    <desc>Hot on the Trail</desc>
-    <episode-num system="onscreen">S10E38</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420100414 +0500" stop="20260420105827 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>Miss Manipulation</sub-title>
-    <desc>Miss Manipulation</desc>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <date>20250308</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b62887d4063be923bb6/7e667f8c-3f80-4833-8e91-1b75b688ec85/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420105827 +0500" stop="20260420115142 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>The TikTok Killer</sub-title>
-    <desc>The TikTok Killer</desc>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <date>20250315</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b564f9780f76907b6b5/befd9835-58ea-4d23-9c08-023517ad1d74/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420115142 +0500" stop="20260420124530 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>Smoke and Mirrors</sub-title>
-    <desc>Smoke and Mirrors</desc>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <date>20250419</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b599624b59b65c45bf0/3e65b196-ff11-43e1-886a-a729934d91a9/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420124530 +0500" stop="20260420133942 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>Pages of Betrayal</sub-title>
-    <desc>Pages of Betrayal</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20250426</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b4c133e40c17e35302f/e8df3033-266c-436e-8404-1eaddb392485/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420133942 +0500" stop="20260420143452 +0500">
-    <title>Murder in Mind</title>
-    <sub-title>The Incel</sub-title>
-    <desc>The Incel</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <date>20250329</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/68f35b48b59a38a8d7e009e3/5ed19770-5507-4c81-abd2-7263e129603f/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420143452 +0500" stop="20260420153010 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Suttles &amp; Josephson</sub-title>
-    <desc>Suttles &amp; Josephson</desc>
-    <episode-num system="onscreen">S02E06</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c76da/e01e33b5-1db8-4f3b-929f-7b8f70f689d2/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420153010 +0500" stop="20260420162501 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Sarinana &amp; Marzejka</sub-title>
-    <desc>Sarinana &amp; Marzejka</desc>
-    <episode-num system="onscreen">S02E07</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c7713/4e670efd-0e85-46a9-804e-73fa41839a39/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420162501 +0500" stop="20260420171811 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Bailey &amp; Monge</sub-title>
-    <desc>Bailey &amp; Monge</desc>
-    <episode-num system="onscreen">S02E08</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c76ee/2428fc1e-e483-4c28-9251-8e21941f1cf9/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420171811 +0500" stop="20260420181328 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Spinks &amp; Carpio</sub-title>
-    <desc>Spinks &amp; Carpio</desc>
-    <episode-num system="onscreen">S02E09</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c7712/ef5d3dad-4a4d-4703-9687-cc45b150e43f/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420181328 +0500" stop="20260420190812 +0500">
-    <title>Killers: Caught on Camera</title>
-    <sub-title>Jones &amp; Kellers</sub-title>
-    <desc>Jones &amp; Kellers</desc>
-    <episode-num system="onscreen">S02E10</episode-num>
-    <date>20240601</date>
-    <language>en</language>
-    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c76d2/5e71b629-dc17-4d08-ae49-86626b351ce3/thumb2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420190812 +0500" stop="20260420193358 +0500">
-    <title>Medical Detectives</title>
-    <sub-title>High N Dry</sub-title>
-    <desc>High N Dry</desc>
-    <episode-num system="onscreen">S10E39</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS10_Ep039.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420193358 +0500" stop="20260420195956 +0500">
-    <title>Medical Detectives</title>
-    <sub-title>To the Viktor</sub-title>
-    <desc>To the Viktor</desc>
-    <episode-num system="onscreen">S10E40</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS10_Ep040.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420195956 +0500" stop="20260420202554 +0500">
-    <title>Medical Detectives</title>
-    <sub-title>Wired for Disaster</sub-title>
-    <desc>Wired for Disaster</desc>
-    <episode-num system="onscreen">S10E41</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420202554 +0500" stop="20260420205144 +0500">
-    <title>Medical Detectives</title>
-    <sub-title>Wood-be Killer</sub-title>
-    <desc>Wood-be Killer</desc>
-    <episode-num system="onscreen">S10E42</episode-num>
-    <date>20260401</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420205144 +0500" stop="20260420214536 +0500">
-    <title>Body In The Water</title>
-    <sub-title>A Finding in the Loch</sub-title>
-    <desc>A Finding in the Loch</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20250916</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420214536 +0500" stop="20260420224034 +0500">
-    <title>Body In The Water</title>
-    <sub-title>Body in the Bag</sub-title>
-    <desc>Body in the Bag</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20250923</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420224034 +0500" stop="20260420233548 +0500">
-    <title>Body In The Water</title>
-    <sub-title>Body at the Dock</sub-title>
-    <desc>Body at the Dock</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20250930</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260420233548 +0500" stop="20260421003123 +0500">
-    <title>Body In The Water</title>
-    <sub-title>Sunk in the Lake</sub-title>
-    <desc>Sunk in the Lake</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <date>20251007</date>
-    <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421003123 +0500" stop="20260421012651 +0500">
-    <title>Body In The Water</title>
-    <sub-title>The Bathtub Killer</sub-title>
-    <desc>The Bathtub Killer</desc>
+  </programme><programme channel="True-Crime-UK" start="20260422010815 +0500" stop="20260422020326 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Shannon's Story</sub-title>
+    <desc>Shannon's Story</desc>
     <episode-num system="onscreen">S01E05</episode-num>
-    <date>20251014</date>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422020326 +0500" stop="20260422025837 +0500">
+    <title>Murder in Paradise</title>
+    <sub-title>Baja Nights</sub-title>
+    <desc>Baja Nights</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422025837 +0500" stop="20260422034858 +0500">
+    <title>Real Detective</title>
+    <sub-title>Redemption</sub-title>
+    <desc>Redemption</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422034858 +0500" stop="20260422043848 +0500">
+    <title>Real Detective</title>
+    <sub-title>Damage</sub-title>
+    <desc>Damage</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422043848 +0500" stop="20260422052846 +0500">
+    <title>Real Detective</title>
+    <sub-title>Silence</sub-title>
+    <desc>Silence</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422052846 +0500" stop="20260422061849 +0500">
+    <title>Real Detective</title>
+    <sub-title>Malice</sub-title>
+    <desc>Malice</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-featuredImage.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422061849 +0500" stop="20260422071407 +0500">
+    <title>Murder: Fight for the Truth</title>
+    <sub-title>A Burning Suspicion</sub-title>
+    <desc>A Burning Suspicion</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-murfigfortruth.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422071407 +0500" stop="20260422080942 +0500">
+    <title>Murder: Fight for the Truth</title>
+    <sub-title>Operation Ottawa</sub-title>
+    <desc>Operation Ottawa</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-murfigfortruth.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422080942 +0500" stop="20260422090509 +0500">
+    <title>Murder: Fight for the Truth</title>
+    <sub-title>A Suspicious Death</sub-title>
+    <desc>A Suspicious Death</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422090509 +0500" stop="20260422100045 +0500">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Newborough &amp; Diallo</sub-title>
+    <desc>Newborough &amp; Diallo</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <date>20240601</date>
+    <language>en</language>
+    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c77aa/17c71127-8441-4c8e-ab4d-99808238b3de/thumb2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422100045 +0500" stop="20260422105610 +0500">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Jones &amp; Ablewhite</sub-title>
+    <desc>Jones &amp; Ablewhite</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>20240601</date>
+    <language>en</language>
+    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c7762/335e8c42-75f5-4280-b2b1-8b11a25f6e43/thumb2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422105610 +0500" stop="20260422115031 +0500">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Quad Spree &amp; Brockbanks</sub-title>
+    <desc>Quad Spree &amp; Brockbanks</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20240601</date>
+    <language>en</language>
+    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c775f/1bf7a303-df20-48cb-a975-d3b4951e9e00/thumb2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422115031 +0500" stop="20260422124526 +0500">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Edge &amp; Dafter</sub-title>
+    <desc>Edge &amp; Dafter</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20240601</date>
+    <language>en</language>
+    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c77a9/270d9dc3-9548-4399-8398-b48b3a1c5542/thumb2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422124526 +0500" stop="20260422134030 +0500">
+    <title>Killers: Caught on Camera</title>
+    <sub-title>Wright &amp; Hanson</sub-title>
+    <desc>Wright &amp; Hanson</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20240601</date>
+    <language>en</language>
+    <icon src="https://vod-static.plex.tv/thumbnails/66e868e90340f39f5e7c775d/725079bb-e6bb-4160-b787-c2d476a68770/thumb2.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422134030 +0500" stop="20260422143610 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Body on the Shore</sub-title>
+    <desc>Body on the Shore</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20251021</date>
     <language>en</language>
     <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421012651 +0500" stop="20260421022210 +0500">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Money Talks</sub-title>
-    <desc>Money Talks</desc>
+  </programme><programme channel="True-Crime-UK" start="20260422143610 +0500" stop="20260422153052 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Body in the River</sub-title>
+    <desc>Body in the River</desc>
     <episode-num system="onscreen">S01E07</episode-num>
-    <date>20260401</date>
+    <date>20251028</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421022210 +0500" stop="20260421031737 +0500">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Journalistic Instinct</sub-title>
-    <desc>Journalistic Instinct</desc>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422153052 +0500" stop="20260422162527 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Body Overboard</sub-title>
+    <desc>Body Overboard</desc>
     <episode-num system="onscreen">S01E08</episode-num>
-    <date>20260401</date>
+    <date>20251104</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421031737 +0500" stop="20260421041303 +0500">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Time Reveals All</sub-title>
-    <desc>Time Reveals All</desc>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422162527 +0500" stop="20260422171906 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Body in the Swamp</sub-title>
+    <desc>Body in the Swamp</desc>
     <episode-num system="onscreen">S01E09</episode-num>
-    <date>20260401</date>
+    <date>20251111</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421041303 +0500" stop="20260421050828 +0500">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>No Stone Unturned</sub-title>
-    <desc>No Stone Unturned</desc>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422171906 +0500" stop="20260422181406 +0500">
+    <title>Body In The Water</title>
+    <sub-title>Dumped in the Creek</sub-title>
+    <desc>Dumped in the Creek</desc>
     <episode-num system="onscreen">S01E10</episode-num>
+    <date>20251118</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-BodyintheWater.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422181406 +0500" stop="20260422183952 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Material Witness</sub-title>
+    <desc>Material Witness</desc>
+    <episode-num system="onscreen">S10E31</episode-num>
     <date>20260401</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderFightForTheTruthS01_Ep002_Still001.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421050828 +0500" stop="20260421060335 +0500">
-    <title>Murder in Paradise</title>
-    <sub-title>Arturo Gatti</sub-title>
-    <desc>Arturo Gatti</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20250722</date>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422183952 +0500" stop="20260422190507 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Garden of Evil</sub-title>
+    <desc>Garden of Evil</desc>
+    <episode-num system="onscreen">S10E32</episode-num>
+    <date>20260401</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
-  </programme><programme channel="True-Crime-UK" start="20260421060335 +0500" stop="20260421065846 +0500">
-    <title>Murder in Paradise</title>
-    <sub-title>Ghost Ship of Bimini</sub-title>
-    <desc>Ghost Ship of Bimini</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20250724</date>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS10_Ep032.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422190507 +0500" stop="20260422193106 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Sunday School Ambush</sub-title>
+    <desc>Sunday School Ambush</desc>
+    <episode-num system="onscreen">S10E33</episode-num>
+    <date>20260401</date>
     <language>en</language>
-    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MIP_2.jpg" />
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422193106 +0500" stop="20260422195704 +0500">
+    <title>Medical Detectives</title>
+    <sub-title>Penchant for Poison</sub-title>
+    <desc>Penchant for Poison</desc>
+    <episode-num system="onscreen">S10E34</episode-num>
+    <date>20260401</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MedicalDetectivesS12_Ep013.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422195704 +0500" stop="20260422205113 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>The Wrong Place the Wrong Time</sub-title>
+    <desc>The Wrong Place the Wrong Time</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20251022</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422205113 +0500" stop="20260422214630 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>A Murder in the Family</sub-title>
+    <desc>A Murder in the Family</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20251029</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422214630 +0500" stop="20260422224140 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>A Tear Hit the Desk</sub-title>
+    <desc>A Tear Hit the Desk</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20251105</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422224140 +0500" stop="20260422233702 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>One on One</sub-title>
+    <desc>One on One</desc>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <date>20251112</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260422233702 +0500" stop="20260423003217 +0500">
+    <title>Murder: Point of Contact</title>
+    <sub-title>The First Family Liaison</sub-title>
+    <desc>The First Family Liaison</desc>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <date>20251119</date>
+    <language>en</language>
+    <icon src="https://distribution.assets.pawa.tv/metadatadistribution/wurl/1420/large-MurderPointofContact.jpg" />
+  </programme><programme channel="True-Crime-UK" start="20260423003217 +0500" stop="20260423013217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423013217 +0500" stop="20260423023217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423023217 +0500" stop="20260423033217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423033217 +0500" stop="20260423043217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423043217 +0500" stop="20260423053217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423053217 +0500" stop="20260423063217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423063217 +0500" stop="20260423073217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423073217 +0500" stop="20260423083217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423083217 +0500" stop="20260423093217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423093217 +0500" stop="20260423103217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423103217 +0500" stop="20260423113217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423113217 +0500" stop="20260423123217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423123217 +0500" stop="20260423133217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423133217 +0500" stop="20260423143217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423143217 +0500" stop="20260423153217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423153217 +0500" stop="20260423163217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423163217 +0500" stop="20260423173217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423173217 +0500" stop="20260423183217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423183217 +0500" stop="20260423193217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423193217 +0500" stop="20260423203217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423203217 +0500" stop="20260423213217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423213217 +0500" stop="20260423223217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423223217 +0500" stop="20260423233217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="True-Crime-UK" start="20260423233217 +0500" stop="20260424003217 +0500">
+    <title>True Crime Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
   </programme>
 </tv>

@@ -1,215 +1,347 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Sony-One-Thriller-TV-UK">
-    <display-name>Sony One Thriller TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Sony-One-Thriller-TV-UK.png" />
-  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260420063605 +0500" stop="20260420074041 +0500">
-    <title>Better Call Saul</title>
-    <sub-title>Fun and Games</sub-title>
-    <desc>Gus attempts to smooth things over with the cartel while Mike ties up loose ends north of the border.</desc>
-    <episode-num system="onscreen">S06E09</episode-num>
-    <date>20250806</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7320172286822178924/solid/rectangle/w1920_h1080/m14cglxoxxlp1tf03bx2vfukg.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420074041 +0500" stop="20260420084056 +0500">
-    <title>Better Call Saul</title>
-    <sub-title>Nippy</sub-title>
-    <desc>A lost dog leads to a new friend. A new player gets in the game.</desc>
-    <episode-num system="onscreen">S06E10</episode-num>
-    <date>20250807</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7359251286196324693/solid/rectangle/w1920_h1080/c6m10z4du0sb1uai5k2sf1bj9.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420084056 +0500" stop="20260420094642 +0500">
-    <title>Better Call Saul</title>
-    <sub-title>Breaking Bad</sub-title>
-    <desc>Emboldened by recent successes, the partners escalate their enterprise to new levels.</desc>
-    <episode-num system="onscreen">S06E11</episode-num>
-    <date>20250625</date>
-    <language>en</language>
-    <icon src="https://images.frequency.com/video/7343693381277467892/solid/rectangle/w1920_h1080/1arsqkmi767si1og25wcvqzu7c.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420094642 +0500" stop="20260420104024 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>Sony One Thriller TV</display-name>
+  </channel><programme channel="Sony-One-Thriller-TV-UK" start="20260422001648 +0500" stop="20260422011041 +0500">
     <title>The Guardian</title>
-    <sub-title>Loyalties</sub-title>
-    <desc>As Nick represents an Arab American who is being sued for defending his restaurant against a vandal's attack, Burton must face a flurry of possible defections from the firm, including his own son.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20011211</date>
+    <sub-title>Mothers Of The Disappeared</sub-title>
+    <desc>After a woman asks Nick to have her daughter declared dead, the long-missing girl suddenly returns.</desc>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <date>20020326</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313846372460789/solid/rectangle/w1920_h1080/1xz4t1lw23edu11rekohta4p9g.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420104024 +0500" stop="20260420113416 +0500">
+    <icon src="https://images.frequency.com/video/7245457547011129308/solid/rectangle/w1920_h1080/14kp7lgahustc1uu4znv518pxm.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422011041 +0500" stop="20260422020502 +0500">
     <title>The Guardian</title>
-    <sub-title>Home</sub-title>
-    <desc>As Nick tries to reunite a twelve-year-old boy with a schizophrenic dad who murdered his wife, Alvin represents his ex-wife in a lawsuit being argued by Burton.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <date>20011218</date>
+    <sub-title>Lawyers, Guns &amp; Money</sub-title>
+    <desc>A parole officer asks for help in his girlfriend's purchase of a strip club in exchange for keeping Nick's own violations from hurting Burton's chances at Federal judgeship.</desc>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <date>20020409</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313852109903278/solid/rectangle/w1920_h1080/1xm2oyxbtwxxo1h9dihshyk6ox.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420113416 +0500" stop="20260420122808 +0500">
+    <icon src="https://images.frequency.com/video/7245457233911570060/solid/rectangle/w1920_h1080/1q4ozn2i8pp401knfhmddw62o9.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422020502 +0500" stop="20260422025753 +0500">
     <title>The Guardian</title>
-    <sub-title>Causality</sub-title>
-    <desc>Moving to a new law firm starts Nick him on a downhill slide; Alvin represents the daughter of a woman he regrets defending years ago.</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <date>20020108</date>
+    <sub-title>Shelter</sub-title>
+    <desc>A pair of homeless teenagers seeks help in getting married and keeping their baby; Nick runs the risk of botching an important deal that Burton hoped would prove he can be trusted with the firm.</desc>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <date>20020507</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314074416192523/solid/rectangle/w1920_h1080/11zmtzxxgghd01w12hh5hvjexr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420122808 +0500" stop="20260420132210 +0500">
+    <icon src="https://images.frequency.com/video/7245457563364330427/solid/rectangle/w1920_h1080/ccdseuo796jy1fype0p1bj31e.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422025753 +0500" stop="20260422035145 +0500">
     <title>The Guardian</title>
-    <sub-title>Privilege</sub-title>
-    <desc>Nick suspects a longtime client of sexually abusing his daughter.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20020122</date>
+    <sub-title>The Chinese Wall</sub-title>
+    <desc>Burton's decision to bring in a powerful former state senator and his aide into the firm stuns Nick.</desc>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <date>20020514</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230311235773956904/solid/rectangle/w1920_h1080/wylc6zuumf6x1br2utuxsewv8.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420132210 +0500" stop="20260420141604 +0500">
+    <icon src="https://images.frequency.com/video/7245457637712348501/solid/rectangle/w1920_h1080/h9303lia87as1xau6tn6lgjxm.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422035145 +0500" stop="20260422044607 +0500">
     <title>The Guardian</title>
-    <sub-title>Family</sub-title>
-    <desc>As Nick takes responsibility for a troubled teenage cousin, Burton is forced to confront some unpleasant memories of his late wife.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20020205</date>
+    <sub-title>The Beginning</sub-title>
+    <desc>Burton's confirmation to the federal bench leaves Nick facing some tough decisions about his future.</desc>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <date>20020521</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314118836349404/solid/rectangle/w1920_h1080/1ca3k66sf69ys1fujeftv47tyl.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420141604 +0500" stop="20260420150900 +0500">
+    <icon src="https://images.frequency.com/video/7245457192255923805/solid/rectangle/w1920_h1080/1iumcz034eskd1guvtjv625gsu.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422044607 +0500" stop="20260422053949 +0500">
     <title>The Guardian</title>
-    <sub-title>In Loco Parentis</sub-title>
-    <desc>A drug addicted mother takes her baby hostage in an effort to keep the infant from being taken away.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20020226</date>
+    <sub-title>Testimony</sub-title>
+    <desc>After a fugitive client dies from a drug overdose at his house, the only thing standing between Nick and prison is the testimony of the dead woman's eleven-year-old daughter.</desc>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <date>20020924</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314143588339423/solid/rectangle/w1920_h1080/1c3kv372aeqmy199tiedf08ix7.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420150900 +0500" stop="20260420160137 +0500">
+    <icon src="https://images.frequency.com/video/7244381668797456207/solid/rectangle/w1920_h1080/xl9yw7wmz03j18yvr9nsi3kq8.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422053949 +0500" stop="20260422063334 +0500">
     <title>The Guardian</title>
-    <sub-title>Solidarity</sub-title>
-    <desc>As James represents a nephew being tried for the shooting death of his mom's abusive boyfriend, Nick's plans to make his feelings about Lulu clear are sidetracked by some unexpected arrivals.</desc>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <date>20020305</date>
+    <sub-title>Monster</sub-title>
+    <desc>Nick learns of an oversight that could help a teenage killer's efforts to avoid being tried as an adult.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>20021001</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314369595614302/solid/rectangle/w1920_h1080/jm017tngpt3g1uaae8knbt06v.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420160137 +0500" stop="20260420165528 +0500">
+    <icon src="https://images.frequency.com/video/7244381713226843051/solid/rectangle/w1920_h1080/pwmp10kepwdn1daj2s0joyxxf.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422063334 +0500" stop="20260422072759 +0500">
     <title>The Guardian</title>
-    <sub-title>The Divide</sub-title>
-    <desc>Nick and Lulu square off over the adoption that will split up two brothers; Jake struggles to find a way to keep his parents from losing their house.</desc>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <date>20020312</date>
+    <sub-title>The Dead</sub-title>
+    <desc>The county's efforts to buy a cemetery exposes Burton's responsibility for a ill-fated abortion fifty-years ago.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20021008</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7245457185213919285/solid/rectangle/w1920_h1080/g592ydn3657r1h6agocgp81dc.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420165528 +0500" stop="20260420174910 +0500">
+    <icon src="https://images.frequency.com/video/7244381852109987778/solid/rectangle/w1920_h1080/debpo7uihvt11f4lgof5hi8lu.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422072759 +0500" stop="20260422082152 +0500">
     <title>The Guardian</title>
-    <sub-title>Loyalties</sub-title>
-    <desc>As Nick represents an Arab American who is being sued for defending his restaurant against a vandal's attack, Burton must face a flurry of possible defections from the firm, including his own son.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20011211</date>
+    <sub-title>Mothers Of The Disappeared</sub-title>
+    <desc>After a woman asks Nick to have her daughter declared dead, the long-missing girl suddenly returns.</desc>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <date>20020326</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313846372460789/solid/rectangle/w1920_h1080/1xz4t1lw23edu11rekohta4p9g.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420174910 +0500" stop="20260420184302 +0500">
+    <icon src="https://images.frequency.com/video/7245457547011129308/solid/rectangle/w1920_h1080/14kp7lgahustc1uu4znv518pxm.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422082152 +0500" stop="20260422091613 +0500">
     <title>The Guardian</title>
-    <sub-title>Home</sub-title>
-    <desc>As Nick tries to reunite a twelve-year-old boy with a schizophrenic dad who murdered his wife, Alvin represents his ex-wife in a lawsuit being argued by Burton.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <date>20011218</date>
+    <sub-title>Lawyers, Guns &amp; Money</sub-title>
+    <desc>A parole officer asks for help in his girlfriend's purchase of a strip club in exchange for keeping Nick's own violations from hurting Burton's chances at Federal judgeship.</desc>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <date>20020409</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313852109903278/solid/rectangle/w1920_h1080/1xm2oyxbtwxxo1h9dihshyk6ox.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420184302 +0500" stop="20260420193654 +0500">
+    <icon src="https://images.frequency.com/video/7245457233911570060/solid/rectangle/w1920_h1080/1q4ozn2i8pp401knfhmddw62o9.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422091613 +0500" stop="20260422100904 +0500">
     <title>The Guardian</title>
-    <sub-title>Causality</sub-title>
-    <desc>Moving to a new law firm starts Nick him on a downhill slide; Alvin represents the daughter of a woman he regrets defending years ago.</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <date>20020108</date>
+    <sub-title>Shelter</sub-title>
+    <desc>A pair of homeless teenagers seeks help in getting married and keeping their baby; Nick runs the risk of botching an important deal that Burton hoped would prove he can be trusted with the firm.</desc>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <date>20020507</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314074416192523/solid/rectangle/w1920_h1080/11zmtzxxgghd01w12hh5hvjexr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420193654 +0500" stop="20260420203056 +0500">
-    <title>The Guardian</title>
-    <sub-title>Privilege</sub-title>
-    <desc>Nick suspects a longtime client of sexually abusing his daughter.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20020122</date>
+    <icon src="https://images.frequency.com/video/7245457563364330427/solid/rectangle/w1920_h1080/ccdseuo796jy1fype0p1bj31e.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422100904 +0500" stop="20260422110312 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0101</sub-title>
+    <desc>Following his uncle’s mysterious death, Alex Rider begins a quest for answers that leads him into a dark world of secrets and espionage. He comes to realise that his uncle wasn’t the man he thought he was – and that Alex himself is expected to follow in his footsteps.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230311235773956904/solid/rectangle/w1920_h1080/wylc6zuumf6x1br2utuxsewv8.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420203056 +0500" stop="20260420212450 +0500">
-    <title>The Guardian</title>
-    <sub-title>Family</sub-title>
-    <desc>As Nick takes responsibility for a troubled teenage cousin, Burton is forced to confront some unpleasant memories of his late wife.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20020205</date>
+    <icon src="https://images.frequency.com/video/7437524743532449856/solid/rectangle/w1920_h1080/jcyjd8oy5ar61nkvvlavazxf6.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422110312 +0500" stop="20260422115628 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0102</sub-title>
+    <desc>Still reeling from the revelation that his uncle was a spy for the British Government, Alex is kidnapped and interrogated by an unknown group of paramilitary agents. It will take all his hidden skills to turn the tables on his captors.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314118836349404/solid/rectangle/w1920_h1080/1ca3k66sf69ys1fujeftv47tyl.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420212450 +0500" stop="20260420221746 +0500">
-    <title>The Guardian</title>
-    <sub-title>In Loco Parentis</sub-title>
-    <desc>A drug addicted mother takes her baby hostage in an effort to keep the infant from being taken away.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20020226</date>
+    <icon src="https://images.frequency.com/video/7437524905896052716/solid/rectangle/w1920_h1080/1rao8lgvhbw6u1qfcvnloiqhwk.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422115628 +0500" stop="20260422125006 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0103</sub-title>
+    <desc>Alex is thrown into the unfamiliar world of the ultra-rich as he struggles to perfect his cover identity, but risks alienating his best friend Tom by keeping the mission a secret.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314143588339423/solid/rectangle/w1920_h1080/1c3kv372aeqmy199tiedf08ix7.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420221746 +0500" stop="20260420231023 +0500">
-    <title>The Guardian</title>
-    <sub-title>Solidarity</sub-title>
-    <desc>As James represents a nephew being tried for the shooting death of his mom's abusive boyfriend, Nick's plans to make his feelings about Lulu clear are sidetracked by some unexpected arrivals.</desc>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <date>20020305</date>
+    <icon src="https://images.frequency.com/video/7437524595377042783/solid/rectangle/w1920_h1080/cksj6bc183pg1c2z254cc2x41.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422125006 +0500" stop="20260422134255 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0104</sub-title>
+    <desc>As his covert investigation of Point Blanc gets underway, Alex discovers that he’s been left vulnerable. The Department seem to be closing in on the double-agent in their ranks – but the killer Yassen gets there first.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314369595614302/solid/rectangle/w1920_h1080/jm017tngpt3g1uaae8knbt06v.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260420231023 +0500" stop="20260421000414 +0500">
-    <title>The Guardian</title>
-    <sub-title>The Divide</sub-title>
-    <desc>Nick and Lulu square off over the adoption that will split up two brothers; Jake struggles to find a way to keep his parents from losing their house.</desc>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <date>20020312</date>
+    <icon src="https://images.frequency.com/video/7437524789221536148/solid/rectangle/w1920_h1080/12eee9lbqd3js1i7fnev6xntg7.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422134255 +0500" stop="20260422143702 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0105</sub-title>
+    <desc>Appalled to realise that the students in Point Blanc are being mysteriously changed by Doctor Greif, Alex enlists Kyra and James in a plan to escape. Blunt spearheads an investigation into Parker Roscoe.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7245457185213919285/solid/rectangle/w1920_h1080/g592ydn3657r1h6agocgp81dc.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421000414 +0500" stop="20260421005756 +0500">
-    <title>The Guardian</title>
-    <sub-title>Loyalties</sub-title>
-    <desc>As Nick represents an Arab American who is being sued for defending his restaurant against a vandal's attack, Burton must face a flurry of possible defections from the firm, including his own son.</desc>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <date>20011211</date>
+    <icon src="https://images.frequency.com/video/7437524963238852386/solid/rectangle/w1920_h1080/1m9s26tcdfmo81g9asgas1kt03.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422143702 +0500" stop="20260422152934 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0106</sub-title>
+    <desc>As Tom lands in the crosshairs of the conspiracy behind Ian Rider’s murder, Alex and Kyra find evidence of Dr. Greif’s secret plan.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313846372460789/solid/rectangle/w1920_h1080/1xz4t1lw23edu11rekohta4p9g.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421005756 +0500" stop="20260421015148 +0500">
-    <title>The Guardian</title>
-    <sub-title>Home</sub-title>
-    <desc>As Nick tries to reunite a twelve-year-old boy with a schizophrenic dad who murdered his wife, Alvin represents his ex-wife in a lawsuit being argued by Burton.</desc>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <date>20011218</date>
+    <icon src="https://images.frequency.com/video/7437524596098536810/solid/rectangle/w1920_h1080/1g870o8wgcy9o1s0cnm8wwi14e.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422152934 +0500" stop="20260422162153 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0107</sub-title>
+    <desc>Alex leads a Special Forces squad back inside Point Blanc in a stealth mission to rescue his friends and stop Greif’s plans.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230313852109903278/solid/rectangle/w1920_h1080/1xm2oyxbtwxxo1h9dihshyk6ox.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421015148 +0500" stop="20260421024540 +0500">
-    <title>The Guardian</title>
-    <sub-title>Causality</sub-title>
-    <desc>Moving to a new law firm starts Nick him on a downhill slide; Alvin represents the daughter of a woman he regrets defending years ago.</desc>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <date>20020108</date>
+    <icon src="https://images.frequency.com/video/7437524758453095921/solid/rectangle/w1920_h1080/1c5qc9xylz28612wucdgjpuz4c.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422162153 +0500" stop="20260422171406 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0108</sub-title>
+    <desc>The Department finally solve the mystery of Ian’s death and realise that an old, lethal enemy has resurfaced – while Alex faces off against his own duplicate in a desperate battle to save the people he loves.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314074416192523/solid/rectangle/w1920_h1080/11zmtzxxgghd01w12hh5hvjexr.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421024540 +0500" stop="20260421033942 +0500">
-    <title>The Guardian</title>
-    <sub-title>Privilege</sub-title>
-    <desc>Nick suspects a longtime client of sexually abusing his daughter.</desc>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <date>20020122</date>
+    <icon src="https://images.frequency.com/video/7437524599475387267/solid/rectangle/w1920_h1080/1nnwo519pfzv104jtylypr08r.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422171406 +0500" stop="20260422180814 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0101</sub-title>
+    <desc>Following his uncle’s mysterious death, Alex Rider begins a quest for answers that leads him into a dark world of secrets and espionage. He comes to realise that his uncle wasn’t the man he thought he was – and that Alex himself is expected to follow in his footsteps.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230311235773956904/solid/rectangle/w1920_h1080/wylc6zuumf6x1br2utuxsewv8.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421033942 +0500" stop="20260421043336 +0500">
-    <title>The Guardian</title>
-    <sub-title>Family</sub-title>
-    <desc>As Nick takes responsibility for a troubled teenage cousin, Burton is forced to confront some unpleasant memories of his late wife.</desc>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <date>20020205</date>
+    <icon src="https://images.frequency.com/video/7437524743532449856/solid/rectangle/w1920_h1080/jcyjd8oy5ar61nkvvlavazxf6.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422180814 +0500" stop="20260422190130 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0102</sub-title>
+    <desc>Still reeling from the revelation that his uncle was a spy for the British Government, Alex is kidnapped and interrogated by an unknown group of paramilitary agents. It will take all his hidden skills to turn the tables on his captors.</desc>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314118836349404/solid/rectangle/w1920_h1080/1ca3k66sf69ys1fujeftv47tyl.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421043336 +0500" stop="20260421052632 +0500">
-    <title>The Guardian</title>
-    <sub-title>In Loco Parentis</sub-title>
-    <desc>A drug addicted mother takes her baby hostage in an effort to keep the infant from being taken away.</desc>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <date>20020226</date>
+    <icon src="https://images.frequency.com/video/7437524905896052716/solid/rectangle/w1920_h1080/1rao8lgvhbw6u1qfcvnloiqhwk.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422190130 +0500" stop="20260422195508 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0103</sub-title>
+    <desc>Alex is thrown into the unfamiliar world of the ultra-rich as he struggles to perfect his cover identity, but risks alienating his best friend Tom by keeping the mission a secret.</desc>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314143588339423/solid/rectangle/w1920_h1080/1c3kv372aeqmy199tiedf08ix7.jpg" />
-  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260421052632 +0500" stop="20260421061909 +0500">
-    <title>The Guardian</title>
-    <sub-title>Solidarity</sub-title>
-    <desc>As James represents a nephew being tried for the shooting death of his mom's abusive boyfriend, Nick's plans to make his feelings about Lulu clear are sidetracked by some unexpected arrivals.</desc>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <date>20020305</date>
+    <icon src="https://images.frequency.com/video/7437524595377042783/solid/rectangle/w1920_h1080/cksj6bc183pg1c2z254cc2x41.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422195508 +0500" stop="20260422204757 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0104</sub-title>
+    <desc>As his covert investigation of Point Blanc gets underway, Alex discovers that he’s been left vulnerable. The Department seem to be closing in on the double-agent in their ranks – but the killer Yassen gets there first.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <date>20260311</date>
     <language>en</language>
-    <icon src="https://images.frequency.com/video/7230314369595614302/solid/rectangle/w1920_h1080/jm017tngpt3g1uaae8knbt06v.jpg" />
+    <icon src="https://images.frequency.com/video/7437524789221536148/solid/rectangle/w1920_h1080/12eee9lbqd3js1i7fnev6xntg7.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422204757 +0500" stop="20260422214204 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0105</sub-title>
+    <desc>Appalled to realise that the students in Point Blanc are being mysteriously changed by Doctor Greif, Alex enlists Kyra and James in a plan to escape. Blunt spearheads an investigation into Parker Roscoe.</desc>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <date>20260311</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7437524963238852386/solid/rectangle/w1920_h1080/1m9s26tcdfmo81g9asgas1kt03.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422214204 +0500" stop="20260422223436 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0106</sub-title>
+    <desc>As Tom lands in the crosshairs of the conspiracy behind Ian Rider’s murder, Alex and Kyra find evidence of Dr. Greif’s secret plan.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20260311</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7437524596098536810/solid/rectangle/w1920_h1080/1g870o8wgcy9o1s0cnm8wwi14e.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422223436 +0500" stop="20260422232655 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0107</sub-title>
+    <desc>Alex leads a Special Forces squad back inside Point Blanc in a stealth mission to rescue his friends and stop Greif’s plans.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20260311</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7437524758453095921/solid/rectangle/w1920_h1080/1c5qc9xylz28612wucdgjpuz4c.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260422232655 +0500" stop="20260423001908 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0108</sub-title>
+    <desc>The Department finally solve the mystery of Ian’s death and realise that an old, lethal enemy has resurfaced – while Alex faces off against his own duplicate in a desperate battle to save the people he loves.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20260311</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7437524599475387267/solid/rectangle/w1920_h1080/1nnwo519pfzv104jtylypr08r.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423001908 +0500" stop="20260423011316 +0500">
+    <title>Alex Rider</title>
+    <sub-title>Episode #0101</sub-title>
+    <desc>Following his uncle’s mysterious death, Alex Rider begins a quest for answers that leads him into a dark world of secrets and espionage. He comes to realise that his uncle wasn’t the man he thought he was – and that Alex himself is expected to follow in his footsteps.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260311</date>
+    <language>en</language>
+    <icon src="https://images.frequency.com/video/7437524743532449856/solid/rectangle/w1920_h1080/jcyjd8oy5ar61nkvvlavazxf6.jpg" />
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423011316 +0500" stop="20260423021316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423021316 +0500" stop="20260423031316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423031316 +0500" stop="20260423041316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423041316 +0500" stop="20260423051316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423051316 +0500" stop="20260423061316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423061316 +0500" stop="20260423071316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423071316 +0500" stop="20260423081316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423081316 +0500" stop="20260423091316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423091316 +0500" stop="20260423101316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423101316 +0500" stop="20260423111316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423111316 +0500" stop="20260423121316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423121316 +0500" stop="20260423131316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423131316 +0500" stop="20260423141316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423141316 +0500" stop="20260423151316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423151316 +0500" stop="20260423161316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423161316 +0500" stop="20260423171316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423171316 +0500" stop="20260423181316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423181316 +0500" stop="20260423191316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423191316 +0500" stop="20260423201316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423201316 +0500" stop="20260423211316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423211316 +0500" stop="20260423221316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423221316 +0500" stop="20260423231316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Sony-One-Thriller-TV-UK" start="20260423231316 +0500" stop="20260424001316 +0500">
+    <title>Thriller Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
   </programme>
 </tv>

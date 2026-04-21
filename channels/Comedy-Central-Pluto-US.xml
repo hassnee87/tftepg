@@ -1,317 +1,505 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Comedy-Central-Pluto-US">
-    <display-name>Comedy Central Pluto TV</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Comedy-Central-Pluto-US.png" />
-  </channel><programme channel="Comedy-Central-Pluto-US" start="20260420080000 +0500" stop="20260420083000 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>Comedy Central Pluto TV</display-name>
+  </channel><programme channel="Comedy-Central-Pluto-US" start="20260422013000 +0500" stop="20260422020000 +0500">
+    <title>Nathan For You</title>
+    <sub-title>Funeral Home/ Burger Joint/ Skydiving</sub-title>
+    <desc>Nathan diversifies services at a struggling funeral home, puts a burger joint to the test and goes skydiving.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <date>20130404</date>
+    <category>Series</category>
+    <category>Variety</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422020000 +0500" stop="20260422023000 +0500">
+    <title>Nathan For You</title>
+    <sub-title>Haunted House/The Hunk</sub-title>
+    <desc>Nathan tries to get a haunted house deemed "too scary" and overcomes his fear of the opposite sex by creating a fake reality show.</desc>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <date>20130328</date>
+    <category>Series</category>
+    <category>Variety</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422023000 +0500" stop="20260422030000 +0500">
+    <title>Nathan For You</title>
+    <sub-title>Private Investigator/Taxi Company</sub-title>
+    <desc>Nathan challenges a private investigator to track him for a day and devises a way to improve taxicab conversations.</desc>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <date>20130418</date>
+    <category>Series</category>
+    <category>Variety</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6013a23267e9ba001a83f7d9/tile_1770074640904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422030000 +0500" stop="20260422033000 +0500">
+    <title>RENO 911!</title>
+    <sub-title>Back in Black</sub-title>
+    <desc>Dangle reconnects with his family after his estranged father passes away.</desc>
+    <episode-num system="onscreen">S05E505</episode-num>
+    <date>20080220</date>
+    <category>Series</category>
+    <category>Mockumentaries</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422033000 +0500" stop="20260422040000 +0500">
+    <title>RENO 911!</title>
+    <sub-title>Kevlar for Her</sub-title>
+    <desc>The department's new bulletproof vests for women have an unexpected side effect: super knockers.</desc>
+    <episode-num system="onscreen">S05E506</episode-num>
+    <date>20080130</date>
+    <category>Series</category>
+    <category>Mockumentaries</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422040000 +0500" stop="20260422043000 +0500">
+    <title>RENO 911!</title>
+    <sub-title>Undercover at Burger Cousin</sub-title>
+    <desc>Rick the Burger Cousin manager is a cruel taskmaster when deputies go undercover flipping burgers.</desc>
+    <episode-num system="onscreen">S05E507</episode-num>
+    <date>20080227</date>
+    <category>Series</category>
+    <category>Mockumentaries</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422043000 +0500" stop="20260422050000 +0500">
+    <title>RENO 911!</title>
+    <sub-title>The Wall</sub-title>
+    <desc>Garcia and Junior help build a wall to keep Mexicans from crossing into America illegally.</desc>
+    <episode-num system="onscreen">S05E508</episode-num>
+    <date>20080305</date>
+    <category>Series</category>
+    <category>Mockumentaries</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cba65f8c4dc5378f1bf614d/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422050000 +0500" stop="20260422053000 +0500">
     <title>South Park</title>
-    <sub-title>Cat Orgy</sub-title>
-    <desc>While all the adults are gathering at Mr. Mackey's house to watch a meteor shower Shelly Marsh is left babysit Cartman.</desc>
+    <sub-title>Timmy 2000</sub-title>
+    <desc>When Timmy is diagnosed with Attention Deficit Disorder, it triggers a wave of prescription drug abuse at South Park Elementary.</desc>
+    <episode-num system="onscreen">S04E404</episode-num>
+    <date>20000419</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422053000 +0500" stop="20260422060000 +0500">
+    <title>South Park</title>
+    <sub-title>Cartman Joins NAMBLA</sub-title>
+    <desc>Cartman decides to seek friendship using the Internet and finds an older man who is more than willing to be his friend...and more.</desc>
+    <episode-num system="onscreen">S04E406</episode-num>
+    <date>20000621</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422060000 +0500" stop="20260422063000 +0500">
+    <title>South Park</title>
+    <sub-title>Cherokee Hair Tampons</sub-title>
+    <desc>Kyle needs a kidney transplant and Cartman is discovered to be the perfect donor. Cartman gladly offers his kidney to Kyle -- for the price of $10 million dollars.</desc>
+    <episode-num system="onscreen">S04E407</episode-num>
+    <date>20000628</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422063000 +0500" stop="20260422070000 +0500">
+    <title>South Park</title>
+    <sub-title>Something You Can Do With Your Finger</sub-title>
+    <desc>"Fingerbang" is the newest boy band starring all the boys and it's also Cartman's latest scheme to make a million dollars.</desc>
+    <episode-num system="onscreen">S04E409</episode-num>
+    <date>20000712</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422070000 +0500" stop="20260422073000 +0500">
+    <title>South Park</title>
+    <sub-title>Do The Handicapped Go To Hell?</sub-title>
+    <desc>The boys learn in Sunday school that they must confess their sins, but worry about Timmy since all he can say is his own name.</desc>
+    <episode-num system="onscreen">S04E410</episode-num>
+    <date>20000719</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422073000 +0500" stop="20260422080000 +0500">
+    <title>South Park</title>
+    <sub-title>Probably</sub-title>
+    <desc>Cartman's flock begins to grow and the children begin plans to build him a Church. Meanwhile, Satan turns to God for advice.</desc>
+    <episode-num system="onscreen">S04E411</episode-num>
+    <date>20000726</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422080000 +0500" stop="20260422083000 +0500">
+    <title>South Park</title>
+    <sub-title>Fourth Grade</sub-title>
+    <desc>The boys devise a plan to travel back in time a full year and return to the third grade, with the help of Timmy and his electronic wheelchair.</desc>
+    <episode-num system="onscreen">S04E412</episode-num>
+    <date>20001108</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422083000 +0500" stop="20260422090000 +0500">
+    <title>South Park</title>
+    <sub-title>Trapper Keeper</sub-title>
+    <desc>When Cartman finally stops bragging about his new Trapper Keeper, a stranger informs him that it will eventually take over the world and destroy humankind, if they don't destroy it first.</desc>
+    <episode-num system="onscreen">S04E413</episode-num>
+    <date>20001115</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422090000 +0500" stop="20260422093000 +0500">
+    <title>Drunk History</title>
+    <sub-title>Montgomery</sub-title>
+    <desc>Scientist Percy Julian overcomes racial barriers, Claudette Colvin refuses to give up her bus seat months before Rosa Parks's famous protest, and Joe Louis fights German boxer Max Schmeling. Featuring Jordan Peele, Terry Crews and "Weird Al" Yankovic.</desc>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <date>20140708</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422093000 +0500" stop="20260422100000 +0500">
+    <title>Drunk History</title>
+    <sub-title>American Music</sub-title>
+    <desc>Alan Freed becomes one of the first radio DJs to broadcast rock 'n' roll, Kris Kristofferson gets his big break with some help from his hero, Johnny Cash, and Sylvia Robinson creates The Sugarhill Gang. Featuring Johnny Knoxville, Jack McBrayer and Retta.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20140715</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422100000 +0500" stop="20260422103000 +0500">
+    <title>Drunk History</title>
+    <sub-title>Baltimore</sub-title>
+    <desc>Abraham Lincoln tries to avoid assassination on the way to his inauguration, Francis Scott Key writes "The Star-Spangled Banner," and Edgar Allan Poe feuds with Rufus Griswold. Featuring Charlie Day, Adrianne Palicki, Jesse Plemons and Jason Ritter.</desc>
+    <episode-num system="onscreen">S02E04</episode-num>
+    <date>20140722</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422103000 +0500" stop="20260422110000 +0500">
+    <title>Drunk History</title>
+    <sub-title>Charleston</sub-title>
+    <desc>Charles Sumner gets caned on the Senate floor, Judge J. Waties Waring helps to end segregation, and a slave named Robert Smalls commandeers a Confederate warship. Featuring Patton Oswalt, Johnny Knoxville, Busy Philipps and Brandon T. Jackson.</desc>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <date>20140729</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422110000 +0500" stop="20260422113000 +0500">
+    <title>Drunk History</title>
+    <sub-title>Hollywood</sub-title>
+    <desc>Orson Welles's "Citizen Kane" angers William Randolph Hearst, animator Ub Iwerks helps Walt Disney create Mickey Mouse, and Nancy Reagan convinces her movie-star husband to enter politics. Featuring Jack Black, Tony Hale, Nick Kroll and John Lithgow.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <date>20140805</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422113000 +0500" stop="20260422120000 +0500">
+    <title>Drunk History</title>
+    <sub-title>Hawaii</sub-title>
+    <desc>James Cook "discovers" Hawaii and parties with the natives, Japanese-American Daniel Inouye fights heroically in World War II, and Eddie Aikau becomes one of the world's greatest big wave surfers. Featuring Ken Marino, Jason Mantzoukas and Steven Yeun.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <date>20140812</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Political Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422120000 +0500" stop="20260422123000 +0500">
+    <title>Daria</title>
+    <sub-title>Daria Dance Party</sub-title>
+    <desc>Brittany and Kevin get into a heated fight, Sandi baits Quinn into organizing the school dance, and Jodie gives Brittany relationship advice.</desc>
+    <episode-num system="onscreen">S03E304</episode-num>
+    <date>19990317</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422123000 +0500" stop="20260422130000 +0500">
+    <title>Daria</title>
+    <sub-title>The Lost Girls</sub-title>
+    <desc>The editor of a teen magazine comes to Lawndale High to hang out with Daria, Jake struggles with the latest teen lingo, and Jane's clever idea begins to take root.</desc>
+    <episode-num system="onscreen">S03E305</episode-num>
+    <date>19990324</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422130000 +0500" stop="20260422133000 +0500">
+    <title>Daria</title>
+    <sub-title>It Happened One Nut</sub-title>
+    <desc>Jake gets Daria a job after she reveals the result of her career aptitude test, Trent and Jesse attempt to write a new song, and Jane tries to save Daria from humiliation.</desc>
+    <episode-num system="onscreen">S03E306</episode-num>
+    <date>19990707</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422133000 +0500" stop="20260422140000 +0500">
+    <title>Daria</title>
+    <sub-title>Daria!</sub-title>
+    <desc>As a hurricane approaches Lawndale, the town's residents spontaneously break into song, and Daria, Jane, Brittany, and Kevin are forced to brace the storm together.</desc>
     <episode-num system="onscreen">S03E307</episode-num>
+    <date>19990217</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422140000 +0500" stop="20260422143000 +0500">
+    <title>Daria</title>
+    <sub-title>Lane Miserables</sub-title>
+    <desc>When Jane's family members all come home at once, she and Trent temporarily move into Daria's house, Helen and Jake pick Jane's brain, and Daria imagines a future with Trent.</desc>
+    <episode-num system="onscreen">S03E308</episode-num>
     <date>19990714</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
     <category>Series</category>
+    <category>Comedy</category>
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420083000 +0500" stop="20260420090000 +0500">
-    <title>South Park</title>
-    <sub-title>Jewbilee</sub-title>
-    <desc>Kyle invites Kenny to join him and Ike at Jewbilee, a camp for Jewish kids.</desc>
+    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422143000 +0500" stop="20260422150000 +0500">
+    <title>Daria</title>
+    <sub-title>Jake Of Hearts</sub-title>
+    <desc>Two wacky radio DJs broadcast their show outside of Lawndale High, and Daria's grandma Ruth moves into the Morgendorffer household after Jake suffers a medical emergency.</desc>
     <episode-num system="onscreen">S03E309</episode-num>
-    <date>19990728</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
+    <date>19990721</date>
     <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5f051a0cd4495f0013a20ff5/tile_1770068161626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420090000 +0500" stop="20260420093000 +0500">
-    <title>Drunk History</title>
-    <sub-title>Behind Enemy Lines</sub-title>
-    <desc>Marina Raskova forms an all-women air force regiment to fight Nazis in World War II, and smuggler James J. Andrews hijacks a Confederate train for the Union.</desc>
-    <episode-num system="onscreen">S06E14</episode-num>
-    <date>20190723</date>
     <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420093000 +0500" stop="20260420100000 +0500">
-    <title>Drunk History</title>
-    <sub-title>S.O.S.</sub-title>
-    <desc>Navy officer Douglas Hegdahl outwits his captors when he's taken as a POW in North Vietnam, and Florence Nightingale revolutionizes the field of nursing.</desc>
-    <episode-num system="onscreen">S06E15</episode-num>
-    <date>20190730</date>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420100000 +0500" stop="20260420103000 +0500">
-    <title>Drunk History</title>
-    <sub-title>Bad Blood</sub-title>
-    <desc>Mary Mallon spreads typhoid fever wherever she goes, and Cleopatra's younger sister Arsinoe schemes her way in and out of power in Ancient Egypt.</desc>
-    <episode-num system="onscreen">S06E16</episode-num>
-    <date>20190806</date>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420103000 +0500" stop="20260420110000 +0500">
-    <title>Drunk History</title>
-    <sub-title>Boston</sub-title>
-    <desc>Mary Dyer wages war with the Puritan establishment, two cunning thieves pull off a $500 million art heist, &amp; the most notorious arsonist in New England history is revealed. Guest starring: Winona Ryder, Michael Cera, Nick Offerman.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20130709</date>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420110000 +0500" stop="20260420113000 +0500">
-    <title>Drunk History</title>
-    <sub-title>Washington D.C.</sub-title>
-    <desc>Woodward and Bernstein blow open the Watergate scandal, actors/brothers Edwin and John Wilkes Booth engage in a tragic feud, and Elvis crashes the White House to meet Nixon. Guest starring Jack Black, Dave Grohl, Bob Odenkirk.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20130716</date>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420113000 +0500" stop="20260420120000 +0500">
-    <title>Drunk History</title>
-    <sub-title>Chicago</sub-title>
-    <desc>Al Capone gets destroyed by an unlikely enemy, prairie lawyer Abraham Lincoln gets a huge break, and the police go to war with protestors during the Haymarket Riot. Guest starring Ike Barinholtz, Joe Lo Truglio, Matt Besser.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20130723</date>
-    <category>Comedy</category>
-    <category>Political Comedies</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/64122528803fcf00132e083f/tile_1774501201360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420120000 +0500" stop="20260420123000 +0500">
-    <title>Daria</title>
-    <sub-title>That Was Then, This is Dumb</sub-title>
-    <desc>Helen and Jake realize how much they've changed while spending a weekend with their friends from college, and Jane and Daria join Trent on a trip to the flea market.</desc>
-    <episode-num system="onscreen">S02E205</episode-num>
-    <date>19980316</date>
-    <category>Comedy</category>
-    <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420123000 +0500" stop="20260420130000 +0500">
-    <title>Daria</title>
-    <sub-title>Monster</sub-title>
-    <desc>Daria and Jane record a film about Quinn's daily life for a school project with the hopes of making her look ridiculous, but Daria's conscience begins to weigh on her.</desc>
-    <episode-num system="onscreen">S02E206</episode-num>
-    <date>19980323</date>
-    <category>Comedy</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420130000 +0500" stop="20260420133000 +0500">
-    <title>Daria</title>
-    <sub-title>The New Kid</sub-title>
-    <desc>While working on the school yearbook, Daria takes a liking to a formerly homeschooled student with many eccentricities.</desc>
-    <episode-num system="onscreen">S02E207</episode-num>
-    <date>19980330</date>
-    <category>Comedy</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420133000 +0500" stop="20260420140000 +0500">
-    <title>Daria</title>
-    <sub-title>Gifted</sub-title>
-    <desc>When Daria and Jodie are invited to tour a school for gifted students, their parents struggle to get along, and Quinn finds herself at odds with her own friends.</desc>
-    <episode-num system="onscreen">S02E208</episode-num>
-    <date>19980629</date>
-    <category>Comedy</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420140000 +0500" stop="20260420143000 +0500">
-    <title>Daria</title>
-    <sub-title>Ill</sub-title>
-    <desc>Rumors begin to swirl at school when a mysterious rash sends Daria to the hospital.</desc>
-    <episode-num system="onscreen">S02E209</episode-num>
-    <date>19980706</date>
-    <category>Comedy</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420143000 +0500" stop="20260420150000 +0500">
-    <title>Daria</title>
-    <sub-title>Fair Enough</sub-title>
-    <desc>Lawndale High holds a medieval fair to raise money for a new library roof, and Quinn tries out for the lead in a play.</desc>
-    <episode-num system="onscreen">S02E210</episode-num>
-    <date>19980713</date>
-    <category>Comedy</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/5faacf0e6492fa001d02f2ef/tile_1770066721268.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420150000 +0500" stop="20260420153000 +0500">
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422150000 +0500" stop="20260422153000 +0500">
     <title>Broad City</title>
+    <sub-title>Rat Pack</sub-title>
+    <desc>After receiving a hefty exterminator bill, Jaime and Ilana decide to throw a party to recoup the costs. Meanwhile, Abbi embarks on a mission to meet new people.</desc>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <date>20160309</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6464093354afb6001a1fa134/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422153000 +0500" stop="20260422160000 +0500">
+    <title>Broad City</title>
+    <sub-title>2016</sub-title>
+    <desc>Ilana finds her new calling, and Abbi must brave the most dreaded place in the world: the DMV.</desc>
+    <episode-num system="onscreen">S03E05</episode-num>
+    <date>20160316</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6464093354afb6001a1fa134/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422160000 +0500" stop="20260422163000 +0500">
+    <title>The Sarah Silverman Program</title>
+    <sub-title>The Sarah Silverman Program Smellin' of Troy</sub-title>
+    <desc>Troy, Sarah's childhood imaginary friend, returns and lures her into a life of sex and drugs. Steve's song that mocks Brian gains immense popularity.</desc>
+    <episode-num system="onscreen">S03E306</episode-num>
+    <date>20100311</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Screwball</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422163000 +0500" stop="20260422170000 +0500">
+    <title>The Sarah Silverman Program</title>
+    <sub-title>The Sarah Silverman Program Nightmayor</sub-title>
+    <desc>Sarah campaigns for fake mayoral candidate May Kadoody, and Steve asks Brian to consider marriage.</desc>
+    <episode-num system="onscreen">S03E307</episode-num>
+    <date>20100225</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Screwball</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422170000 +0500" stop="20260422173000 +0500">
+    <title>Workaholics</title>
+    <sub-title>Gramps DeMamp is Dead</sub-title>
+    <desc>Adam and his rambunctious father hijack Gramps DeMamp's funeral.</desc>
+    <episode-num system="onscreen">S05E506</episode-num>
+    <date>20150225</date>
+    <category>Series</category>
+    <category>Comedy</category>
+    <category>Late Night Comedies</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422173000 +0500" stop="20260422183000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
     <sub-title />
-    <desc>The broads say goodbye.</desc>
-    <episode-num system="onscreen">S05E10</episode-num>
-    <date>20190328</date>
-    <category>Comedy</category>
-    <category>Series</category>
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/6464093354afb6001a1fa134/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420153000 +0500" stop="20260420160000 +0500">
-    <title>Broad City</title>
-    <sub-title>Two Chainz</sub-title>
-    <desc>Abbi and Ilana experience major wardrobe malfunctions on the way to a friend's gallery show and embark on a desperate search for a public bathroom.</desc>
-    <episode-num system="onscreen">S03E01</episode-num>
-    <date>20160217</date>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422183000 +0500" stop="20260422193000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/6464093354afb6001a1fa134/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420160000 +0500" stop="20260420163000 +0500">
-    <title>The Sarah Silverman Program</title>
-    <sub-title>The Sarah Silverman Program Songs in the Key of Yuck</sub-title>
-    <desc>Sarah convinces jam band fans that drugs make them like their favorite music, and Laura finds a way to cope with Officer Jay's "laughmares."</desc>
-    <episode-num system="onscreen">S03E302</episode-num>
-    <date>20100326</date>
-    <category>Screwball</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422193000 +0500" stop="20260422203000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420163000 +0500" stop="20260420170000 +0500">
-    <title>The Sarah Silverman Program</title>
-    <sub-title>The Sarah Silverman Program The Proof Is in the Penis</sub-title>
-    <desc>Laura falsely tells Sarah that she was born with a penis and a vagina, and Brian and Steve are haunted by a ghost.</desc>
-    <episode-num system="onscreen">S03E303</episode-num>
-    <date>20100204</date>
-    <category>Screwball</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422203000 +0500" stop="20260422213000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/5cd098ac2b93b75365dd7a67/tile_1770067440970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420170000 +0500" stop="20260420173000 +0500">
-    <title>Workaholics</title>
-    <sub-title>Best Buds</sub-title>
-    <desc>Using Karl's new legal weed connection, the guys set up their own weed and burrito restaurant, but tensions arise when Karl and Ders prove to be terrible bosses.</desc>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <date>20140319</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422213000 +0500" stop="20260422223000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420173000 +0500" stop="20260420180000 +0500">
-    <title>Workaholics</title>
-    <sub-title>Friendship Anniversary</sub-title>
-    <desc>The guys have a huge fight while at dinner to commemorate seven years of living together and spend a miserable night apart from one another.</desc>
-    <episode-num system="onscreen">S04E408</episode-num>
-    <date>20140416</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422223000 +0500" stop="20260422233000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420180000 +0500" stop="20260420183000 +0500">
-    <title>Workaholics</title>
-    <sub-title>Miss BS</sub-title>
-    <desc>The guys put the entire office in danger after showing off their office-pranking skills in front of their favorite undercover business reporter.</desc>
-    <episode-num system="onscreen">S04E09</episode-num>
-    <date>20140212</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260422233000 +0500" stop="20260423003000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420183000 +0500" stop="20260420190000 +0500">
-    <title>Workaholics</title>
-    <sub-title>Beer Heist</sub-title>
-    <desc>To impress a bunch of college girls, the guys find themselves embarking on a daring heist to steal beer for a dorm party.</desc>
-    <episode-num system="onscreen">S04E10</episode-num>
-    <date>20140312</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423003000 +0500" stop="20260423013000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420190000 +0500" stop="20260420193000 +0500">
-    <title>Workaholics</title>
-    <sub-title>DeputyDong</sub-title>
-    <desc>When the guys happen upon the home address of a gamer who's been verbally abusing them online, they come up with a plan to sneak into his house and delete his account.</desc>
-    <episode-num system="onscreen">S04E11</episode-num>
-    <date>20140409</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423013000 +0500" stop="20260423023000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420193000 +0500" stop="20260420200000 +0500">
-    <title>Workaholics</title>
-    <sub-title>Timechair</sub-title>
-    <desc>The guys engage in a Mario Kart-style race to determine who will lay claim to a free massage chair.</desc>
-    <episode-num system="onscreen">S04E12</episode-num>
-    <date>20140326</date>
-    <category>Late Night Comedies</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423023000 +0500" stop="20260423033000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60e4d3dbc567be0013a87277/tile_1770068161525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420200000 +0500" stop="20260420203000 +0500">
-    <title>Key &amp; Peele</title>
-    <sub-title>The 420 Special</sub-title>
-    <desc>Neil deGrasse Tyson schools his wife on the multiverse theory, the valets get pumped about Game of Thrones, and a telemarketer employs an unexpected strategy.</desc>
-    <episode-num system="onscreen">S05E509</episode-num>
-    <date>20150902</date>
-    <category>Variety</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423033000 +0500" stop="20260423043000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1770074646643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420203000 +0500" stop="20260420210000 +0500">
-    <title>Key &amp; Peele</title>
-    <sub-title>Meegan &amp; Andre Break Up</sub-title>
-    <desc>Andre and Meegan have a serious talk, a rapper runs into trouble while trying to storm out of an interview, and an airline passenger adapts to life in economy plus.</desc>
-    <episode-num system="onscreen">S05E510</episode-num>
-    <date>20150909</date>
-    <category>Variety</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423043000 +0500" stop="20260423053000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1770074646643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420210000 +0500" stop="20260420213000 +0500">
-    <title>Key &amp; Peele</title>
-    <sub-title>The End</sub-title>
-    <desc>Ghostbusters singer Ray Parker Jr. unveils his lesser-known songs, a young man is transported to a magical land, and Jordan and Keegan reach their final destination.</desc>
-    <episode-num system="onscreen">S05E511</episode-num>
-    <date>20150909</date>
-    <category>Variety</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423053000 +0500" stop="20260423063000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1770074646643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420213000 +0500" stop="20260420220000 +0500">
-    <title>Key &amp; Peele</title>
-    <sub-title>I Said Bitch</sub-title>
-    <desc>Jordan and Keegan trade stories about a forbidden word, while President Obama's anger gets translated.</desc>
-    <episode-num system="onscreen">S01E101</episode-num>
-    <date>20120131</date>
-    <category>Variety</category>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423063000 +0500" stop="20260423073000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/60112c1ace98800013ecc1bb/tile_1770074646643.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="Comedy-Central-Pluto-US" start="20260420220000 +0500" stop="20260420223000 +0500">
-    <title>Beavis and Butt-Head</title>
-    <sub-title>The Mike Judge Collection 108</sub-title>
-    <desc>Episode 8 includes Choke, Killing Time, Safe House, and Dude, A Reward, handpicked by Mike Judge himself.</desc>
-    <episode-num system="onscreen">S01E108</episode-num>
-    <date>19941102</date>
-    <category>Comedy</category>
-    <category>Series</category>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423073000 +0500" stop="20260423083000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
     <language>en</language>
-    <icon src="https://images.pluto.tv/series/5cc35a2f07ebeec9f639bf69/tile_1771528681179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423083000 +0500" stop="20260423093000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423093000 +0500" stop="20260423103000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423103000 +0500" stop="20260423113000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423113000 +0500" stop="20260423123000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423123000 +0500" stop="20260423133000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423133000 +0500" stop="20260423143000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423143000 +0500" stop="20260423153000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423153000 +0500" stop="20260423163000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423163000 +0500" stop="20260423173000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423173000 +0500" stop="20260423183000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423183000 +0500" stop="20260423193000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423193000 +0500" stop="20260423203000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423203000 +0500" stop="20260423213000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423213000 +0500" stop="20260423223000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423223000 +0500" stop="20260423233000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Comedy-Central-Pluto-US" start="20260423233000 +0500" stop="20260424003000 +0500">
+    <title>Comedy Central Pluto TV: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
   </programme>
 </tv>

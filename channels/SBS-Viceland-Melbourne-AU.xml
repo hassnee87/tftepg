@@ -3,600 +3,7 @@
   <channel id="SBS-Viceland-Melbourne-AU">
     <display-name>SBS Viceland Melbourne</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/SBS-Viceland-Melbourne-AU.png" />
-  </channel><programme channel="SBS-Viceland-Melbourne-AU" start="20260420071500 +0500" stop="20260420074500 +0500">
-    <title>France 24 English News</title>
-    <sub-title />
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420074500 +0500" stop="20260420083500 +0500">
-    <title>Pitino: Red Storm Rising</title>
-    <sub-title>The Rebuild</sub-title>
-    <desc>New faces, new goals, same old intensity from Rick Pitino. Coach reflects on a previous rebuild at Kentucky as an early season classic brings back some painful memories.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437275/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420083500 +0500" stop="20260420092500 +0500">
-    <title>Pitino: Red Storm Rising</title>
-    <sub-title>The Family</sub-title>
-    <desc>As Coach Pitino prepares to face his son, a leader emerges for the Red Storm. In dramatic fashion, Rick returns to a special place that helped launch his career.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/437275/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420092500 +0500" stop="20260420095500 +0500">
-    <title>Inside the Huddle</title>
-    <sub-title />
-    <desc>What is it like to be a footballer? Candid conversations, laughs, and insights that go beyond the game and into the outer.</desc>
-    <episode-num system="onscreen">E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441583/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420095500 +0500" stop="20260420102500 +0500">
-    <title>Over the Black Dot</title>
-    <sub-title />
-    <desc>In 2026, Over the Black Dot becomes a digital-first Rugby League yarn free-flowing conversations on footy, culture and community, with panellists and guests sharing authentic Indigenous stories.</desc>
-    <episode-num system="onscreen">E7</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/358226/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420102500 +0500" stop="20260420105500 +0500">
-    <title>Stories From The Cities</title>
-    <sub-title>Toronto</sub-title>
-    <desc>Stories from the Cities journeys across Canada, Mexico, and the United States, exploring the host cities of the FIFA World Cup 2026. In this episode, we discover the footballing spirit of Toronto through its people, neighbourhoods, culture, and the everyday moments that define the city.</desc>
-    <episode-num system="onscreen">E9</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441281/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420105500 +0500" stop="20260420112000 +0500">
-    <title>BBC News at Ten</title>
-    <sub-title />
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420112000 +0500" stop="20260420115000 +0500">
-    <title>France 24 International News</title>
-    <sub-title />
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420115000 +0500" stop="20260420122000 +0500">
-    <title>PBS News Compass Points</title>
-    <sub-title />
-    <desc>Join PBS News Hour's Nick Schifrin and a panel of experts each week analysing prominent international affairs topics and America's role in a shifting world, breaking down global conflicts, rising tensions, and their implications for U.S. interests.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/440793/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420122000 +0500" stop="20260420125000 +0500">
-    <title>Al Jazeera News Viceland Afternoon</title>
-    <sub-title />
-    <desc>News via satellite from Al Jazeera Satellite Network, Qatar, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438076/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420125000 +0500" stop="20260420134000 +0500">
-    <title>The Curse of Oak Island</title>
-    <sub-title>Into The Fold</sub-title>
-    <desc>After a new Bobby Dazzler is unearthed on Lot 5, the Oak Island team makes a discovery with possible religious implications.</desc>
-    <episode-num system="onscreen">S13 E9</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/310842/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420134000 +0500" stop="20260420140500 +0500">
-    <title>Jeopardy!</title>
-    <sub-title />
-    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
-    <episode-num system="onscreen">S41 E61</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420140500 +0500" stop="20260420143000 +0500">
-    <title>Jeopardy!</title>
-    <sub-title />
-    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
-    <episode-num system="onscreen">S41 E62</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420143000 +0500" stop="20260420143500 +0500">
-    <title>NITV News Update</title>
-    <sub-title />
-    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
-    <episode-num system="onscreen">E66</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420143500 +0500" stop="20260420153000 +0500">
-    <title>8 Out of 10 Cats Does Countdown</title>
-    <sub-title />
-    <desc>Jimmy Carr hosts season fourteen of 8 Out of 10 Cats. Roisin Conaty and Kiri Pritchard-Mclean take on Jon Richardson and Rob Beckett in the classic words and numbers quiz.</desc>
-    <episode-num system="onscreen">S14 E5</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/375617/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420153000 +0500" stop="20260420162000 +0500">
-    <title>Holy Marvels with Dennis Quaid</title>
-    <sub-title>Legendary Weapons</sub-title>
-    <desc>Ancient legends tell of sacred weapons, mythical swords and monster slaying artifacts. Explore their creation, legendary wielders, and the epic battles that made them immortal.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/433138/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420162000 +0500" stop="20260420171000 +0500">
-    <title>Great Escapes with Morgan Freeman</title>
-    <sub-title>Alton City Escape</sub-title>
-    <desc>Quawntay Adams, a young African American man from South-Central Los Angeles, gets caught up in a large-scale marijuana bust and is sentenced to a long prison term. When he finds out he is going to be a father, he determines to break out of his maximum-security cell - which he does.</desc>
-    <episode-num system="onscreen">S2 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/410476/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420171000 +0500" stop="20260420182000 +0500">
-    <title>The Hospital: In the Deep End</title>
-    <sub-title />
-    <desc>Former tennis pro Jelena Dokic, Hollywood star Ruby Rose, and food writer Matt Preston return for their final shifts at St Vincent's. Jelena works in oncology to better understand lung cancer, the condition which took the life of her mother-in-law. Ruby works in the Aboriginal Healthcare Unit inspired by her godfather Lionel Rose, and Matt joins staff in neurology to learn more about epilepsy, a condition that claimed his brother nearly 40 years ago.</desc>
-    <episode-num system="onscreen">S2 E3</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/429289/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420182000 +0500" stop="20260420191500 +0500">
-    <title>Hudson &amp; Rex</title>
-    <sub-title>Criminal Rex</sub-title>
-    <desc>Sarah and Rex are abducted by old foe Rupert Mankiewicz, who plans twisted revenge by weaponising Rex. Mark and Jesse race to find them before it's too late.</desc>
-    <episode-num system="onscreen">S8 E7</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/426151/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420191500 +0500" stop="20260420200000 +0500">
-    <title>History of the Sitcom</title>
-    <sub-title>Freaks, Geeks &amp; Outsiders</sub-title>
-    <desc>Though the nerds in Big Bang Theory owned the airwaves in the new millennium, sitcoms have always found humour in fish-out-of-water stories, whether about aliens, witches, monsters, nerds, or teens. Bewitched and Sabrina long cast a spell on audiences, while Mork and Mindy give us fresh, funny alien insights into ourselves. In one way or another, audiences relate to outsiders, and these iconic characters give license to laugh at our own foibles in ways few other forms of entertainment do.</desc>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/422542/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420200000 +0500" stop="20260420205500 +0500">
-    <title>Dark Side of the Ring</title>
-    <sub-title>The Ballad of 'earthquake'</sub-title>
-    <desc>John Tenta couldn't be further from the monstrous 'Earthquake' WWF fans loved to hate. As his career faded, a health battle would threaten to take him from the family he loved.</desc>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/384595/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420205500 +0500" stop="20260420215000 +0500">
-    <title>Normal People</title>
-    <sub-title />
-    <desc>In their final year in Trinity, Marianne and Connell are back together, but whether their relationship will endure after they graduate is uncertain.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/396830/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260420215000 +0500" stop="20260421000000 +0500">
-    <title>NHK World English News</title>
-    <sub-title />
-    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421000000 +0500" stop="20260421010000 +0500">
-    <title>Al Jazeera News Hour</title>
-    <sub-title />
-    <desc>In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421010000 +0500" stop="20260421015000 +0500">
-    <title>TRT World News</title>
-    <sub-title />
-    <desc>The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421015000 +0500" stop="20260421022000 +0500">
-    <title>Indian Country Today News</title>
-    <sub-title />
-    <desc>An independent news channel that serves Indigenous communities with news, entertainment, and opinion.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413687/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421022000 +0500" stop="20260421025000 +0500">
-    <title>FBC News</title>
-    <sub-title />
-    <desc>Local, world, sport and entertainment news in English from FBC News, Suva Fiji.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421025000 +0500" stop="20260421030000 +0500">
-    <title>France 24 Feature</title>
-    <sub-title>First Edition</sub-title>
-    <desc>News feature in English from France 24, Paris.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421030000 +0500" stop="20260421031000 +0500">
-    <title>euronews</title>
-    <sub-title />
-    <desc>Headlines, Breaking News &amp; Analysis from the Euronews news centre in Brussels, Belgium, in English.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/160287/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421031000 +0500" stop="20260421034000 +0500">
-    <title>NHK Newsline</title>
-    <sub-title />
-    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421034000 +0500" stop="20260421043000 +0500">
-    <title>CBC The National</title>
-    <sub-title />
-    <desc>CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada. Watch on SBS VICELAND at 08:40am everyday, also available on SBS OnDemand.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421043000 +0500" stop="20260421050000 +0500">
-    <title>BBC 6 O'Clock News</title>
-    <sub-title />
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/412627/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421050000 +0500" stop="20260421053000 +0500">
-    <title>France 24 English News</title>
-    <sub-title />
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421053000 +0500" stop="20260421060500 +0500">
-    <title>The Movie Show</title>
-    <sub-title />
-    <desc>David Stratton and Margaret Pomeranz review The Player, Zentropa, Wayne's World. Plus interviews with Lars von Trier, cast and crew, and Ray Lawrence on Bliss.</desc>
-    <episode-num system="onscreen">E20</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421060500 +0500" stop="20260421064000 +0500">
-    <title>The Movie Show</title>
-    <sub-title />
-    <desc>Margaret Pomeranz and David Stratton review Love Crimes, La Discrete, My Sky, My Home, Edward II. Plus interviews with Lizzie Borden and Derek Jarman.</desc>
-    <episode-num system="onscreen">E21</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421064000 +0500" stop="20260421071500 +0500">
-    <title>The Movie Show</title>
-    <sub-title />
-    <desc>David Stratton and Margaret Pomeranz review Voyager, Gladiator, Mania, My Tigers Eyes, The Rapture, and shorts Relax, I'm British But..., The Body Beautiful. Plus AWGIE Awards coverage and interviews.</desc>
-    <episode-num system="onscreen">E22</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421071500 +0500" stop="20260421074500 +0500">
-    <title>DW The Day</title>
-    <sub-title />
-    <desc>DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421074500 +0500" stop="20260421084000 +0500">
-    <title>Homicide: Life on the Street</title>
-    <sub-title>Abduction</sub-title>
-    <desc>Detective Falsone leads the search for a kidnapped 4 year old. The whole squad joins, narrowing suspects with press help. Tensions rise as the case unfolds. Braugher, Diamond, and others star.</desc>
-    <episode-num system="onscreen">S6 E17</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131301/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421084000 +0500" stop="20260421093500 +0500">
-    <title>Homicide: Life on the Street</title>
-    <sub-title>Full Court Press</sub-title>
-    <desc>After a star player's murder shakes the town, detectives Munch and Gharty uncover his dark side. Pembleton and Bayliss close a long case while Lewis tails Mahoney's crew.</desc>
-    <episode-num system="onscreen">S6 E18</episode-num>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/131301/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421093500 +0500" stop="20260421100000 +0500">
-    <title>The Grudge</title>
-    <sub-title>Shaq VS Kobe</sub-title>
-    <desc>When Shaq and Kobe joined the Lakers, a dynasty seemed certain. But clashing egos, contrasting styles, and Hollywood pressure made their partnership a ticking time bomb.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/440655/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421100000 +0500" stop="20260421104500 +0500">
-    <title>Forged in Fire</title>
-    <sub-title>Gladiators Of The Forge: The Final Battles</sub-title>
-    <desc>The reigning champion has defeated six opponents, but now must face a returning challenger and forge the intricate Acinaces sword. With 50,000 dollars on the line, will our unbeaten champ lay claim to the Gladiator title once and for all or will a former competitor get his revenge?</desc>
-    <episode-num system="onscreen">S9 E23</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/332647/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421104500 +0500" stop="20260421105000 +0500">
-    <title>NITV News Update</title>
-    <sub-title />
-    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
-    <episode-num system="onscreen">E66</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421105000 +0500" stop="20260421112000 +0500">
-    <title>BBC News at Ten</title>
-    <sub-title />
-    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421112000 +0500" stop="20260421115000 +0500">
-    <title>France 24 International News</title>
-    <sub-title />
-    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421115000 +0500" stop="20260421125000 +0500">
-    <title>PBS NewsHour</title>
-    <sub-title />
-    <desc>Reviews and analysis of the day's news presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421125000 +0500" stop="20260421134000 +0500">
-    <title>The Curse of Oak Island</title>
-    <sub-title>So Close, Yet Sonar</sub-title>
-    <desc>After verifying a recent find on Lot 5 to be a sacred, religious artifact, the team drills through a surprising discovery deep in the Money Pit area.</desc>
-    <episode-num system="onscreen">S13 E10</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/310842/image/334x188" />
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421134000 +0500" stop="20260421140500 +0500">
-    <title>Jeopardy!</title>
-    <sub-title />
-    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
-    <episode-num system="onscreen">S41 E63</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421140500 +0500" stop="20260421143000 +0500">
-    <title>Jeopardy!</title>
-    <sub-title />
-    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
-    <episode-num system="onscreen">S41 E64</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421143000 +0500" stop="20260421143500 +0500">
-    <title>NITV News Update</title>
-    <sub-title />
-    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
-    <episode-num system="onscreen">E67</episode-num>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
-    <rating system="AU">
-      <value>NR</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421143500 +0500" stop="20260421153000 +0500">
-    <title>8 Out of 10 Cats Does Countdown</title>
-    <sub-title />
-    <desc>Jimmy Carr hosts season fourteen of 8 Out of 10 Cats. Roisin Conaty and Asim Chaudry take on Jon Richardson and Josh Widdicombe in the classic words and numbers quiz. Nick Mohammad as Mr Swallow joins Susie Dent in Dictionary Corner, while maths whizz Rachel Riley looks after the numbers.</desc>
-    <episode-num system="onscreen">S14 E6</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/375617/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421153000 +0500" stop="20260421162000 +0500">
-    <title>The Harlem Hellfighters</title>
-    <sub-title />
-    <desc>The Harlem Hellfighters follows the creation of the hard fighting regiment of Black soldiers as they fight for true democracy, both at home and abroad, during World War I.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/442168/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421162000 +0500" stop="20260421173000 +0500">
-    <title>Heston Blumenthal: Life with Bipolar</title>
-    <sub-title />
-    <desc>Heston Blumenthal is one the world's greatest chefs, yet in 2023, he started experiencing hallucinations and suicidal thoughts. He was hospitalised and diagnosed with bipolar disorder. This film follows Heston as he tries to understand the role this played in his success. With exclusive access to those closest to him, this is an emotional exploration of a devastating mental health condition.</desc>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/438787/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421173000 +0500" stop="20260421182500 +0500">
-    <title>Chasing Speed</title>
-    <sub-title>The Countdown</sub-title>
-    <desc>Pressure mounts as rivalries ignite in the Countdown. Leah defends Tony, chaos erupts in Reading, Prock and Hagan clash again, and legends remind us why integrity matters.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <category lang="en">Sports</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/441805/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421182500 +0500" stop="20260421191500 +0500">
-    <title>Brassic</title>
-    <sub-title>The Manolito Problem</sub-title>
-    <desc>In their biggest heist yet the gang steal some rare Lowry paintings, only Manolito always seems to be one step ahead.</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/392681/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421191500 +0500" stop="20260421200000 +0500">
-    <title>Time to Buy: A Musical</title>
-    <sub-title />
-    <desc>An all singing, all dancing fever dream musical about the Australian property market. Featuring first home buyers, boomer investors, predatory lenders and a real estate chatbot in the middle of an existential crisis. This is the story of love, money and negative gearing.</desc>
-    <category lang="en">Kids &amp; Family</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/435356/image/334x188" />
-    <rating system="AU">
-      <value>MA</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421200000 +0500" stop="20260421213500 +0500">
-    <title>WWE Legends</title>
-    <sub-title>Dusty Rhodes</sub-title>
-    <desc>Growing-up in East Austin, Texas - Virgil Riley Runnels, Jr. always had an outsized vision of the possibilities for himself.</desc>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <category lang="en">Special Interest</category>
-    <language>en</language>
-    <icon src="https://www.fetchtv.com.au/v2/epg/program/405269/image/334x188" />
-    <rating system="AU">
-      <value>M</value>
-    </rating>
-  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260421213500 +0500" stop="20260422000000 +0500">
+  </channel><programme channel="SBS-Viceland-Melbourne-AU" start="20260421213500 +0500" stop="20260422000000 +0500">
     <title>NHK World English News</title>
     <sub-title />
     <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
@@ -770,6 +177,521 @@
     <icon src="https://www.fetchtv.com.au/v2/epg/program/412378/image/334x188" />
     <rating system="AU">
       <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422093000 +0500" stop="20260422100500 +0500">
+    <title>Whatever Scares You: Curious Australia</title>
+    <sub-title />
+    <desc>Whatever Scares You is a rite of passage film that follows Breanna Deleo in her first year of work. Breanna is attempting to work as a professional artist - a challenging profession for anyone. Also, Breanna has begun to identify as neurodivergent. Her parents are her greatest allies and advocates. They want to protect Breanna but sometimes to find our way in the world, we need to go it alone.</desc>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/428140/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422100500 +0500" stop="20260422110000 +0500">
+    <title>The Bee Whisperer</title>
+    <sub-title>Bee Migration</sub-title>
+    <desc>Going behind the scenes with migratory beekeeping operations, Charlie gets a once-in-a-lifetime look at the largest insect migration in the world. The he travels to Prime Bees in College Station, Texas to learn operating a forklift for commercial beekeeping.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/407755/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422110000 +0500" stop="20260422110500 +0500">
+    <title>NITV News Update</title>
+    <sub-title />
+    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
+    <episode-num system="onscreen">E67</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422110500 +0500" stop="20260422113500 +0500">
+    <title>BBC News at Ten</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422113500 +0500" stop="20260422120500 +0500">
+    <title>France 24 International News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422120500 +0500" stop="20260422130500 +0500">
+    <title>PBS NewsHour</title>
+    <sub-title />
+    <desc>Reviews and analysis of the day's news presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422130500 +0500" stop="20260422135500 +0500">
+    <title>The Curse of Oak Island</title>
+    <sub-title>Boulder And Wiser</sub-title>
+    <desc>When the team finds an artifact on Lot 8 that may date to medieval times, it leads them to another, massive discovery.</desc>
+    <episode-num system="onscreen">S13 E11</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310842/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422135500 +0500" stop="20260422142000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S41 E65</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422142000 +0500" stop="20260422144500 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S41 E66</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422144500 +0500" stop="20260422145000 +0500">
+    <title>NITV News Update</title>
+    <sub-title />
+    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
+    <episode-num system="onscreen">E68</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422145000 +0500" stop="20260422154500 +0500">
+    <title>8 Out of 10 Cats Does Countdown</title>
+    <sub-title />
+    <desc>Jimmy Carr hosts season fourteen of 8 Out of 10 Cats. Lee Mack and Joe Wilkinson take on Jon Richardson and Jessica Knappett in the classic words and numbers quiz. Nigel Ng joins Susie Dent in Dictionary Corner, while maths whizz Rachel Riley looks after the numbers.</desc>
+    <episode-num system="onscreen">S14 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/375617/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422154500 +0500" stop="20260422194500 +0500">
+    <title>Fleche-Wallonne Men's</title>
+    <sub-title>Full Race</sub-title>
+    <desc>All the action from the 2026 Fleche-Wallonne Men's Race, a 208 km one-day classic featuring challenging climbs and finishing atop the Mur de Huy.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412788/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422194500 +0500" stop="20260422211500 +0500">
+    <title>Fleche-Wallonne Women's</title>
+    <sub-title>Full Race</sub-title>
+    <desc>All the action from the 2026 Fleche-Wallonne Women's race, a 142.8 km race in Belgium, featuring nine climbs, including two ascents of the iconic Mur de Huy.</desc>
+    <episode-num system="onscreen">E1</episode-num>
+    <category lang="en">Sports</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412789/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422211500 +0500" stop="20260422214500 +0500">
+    <title>Travel Man</title>
+    <sub-title>Barcelona</sub-title>
+    <desc>Richard Ayoade wants to make travelling more fun, more efficient, and less tedious. In the first of this four-part series, Richard jets off to Barcelona with comedian and actress Kathy Burke, experiencing the best of this popular holiday destination in just 48 hours - including a visit to the Barcelona Football Club museum and a trip to see the Surrealist work of Catalan artist Joan Miro.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/334076/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260422214500 +0500" stop="20260423000000 +0500">
+    <title>NHK World English News</title>
+    <sub-title />
+    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423000000 +0500" stop="20260423010000 +0500">
+    <title>Al Jazeera News Hour</title>
+    <sub-title />
+    <desc>In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423010000 +0500" stop="20260423015000 +0500">
+    <title>TRT World News</title>
+    <sub-title />
+    <desc>The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423015000 +0500" stop="20260423022000 +0500">
+    <title>Te Ao with Moana</title>
+    <sub-title />
+    <desc>A weekly current affairs show that examines New Zealand and international stories through a Maori lens.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/384999/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423022000 +0500" stop="20260423025000 +0500">
+    <title>FBC News</title>
+    <sub-title />
+    <desc>Local, world, sport and entertainment news in English from FBC News, Suva Fiji.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426449/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423025000 +0500" stop="20260423030000 +0500">
+    <title>France 24 Feature</title>
+    <sub-title>First Edition</sub-title>
+    <desc>News feature in English from France 24, Paris.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/337182/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423030000 +0500" stop="20260423031000 +0500">
+    <title>euronews</title>
+    <sub-title />
+    <desc>Headlines, Breaking News &amp; Analysis from the Euronews news centre in Brussels, Belgium, in English.</desc>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/160287/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423031000 +0500" stop="20260423034000 +0500">
+    <title>NHK Newsline</title>
+    <sub-title />
+    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/439062/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423034000 +0500" stop="20260423043000 +0500">
+    <title>CBC The National</title>
+    <sub-title />
+    <desc>CBC's flagship nightly news with hosts Adrienne Arsenault and Andrew Chang from Toronto, Canada. Watch on SBS VICELAND at 08:40am everyday, also available on SBS OnDemand.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413666/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423043000 +0500" stop="20260423050000 +0500">
+    <title>BBC 6 O'Clock News</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/412627/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423050000 +0500" stop="20260423053000 +0500">
+    <title>France 24 English News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310649/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423053000 +0500" stop="20260423060000 +0500">
+    <title>The Ring</title>
+    <sub-title />
+    <desc>The Ring is Euronews' weekly political debate. In each episode, two political representatives from across the EU propose a diversity of opinions and conversations around the most important issues of EU affairs and the wider European political life.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/440736/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423060000 +0500" stop="20260423063500 +0500">
+    <title>The Movie Show</title>
+    <sub-title />
+    <desc>David Stratton and Margaret Pomeranz review Deadly, Patriot Games, Poison Ivy. Plus interviews with Esben Storm, Lydia Miller and Phil Noyce.</desc>
+    <episode-num system="onscreen">E26</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423063500 +0500" stop="20260423071000 +0500">
+    <title>The Movie Show</title>
+    <sub-title />
+    <desc>David Stratton and Margaret Pomeranz review Strictly Ballroom, The Ballad of the Sad Cafe, Knight Moves, Mediterraneo. Plus interviews with Tristram Miall, Harry Baer, and cast and crew.</desc>
+    <episode-num system="onscreen">E27</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/130483/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423071000 +0500" stop="20260423074000 +0500">
+    <title>DW The Day</title>
+    <sub-title />
+    <desc>DW The Day is a news show that helps you understand emerging stories from Europe, the US and across the globe, in English, no subtitles.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/436904/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423074000 +0500" stop="20260423085500 +0500">
+    <title>Alone</title>
+    <sub-title>Spirit Bear</sub-title>
+    <desc>The survivalists find themselves pivoting as new challenges test their strength. One participant loses a valuable resource, while another is pushed to their absolute limit.</desc>
+    <episode-num system="onscreen">S10 E6</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/328237/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423085500 +0500" stop="20260423094500 +0500">
+    <title>UFOs: Investigating the Unknown</title>
+    <sub-title>Close Encounters at Nuclear Bases</sub-title>
+    <desc>U.S. nuclear missiles malfunction after an encounter.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/435422/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423094500 +0500" stop="20260423104500 +0500">
+    <title>Insight</title>
+    <sub-title>Healthcare's Silver Squeeze</sub-title>
+    <desc>With soaring medical bills, waiting lists and an ageing population, how is our healthcare system coping and what will it look like in future? Insight hears from practitioners and patients caught in the healthcare cost crisis and asks who should pay the price?</desc>
+    <episode-num system="onscreen">E3</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/132378/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423104500 +0500" stop="20260423105000 +0500">
+    <title>NITV News Update</title>
+    <sub-title />
+    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
+    <episode-num system="onscreen">E68</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423105000 +0500" stop="20260423112000 +0500">
+    <title>BBC News at Ten</title>
+    <sub-title />
+    <desc>The latest national and international news stories from the BBC News team from London, UK, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/415775/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423112000 +0500" stop="20260423115000 +0500">
+    <title>France 24 International News</title>
+    <sub-title />
+    <desc>International news and current affairs television from Paris, offering a French perspective on world events, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/290253/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423115000 +0500" stop="20260423125000 +0500">
+    <title>PBS NewsHour</title>
+    <sub-title />
+    <desc>Reviews and analysis of the day's news presented by Amna Nawaz and Geoff Bennett for the Public Broadcasting Service (PBS) in the United States.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/249865/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423125000 +0500" stop="20260423134000 +0500">
+    <title>The Curse of Oak Island</title>
+    <sub-title>A Knight's Journey</sub-title>
+    <desc>As the team makes a potentially key discovery beneath a boulder on Lot 8, new clues arise that could identify who was behind the Oak Island mystery.</desc>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310842/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423134000 +0500" stop="20260423140500 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S41 E67</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423140500 +0500" stop="20260423143000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>Ken Jennings hosts Jeopardy! Where the answers are revealed and the contestants must guess the appropriate questions.</desc>
+    <episode-num system="onscreen">S41 E68</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/129492/image/334x188" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423143000 +0500" stop="20260423143500 +0500">
+    <title>NITV News Update</title>
+    <sub-title />
+    <desc>NITV News recaptures the highlights of Indigenous news around the country.</desc>
+    <episode-num system="onscreen">E69</episode-num>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/354343/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423143500 +0500" stop="20260423153000 +0500">
+    <title>8 Out of 10 Cats Does Countdown</title>
+    <sub-title />
+    <desc>Jimmy Carr hosts season fourteen of 8 Out of 10 Cats. Jack Dee and Tom Allen take on Jon Richardson and Judi Love in the classic words and numbers quiz. John Cooper-Clarke joins Susie Dent in Dictionary Corner, while maths whizz Rachel Riley looks after the numbers.</desc>
+    <episode-num system="onscreen">S14 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/375617/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423153000 +0500" stop="20260423171000 +0500">
+    <title>American Godfathers: The Five Families</title>
+    <sub-title>Death Of The Old Rules</sub-title>
+    <desc>Episode 1 traces the American Mafia from early New York roots through Prohibition to the 1950s, exploring how violence, drugs and public hearings challenged their supposed code of honour.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/442180/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423171000 +0500" stop="20260423180000 +0500">
+    <title>UnXplained with William Shatner</title>
+    <sub-title>Lost Cities</sub-title>
+    <desc>For centuries archaeologists and explorers have been obsessed with locating cities lost to time. Some of these places are recorded in historical texts, while others are part of oral traditions and folklore. How does a once-thriving community become a lost city? And if their ruins are found, what secrets might be they reveal about human history?</desc>
+    <episode-num system="onscreen">S3 E30</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/386497/image/334x188" />
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423180000 +0500" stop="20260423193500 +0500">
+    <title>Theaters of War</title>
+    <sub-title />
+    <desc>If you've seen Top Gun or Transformers, you may have wondered: Does all of that military machinery on screen come with strings attached? Does the military actually get a crack at the script? Theaters of War digs deep into a vast new trove of recently released internal government documents to bring the answers to these questions into sharp focus.</desc>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/432609/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423193500 +0500" stop="20260423203000 +0500">
+    <title>Dark Side of the 2000s</title>
+    <sub-title>The Bachelor: Every Rose Has Its Thorn</sub-title>
+    <desc>Part game show, part reality TV and steered by producers willing to manipulate the truth and their participants, The Bachelor is a ratings machine.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426778/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423203000 +0500" stop="20260423212500 +0500">
+    <title>Dark Side of the 2000s</title>
+    <sub-title>Charlie Sheen: Addicted to Winning</sub-title>
+    <desc>Two and A Half Men is a huge success until Charlie Sheen self-destructs. In a plot twist no one sees coming, he wages a public, hateful and violent war against his producer.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <category lang="en">Special Interest</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/426778/image/334x188" />
+    <rating system="AU">
+      <value>M</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260423212500 +0500" stop="20260424000000 +0500">
+    <title>NHK World English News</title>
+    <sub-title />
+    <desc>English news from Japan's Broadcasting Corporation, NHK, delivering the latest in business, technology, health, environmental and world news.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/310652/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260424000000 +0500" stop="20260424010000 +0500">
+    <title>Al Jazeera News Hour</title>
+    <sub-title />
+    <desc>In-depth global news from Al Jazeera Satellite Network, Doha, Qatar, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/264846/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
+    </rating>
+  </programme><programme channel="SBS-Viceland-Melbourne-AU" start="20260424010000 +0500" stop="20260424015000 +0500">
+    <title>TRT World News</title>
+    <sub-title />
+    <desc>The latest news from around the globe from TRT World, Istanbul, Turkiye, in English.</desc>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://www.fetchtv.com.au/v2/epg/program/413685/image/334x188" />
+    <rating system="AU">
+      <value>NR</value>
     </rating>
   </programme>
 </tv>

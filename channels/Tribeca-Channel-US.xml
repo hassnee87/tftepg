@@ -1,147 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Tribeca-Channel-US">
-    <display-name>Tribeca Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Tribeca-Channel-US.png" />
-  </channel><programme channel="Tribeca-Channel-US" start="20260420040300 +0500" stop="20260420061900 +0500">
-    <title>Kandahar</title>
-    <sub-title />
-    <desc>A CIA operative fights enemy combatants as he tries to reach an extraction point in Afghanistan.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/74b2fee5a39c5844b569c43747da3caf/rokuFeed/assets/9f106f0fe4a650ec9bde1b135daeb562.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420061900 +0500" stop="20260420083100 +0500">
-    <title>Killer Elite</title>
-    <sub-title />
-    <desc>A special-ops agent (Jason Statham) returns from self-imposed exile to rescue his kidnapped mentor.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2883c4c5c8fc5709a69f2e8730d31938/images/gracenote/assets/p8712034_v_h8_an.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420083100 +0500" stop="20260420102400 +0500">
-    <title>London Has Fallen</title>
-    <sub-title />
-    <desc>Secret Service agent Mike Banning must save captive U.S. President Benjamin Asher from terrorists.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ffd1452533c5646b2cb441ce3e5d09a/rokuFeed/assets/1e171e73c1f85cf6af8f8d78b4ff7e24.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420102400 +0500" stop="20260420122100 +0500">
-    <title>The Loft</title>
-    <sub-title />
-    <desc>A dead woman is found in a loft which five men share for extramarital trysts.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/71771ed9439358f38f489473815e32f4/images/gracenote/assets/p10479485_v_h8_ag.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420122100 +0500" stop="20260420141400 +0500">
-    <title>Honest Thief</title>
-    <sub-title />
-    <desc>A professional bank robber goes on the run to clear his name and bring two crooked cops to justice.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6ca55dbc05465c8ba58b8e10a32d2f72/rokuFeed/assets/56d5875d4b9a5510b5044f4672fa6589.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420141400 +0500" stop="20260420155100 +0500">
-    <title>Cardboard Boxer</title>
-    <sub-title />
-    <desc>Willie, homeless and on Skid Row, is coerced by two teens to fight other men for cash.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/eadc093433025f5e8dc55e7420e8b339/rokuFeed/assets/15896757d947580eb44048537ee509c1.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420155100 +0500" stop="20260420175800 +0500">
-    <title>My Dinner With Andre</title>
-    <sub-title />
-    <desc>Arty types (Wallace Shawn, Andre Gregory) have deep discussion in restaurant.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dc5103b8bcdd54348b32721aea0e23e3/images/gracenote/assets/p5224_v_h8_ab.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420175800 +0500" stop="20260420193600 +0500">
-    <title>The Nut Job</title>
-    <sub-title />
-    <desc>A rogue squirrel and his rat friend plan a heist of outrageous proportions.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/676b374b5c2651f0a9d52473b629cf19/images/gracenote/assets/p10092840_v_h11_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420193600 +0500" stop="20260420212200 +0500">
-    <title>Monty Python and the Holy Grail</title>
-    <sub-title />
-    <desc>A lackey follows as King Arthur (Graham Chapman) goes questing.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f63e0da1e7ba50699aa927493fa83d2a/images/gracenote/assets/p629_v_h10_am.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420212200 +0500" stop="20260420230800 +0500">
-    <title>Midnight Sun</title>
-    <sub-title />
-    <desc>A teen who lives with a life-threatening sensitivity to sunlight finds romance with a young man.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fd0de04fab58538cbc7f520fbd86dfec/rokuFeed/assets/848d8dafdda85a0f82a2f9c5eb4bde8b.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260420230800 +0500" stop="20260421005500 +0500">
-    <title>Serving Sara</title>
-    <sub-title />
-    <desc>A process server helps his latest mark turn the tables on her rich and unfaithful husband.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0449fa1a809f5e4a8cfbd254b9478b08/images/gracenote/assets/p29108_v_h8_ag.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421005500 +0500" stop="20260421024800 +0500">
-    <title>Sliding Doors</title>
-    <sub-title />
-    <desc>A woman (Gwyneth Paltrow) with an unfaithful boyfriend experiences an alternate reality.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/22f23de77a725518a6a76c09d4a2ed4e/images/gracenote/assets/p20474_v_h10_ag.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421024800 +0500" stop="20260421051200 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>Tribeca Channel</display-name>
+  </channel><programme channel="Tribeca-Channel-US" start="20260421213700 +0500" stop="20260422000200 +0500">
     <title>Jobs</title>
     <sub-title />
     <desc>College dropout Steve Jobs co-founds Apple Inc. and sparks a revolution in personal computing.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8a81122e011a5983aa345e7031d26fb6/rokuFeed/assets/9ca2053e05235467bdbb5e1da49cadfd.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421051200 +0500" stop="20260421070300 +0500">
-    <title>Take Me Home Tonight</title>
-    <sub-title />
-    <desc>A directionless college grad (Topher Grace) hatches a plan to win his dream girl.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/61b5c8679a4a5c8590397d3adbe5d5c7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FNone%2F1689046902602_87d2523ec0e853c0a7903171a599b745.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421051200 +0500" stop="20260421070300 +0500">
-    <title>Take Me Home Tonight</title>
-    <sub-title />
-    <desc>A directionless college grad (Topher Grace) hatches a plan to win his dream girl.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/61b5c8679a4a5c8590397d3adbe5d5c7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FNone%2F1689046902602_87d2523ec0e853c0a7903171a599b745.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421070300 +0500" stop="20260421091200 +0500">
-    <title>Georgia Rule</title>
-    <sub-title />
-    <desc>A woman sends her incorrigible daughter to live with the family's stern matriarch in Idaho.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/561d6e09c8a45246849c084af52c5b53/images/gracenote/assets/p163113_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421091200 +0500" stop="20260421110000 +0500">
-    <title>Life of Brian</title>
-    <sub-title />
-    <desc>Mistaken for the Messiah, Brian (Graham Chapman) rocks Rome leading the Judean People's Front.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2536762c9a925d729c030e04158f7bad/images/gracenote/assets/p4669_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421110000 +0500" stop="20260421124400 +0500">
-    <title>The Little Hours</title>
-    <sub-title />
-    <desc>A young servant fleeing from his master takes refuge at a dysfunctional convent in medieval Tuscany.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3fc4674b057b5e208ee4575ac8fef33f/rokuFeed/assets/ac227302bdf75f698c65b0934cce02ee.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421124400 +0500" stop="20260421142200 +0500">
-    <title>Very Good Girls</title>
-    <sub-title />
-    <desc>Two girls make a pact to lose their virginity during their first summer out of high school.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8fb1f96c3f5754da85a6922c4b812384/rokuFeed/assets/5a5fbbe1c3f25a419233539aa581d295.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421142200 +0500" stop="20260421161400 +0500">
-    <title>Far From Men</title>
-    <sub-title />
-    <desc>A reclusive teacher must help a wanted man escape into the mountains during the Algerian War.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6f3fa26ff1ec280030e13fb3d7759bbd/rokuFeed/assets/5a323d25515550a1ab5cadb65ffabc3f.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421161400 +0500" stop="20260421184400 +0500">
-    <title>Alice in Wonderland</title>
-    <sub-title />
-    <desc>A young girl follows a white rabbit into an odd world where everything is nonsense.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c68e6f41baa2579ea07e3a7db091cb80/images/gracenote/assets/p8359042_v_h10_ac.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421184400 +0500" stop="20260421213700 +0500">
-    <title>Fitzcarraldo</title>
-    <sub-title />
-    <desc>Opera lover (Klaus Kinski) hauls riverboat overland in Amazon.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dffbfe569a0c59d68602f85a4fed200b/images/gracenote/assets/p7140_v_h10_aa.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260421213700 +0500" stop="20260422000100 +0500">
-    <title>Jobs</title>
-    <sub-title />
-    <desc>College dropout Steve Jobs co-founds Apple Inc. and sparks a revolution in personal computing.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8a81122e011a5983aa345e7031d26fb6/rokuFeed/assets/9ca2053e05235467bdbb5e1da49cadfd.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260422000100 +0500" stop="20260422023600 +0500">
+  </programme><programme channel="Tribeca-Channel-US" start="20260422000200 +0500" stop="20260422023600 +0500">
     <title>Flyboys</title>
     <sub-title />
     <desc>Several Americans volunteer for the French military before the U.S. enters World War I.</desc>
@@ -153,12 +22,6 @@
     <desc>A live-action adaptation of Disney's 1991 animated classic fairy tale.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/64948b36ab105833949b30e3ff587637/images/gracenote/assets/p21663573_v_h8_ae.jpg" />
-  </programme><programme channel="Tribeca-Channel-US" start="20260422044500 +0500" stop="20260422065000 +0500">
-    <title>All I See Is You</title>
-    <sub-title />
-    <desc>A man starts to feel insecure when an operation allows his blind wife to see out of her right eye.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/70ec6e8ac84653459cb624bbcf212485/images/gracenote/assets/p13793616_v_h10_aa.jpg" />
   </programme><programme channel="Tribeca-Channel-US" start="20260422044500 +0500" stop="20260422065000 +0500">
     <title>All I See Is You</title>
     <sub-title />
@@ -177,5 +40,137 @@
     <desc>A writer (Peter MacNicol) meets an Auschwitz survivor (Meryl Streep) and her lover (Kevin Kline).</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d847183a3f8d57438766ae42a697c5f0/images/gracenote/assets/p6864_v_h8_ac.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422113300 +0500" stop="20260422134100 +0500">
+    <title>Elegy</title>
+    <sub-title />
+    <desc>A beautiful student (Penélope Cruz) awakens feelings of sexual possessiveness in an aging professor.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f67106e146f7533e81204d7311a346ec/images/gracenote/assets/p170009_v_h10_aa.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422134100 +0500" stop="20260422152500 +0500">
+    <title>Clementine</title>
+    <sub-title />
+    <desc>Reeling from the end of a same-sex relationship, Karen seeks refuge in her ex's lake house.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/908707e8b0d6510380526aa8910a40df/rokuFeed/assets/c49f036246e05f85b1393b2bdc762fa7.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422152500 +0500" stop="20260422174000 +0500">
+    <title>The BeastMaster</title>
+    <sub-title />
+    <desc>A psychic (Marc Singer) saves a slave girl (Tanya Roberts) from a sorcerer (Rip Torn).</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a8abe06d256b5920aa47028f09f64974/images/gracenote/assets/p6710_v_h10_ah.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422174000 +0500" stop="20260422192700 +0500">
+    <title>The Dark Crystal</title>
+    <sub-title />
+    <desc>Elfin Gelflings must heal the Dark Crystal to defeat the reptile Skeksis. Performed by Muppets.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a2746348a1af5a7183217d51401dbb32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FNone%2F1713476459462_7618047c5f25508884a7850f829ff58a.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422192700 +0500" stop="20260422212400 +0500">
+    <title>Labyrinth</title>
+    <sub-title />
+    <desc>Teen (Jennifer Connelly) tries to save baby brother (Toby Froud) from goblin king (David Bowie).</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e63181c493a05aecbdf81a2204203517/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fposter%2F16_9%2FNone%2F1713474429805_16b5980bf3755e52bb1750a76ea8776e.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422212400 +0500" stop="20260422233500 +0500">
+    <title>Man of the Year</title>
+    <sub-title />
+    <desc>A talk-show host (Robin Williams) becomes President of the United States.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/074ba70da1015a2c90314b50ce719709/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1659625547654_aHR0cHM6Ly9zdGF0aWMtZGVsaXZlcnkuc3Iucm9rdS5jb20vMWMyY2JhZGMtMWY0NC00MTljLWI0MjctN2UyZjNjZDYzYjRlL2ltYWdlcy9NYW5fT2ZfVGhlX1llYXJfUm9rdV9LZXkuanBn.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422233500 +0500" stop="20260423015700 +0500">
+    <title>The Host</title>
+    <sub-title />
+    <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260422233500 +0500" stop="20260423015700 +0500">
+    <title>The Host</title>
+    <sub-title />
+    <desc>When an unseen enemy takes over humans' bodies, Melanie risks everything to protect her people.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c033273435d35a268eb5edef6bbaec1b/images/gracenote/assets/p9170652_v_h10_aa.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423015700 +0500" stop="20260423035800 +0500">
+    <title>Limitless</title>
+    <sub-title />
+    <desc>An experimental drug gives an unemployed writer extraordinary mental acuity.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/44d5cdf74b1f5ab089e7ce531dc3e3ef/images/gracenote/assets/p8193447_v_h10_ac.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423035800 +0500" stop="20260423061300 +0500">
+    <title>Olympus Has Fallen</title>
+    <sub-title />
+    <desc>A disgraced agent must save the president after terrorists seize control of the White House.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c051618cc67b52c8a81945295e03d274/rokuFeed/assets/6402e253191653aa874de6f14d68fe1b.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423061300 +0500" stop="20260423080600 +0500">
+    <title>London Has Fallen</title>
+    <sub-title />
+    <desc>Secret Service agent Mike Banning must save captive U.S. President Benjamin Asher from terrorists.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ffd1452533c5646b2cb441ce3e5d09a/rokuFeed/assets/1e171e73c1f85cf6af8f8d78b4ff7e24.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423080600 +0500" stop="20260423102100 +0500">
+    <title>Kandahar</title>
+    <sub-title />
+    <desc>A CIA operative fights enemy combatants as he tries to reach an extraction point in Afghanistan.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/74b2fee5a39c5844b569c43747da3caf/rokuFeed/assets/9f106f0fe4a650ec9bde1b135daeb562.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423102100 +0500" stop="20260423120300 +0500">
+    <title>Eraserhead</title>
+    <sub-title />
+    <desc>A couple's newborn baby turns out to be a bizarre lizard-like creature that won't stop wailing.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/fcd7d96d543b5874b67d5718bf84756c/images/gracenote/assets/p42040_v_h10_ag.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423120300 +0500" stop="20260423133700 +0500">
+    <title>Hush</title>
+    <sub-title />
+    <desc>A deaf woman is stalked by a killer in her home.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2bdc8f093e205415a392ffab3fc844b1/images/gracenote/assets/p12732076_v_h10_aa.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423133700 +0500" stop="20260423152500 +0500">
+    <title>The Rebound</title>
+    <sub-title />
+    <desc>A newly single woman (Catherine Zeta-Jones) has a fling with a much-younger man (Justin Bartha).</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9bd14b2d73955e25a47160ec665b8858/rokuFeed/assets/da7ca958bb9a52cfaeddd7a26a771742.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423152500 +0500" stop="20260423165500 +0500">
+    <title>Struck by Lightning</title>
+    <sub-title />
+    <desc>A hilarious comedy about surviving high school.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/47c1fe74f4c657fa8367366363248b4f/rokuFeed/assets/da38dd295e635ce091780ba1d6ecd23d.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423165500 +0500" stop="20260423182600 +0500">
+    <title>Let's Kill Ward's Wife</title>
+    <sub-title />
+    <desc>Everyone wants Ward’s wife dead. But when murderous fantasies get real, they have new problems.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6b94ec9d2af955b58c2049a3a6565865/rokuFeed/assets/2cd53bdc1bd5562aa7cbed8dad3c332f.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423182600 +0500" stop="20260423200700 +0500">
+    <title>Punching Henry</title>
+    <sub-title />
+    <desc>A journeyman comedian is lured to LA by a TV producer who wants to make him a reality star.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/022e6fd7de7d5543a18decda5a95a3a7/rokuFeed/assets/e94a4c4b29555cdd87c116b81514fd70.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423200700 +0500" stop="20260423221800 +0500">
+    <title>Man of the Year</title>
+    <sub-title />
+    <desc>A talk-show host (Robin Williams) becomes President of the United States.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/074ba70da1015a2c90314b50ce719709/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2Fassets%2Fbanner%2F16_9%2FNone%2F1659625547654_aHR0cHM6Ly9zdGF0aWMtZGVsaXZlcnkuc3Iucm9rdS5jb20vMWMyY2JhZGMtMWY0NC00MTljLWI0MjctN2UyZjNjZDYzYjRlL2ltYWdlcy9NYW5fT2ZfVGhlX1llYXJfUm9rdV9LZXkuanBn.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423221800 +0500" stop="20260424002400 +0500">
+    <title>On Golden Pond</title>
+    <sub-title />
+    <desc>Old folks (Katharine Hepburn, Henry Fonda) make peace with their daughter (Jane Fonda).</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b501a3f71f65739af548fc0ab1206df/rokuFeed/assets/7b4834a4ebab5dbcb8133d1be0087317.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260423221800 +0500" stop="20260424002400 +0500">
+    <title>On Golden Pond</title>
+    <sub-title />
+    <desc>Old folks (Katharine Hepburn, Henry Fonda) make peace with their daughter (Jane Fonda).</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2b501a3f71f65739af548fc0ab1206df/rokuFeed/assets/7b4834a4ebab5dbcb8133d1be0087317.jpg" />
+  </programme><programme channel="Tribeca-Channel-US" start="20260424002400 +0500" stop="20260424025800 +0500">
+    <title>K-19: The Widowmaker</title>
+    <sub-title />
+    <desc>The commander of a Russian submarine tries to avert a disaster after a nuclear reactor malfunctions.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d575f1f2119e59328ed9f1d6b6bca5d4/images/gracenote/assets/p29107_v_h10_ah.jpg" />
   </programme>
 </tv>

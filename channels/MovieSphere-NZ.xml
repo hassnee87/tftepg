@@ -1,133 +1,260 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="MovieSphere-NZ">
-    <display-name>MovieSphere by Lionsgate</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/MovieSphere-NZ.png" />
-  </channel><programme channel="MovieSphere-NZ" start="20260420050304 +0500" stop="20260420065131 +0500">
-    <title>No One Could Protect Her</title>
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>MovieSphere by Lionsgate</display-name>
+  </channel><programme channel="MovieSphere-NZ" start="20260422001110 +0500" stop="20260422021313 +0500">
+    <title>City Island</title>
     <sub-title />
-    <desc>Jessica experiences a woman's worst nightmare when she barely survives a killer's entry into her home.</desc>
-    <date>19960211</date>
+    <desc>Meet the Rizzos, a fuedel family in the throws of battle as their bizarre and layered lies unravel.</desc>
+    <date>20090723</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2b2a9482647fcdf258de39bd86c382a0.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420065131 +0500" stop="20260420085713 +0500">
-    <title>Temptation: Confessions of a Marriage Counselor</title>
+    <icon src="https://image.tmdb.org/t/p/original/8l7LPe5XUaqzEkGuIQPQarGt7Yj.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422021313 +0500" stop="20260422034844 +0500">
+    <title>Bad Blood: Hatfields &amp; McCoys</title>
     <sub-title />
-    <desc>An ambitious married woman's temptation by a handsome billionaire leads to betrayal and recklessness.</desc>
-    <date>20130329</date>
+    <desc>Two families seek vengeance against each other as they unmercifully attempt to destroy each other's loved ones</desc>
+    <date>20120605</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/303c531e4fc2518897da2d2670b84c10.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420085713 +0500" stop="20260420104251 +0500">
-    <title>Secret Past</title>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6d434c13c54dcd385fd0ef04d5ca34d0.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422034844 +0500" stop="20260422053103 +0500">
+    <title>Goodnight for Justice</title>
     <sub-title />
-    <desc>A reporter finds a series of blank cards that may shed some light on her mother's recent life.</desc>
-    <date>20141130</date>
+    <desc>A judge travels the Old West to find the outlaw who murdered his family years earlier.</desc>
+    <date>20110129</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b72b93467a7da8fcf38c2584118f9165.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420104251 +0500" stop="20260420124342 +0500">
-    <title>The Spirit</title>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6f49f82d29cb60b17f299321752bee77.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422053103 +0500" stop="20260422071209 +0500">
+    <title>Goodnight for Justice: The Measure of a Man</title>
     <sub-title />
-    <desc>THE SPIRIT takes us on a sinister, gut-wrenching ride with a hero who is born, murdered and born again.</desc>
-    <date>20081225</date>
+    <desc>Goodnight crosses paths with a stagecoach under attack and comes to the rescue of its passengers.</desc>
+    <date>20120128</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3aee1fdccab3527ebe9bf6ccc26b3060.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420124342 +0500" stop="20260420142530 +0500">
-    <title>Ava's Possessions</title>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9a27b7171d19e325a27bad5818367587.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422071209 +0500" stop="20260422085313 +0500">
+    <title>Goodnight for Justice: Queen of Hearts</title>
     <sub-title />
-    <desc>A young woman recovers from a demonic possession.</desc>
-    <date>20150316</date>
+    <desc>John William Goodnight discovers the teenage boy on the wrong side of the law is actually his son.</desc>
+    <date>20130126</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/39d6ca466106f187f67d045369ef789f.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420142530 +0500" stop="20260420163812 +0500">
-    <title>Black Sea</title>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/25d3b4b3b18cc62ccbb70d7417b67a97.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422085313 +0500" stop="20260422110754 +0500">
+    <title>Chasing Mavericks</title>
     <sub-title />
-    <desc>A captain takes a job to search the depths of the Black Sea for a submarine rumored to be loaded with gold.</desc>
-    <date>20141205</date>
+    <desc>Hearing that the Mavericks surf break is real, a teen asks a local legend to teach him how to ride the wave.</desc>
+    <date>20121025</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f14d7a5132d469d4c3029f012f504804.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420163812 +0500" stop="20260420182711 +0500">
-    <title>Deadfall</title>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8d69ebb236867734c10859e377553cb5.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422110754 +0500" stop="20260422131712 +0500">
+    <title>Woman in Gold</title>
     <sub-title />
-    <desc>After a failed casino heist, estranged siblings find themselves at an unexpected Thanksgiving gathering.</desc>
-    <date>20121109</date>
+    <desc>A woman battles the establishment to recover her family possessions that had been seized by Nazis during WWII.</desc>
+    <date>20150402</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://image.tmdb.org/t/p/original/zXowkQBUxdr07ldVCfHj3uhnT87.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420182711 +0500" stop="20260420204132 +0500">
-    <title>Berlin Syndrome</title>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/09e68e1d9934ff8ea2fcefc9a3279757.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422131712 +0500" stop="20260422155453 +0500">
+    <title>Detroit</title>
     <sub-title />
-    <desc>An Australian photojournalist awakens in a Berlin apartment one morning and is unable to leave.</desc>
-    <date>20170420</date>
+    <desc>During the 1967 Detroit riots, a group of rogue police officers respond to a complaint with retribution.</desc>
+    <date>20170804</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8e9f9b7192cb9ddc542652853eef37c5.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420204132 +0500" stop="20260420222853 +0500">
-    <title>The Entitled</title>
+    <icon src="https://image.tmdb.org/t/p/original/7dkFHwJ4OXkm3tt1sNHOBPvcSNM.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422155453 +0500" stop="20260422190000 +0500">
+    <title>Ali</title>
     <sub-title />
-    <desc>A young man, broke and jobless, abducts three rich college kids to try and get money from their fathers.</desc>
-    <date>20110906</date>
+    <desc>A biography of sports legend Muhammad Ali, focusing on his triumphs and controversies between 1964 and 1974.</desc>
+    <date>20011220</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c630ee13a9c3b74f77a9260600bf8aab.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260420222853 +0500" stop="20260421001308 +0500">
-    <title>The Condemned 2</title>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2c0233baf8e53509e9119f1cefce2c11.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422190000 +0500" stop="20260422205839 +0500">
+    <title>Brothers</title>
     <sub-title />
-    <desc>In the revamped Condemned Tournament, convicts must fight to the death in a game broadcast to the public.</desc>
-    <date>20151106</date>
+    <desc>When his brother goes missing, Tommy, the family's black-sheep, cares for his sister-in-law and nieces.</desc>
+    <date>20091203</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/565f1a72f89224893aa8da446bc2e112.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260421001308 +0500" stop="20260421015331 +0500">
-    <title>Upworld</title>
+    <icon src="https://image.tmdb.org/t/p/original/qrunCeh1BZ8F3sEvsAqMnEmjLAb.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422205839 +0500" stop="20260422223706 +0500">
+    <title>Awake</title>
     <sub-title />
-    <desc>An LA police detective partners up with a talking gnome in order to bring down the head of a crime ring.</desc>
-    <date>19900524</date>
+    <desc>While undergoing surgery, a wealthy young man discovers that the surgical team intended to murder him.</desc>
+    <date>20071130</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5029eede4d708788c281d59ec6eeb78c.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260421015331 +0500" stop="20260421034050 +0500">
-    <title>Crossworlds</title>
+    <icon src="https://image.tmdb.org/t/p/original/jIPIxaBcppLLkygko7tV5yuTIs1.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260422223706 +0500" stop="20260423003055 +0500">
+    <title>Detachment</title>
     <sub-title />
-    <desc>When a resistance fighter turns up in, Joe is drawn into a battle to rescue Earth from intergalactic raiders.</desc>
-    <date>19960214</date>
+    <desc>A substitute teacher finds a connection to the students and teachers during his latest assignment.</desc>
+    <date>20110424</date>
     <category>Movie</category>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/244b717e0e86e5095c0e3f51fd5eda87.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260421034050 +0500" stop="20260421053820 +0500">
-    <title>Mazes and Monsters</title>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f284cc334cfa0a824c5a17d584ea605b.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260423003055 +0500" stop="20260423013055 +0500">
+    <title>Movie</title>
     <sub-title />
-    <desc>Robbie and his three college classmates decide to move their board game into the local legendary cavern.</desc>
-    <date>19821228</date>
-    <category>Movie</category>
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d91b113e35dc978fa8c94510d238466b.jpg" />
-  </programme><programme channel="MovieSphere-NZ" start="20260421053820 +0500" stop="20260421072649 +0500">
-    <title>Merlin and the Book of Beasts</title>
+  </programme><programme channel="MovieSphere-NZ" start="20260423013055 +0500" stop="20260423023055 +0500">
+    <title>Movie</title>
     <sub-title />
-    <desc>King Arthur is gone. The Round Table is in ruins. And a rogue sorcerer has unleashed a monstrous terror.</desc>
-    <date>20090530</date>
-    <category>Movie</category>
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
     <language>en</language>
     <orig-language>en</orig-language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/863272d79dc622cd6e14fda4b315e951.jpg" />
+  </programme><programme channel="MovieSphere-NZ" start="20260423023055 +0500" stop="20260423033055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423033055 +0500" stop="20260423043055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423043055 +0500" stop="20260423053055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423053055 +0500" stop="20260423063055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423063055 +0500" stop="20260423073055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423073055 +0500" stop="20260423083055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423083055 +0500" stop="20260423093055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423093055 +0500" stop="20260423103055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423103055 +0500" stop="20260423113055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423113055 +0500" stop="20260423123055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423123055 +0500" stop="20260423133055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423133055 +0500" stop="20260423143055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423143055 +0500" stop="20260423153055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423153055 +0500" stop="20260423163055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423163055 +0500" stop="20260423173055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423173055 +0500" stop="20260423183055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423183055 +0500" stop="20260423193055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423193055 +0500" stop="20260423203055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423203055 +0500" stop="20260423213055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423213055 +0500" stop="20260423223055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423223055 +0500" stop="20260423233055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
+  </programme><programme channel="MovieSphere-NZ" start="20260423233055 +0500" stop="20260424003055 +0500">
+    <title>Movie</title>
+    <sub-title />
+    <desc>MovieSphere provides Hollywood movies, blockbuster hits, and general entertainment programming.</desc>
+    <language>en</language>
+    <orig-language>en</orig-language>
   </programme>
 </tv>

@@ -1,166 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="American-Ninja-Warrior-US">
-    <display-name>American Ninja Warrior</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/American-Ninja-Warrior-US.png" />
-  </channel><programme channel="American-Ninja-Warrior-US" start="20260420060100 +0500" stop="20260420073800 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top competitors battle one more time before the national finals in Las Vegas.</desc>
-    <episode-num system="onscreen">S09E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420073800 +0500" stop="20260420091400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The season's top competitors compete in the national finals in Las Vegas.</desc>
-    <episode-num system="onscreen">S09E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420091400 +0500" stop="20260420105100 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>National finals continue in Las Vegas, where top competitors tackle a four-stage course.</desc>
-    <episode-num system="onscreen">S09E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420105100 +0500" stop="20260420122900 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The season's best Ninjas tackle the last stages of Mount Midoriyama, vying for the $1 million prize.</desc>
-    <episode-num system="onscreen">S09E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420122900 +0500" stop="20260420145400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Teams from North America, Latin America, Europe and Asia tackle the punishing finals course.</desc>
-    <episode-num system="onscreen">S09E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420145400 +0500" stop="20260420163100 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Some of the best athletes from the show compete for bragging rights and the championship trophy.</desc>
-    <episode-num system="onscreen">S09E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420163100 +0500" stop="20260420180700 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>In the first qualifying round, competitors tackle six obstacles, including the Mega Warped Wall.</desc>
-    <episode-num system="onscreen">S10E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420180700 +0500" stop="20260420194300 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face six obstacles, including the Jumper Cables and the Doorknob Drop.</desc>
-    <episode-num system="onscreen">S10E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420194300 +0500" stop="20260420211900 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face six obstacles, including two new challenges called Ring Turn and Slippery Summit.</desc>
-    <episode-num system="onscreen">S10E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420211900 +0500" stop="20260420225500 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face six obstacles including two new challenges, Wheel Flip and Spin Hopper.</desc>
-    <episode-num system="onscreen">S10E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260420225500 +0500" stop="20260421003100 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face six obstacles, including the Spinning Bow Ties and the Lightening Bolts.</desc>
-    <episode-num system="onscreen">S10E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421003100 +0500" stop="20260421020600 +0500">
-    <title>American Ninja Warrior</title>
-    <sub-title />
-    <desc>Competitors in the Minneapolis qualifiers face obstacles, including Double Twister and Diamond Dash.</desc>
-    <episode-num system="onscreen">S10E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421020600 +0500" stop="20260421034200 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face up to 10 obstacles, including new challenges Baton Pass and Spider Trap.</desc>
-    <episode-num system="onscreen">S10E07</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421034200 +0500" stop="20260421051800 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face up to 10 obstacles, including Spider Trap and new challenge Fallout.</desc>
-    <episode-num system="onscreen">S10E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421051800 +0500" stop="20260421065300 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face up to 10 obstacles, including the brand new Crazy Clocks.</desc>
-    <episode-num system="onscreen">S10E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421051800 +0500" stop="20260421065300 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face up to 10 obstacles, including the brand new Crazy Clocks.</desc>
-    <episode-num system="onscreen">S10E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421065300 +0500" stop="20260421082900 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>New obstacles include the Wheel Flip and the Spin Hopper; Season 7 champion Isaac Caldiero returns.</desc>
-    <episode-num system="onscreen">S10E10</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421082900 +0500" stop="20260421100500 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top 30 competitors from the qualifying round face the new obstacle called Captain's Wheel.</desc>
-    <episode-num system="onscreen">S2018E00</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421100500 +0500" stop="20260421114200 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top 30 competitors from the qualifying round face the new obstacle called The Hinge.</desc>
-    <episode-num system="onscreen">S10E12</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421114200 +0500" stop="20260421131800 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Ninja veterans take on the world's toughest obstacle course for a chance to win $1 million.</desc>
-    <episode-num system="onscreen">S10E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421131800 +0500" stop="20260421145400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The season's top competitors must tackle eight obstacles to advance to stage two.</desc>
-    <episode-num system="onscreen">S10E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421145400 +0500" stop="20260421162900 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The season's best Ninjas tackle the obstacle course, vying for the $1 million prize.</desc>
-    <episode-num system="onscreen">S10E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421162900 +0500" stop="20260421180500 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Drew Drechsel and Jesse Labreck lead Team USA in a battle for worldwide ninja domination.</desc>
-    <episode-num system="onscreen">S10E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421180500 +0500" stop="20260421203000 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Drew Drechsel and Jesse Labreck lead Team USA in a battle for worldwide ninja domination.</desc>
-    <episode-num system="onscreen">S10E16</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421203000 +0500" stop="20260421220700 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>A new season begins with round one of qualifiers, as the ninjas face six challenging obstacles.</desc>
-    <episode-num system="onscreen">S13E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421220700 +0500" stop="20260421234400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The qualifiers continue as ninjas face six challenging obstacles including Shrinking Steps and more.</desc>
-    <episode-num system="onscreen">S13E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260421234400 +0500" stop="20260422012100 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>American Ninja Warrior</display-name>
+  </channel><programme channel="American-Ninja-Warrior-US" start="20260421234400 +0500" stop="20260422012100 +0500">
     <title>American Ninja Warrior</title>
     <desc>The qualifiers continue as ninjas face six challenging obstacles, including Air Surfer and more.</desc>
     <episode-num system="onscreen">S13E03</episode-num>
@@ -184,12 +28,6 @@
     <episode-num system="onscreen">S13E06</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260422043400 +0500" stop="20260422061100 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The semifinals begin as ninjas face 10 challenging obstacles, including Wall-to-Wall and more.</desc>
-    <episode-num system="onscreen">S13E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260422061100 +0500" stop="20260422074800 +0500">
     <title>American Ninja Warrior</title>
     <desc>The semifinals continue as ninjas face 10 challenging obstacles, including Padlock.</desc>
@@ -200,6 +38,201 @@
     <title>American Ninja Warrior</title>
     <desc>The semifinals continue as ninjas face 10 challenging obstacles, including Drop Zone.</desc>
     <episode-num system="onscreen">S13E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422092500 +0500" stop="20260422110200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The semifinals conclude in Los Angeles as competing ninjas face up to 10 challenging obstacles.</desc>
+    <episode-num system="onscreen">S13E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422110200 +0500" stop="20260422123800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The finals return to Las Vegas, where the ninjas face up to eight super-sized obstacles.</desc>
+    <episode-num system="onscreen">S13E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422123800 +0500" stop="20260422141500 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The finals continue in Las Vegas, where the ninjas face up to eight supersized obstacles.</desc>
+    <episode-num system="onscreen">S13E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422141500 +0500" stop="20260422155200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The finals conclude in Las Vegas as the remaining competitors vie for their chance to win.</desc>
+    <episode-num system="onscreen">S13E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422155200 +0500" stop="20260422172800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Twelve elite female competitors battle across daunting courses with one winner taking home $50,000.</desc>
+    <episode-num system="onscreen">S13E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422172800 +0500" stop="20260422190500 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Iconic obstacles get super-sized as all-star ninjas face off in the wildest competition ever.</desc>
+    <episode-num system="onscreen">S13E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422190500 +0500" stop="20260422204200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Ten ninja families compete relay-style on a six-obstacle course in teams of three family members.</desc>
+    <episode-num system="onscreen">S14E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422204200 +0500" stop="20260422221800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Qualifying rounds begin in San Antonio as the ninjas face four new obstacles plus the Warped Wall.</desc>
+    <episode-num system="onscreen">S14E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422221800 +0500" stop="20260422235500 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Qualifying rounds continue in San Antonio as the ninjas face the new Piston Plunge obstacle.</desc>
+    <episode-num system="onscreen">S14E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422235500 +0500" stop="20260423013200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The qualifying rounds continue in San Antonio as the ninjas face the new Kickboards obstacle.</desc>
+    <episode-num system="onscreen">S14E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260422235500 +0500" stop="20260423013200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The qualifying rounds continue in San Antonio as the ninjas face the new Kickboards obstacle.</desc>
+    <episode-num system="onscreen">S14E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423013200 +0500" stop="20260423030900 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The qualifying rounds continue as Minions have taken over the course with new obstacle Despicaballs.</desc>
+    <episode-num system="onscreen">S14E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423030900 +0500" stop="20260423044600 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The qualifying rounds conclude as the ninjas take on the world's most challenging obstacle course.</desc>
+    <episode-num system="onscreen">S14E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423044600 +0500" stop="20260423062300 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The semifinals begin as ninjas face 10 challenging obstacles, including Kaleidoscope and more.</desc>
+    <episode-num system="onscreen">S14E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423062300 +0500" stop="20260423075900 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The semifinals continue as ninjas face challenging obstacles, including Hopscotch and Box Office.</desc>
+    <episode-num system="onscreen">S14E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423075900 +0500" stop="20260423093600 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The semifinals continue as ninjas face 10 challenging obstacles, including Over Under and more.</desc>
+    <episode-num system="onscreen">S14E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423093600 +0500" stop="20260423111300 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The semifinals conclude in Los Angeles as the competing ninjas face 10 challenging obstacles.</desc>
+    <episode-num system="onscreen">S14E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423111300 +0500" stop="20260423125000 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The finals return to Las Vegas, where the ninjas face up to eight super-sized obstacles.</desc>
+    <episode-num system="onscreen">S14E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423125000 +0500" stop="20260423142700 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The finals continue in Las Vegas, where the ninjas face super-sized obstacles in Stages 1 and 2.</desc>
+    <episode-num system="onscreen">S14E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423142700 +0500" stop="20260423160400 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The national finals conclude in Las Vegas as the remaining competitors move on to stages 3 and 4.</desc>
+    <episode-num system="onscreen">S14E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423160400 +0500" stop="20260423174000 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Twelve elite female competitors battle across two courses; the top four advance to the Power Tower.</desc>
+    <episode-num system="onscreen">S14E14</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423174000 +0500" stop="20260423191700 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Ninja couples compete relay-style on an extreme obstacle course in teams of two.</desc>
+    <episode-num system="onscreen">S15E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423191700 +0500" stop="20260423200500 +0500">
+    <title>American Ninja Warrior</title>
+    <sub-title>Episode</sub-title>
+    <desc>People from the Southwest compete for a chance at the world's most difficult obstacle course.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423200500 +0500" stop="20260423205300 +0500">
+    <title>American Ninja Warrior</title>
+    <sub-title>Episode</sub-title>
+    <desc>People from the Southwest compete for a chance at the world's most difficult obstacle course.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423205300 +0500" stop="20260423223200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The top 30 finishers from the Southwest qualifying round take on an even more challenging course.</desc>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423223200 +0500" stop="20260423232000 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Midwest competitors try to qualify for the national contest.</desc>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423232000 +0500" stop="20260424000800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Midwest competitors try to qualify for the national contest.</desc>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260423232000 +0500" stop="20260424000800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Midwest competitors try to qualify for the national contest.</desc>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260424000800 +0500" stop="20260424005700 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The top 30 qualifiers compete for a chance to move on to the national finals.</desc>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260424005700 +0500" stop="20260424014500 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Athletes from the Northeast compete.</desc>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260424014500 +0500" stop="20260424023300 +0500">
+    <title>American Ninja Warrior</title>
+    <sub-title>Episode</sub-title>
+    <desc>Athletes from the Northeast compete.</desc>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260424023300 +0500" stop="20260424032200 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The top 30 Northeast finishers take on a more challenging course.</desc>
+    <episode-num system="onscreen">S04E09</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/rokuFeed/assets/da11380a6cc45d279788e64bc3148aed.jpg" />
   </programme>

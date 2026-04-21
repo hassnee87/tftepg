@@ -3,463 +3,7 @@
   <channel id="Channel-4-UK">
     <display-name>Channel 4</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Channel-4-UK.png" />
-  </channel><programme channel="Channel-4-UK" start="20260420081500 +0500" stop="20260420083000 +0500">
-    <title>Sunday Brunch</title>
-    <sub-title />
-    <desc>Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Magazine</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/6aceca02-8cc7-4d48-bcee-85ff5e739a25/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420083000 +0500" stop="20260420085500 +0500">
-    <title>The Simpsons</title>
-    <sub-title>The Saga of Carl</sub-title>
-    <desc>Homer, Moe, Lenny and Carl win the lottery, but Carl runs off to Iceland with the winnings.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9fd19c90-e29e-47fd-9794-135740469e97/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420085500 +0500" stop="20260420092000 +0500">
-    <title>The Simpsons</title>
-    <sub-title>Dangers on a Train</sub-title>
-    <desc>While she's browsing for wedding anniversary cakes, Marge stumbles across a website for married people who want to have affairs.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9e1bf6d4-ce2a-4a53-a4e5-759f39f4d85a/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420092000 +0500" stop="20260420094500 +0500">
-    <title>The Simpsons</title>
-    <sub-title>The Fabulous Faker Boy</sub-title>
-    <desc>Bart doesn't want to go to piano lessons, until he meets his beautiful teacher... Homer loses the last two hairs on his head.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ab670e40-76cf-4645-9d69-662f704f924a/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420094500 +0500" stop="20260420102500 +0500">
-    <title>Countdown</title>
-    <sub-title />
-    <desc>Another chance to catch Friday's new episode, with Ranvir Singh in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8fcddeaa-56ad-4c1f-a532-34fdcba0e471/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420102500 +0500" stop="20260420105500 +0500">
-    <title>Cheers</title>
-    <sub-title>Diane Meets Mom</sub-title>
-    <desc>A nervous Diane tries to create a good impression when she meets Frasier's mum Hester. But Hester gives Diane some dire warnings..</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4ae26393-055a-42fa-8f68-9250e243ba78/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420105500 +0500" stop="20260420112000 +0500">
-    <title>Cheers</title>
-    <sub-title>An American Family</sub-title>
-    <desc>Carla's ex-husband Nick returns with his new bride, demanding custody of their eldest son. And everyone's shocked when Carla agrees to the request.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b5d1ae74-8486-41c0-a495-10ac6425b9e4/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420112000 +0500" stop="20260420115000 +0500">
-    <title>Cheers</title>
-    <sub-title>Diane's Allergy</sub-title>
-    <desc>After moving in with Frasier, Diane develops a chronic allergy that she thinks is caused by his dog. But is her reaction psychosomatic.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/14aff548-49b5-4d23-b869-3f02ee3361dc/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420115000 +0500" stop="20260420121500 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Traffic School</sub-title>
-    <desc>Robert's traffic school students are bored by his class, so he introduces Traffic Cop Timmy, a puppet who's anything but boring.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/afa52242-3805-44e1-ace1-7f712177189d/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420121500 +0500" stop="20260420124000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>Six Feet Under</sub-title>
-    <desc>Ray becomes concerned with his own mortality when he discovers that he's shrunk a quarter of an inch and is no longer six feet tall.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9c6b41e4-723f-488f-a995-343c50f2f73c/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420124000 +0500" stop="20260420131000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Garage Sale</sub-title>
-    <desc>Ray's shocked when Debra takes all their baby stuff to a garage sale. He didn't know that they'd decided not to have any more children.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/329e407d-93ba-4d8f-877d-f6d169d2e5b6/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420131000 +0500" stop="20260420134000 +0500">
-    <title>Frasier</title>
-    <sub-title>Door Jam</sub-title>
-    <desc>Frasier and Niles enjoy the plush comforts of Seattle's premier spa and are happy with their pampering - until they discover there's a 'Gold Level'.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/79b761c6-1be1-4aec-b397-ddc1d8241fb1/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420134000 +0500" stop="20260420141000 +0500">
-    <title>Frasier</title>
-    <sub-title>The Harassed</sub-title>
-    <desc>Tension mounts when Frasier's forced to share his studio and airtime with the station's new finance reporter, an arrogant ex-stock market analyst.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/443cf8f7-6e57-481c-ba13-324ccfedebc1/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420141000 +0500" stop="20260420144000 +0500">
-    <title>Frasier</title>
-    <sub-title>Lilith Needs a Favor</sub-title>
-    <desc>Lilith pays an unexpected visit to Seattle and tells Frasier that she would like another child through artificial insemination.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4e2fdb3f-dec5-4336-b57b-9051289c0ac2/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420144000 +0500" stop="20260420151000 +0500">
-    <title>Frasier</title>
-    <sub-title>Daphne Does Dinner</sub-title>
-    <desc>Niles plans a very special dinner party to mark the purchase of a new painting he's bought for Daphne. But catastrophe ensues.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/26da4e66-852e-4542-96da-d9cee0713c16/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420151000 +0500" stop="20260420160500 +0500">
-    <title>Ramsay's Kitchen Nightmares USA</title>
-    <sub-title>Bel Aire</sub-title>
-    <desc>Can Gordon Ramsay get two brothers to work through their problems and save their failing New York diner.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f88e518a-999e-3ba8-ad7b-b68ff1b05c89/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420160500 +0500" stop="20260420161000 +0500">
-    <title>Channel 4 News Summary</title>
-    <sub-title />
-    <desc>Channel 4's midday news summary.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/e1c9d995-0fc3-40ac-bf61-f8aa02aa11e1/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420161000 +0500" stop="20260420171000 +0500">
-    <title>Find It, Fix It, Flog It</title>
-    <sub-title />
-    <desc>In Birmingham, Henry Cole stumbles upon a model metal tipper truck which he's convinced will make money.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b315be0b-a520-4cef-b4bb-1154fb018c57/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420171000 +0500" stop="20260420181000 +0500">
-    <title>Matt Baker: Travels with Mum &amp; Dad</title>
-    <sub-title />
-    <desc>The Bakers bring Bowes Museum's marvellous mechanical swan back to life, and relive fond family memories at High Force waterfall.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f5022ac9-2f19-3b07-a6b5-2bd6ee14fc98/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420181000 +0500" stop="20260420190000 +0500">
-    <title>Countdown</title>
-    <sub-title />
-    <desc>Colin Murray, Rachel Riley and Susie Dent host, with Richard Whitehead in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7b3f075b-3c76-4624-97ea-0aa444afd75b/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420190000 +0500" stop="20260420200000 +0500">
-    <title>A Place in the Sun</title>
-    <sub-title />
-    <desc>Carpenter David from Suffolk wants an apartment near the beach in Abruzzo on Italy's east coast. Craig Rowe shows him what his £45,000 can buy.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/842c18be-e0a5-417c-8714-d9667bc33f4d/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420200000 +0500" stop="20260420210000 +0500">
-    <title>A New Life in the Sun: Where Are They Now?</title>
-    <sub-title />
-    <desc>Gîte owners Mark and Lesley take flight with a new idea over a Normandy beach. Fitness instructor Ali sets sail on a new adventure.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3e1f9662-6e31-30fe-9b17-79aa0abf3ffd/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420210000 +0500" stop="20260420220000 +0500">
-    <title>Chateau DIY</title>
-    <sub-title>The new series continues</sub-title>
-    <desc>Erin and JB race to light up their salon. Anna and Edward rebuild their lake's sweeping stairway. Christina and Sassan transform their grand front gates.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Home</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8cfa2a27-6db0-4e17-a850-d2524b4cbfe3/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420220000 +0500" stop="20260420230000 +0500">
-    <title>Sun, Sea and Selling Houses</title>
-    <sub-title />
-    <desc>A new series with our favourite family-run estate agents. In Almería, the Garners juggle wow-factor villas and a wildcard. Lisa and John face tough compromises on the Costa Blanca.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/256cd5ee-f3cf-4baf-a6e9-962606025cae/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260420230000 +0500" stop="20260421000000 +0500">
-    <title>Channel 4 News</title>
-    <sub-title />
-    <desc>Channel 4's flagship news programme. Including the weather.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/8efa4bd3-2a13-4624-91c9-9d315c5f7c34/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421000000 +0500" stop="20260421010000 +0500">
-    <title>The Dog House</title>
-    <sub-title />
-    <desc>Twelve-year-old Ruby-Rose is ready to level up from dog sitting to a dog of her own. Could a cheeky Yorkie be the one? And will ex-cabbie Danny give Bella the Border collie a lift.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/3b193a97-3122-441c-b8a3-bf1bf9f5b28d/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421010000 +0500" stop="20260421020000 +0500">
-    <title>Suez: 24 Hours That Broke the British Empire</title>
-    <sub-title />
-    <desc>The dramatic inside story of 6 November 1956, the final day of the 1956 Suez Crisis. A day that changed Britain forever, exactly as it happened.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Historical</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/765f833c-01b5-4141-8080-6a4bf80020ea/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421020000 +0500" stop="20260421030000 +0500">
-    <title>Chernobyl: Days That Shocked the World</title>
-    <sub-title />
-    <desc>On 26 April 1986, a huge explosion rocked Chernobyl nuclear power plant. Witnesses and survivors tell the story of the world's worst nuclear accident.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Historical</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/bb27537d-b040-4785-a145-04a0e1724453/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421030000 +0500" stop="20260421040500 +0500">
-    <title>Chernobyl: Days That Shocked the World</title>
-    <sub-title />
-    <desc>The Chernobyl explosion left wreckage that will be radioactive for 20,000 years. But what caused it? And can Chernobyl ever be made safe.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Historical</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/444330a9-3d02-4933-9bd4-02a5e43137be/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421040500 +0500" stop="20260421050000 +0500">
-    <title>Celebrity Gogglebox</title>
-    <sub-title />
-    <desc>This time the celebs watch Squid Game, Glastonbury, Open House: The Great Sex Experiment, Celebrity Bridge of Lies, Trainwreck: Poop Cruise and Millionaire Hoarders.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/972b87e2-5148-4585-a0ef-179989b2595d/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421050000 +0500" stop="20260421055500 +0500">
-    <title>Grayson Perry Has Seen the Future</title>
-    <sub-title />
-    <desc>Artist Sir Grayson Perry visits Silicon Valley to understand how AI and robotics will shape all of our futures in a series that raises profound questions about what it is to be human.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Science</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f1c946c5-d5b4-44b3-8970-08864955730f/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421055500 +0500" stop="20260421064500 +0500">
-    <title>Ramsay's Kitchen Nightmares USA</title>
-    <sub-title>Giuseppi's</sub-title>
-    <desc>Gordon Ramsay visits a family-owned Italian in Michigan, run by a father and son who constantly clash. Can he get the restaurant - and the family - back on track.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/fb23d99e-7116-44c3-91d4-f197e9c5a379/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421064500 +0500" stop="20260421073000 +0500">
-    <title>George Clarke's Amazing Spaces</title>
-    <sub-title />
-    <desc>George Clarke meets a man who's trying to build a UFO-style house from a 1960s design icon, and a woman who's making a garden room using material including earth, straw and human hair.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Home</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2ca6c513-0f05-4a5e-aff5-92af3b727b9d/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421073000 +0500" stop="20260421075500 +0500">
-    <title>Britain's Most Expensive Houses</title>
-    <sub-title />
-    <desc>An insight into one of the world's largest luxury estate agencies, UK Sotheby's International Realty. The brokers view a 40-acre mega mansion for a millionaire client.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">Feature</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/f44d9fbc-e909-446a-8637-04f83d919894/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421075500 +0500" stop="20260421082000 +0500">
-    <title>Unreported World</title>
-    <sub-title>Japan's Shoplifting Pensioners</sub-title>
-    <desc>Japanese prisons have become retirement homes for a rising number of elderly convicts. Krishnan Guru-Murthy investigates the country's geriatric crime wave.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">World Culture</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b832c72c-3de0-4190-a268-e83110279b85/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421082000 +0500" stop="20260421083500 +0500">
-    <title>Kirstie's House of Craft</title>
-    <sub-title />
-    <desc>Kirstie Allsopp shows us how to create beautiful crafts with items we already own. She takes on food-inspired crafts by creating vegetable-printed cards and salt dough trinket dishes.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Home</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/2b996079-6f69-468c-803c-eef0e4adea15/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421083500 +0500" stop="20260421094500 +0500">
-    <title>Hollyoaks Omnibus</title>
-    <sub-title />
-    <desc>As Frankie prepares to leave the village, the Keanes get ready to surprise their estranged family by moving to Hollyoaks. But in a devastating twist of fate, things spiral out of control..</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Soap</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/ce49e9bb-4d66-4295-9c68-c6695c491216/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421094500 +0500" stop="20260421102500 +0500">
-    <title>Countdown</title>
-    <sub-title />
-    <desc>Another chance to catch yesterday's new episode, with Richard Whitehead in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7b3f075b-3c76-4624-97ea-0aa444afd75b/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421102500 +0500" stop="20260421105500 +0500">
-    <title>Cheers</title>
-    <sub-title>Peterson Crusoe</sub-title>
-    <desc>After a health scare, Norm decides that it's time to give up his old life and move to Bora Bora. Will he go through with it.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/b8c177c3-2aef-461b-8ec4-85453a663166/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421105500 +0500" stop="20260421112000 +0500">
-    <title>Cheers</title>
-    <sub-title>A Ditch in Time</sub-title>
-    <desc>Sam's flirtation with Diane's friend Amanda lands him in trouble when she becomes obsessive about their romance.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/5c18adc9-c3f4-4f20-baa9-06127e637d49/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421112000 +0500" stop="20260421115000 +0500">
-    <title>Cheers</title>
-    <sub-title>Whodunit?</sub-title>
-    <desc>Frasier's esteemed colleague Dr Ludlow meets Carla, falls in love with her and proposes marriage in a whirlwind romance. But Carla has a surprise up her sleeve.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/c45d338d-f373-460a-ba1b-6dadac329969/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421115000 +0500" stop="20260421121500 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Wedding (Part 1/2)</sub-title>
-    <desc>Ray makes the mistake of asking Debra why she married him, rekindling memories of his proposal and his fears that she felt pressured into agreeing.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/db0a9439-7bae-4a98-99c1-02ad034330ae/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421121500 +0500" stop="20260421124000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Wedding (Part 2/2)</sub-title>
-    <desc>Ray reminisces about his wedding, when he worried that Debra was more interested in the big day than she was in her groom.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/cf061521-3ab6-4793-9d24-920ad5f95b2a/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421124000 +0500" stop="20260421131000 +0500">
-    <title>Everybody Loves Raymond</title>
-    <sub-title>The Invasion</sub-title>
-    <desc>Ray moves his family into his parents' house when the termite exterminators visit. And Debra takes the opportunity to turn the tables on her in-laws.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4ceeadd9-904d-4bda-8880-f8250eae5718/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421131000 +0500" stop="20260421134000 +0500">
-    <title>Frasier</title>
-    <sub-title>Trophy Girlfriend</sub-title>
-    <desc>Frasier asks a gym coach to team up with him for a squash tournament, then develops a massive crush on her.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d0ac3fb5-5ce9-4083-a59a-8ea5eb1d49cc/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421134000 +0500" stop="20260421141000 +0500">
-    <title>Frasier</title>
-    <sub-title>Fraternal Schwinns</sub-title>
-    <desc>Frasier and Niles are volunteered to participate in a bike-a-thon for AIDS research. Unfortunately, neither of them can ride a bike..</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/30d53a29-e7f4-463b-9f29-91b9d59672d2/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421141000 +0500" stop="20260421144000 +0500">
-    <title>Frasier</title>
-    <sub-title>Kenny on the Couch</sub-title>
-    <desc>Frasier's jealous when his depressed station manager finds more comfort in Martin's advice than Frasier's psychiatry. Niles and Daphne study yoga.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/424026ca-9693-437c-a1cf-926c21868abf/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421144000 +0500" stop="20260421151000 +0500">
-    <title>Frasier</title>
-    <sub-title>Roe to Perdition</sub-title>
-    <desc>The Crane brothers find their social influence growing, thanks to a Russian backstreet caviar dealer.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/7a3f22bc-f31d-4a3f-9393-9b9647271795/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421151000 +0500" stop="20260421160500 +0500">
-    <title>Ramsay's Kitchen Nightmares USA</title>
-    <sub-title>Bask 46</sub-title>
-    <desc>Six-month-old gastropub Bask 46 is in jeopardy due to its fiery head chef. Can Gordon transform it.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Cooking</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/81c43bef-32a4-3f59-a0da-bd94edf95879/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421160500 +0500" stop="20260421161000 +0500">
-    <title>Channel 4 News Summary</title>
-    <sub-title />
-    <desc>Channel 4's midday news summary.</desc>
-    <category lang="en">News &amp; Documentary</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/d1234891-3aa7-4da8-bcf4-816de1c5cfef/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421161000 +0500" stop="20260421171000 +0500">
-    <title>Find It, Fix It, Flog It</title>
-    <sub-title />
-    <desc>In Leicestershire, Simon O'Brien and Henry Cole meet Bernadette, whose uncle Jim has filled every room in his house with motorbikes, cycles and everything under the sun.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Factual</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/042a936a-61e3-44e0-94c7-e95d070ecbf8/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421171000 +0500" stop="20260421181000 +0500">
-    <title>Matt Baker: Travels with Mum &amp; Dad</title>
-    <sub-title />
-    <desc>The Bakers explore the Ford and Etal estates, meet a lord and his rare four-horned Hebridean sheep, and help out at one of the UK's few working watermills.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/759228aa-b454-356a-baff-bf05a6728432/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421181000 +0500" stop="20260421190000 +0500">
-    <title>Countdown</title>
-    <sub-title />
-    <desc>Colin Murray, Rachel Riley and Susie Dent host, with Richard Whitehead in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game Show</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/24716ddd-517b-4bee-91c6-5cecf5c06935/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421190000 +0500" stop="20260421200000 +0500">
-    <title>A Place in the Sun</title>
-    <sub-title />
-    <desc>John and Debbie are dreaming of a two-bedroom home that could one day become their permanent residence on the Costa Cálida in Spain. Lucy Alexander shows them what their money can buy.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/90660a7a-7a9b-4bad-aa79-e1bc4c94bd31/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421200000 +0500" stop="20260421210000 +0500">
-    <title>A New Life in the Sun: Where Are They Now?</title>
-    <sub-title />
-    <desc>Will Rob and Steve's new events pay off at their French vineyard? There's a shock departure at Gary and Lynne's padel tennis club.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travel</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/4d68a404-53a7-39a0-9ebc-b634e98f0f8b/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421210000 +0500" stop="20260421220000 +0500">
-    <title>Chateau DIY</title>
-    <sub-title>The new series continues</sub-title>
-    <desc>Tim and Sasha get their courtyard wedding-ready. Anna and Edward spruce up their roof ready for a wine weekend. Roger and Louisa create a new ensuite.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Home</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/11d862f6-40d4-4b6d-9c8f-e96c31a0a8ef/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421220000 +0500" stop="20260421230000 +0500">
-    <title>Sun, Sea and Selling Houses</title>
-    <sub-title />
-    <desc>In Alicante, the Rodriguezes help Jill and Dene find the perfect balance of comfort and outdoor living. In Murcia, the Browns hunt for a villa for Paul and Bobbie's blended family.</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyles</category>
-    <language>en</language>
-    <icon src="https://images.metadata.sky.com/pd-image/9c7baa85-df8f-4f4c-b608-24a5ebdcc344/16-9" />
-  </programme><programme channel="Channel-4-UK" start="20260421230000 +0500" stop="20260422000000 +0500">
+  </channel><programme channel="Channel-4-UK" start="20260421230000 +0500" stop="20260422000000 +0500">
     <title>Channel 4 News</title>
     <sub-title />
     <desc>Channel 4's flagship news programme. Including the weather.</desc>
@@ -555,5 +99,457 @@
     <category lang="en">Lifestyles</category>
     <language>en</language>
     <icon src="https://images.metadata.sky.com/pd-image/b84ca03e-79db-42f7-bc0f-6954b3efa30e/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422093000 +0500" stop="20260422094500 +0500">
+    <title>Sunday Brunch</title>
+    <sub-title />
+    <desc>Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Magazine</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8dc31a1b-80e4-4145-913f-4d4496476b1f/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422094500 +0500" stop="20260422102500 +0500">
+    <title>Countdown</title>
+    <sub-title />
+    <desc>Another chance to catch yesterday's new episode, with Richard Whitehead in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/24716ddd-517b-4bee-91c6-5cecf5c06935/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422102500 +0500" stop="20260422105500 +0500">
+    <title>Cheers</title>
+    <sub-title />
+    <desc>The Heart Is a Lonely Snipe Hunter: At Diane's insistence, Sam invites Frasier to join the boys on a fishing trip, during which they send him into the woods on a 'snipe hunt'.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/12da3a8b-d232-45cc-b41a-45e785d22cbc/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422105500 +0500" stop="20260422112000 +0500">
+    <title>Cheers</title>
+    <sub-title>King of the Hill</sub-title>
+    <desc>Sam thinks he's scored some brownie points by agreeing to pitch in a charity softball game, but his over-competitive nature earns him a lecture from Diane.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/de861e68-fe01-414c-9f09-e736ecbee058/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422112000 +0500" stop="20260422115000 +0500">
+    <title>Cheers</title>
+    <sub-title>Teacher's Pet</sub-title>
+    <desc>Sam joins a geography class so that he can pass his high school diploma. Coach helps him to study, but he finds an easier way to progress: by dating the teacher.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/81561157-faf2-4666-9c0f-9bea27f00a3c/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422115000 +0500" stop="20260422121500 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Driving Frank</sub-title>
+    <desc>When Frank backs into Robert's police car, Debra decides that he's not a safe driver and the kids should no longer travel in his car.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/df5b5f97-ec2c-46f5-83e1-150011be5f1f/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422121500 +0500" stop="20260422124000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Sitter</sub-title>
+    <desc>Debra decides to undermine the babysitter's popularity when she finds out how much the children like her, but all does not go to plan.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/2c633434-c11b-4a8c-aead-5c9bf6f200d6/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422124000 +0500" stop="20260422131000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Getting Even</sub-title>
+    <desc>Ray embarrasses Debra at a school auction but then worries about the ways in which she could get revenge.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/66127181-681f-4647-bcb9-038df2c9c158/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422131000 +0500" stop="20260422134000 +0500">
+    <title>Frasier</title>
+    <sub-title>Some Assembly Required</sub-title>
+    <desc>Frasier turns his hand to DIY when he helps out with a local homebuilding scheme. Unfortunately, his plans are rather too grand..</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/49de6b79-2d6f-442f-a50a-a252a422417d/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422134000 +0500" stop="20260422141000 +0500">
+    <title>Frasier</title>
+    <sub-title>Farewell, Nervosa</sub-title>
+    <desc>Frasier and Niles search for a new coffee house when they're annoyed by a street singer (guest star Elvis Costello) who starts playing at Café Nervosa.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/aac9887e-a6dd-44a3-a3d4-6fec0218333c/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422141000 +0500" stop="20260422144000 +0500">
+    <title>Frasier</title>
+    <sub-title>The Devil and Dr Phil</sub-title>
+    <desc>Frasier's jealous when he finds out about his former agent Bebe's relationship with his old friend Dr Phil (guest starring as himself).</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5eaafb9f-5697-4d1d-8449-95c2f1233686/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422144000 +0500" stop="20260422151000 +0500">
+    <title>Frasier</title>
+    <sub-title>Fathers and Sons</sub-title>
+    <desc>Martin worries that he might not be Frasier and Niles's dad when he notices the similarities that they share with his wife's former colleague.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c34dcdca-040b-41cf-9881-252263d95043/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422151000 +0500" stop="20260422160500 +0500">
+    <title>Ramsay's Kitchen Nightmares USA</title>
+    <sub-title>In the Drink</sub-title>
+    <desc>Gordon attempts to revamp an inconsistent country club and golf course restaurant in New Jersey. It's dark, it's gloomy and the food's attracting complaints.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/72d960c6-0801-3966-b612-b02124cdb908/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422160500 +0500" stop="20260422161000 +0500">
+    <title>Channel 4 News Summary</title>
+    <sub-title />
+    <desc>Channel 4's midday news summary.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/51ea7b8f-de9f-48c4-871d-760105d37a8b/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422161000 +0500" stop="20260422171000 +0500">
+    <title>Find It, Fix It, Flog It</title>
+    <sub-title />
+    <desc>In Norfolk, Simon O'Brien discovers an old pedal cycle with a difference: it's got a two-stroke engine attached. And Henry Cole finds a side table made from a war shell case.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5a7b84fc-2e7a-4a6d-889e-e43fc9726565/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422171000 +0500" stop="20260422181000 +0500">
+    <title>Matt Baker: Travels with Mum &amp; Dad</title>
+    <sub-title />
+    <desc>The Bakers head to stunning Ushaw House, get a glimpse of the treasures buried with a saint and help out at an alpaca farm in the Durham Dales.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/072f01dd-9d00-3d2d-835b-fb462a79757e/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422181000 +0500" stop="20260422190000 +0500">
+    <title>Countdown</title>
+    <sub-title />
+    <desc>Colin Murray, Rachel Riley and Susie Dent host, with Richard Whitehead in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a07f4540-df68-4d6d-afb2-b08d4d3c24b0/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422190000 +0500" stop="20260422200000 +0500">
+    <title>A Place in the Sun</title>
+    <sub-title />
+    <desc>Leah Charles-King helps Jenny buy her first-ever property - in San Antonio on Ibiza. Can Leah find the perfect apartment close to the beach for Jenny's £250k.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3e8cbbd2-c132-4af1-be49-7558babcaf3b/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422200000 +0500" stop="20260422210000 +0500">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <sub-title />
+    <desc>In France, Nadine and Simon cook up new ideas to expand their glamping business. In Spain, Joel and Cori launch a brand-new venture.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ec9845b0-9b58-345a-a709-2e7b4bd66587/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422210000 +0500" stop="20260422220000 +0500">
+    <title>Chateau DIY</title>
+    <sub-title>The new series continues</sub-title>
+    <desc>Lionel and Claire take on a luxury en-suite. Alison and Zion rebuild a top-floor apartment. Tim and Sasha prepare for not one but two huge weddings.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Home</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/12243805-ee47-495f-89c3-63a00376b0c6/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422220000 +0500" stop="20260422230000 +0500">
+    <title>Sun, Sea and Selling Houses</title>
+    <sub-title />
+    <desc>Can the Garners help Alison and John find the perfect villa in Almería? On the Costa Blanca, the Aldertons show Hollywood casting director Nancy a sleek ultra-modern home.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ba931bd7-9cf5-4d15-9d3f-7350d9c17f1b/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260422230000 +0500" stop="20260423000000 +0500">
+    <title>Channel 4 News</title>
+    <sub-title />
+    <desc>Channel 4's flagship news programme. Including the weather.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e87d8735-abaf-4d49-8a63-641bc0a7ac48/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423000000 +0500" stop="20260423010000 +0500">
+    <title>Help! I Bought It at Auction with Sarah Beeny</title>
+    <sub-title />
+    <desc>Danny and Danielle take on a mansion with spectacular views, and spectacular problems. Can Aled and Sarah get their auction abode ready for their wedding.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8a438901-8a67-4525-b935-3e65c1673f42/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423010000 +0500" stop="20260423020000 +0500">
+    <title>Grayson Perry Has Seen the Future</title>
+    <sub-title />
+    <desc>Grayson meets the co-founder of the popular AI app Anthropic and a scientist working on empathetic robots, and creates a new artwork inspired by his tech adventure.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Science</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0f2abab6-582b-4921-9f18-23d47833de1d/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423020000 +0500" stop="20260423030000 +0500">
+    <title>Gordon Ramsay's Secret Service</title>
+    <sub-title>MacGregor's</sub-title>
+    <desc>Gordon Ramsay infiltrates struggling restaurants with the help of a secret insider. Can new owner Stephanie give up the ghosts of MacGregor's past.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1150b295-5298-499d-b991-1aa4880338da/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423030000 +0500" stop="20260423040000 +0500">
+    <title>24 Hours in A&amp;E</title>
+    <sub-title />
+    <desc>Fifty-year-old Sara is rushed to A&amp;E after collapsing at work with a thunderclap headache. And Flynn was hit by a car while riding his bike and has hurt his leg.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">Feature</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/5c388342-27ff-44d9-9fe4-10ac5478b26b/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423040000 +0500" stop="20260423045500 +0500">
+    <title>Rescue: Extreme Medics</title>
+    <sub-title />
+    <desc>Elite clinicians race to save lives in challenging locations across Scotland. Rally driver Scott has rolled down a 20-foot embankment on Mull.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1785621c-4f59-325f-86f4-34a20dd4560b/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423045500 +0500" stop="20260423054500 +0500">
+    <title>Ramsay's Kitchen Nightmares USA</title>
+    <sub-title>Peter's</sub-title>
+    <desc>Gordon visits Peter's Italian Restaurant in New York, where the peace of Long Island is shattered by the antics of the volatile Pellegrino family who run the place.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/1a68d022-9aee-41e4-b5f7-7a37823350f7/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423054500 +0500" stop="20260423061000 +0500">
+    <title>Travel Man: 48 Hours in Marseille</title>
+    <sub-title />
+    <desc>Join Asim Chaudhry and Joe Lycett for le weekend in Marseille. Expect street food, skateboarding, submerged sculpture, and spectacular sights from atop the Basilica Notre-Dame de la Garde.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/385c177d-b2d3-4e05-af8a-036ea3ee0108/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423061000 +0500" stop="20260423073500 +0500">
+    <title>Like a Boss</title>
+    <sub-title />
+    <desc>Comedy with Tiffany Haddish and Rose Byrne. When two friends' beauty business gets into dire financial difficulty, they turn to a scary CEO for help.</desc>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/471f9d98-ff09-4cf1-b410-f78005d5a146/16-9" />
+    <rating system="UK">
+      <value>15</value>
+    </rating>
+  </programme><programme channel="Channel-4-UK" start="20260423073500 +0500" stop="20260423083000 +0500">
+    <title>George Clarke's Old House New Home</title>
+    <sub-title />
+    <desc>On Merseyside, George has radical ideas to redesign an Edwardian home. In Surrey, he tackles a Victorian country house that has accrued some bizarre additions over the years.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9a89142f-e577-4622-865f-4da937c53af0/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423083000 +0500" stop="20260423092500 +0500">
+    <title>Couples Come Dine with Me</title>
+    <sub-title />
+    <desc>In Nottingham, three couples compete with holiday-inspired menus, in a week featuring a sweaty confession, an underwhelming paella and an alpha male arm wrestle.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/02a2af5c-1e3c-4d08-a436-dd494c78f1d7/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423092500 +0500" stop="20260423094500 +0500">
+    <title>Find It, Fix It, Flog It</title>
+    <sub-title />
+    <desc>On the Isle of Wight, restorer Ronnie relives his past life in Ibiza via a three-wheeled trike.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/3eae7ccf-d73e-47ab-85a2-c11fad7f9c6a/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423094500 +0500" stop="20260423102500 +0500">
+    <title>Countdown</title>
+    <sub-title />
+    <desc>Another chance to catch yesterday's new episode, with Richard Whitehead in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a07f4540-df68-4d6d-afb2-b08d4d3c24b0/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423102500 +0500" stop="20260423105500 +0500">
+    <title>Cheers</title>
+    <sub-title>The Mail Goes to Jail</sub-title>
+    <desc>When Cliff gets ill, Norm helps him by delivering the mail, but gets arrested for allegedly tampering with the post.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/91dd831e-c89b-4a3e-8529-4202bdc306db/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423105500 +0500" stop="20260423112000 +0500">
+    <title>Cheers</title>
+    <sub-title>Bar Bet</sub-title>
+    <desc>An absurd bet that Sam made during his wild days comes back to haunt him when the man he made the wager with shows up. If Sam can't triumph, he must forfeit the bar.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/60ed6c49-2f2a-401e-947e-d180891eea42/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423112000 +0500" stop="20260423115000 +0500">
+    <title>Cheers</title>
+    <sub-title>Behind Every Great Man</sub-title>
+    <desc>Sam's reputation as a ladies' man takes a battering when a journalist comes to the bar to report on Boston's singles scene and is irked by his smugness.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/265410fb-2fa9-4d11-80e3-8312e2ee4a1f/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423115000 +0500" stop="20260423121500 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>The Visit</sub-title>
+    <desc>Debra's shocked when she suddenly realises that she wishes her own mother was more like Marie..</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/9aaec478-1cbb-41b1-aa62-b4b824998fba/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423121500 +0500" stop="20260423124000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Halloween Candy</sub-title>
+    <desc>Debra thinks that it's Ray's turn to take charge of birth control, so he decides to have his 'wires cut', but then chickens out..</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a068422f-0858-4af4-a016-2c2e3e6864d1/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423124000 +0500" stop="20260423131000 +0500">
+    <title>Everybody Loves Raymond</title>
+    <sub-title>Moving Out</sub-title>
+    <desc>Robert decides that he's too old to be living with his parents, so he moves in with another elderly couple - who turn out to be carbon copies of Frank and Marie.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/85846716-0ef2-422e-9b01-0616c1fcc38d/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423131000 +0500" stop="20260423134000 +0500">
+    <title>Frasier</title>
+    <sub-title>Analyzed Kiss</sub-title>
+    <desc>Frasier shares an unexpected kiss with Julia while trying to steal files from her ex's office. Niles enjoys a trip to the shooting range more than he expected.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/0caa1680-d8a6-4c7a-b117-7a8bafd3bb10/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423134000 +0500" stop="20260423141000 +0500">
+    <title>Frasier</title>
+    <sub-title>A New Position for Roz</sub-title>
+    <desc>Roz prepares to leave the radio station and join a rival company, but not before voicing her concerns about Frasier's new relationship with Julia.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d9b78a55-8ed4-40bb-b6a0-a61e9f73beb8/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423141000 +0500" stop="20260423144000 +0500">
+    <title>Frasier</title>
+    <sub-title>No Sex Please, We're Skittish</sub-title>
+    <desc>Roz isn't happy when the station announces that it's found her replacement. But if she stays, she'll have to put up with Frasier's new romance.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/82483de4-adf0-41be-aeae-9b2d54a20a72/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423144000 +0500" stop="20260423151000 +0500">
+    <title>Frasier</title>
+    <sub-title />
+    <desc>A Man, a Plan, and a Gal - Julia: Daphne and Niles have an important announcement to make, but Frasier's girlfriend steals their thunder.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/537d5bcc-2252-4441-85ad-428aaba0daf6/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423151000 +0500" stop="20260423160500 +0500">
+    <title>Ramsay's Kitchen Nightmares USA</title>
+    <sub-title>Da Mimmo</sub-title>
+    <desc>Gordon tries to transform New Jersey Italian restaurant Da Mimmo, which is run by a mother and her three sons - two of whom see the business as a failure..</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Cooking</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/b7420f9e-2140-3e28-b58f-7c2e4a32615d/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423160500 +0500" stop="20260423161000 +0500">
+    <title>Channel 4 News Summary</title>
+    <sub-title />
+    <desc>Channel 4's midday news summary.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/c1971dc1-0a52-4dff-bbc1-76d01903fa40/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423161000 +0500" stop="20260423171000 +0500">
+    <title>Find It, Fix It, Flog It</title>
+    <sub-title />
+    <desc>In North Wales, Simon O'Brien and Henry Cole meet Emma, whose father ran a haulage and motor repair business, to see what unloved items they can restore.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Factual</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/e6df25e8-2c2f-47b9-bb29-55a648433e84/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423171000 +0500" stop="20260423181000 +0500">
+    <title>Matt Baker: Travels with Mum &amp; Dad</title>
+    <sub-title />
+    <desc>The Bakers help to prep award-winning animals at the Northumberland County Show, and visit stunning historical Corbridge.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/d3169aa9-013d-3546-9cee-7a10bdad2297/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423181000 +0500" stop="20260423190000 +0500">
+    <title>Countdown</title>
+    <sub-title />
+    <desc>Colin Murray, Rachel Riley and Susie Dent host, with Richard Whitehead in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/31c7a7c0-34e6-4a53-992b-1387972dee55/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423190000 +0500" stop="20260423200000 +0500">
+    <title>A Place in the Sun</title>
+    <sub-title />
+    <desc>Lizzie and Paul love the seaside town of Paphos on Cyprus's west coast. Can Ben Hillman find them the perfect holiday home for the whole family, including their 10 grandkids, for £125k.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/ecf31332-4e9a-3f2a-9297-d3f7915a2e9a/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423200000 +0500" stop="20260423210000 +0500">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <sub-title />
+    <desc>There's a change in direction for Andy and Jules's Spanish cycle adventure business. On the Costa Cálida, mini golf course owner Ian launches a new tournament.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travel</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/8b996b5f-e051-3dfd-885c-c2c88f754c08/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423210000 +0500" stop="20260423220000 +0500">
+    <title>Chateau DIY</title>
+    <sub-title>The new series continues</sub-title>
+    <desc>Donna and Paul dabble with DIY danger. Debbie and Dave overhaul a barn to launch a craft business. Tim and Krys revive a bland reception.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Home</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a88b571c-8226-4e78-bf83-e3a5383d1dc2/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423220000 +0500" stop="20260423230000 +0500">
+    <title>Sun, Sea and Selling Houses</title>
+    <sub-title />
+    <desc>Andy and Kathy accidentally sold their house in the UK! Can the Garners find them their forever in in Almería? In Murcia, the Browns help Debbie and Jordan find a coastal escape.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/88edc49f-fe33-4734-9794-8f98c52bd797/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260423230000 +0500" stop="20260424000000 +0500">
+    <title>Channel 4 News</title>
+    <sub-title />
+    <desc>Channel 4's flagship news programme. Including the weather.</desc>
+    <category lang="en">News &amp; Documentary</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a4cbd373-3866-4716-91f5-83437a987e04/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260424000000 +0500" stop="20260424010000 +0500">
+    <title>Paul Merton: Driving Amazing Trains</title>
+    <sub-title />
+    <desc>On the French Riviera, Paul takes control of a steam loco on the stunning Pine Cone line and rides in the cab of millionaire businessman Paul Ricard's private line.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyles</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/f4e0bd7f-80f8-4061-a61b-c2c736617004/16-9" />
+  </programme><programme channel="Channel-4-UK" start="20260424010000 +0500" stop="20260424020000 +0500">
+    <title>Taskmaster</title>
+    <sub-title />
+    <desc>Alex Horne treats the contestants to a song, but not everyone appreciates it. A grunting Kumail Nanjiani embraces Amy Gledhill and Joel Dommett while they quiz him about a horse.</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game Show</category>
+    <language>en</language>
+    <icon src="https://images.metadata.sky.com/pd-image/a8154050-bc99-4967-bf01-8559fd1484dc/16-9" />
   </programme>
 </tv>

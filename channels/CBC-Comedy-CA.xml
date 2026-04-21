@@ -1,415 +1,534 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="CBC-Comedy-CA">
-    <display-name>CBC Comedy</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBC-Comedy-CA.png" />
-  </channel><programme channel="CBC-Comedy-CA" start="20260420081100 +0500" stop="20260420083700 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>CBC Comedy</display-name>
+  </channel><programme channel="CBC-Comedy-CA" start="20260422014500 +0500" stop="20260422021000 +0500">
     <title>Workin' Moms</title>
-    <sub-title>The Man in the Mexican Mask</sub-title>
-    <desc>A repentant Alice earns back her internship at Kate Foster PR; Jenny makes an unsettling discovery; Frankie grows suspicious of Sean.</desc>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <date>20200303</date>
+    <sub-title>Punch Dad</sub-title>
+    <desc>Anne is blindsided by a controversial viral video starring Lionel; Kate faces collateral damage from her indulgent behavior; Frankie goes on a mission to right her wrongs.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20210406</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7e7435e4637d358bab74e2722cd35faa.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420083700 +0500" stop="20260420090300 +0500">
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af8edad707774b14848b2ff273a78fa9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422021000 +0500" stop="20260422023600 +0500">
     <title>Workin' Moms</title>
-    <sub-title>No One's Coming</sub-title>
-    <desc>Between Mike troubles, a Tru Air P.R. crisis and a birthday dinner with less-than-delightful in-laws, Kate's plate is full; a misstep from Alice puts Anne's book in jeopardy, and Jenny goes on the warpath for equal pay.</desc>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <date>20200310</date>
+    <sub-title>Blue Angel</sub-title>
+    <desc>Kate starts to question Sloane's ethics; Anne enrolls Alice in a new school.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20210413</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1c0751a0ad703f88454fbf6c97879fe5.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420090300 +0500" stop="20260420092800 +0500">
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7a9ce9df8aeec4bac965dabcfcb0677f.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422023600 +0500" stop="20260422030200 +0500">
     <title>Workin' Moms</title>
-    <sub-title>To Lure a Squirrel</sub-title>
-    <desc>Kate and Nathan struggle with their new living arrangement; Frankie and Juniper take their investigation of Sean too far; Anne looks at her relationship with Alice in a new light.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20200317</date>
+    <sub-title>Fack</sub-title>
+    <desc>To protect what matters most, Kate makes a dramatic sacrifice; settling back into her life in Toronto, Anne learns the fate of her book; Jenny's lies catch up to her.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20210413</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/10f0ffc5be112fffdad60f670be236a2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420092800 +0500" stop="20260420095400 +0500">
-    <title>Small Achievable Goals</title>
-    <sub-title>Judy Bloomed</sub-title>
-    <desc>Julie gets passed over for a promotion and discovers she's in menopause; Kris's first day at The Podcast Folx is complicated by an unexpected period, a new co-host, and a hostile new producer: Julie.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bf1a0089ebbe09bb88e0e469d6148e6b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422030200 +0500" stop="20260422032700 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Kate Fosters</sub-title>
+    <desc>Kate struggles with a major change in the Foster household; As promised, Sloane makes Kate's work life a living hell; Anne and the Carlsons have moved back.</desc>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <date>20220104</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/13155ada70064ccd3334632423e09c38.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422032700 +0500" stop="20260422035300 +0500">
+    <title>Mr. D</title>
+    <sub-title>Breaking Slime</sub-title>
+    <desc>Gerry gets in the slime business.</desc>
+    <episode-num system="onscreen">S08E03</episode-num>
+    <date>20181114</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dde164ad9817037e3450da86b70baded.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422035300 +0500" stop="20260422041900 +0500">
+    <title>Mr. D</title>
+    <sub-title>Mister D</sub-title>
+    <desc>A producer approaches Gerry about using Xavier for a movie.</desc>
+    <episode-num system="onscreen">S08E04</episode-num>
+    <date>20181121</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/11a2077f358b3e1e9c6000175b7e55c5.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422041900 +0500" stop="20260422044400 +0500">
+    <title>Mr. D</title>
+    <sub-title>Security Threat</sub-title>
+    <desc>After nearly getting injured, Gerry learns how the staff truly feels.</desc>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <date>20181128</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2dff5cd57cae2593360afbe49c91f002.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422044400 +0500" stop="20260422051000 +0500">
+    <title>Son of a Critch</title>
+    <sub-title>Getting Doubles</sub-title>
+    <desc>On a field trip, Mark and Cara fall asleep in the same bed, resulting in a scandalous photo circulating school. Meanwhile, Mike Sr struggles with his memoirs and Mary has a mid-life crisis.</desc>
+    <episode-num system="onscreen">S04E07</episode-num>
+    <date>20250218</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/34ef3b50c0e256d2485977d7894daa21.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422051000 +0500" stop="20260422053600 +0500">
+    <title>Son of a Critch</title>
+    <sub-title>The Stage</sub-title>
+    <desc>Mark invites Fox to a party with his grown-up theatre troupe where he frustrates her by acting like an adult; Dick is upset to find Mike Jr. dating his daughter.</desc>
+    <episode-num system="onscreen">S04E08</episode-num>
     <date>20250225</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3b159e1becd930ac334add47ee0f25bb.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420095400 +0500" stop="20260420102000 +0500">
-    <title>Small Achievable Goals</title>
-    <sub-title>The One</sub-title>
-    <desc>Julie and Kris struggle to work together while Julie is faced with her worst menopause nightmare; Kris struggles to find the confidence to host her first episode while dealing with cramps.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20250311</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/222efc013486ffa8cda921c360fa3c6e.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420102000 +0500" stop="20260420104600 +0500">
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8e1b598e8469104dbbab86c3434a5a05.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422053600 +0500" stop="20260422060200 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>Girls' Night</sub-title>
-    <desc>Alexis and Twyla go out for a girls' night; David gets a lesson on compromise.</desc>
-    <episode-num system="onscreen">S04E04</episode-num>
-    <date>20180130</date>
+    <sub-title>A Whisper of Desire</sub-title>
+    <desc>Johnny believes Ted's mom is attracted to him; Moira gets involved in a local musical production.</desc>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <date>20190219</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/41b222b18a6339dc9a45575139844d3c.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420104600 +0500" stop="20260420111200 +0500">
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ec3687ad62138222f17fca681667cd2c.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422060200 +0500" stop="20260422062800 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>RIP Moira Rose</sub-title>
-    <desc>A rumour that Moira died appears online; Roland asks Johnny to be the godfather of his child.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20180206</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3c758b9b6e27afd42e353053a4b87d08.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420111200 +0500" stop="20260420113800 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>Open Mic</sub-title>
-    <desc>David and Patrick host an open mic night; Johnny and Stevie start rebranding the hotel.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20180227</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5bbad80c15ba3f433b20587271973fe9.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420113800 +0500" stop="20260420120400 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>The Barbecue</sub-title>
-    <desc>The Roses plan a barbecue; David confronts his comfort level with Patrick; Alexis investigates a mysterious text.</desc>
-    <episode-num system="onscreen">S04E07</episode-num>
-    <date>20180306</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9aa6629a795a031f89ce1f24a3f09035.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420120400 +0500" stop="20260420123000 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>The Jazzaguy</sub-title>
-    <desc>David and Stevie set out on a romantic getaway; Johnny steps in at a Jazzagals rehearsal and wows everyone with his skills; Alexis tests out a dating app.</desc>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <date>20180313</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b809a4bbb56803b45196bd5eb99719fd.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420123000 +0500" stop="20260420125500 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>What's It Gonna Be</sub-title>
-    <desc>Kate reaches a fork in the road; Anne figures out the truth about Alice; Jenny is guided to the light; Val takes a giant leap into love.</desc>
-    <episode-num system="onscreen">S03E13</episode-num>
-    <date>20190321</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/732c387553046d009194524ca114c892.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420125500 +0500" stop="20260420132100 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Charade</sub-title>
-    <desc>Kate faces judgment from her friends over her decision, and clashes with Mike over the Tru Air account; Anne handles a rebellious Alice with creative discipline; Frankie and Bianca navigate new waters.</desc>
-    <episode-num system="onscreen">S04E01</episode-num>
-    <date>20200218</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f44584708b92064209c8ed8d41e69f9.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420132100 +0500" stop="20260420134700 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Black Sheep</sub-title>
-    <desc>Alice's new internship at Kate Foster P.R. drains Kate's resources the day of a client event, while Lionel's attempt at teaching his daughter the meaning of responsibility backfires; Frankie makes a decision Bianca may not be ready for.</desc>
-    <episode-num system="onscreen">S04E02</episode-num>
-    <date>20200225</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f712429c810398e8eaac46e2c1f993b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420134700 +0500" stop="20260420141200 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>The Man in the Mexican Mask</sub-title>
-    <desc>A repentant Alice earns back her internship at Kate Foster PR; Jenny makes an unsettling discovery; Frankie grows suspicious of Sean.</desc>
-    <episode-num system="onscreen">S04E03</episode-num>
-    <date>20200303</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7e7435e4637d358bab74e2722cd35faa.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420141200 +0500" stop="20260420150000 +0500">
-    <title>Strays</title>
-    <sub-title>Friends &amp; Neighbours</sub-title>
-    <desc>Shannon meets an unwanted guest in the HEAS parking lot and tries to balance community and impressing a new board member.</desc>
-    <episode-num system="onscreen">S02E01</episode-num>
-    <date>20220913</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1e25bc7457acfd70825944d839279fb8.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420150000 +0500" stop="20260420152500 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>Appanoon Delight</sub-title>
-    <desc>Appa and Umma search for ways to spice up their love life; Kimchee preps for his first presentation.</desc>
-    <episode-num system="onscreen">S03E07</episode-num>
-    <date>20220604</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/641538200dadc6169af2e5ba29aff90d.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420152500 +0500" stop="20260420155100 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>To Him It May Concern</sub-title>
-    <desc>Kimchee's mom visits, and Jung looks forward to seeing her; Umma takes over sign duty; Gerald asks Appa for a reference letter, but Janet intervenes.</desc>
-    <episode-num system="onscreen">S03E08</episode-num>
+    <sub-title>The Hospies</sub-title>
+    <desc>Johnny and Stevie attend the hospitality awards; Moira tries to stop Alexis from auditioning for Cabaret.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
     <date>20190226</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2e10eee693674a0055409ac0f26cf9c3.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420155100 +0500" stop="20260420161700 +0500">
-    <title>Kim's Convenience</title>
-    <sub-title>Blabber Talker</sub-title>
-    <desc>Appa and Umma invite their friends to go on vacation, accidentally; Janet accepts a photography job; Jung takes teasing too far.</desc>
-    <episode-num system="onscreen">S03E09</episode-num>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/079e7f1c1c0f663ec779c71400d8f859.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422062800 +0500" stop="20260422065400 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>The M.V.P.</sub-title>
+    <desc>David agrees to play in the annual baseball game; Moira's rehearsal pushes Stevie over the edge.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
     <date>20190305</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/1a39fa983acd85f92b3deae6644ebfeb.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420161700 +0500" stop="20260420164300 +0500">
-    <title>Mr. D</title>
-    <sub-title>Gerry's Insider's Look</sub-title>
-    <desc>A team of reporters uses Xavier Academy to determine the true value of private schools and ends up exposing a deep, dark secret.</desc>
-    <episode-num system="onscreen">S07E11</episode-num>
-    <date>20171205</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/196fc8d7e928e61eda509f3162e9f268.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420164300 +0500" stop="20260420170800 +0500">
-    <title>Mr. D</title>
-    <sub-title>Big in Japan</sub-title>
-    <desc>An expose on Gerry costs him his job and his ability to get a new one.</desc>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <date>20181107</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f1feeeaa1fd5bd962d939d0a3c3b8488.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420170800 +0500" stop="20260420173400 +0500">
-    <title>Mr. D</title>
-    <sub-title>Finnished Teaching</sub-title>
-    <desc>Gerry tries to gain the staff's trust after being introduced as the new principal.</desc>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <date>20181107</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/013133a17a652258d423361b8cf927d2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420173400 +0500" stop="20260420180000 +0500">
-    <title>Son of a Critch</title>
-    <sub-title>Child Star</sub-title>
-    <desc>Mark stars in a PSA for young women and meets experienced child actor Steve, who inspires him; Mike Sr. relapses at Mr. Murphy's retirement event, leading to a confrontation.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20250204</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcfcdc48bf384a9dffda81a1f997431.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420180000 +0500" stop="20260420182600 +0500">
-    <title>Son of a Critch</title>
-    <sub-title>Happy 1990</sub-title>
-    <desc>On NYE Fox asks Mark to babysit while their parents double date; Ritche imparts advice leading to a big blowout; Mike Jr and Amanda share sparks, and Pop has a blast at home.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20250211</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6675298895eeb027552bb1871b2eff4a.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420182600 +0500" stop="20260420185200 +0500">
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1c650324de2bc84a6b5b41bc25c6f1df.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422065400 +0500" stop="20260422072000 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Plant</sub-title>
-    <desc>Alexis and Johnny come up with a plan to impress a motel reviewer; David and Patrick look for an apartment.</desc>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <date>20190122</date>
+    <sub-title>Roadkill</sub-title>
+    <desc>Johnny and Moira accidentally hit a cat; David has a run-in with an old colleague who has a business very similar to Rose Apothecary.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20190312</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c2800d34d59849d0208341ad184103b1.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420185200 +0500" stop="20260420191800 +0500">
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8726005942b74502d66970ecec1c9501.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422072000 +0500" stop="20260422074500 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Punch Dad</sub-title>
+    <desc>Anne is blindsided by a controversial viral video starring Lionel; Kate faces collateral damage from her indulgent behavior; Frankie goes on a mission to right her wrongs.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20210406</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af8edad707774b14848b2ff273a78fa9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422074500 +0500" stop="20260422081100 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Blue Angel</sub-title>
+    <desc>Kate starts to question Sloane's ethics; Anne enrolls Alice in a new school.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20210413</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7a9ce9df8aeec4bac965dabcfcb0677f.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422081100 +0500" stop="20260422083700 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Fack</sub-title>
+    <desc>To protect what matters most, Kate makes a dramatic sacrifice; settling back into her life in Toronto, Anne learns the fate of her book; Jenny's lies catch up to her.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20210413</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bf1a0089ebbe09bb88e0e469d6148e6b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422083700 +0500" stop="20260422090300 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Kate Fosters</sub-title>
+    <desc>Kate struggles with a major change in the Foster household; As promised, Sloane makes Kate's work life a living hell; Anne and the Carlsons have moved back.</desc>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <date>20220104</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/13155ada70064ccd3334632423e09c38.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422090300 +0500" stop="20260422092800 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Dress</sub-title>
-    <desc>Johnny finds himself under financial pressure with the arrival of Moira's high-priced red carpet gown for the Crows movie premiere; David is conned into taking a road trip with Stevie.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20190129</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/03f95114d41d285ff8d0e7d9c4c13d16.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420191800 +0500" stop="20260420194400 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>Housewarming</sub-title>
-    <desc>Ted finally lets loose at David and Patrick's housewarming party; Johnny and Moira baby-sit Roland Jr.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <date>20190205</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7c39c1de9f3e3775d536cc9ed297579b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420194400 +0500" stop="20260420201000 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>Rock On!</sub-title>
-    <desc>Moira and the Jazzagals take Jocelyn to the casino; Johnny has a conversation with Stevie about intimacy in the workplace.</desc>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <date>20190212</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e74a7aec3b75007614247ecf392271b6.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420201000 +0500" stop="20260420203500 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>A Rat, Girl</sub-title>
-    <desc>In a high-pressure moment, Kate pitches an idea that isn't hers to give; Anne's publication dreams may finally come true; a new opportunity leads Frankie to expand her business; Jenny confronts her man about what he really wants.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20210309</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0c9a21a53e53e424b6bf9d1661d7f09b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420203500 +0500" stop="20260420210100 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Mother Knows Breast</sub-title>
-    <desc>A quick fix at work leaves Kate in the rat trap; Anne struggles to keep her temper in check as she promotes her book; Val learns her nest isn't as empty as she thought; Frankie realizes her new employees are a mixed bag.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <date>20210316</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/807421e4decb3f53c3e0acb5a6cbe021.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420210100 +0500" stop="20260420212700 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Finger in the Butt</sub-title>
-    <desc>Anne's explosive television debut puts Kate's loyalty to the test; Frankie falls into a funk after a disaster at work; Jenny realizes her feelings for MCP might run deeper than she thought.</desc>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <date>20210323</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f702e078efb1f6cdc75f5c5f43e8967.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420212700 +0500" stop="20260420215200 +0500">
-    <title>Workin' Moms</title>
-    <sub-title>Launch Pad to Trash Hole</sub-title>
-    <desc>After a wake-up call from Sloane, Kate adjusts her priorities; Frankie realizes she's responsible for a recent workplace tragedy; needing a break from Kate, Anne hides out at Val's.</desc>
+    <sub-title>A Whisper of Desire</sub-title>
+    <desc>Johnny believes Ted's mom is attracted to him; Moira gets involved in a local musical production.</desc>
     <episode-num system="onscreen">S05E07</episode-num>
-    <date>20210330</date>
+    <date>20190219</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/389483e7f4cc3e38b8b0b9c7bdbd432a.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420215200 +0500" stop="20260420221800 +0500">
-    <title>Mr. D</title>
-    <sub-title>Gerry's Insider's Look</sub-title>
-    <desc>A team of reporters uses Xavier Academy to determine the true value of private schools and ends up exposing a deep, dark secret.</desc>
-    <episode-num system="onscreen">S07E11</episode-num>
-    <date>20171205</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/196fc8d7e928e61eda509f3162e9f268.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420221800 +0500" stop="20260420224400 +0500">
-    <title>Mr. D</title>
-    <sub-title>Big in Japan</sub-title>
-    <desc>An expose on Gerry costs him his job and his ability to get a new one.</desc>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <date>20181107</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f1feeeaa1fd5bd962d939d0a3c3b8488.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420224400 +0500" stop="20260420230900 +0500">
-    <title>Mr. D</title>
-    <sub-title>Finnished Teaching</sub-title>
-    <desc>Gerry tries to gain the staff's trust after being introduced as the new principal.</desc>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <date>20181107</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/013133a17a652258d423361b8cf927d2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420230900 +0500" stop="20260420233500 +0500">
-    <title>Son of a Critch</title>
-    <sub-title>Child Star</sub-title>
-    <desc>Mark stars in a PSA for young women and meets experienced child actor Steve, who inspires him; Mike Sr. relapses at Mr. Murphy's retirement event, leading to a confrontation.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20250204</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcfcdc48bf384a9dffda81a1f997431.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260420233500 +0500" stop="20260421000100 +0500">
-    <title>Son of a Critch</title>
-    <sub-title>Happy 1990</sub-title>
-    <desc>On NYE Fox asks Mark to babysit while their parents double date; Ritche imparts advice leading to a big blowout; Mike Jr and Amanda share sparks, and Pop has a blast at home.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20250211</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6675298895eeb027552bb1871b2eff4a.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421000100 +0500" stop="20260421002700 +0500">
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ec3687ad62138222f17fca681667cd2c.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422092800 +0500" stop="20260422095400 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Plant</sub-title>
-    <desc>Alexis and Johnny come up with a plan to impress a motel reviewer; David and Patrick look for an apartment.</desc>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <date>20190122</date>
+    <sub-title>The Hospies</sub-title>
+    <desc>Johnny and Stevie attend the hospitality awards; Moira tries to stop Alexis from auditioning for Cabaret.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20190226</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c2800d34d59849d0208341ad184103b1.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421002700 +0500" stop="20260421005300 +0500">
+    <icon src="https://metadata-static.plex.tv/0/gracenote/079e7f1c1c0f663ec779c71400d8f859.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422095400 +0500" stop="20260422102000 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Dress</sub-title>
-    <desc>Johnny finds himself under financial pressure with the arrival of Moira's high-priced red carpet gown for the Crows movie premiere; David is conned into taking a road trip with Stevie.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20190129</date>
+    <sub-title>The M.V.P.</sub-title>
+    <desc>David agrees to play in the annual baseball game; Moira's rehearsal pushes Stevie over the edge.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20190305</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/03f95114d41d285ff8d0e7d9c4c13d16.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421005300 +0500" stop="20260421011900 +0500">
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1c650324de2bc84a6b5b41bc25c6f1df.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422102000 +0500" stop="20260422104600 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>Housewarming</sub-title>
-    <desc>Ted finally lets loose at David and Patrick's housewarming party; Johnny and Moira baby-sit Roland Jr.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <date>20190205</date>
+    <sub-title>Roadkill</sub-title>
+    <desc>Johnny and Moira accidentally hit a cat; David has a run-in with an old colleague who has a business very similar to Rose Apothecary.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20190312</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/7c39c1de9f3e3775d536cc9ed297579b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421011900 +0500" stop="20260421014500 +0500">
-    <title>Schitt's Creek</title>
-    <sub-title>Rock On!</sub-title>
-    <desc>Moira and the Jazzagals take Jocelyn to the casino; Johnny has a conversation with Stevie about intimacy in the workplace.</desc>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <date>20190212</date>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/e74a7aec3b75007614247ecf392271b6.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421014500 +0500" stop="20260421021000 +0500">
+    <icon src="https://metadata-static.plex.tv/8/gracenote/8726005942b74502d66970ecec1c9501.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422104600 +0500" stop="20260422111200 +0500">
     <title>Workin' Moms</title>
-    <sub-title>A Rat, Girl</sub-title>
-    <desc>In a high-pressure moment, Kate pitches an idea that isn't hers to give; Anne's publication dreams may finally come true; a new opportunity leads Frankie to expand her business; Jenny confronts her man about what he really wants.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20210309</date>
+    <sub-title>Punch Dad</sub-title>
+    <desc>Anne is blindsided by a controversial viral video starring Lionel; Kate faces collateral damage from her indulgent behavior; Frankie goes on a mission to right her wrongs.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <date>20210406</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0c9a21a53e53e424b6bf9d1661d7f09b.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421021000 +0500" stop="20260421023600 +0500">
+    <icon src="https://metadata-static.plex.tv/a/gracenote/af8edad707774b14848b2ff273a78fa9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422111200 +0500" stop="20260422113800 +0500">
     <title>Workin' Moms</title>
-    <sub-title>Mother Knows Breast</sub-title>
-    <desc>A quick fix at work leaves Kate in the rat trap; Anne struggles to keep her temper in check as she promotes her book; Val learns her nest isn't as empty as she thought; Frankie realizes her new employees are a mixed bag.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <date>20210316</date>
+    <sub-title>Blue Angel</sub-title>
+    <desc>Kate starts to question Sloane's ethics; Anne enrolls Alice in a new school.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <date>20210413</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/807421e4decb3f53c3e0acb5a6cbe021.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421023600 +0500" stop="20260421030200 +0500">
+    <icon src="https://metadata-static.plex.tv/7/gracenote/7a9ce9df8aeec4bac965dabcfcb0677f.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422113800 +0500" stop="20260422120300 +0500">
     <title>Workin' Moms</title>
-    <sub-title>Finger in the Butt</sub-title>
-    <desc>Anne's explosive television debut puts Kate's loyalty to the test; Frankie falls into a funk after a disaster at work; Jenny realizes her feelings for MCP might run deeper than she thought.</desc>
-    <episode-num system="onscreen">S05E06</episode-num>
-    <date>20210323</date>
+    <sub-title>Fack</sub-title>
+    <desc>To protect what matters most, Kate makes a dramatic sacrifice; settling back into her life in Toronto, Anne learns the fate of her book; Jenny's lies catch up to her.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
+    <date>20210413</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3f702e078efb1f6cdc75f5c5f43e8967.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421030200 +0500" stop="20260421032700 +0500">
+    <icon src="https://metadata-static.plex.tv/b/gracenote/bf1a0089ebbe09bb88e0e469d6148e6b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422120300 +0500" stop="20260422122900 +0500">
     <title>Workin' Moms</title>
-    <sub-title>Launch Pad to Trash Hole</sub-title>
-    <desc>After a wake-up call from Sloane, Kate adjusts her priorities; Frankie realizes she's responsible for a recent workplace tragedy; needing a break from Kate, Anne hides out at Val's.</desc>
-    <episode-num system="onscreen">S05E07</episode-num>
-    <date>20210330</date>
+    <sub-title>Kate Fosters</sub-title>
+    <desc>Kate struggles with a major change in the Foster household; As promised, Sloane makes Kate's work life a living hell; Anne and the Carlsons have moved back.</desc>
+    <episode-num system="onscreen">S06E01</episode-num>
+    <date>20220104</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/389483e7f4cc3e38b8b0b9c7bdbd432a.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421032700 +0500" stop="20260421035300 +0500">
+    <icon src="https://metadata-static.plex.tv/1/gracenote/13155ada70064ccd3334632423e09c38.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422122900 +0500" stop="20260422125500 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Warm Lunch</sub-title>
+    <desc>Suspicious of Nathan Jr.'s behavior, Kate looks to Anne for advice, but the guidance she needs comes from a surprising source; a promising book proposal reunites rivals Kate and Sloane.</desc>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <date>20220111</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c22004723ba55c4090085e1a04d3940a.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422125500 +0500" stop="20260422132100 +0500">
+    <title>Strays</title>
+    <sub-title>Mama Madness</sub-title>
+    <desc>Shannon considers reconnecting with her birth mother; she brings Joy along for a meeting with a potential donor; Kristian helps Paul connect with a childhood hero.</desc>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <date>20220927</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e3d0bdbab404b9ae0ccd886b5e7bbf9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422132100 +0500" stop="20260422134600 +0500">
+    <title>Baroness von Sketch Show</title>
+    <sub-title>Start by Having Rich Parents</sub-title>
+    <desc>Tips on what to do when grammar doesn't feel right; a boyfriend is shy; running out of toilet paper.</desc>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <date>20181127</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/ff49ab3087b1c4613744a90848f45945.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422134600 +0500" stop="20260422150000 +0500">
+    <title>Winnipeg Comedy Festival</title>
+    <sub-title>Your Next Act</sub-title>
+    <desc>Hosted by Paul Sun-Hyung Lee with performances by Dan Duvall, Rachelle Lauzon, Ola Dada, Hisham Kelati, Erica Sigurdson and Ava Val.</desc>
+    <episode-num system="onscreen">S2025E02</episode-num>
+    <date>20250406</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/14b10c0c14477a04668efb7d87688068.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422150000 +0500" stop="20260422152500 +0500">
+    <title>Kim's Convenience</title>
+    <sub-title>Lord of the Ring</sub-title>
+    <desc>Umma tries to hide the fact that she lost something valuable; Jung threatens to ruin Janet's chance with a yoga instructor; Shannon and Kimchee win a BBQ.</desc>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <date>20190402</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/ad6a8f4353a3984b1f36b0306d11ae6a.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422152500 +0500" stop="20260422155100 +0500">
+    <title>Kim's Convenience</title>
+    <sub-title>The Trollop</sub-title>
+    <desc>Appa and Umma are at odds over a wedding dress, while Shannon and Jung struggle with cultural sensitivities after a visit to a burger joint; Janet grapples with the fallout of Raj's canceled engagement and faces an awkward night out with Nathan.</desc>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <date>20200107</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ec55308a0b03075fc6a29742ea321df2.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422155100 +0500" stop="20260422161700 +0500">
+    <title>Kim's Convenience</title>
+    <sub-title>Couch Surfing</sub-title>
+    <desc>While Appa is reluctant to have a houseguest, Umma is the one who ends up having problems with their visitor; Jung accuses Janet of being cold-hearted; Shannon tackles an office bullying problem.</desc>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <date>20200114</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/fec03408b3bf8fb5918a2c5b864baa00.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422161700 +0500" stop="20260422164300 +0500">
     <title>Mr. D</title>
-    <sub-title>Gerry's Insider's Look</sub-title>
-    <desc>A team of reporters uses Xavier Academy to determine the true value of private schools and ends up exposing a deep, dark secret.</desc>
-    <episode-num system="onscreen">S07E11</episode-num>
-    <date>20171205</date>
+    <sub-title>The Dwyer Way</sub-title>
+    <desc>Gerry adopts Dwyer's diet and decides the whole school should suffer with him.</desc>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <date>20181205</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/1/gracenote/196fc8d7e928e61eda509f3162e9f268.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421035300 +0500" stop="20260421041900 +0500">
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e0108a059591fd4ebae035c817bd1c9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422164300 +0500" stop="20260422170900 +0500">
     <title>Mr. D</title>
-    <sub-title>Big in Japan</sub-title>
-    <desc>An expose on Gerry costs him his job and his ability to get a new one.</desc>
-    <episode-num system="onscreen">S08E01</episode-num>
-    <date>20181107</date>
+    <sub-title>A Wedding Story</sub-title>
+    <desc>Gerry turns to online dating with Bobbi and Robert's big day fast approaching.</desc>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <date>20181212</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f1feeeaa1fd5bd962d939d0a3c3b8488.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421041900 +0500" stop="20260421044400 +0500">
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b0ed8ac0d6680549fea3844c1688dcf8.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422170900 +0500" stop="20260422173500 +0500">
     <title>Mr. D</title>
-    <sub-title>Finnished Teaching</sub-title>
-    <desc>Gerry tries to gain the staff's trust after being introduced as the new principal.</desc>
-    <episode-num system="onscreen">S08E02</episode-num>
-    <date>20181107</date>
+    <sub-title>Pilot</sub-title>
+    <desc>An under-qualified teacher tries to fake his way through his career.</desc>
+    <date>20120502</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/013133a17a652258d423361b8cf927d2.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421044400 +0500" stop="20260421051000 +0500">
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1cdec1c9635b22b83822f6b7147f9b10.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422173500 +0500" stop="20260422180100 +0500">
     <title>Son of a Critch</title>
-    <sub-title>Child Star</sub-title>
-    <desc>Mark stars in a PSA for young women and meets experienced child actor Steve, who inspires him; Mike Sr. relapses at Mr. Murphy's retirement event, leading to a confrontation.</desc>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <date>20250204</date>
+    <sub-title>The Last Stop</sub-title>
+    <desc>Mary takes a course but is mistaken for the instructor; Mike Sr. and Pop take an emotional train ride.</desc>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <date>20250311</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5bcfcdc48bf384a9dffda81a1f997431.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421051000 +0500" stop="20260421053600 +0500">
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ef8d2cc9e7fe6c69dc0624d6447caf39.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422180100 +0500" stop="20260422182700 +0500">
     <title>Son of a Critch</title>
-    <sub-title>Happy 1990</sub-title>
-    <desc>On NYE Fox asks Mark to babysit while their parents double date; Ritche imparts advice leading to a big blowout; Mike Jr and Amanda share sparks, and Pop has a blast at home.</desc>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <date>20250211</date>
+    <sub-title>Peace A Chord</sub-title>
+    <desc>Mark joins the Peace A Chord concert but takes the spotlight; the Fox family struggles with Susanne's engagement; Mary seeks support while Ritche struggles to earn his father's approval.</desc>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <date>20250318</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6675298895eeb027552bb1871b2eff4a.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421053600 +0500" stop="20260421060200 +0500">
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d06bd7205f8cc2803a3f0a3cdb70d8e8.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422182700 +0500" stop="20260422185300 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Plant</sub-title>
-    <desc>Alexis and Johnny come up with a plan to impress a motel reviewer; David and Patrick look for an apartment.</desc>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <date>20190122</date>
+    <sub-title>Meet the Parents</sub-title>
+    <desc>While in town for the surprise party, Patrick's parents get a surprise of their own; Moira gets coaxed into going to a soap opera convention with Alexis.</desc>
+    <episode-num system="onscreen">S05E11</episode-num>
+    <date>20190319</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c2800d34d59849d0208341ad184103b1.jpg" />
-  </programme><programme channel="CBC-Comedy-CA" start="20260421060200 +0500" stop="20260421062800 +0500">
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edf8c9bb679778ca92d20ad259a1f4f6.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422185300 +0500" stop="20260422191900 +0500">
     <title>Schitt's Creek</title>
-    <sub-title>The Dress</sub-title>
-    <desc>Johnny finds himself under financial pressure with the arrival of Moira's high-priced red carpet gown for the Crows movie premiere; David is conned into taking a road trip with Stevie.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20190129</date>
+    <sub-title>The Roast</sub-title>
+    <desc>Johnny fills in at the annual mayor's roast; David tries to stop Moira from finding out about Stevie and Patrick's dance lessons.</desc>
+    <episode-num system="onscreen">S05E12</episode-num>
+    <date>20190326</date>
     <language>en</language>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/03f95114d41d285ff8d0e7d9c4c13d16.jpg" />
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a18e01421d564d10a080ab2212af13cd.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422191900 +0500" stop="20260422194500 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>The Hike</sub-title>
+    <desc>Patrick and David go on a romantic hike; everyone panics over Johnny's health scare.</desc>
+    <episode-num system="onscreen">S05E13</episode-num>
+    <date>20190402</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6cb75d14c068ba7665edbaac1359d315.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422194500 +0500" stop="20260422201000 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>Life is a Cabaret</sub-title>
+    <desc>Stevie is nowhere to be found on opening night for Cabaret; David attempts to make a big announcement.</desc>
+    <episode-num system="onscreen">S05E14</episode-num>
+    <date>20190409</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/685e53452e25b42973ed60b17c027d2b.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422201000 +0500" stop="20260422203600 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Warm Lunch</sub-title>
+    <desc>Suspicious of Nathan Jr.'s behavior, Kate looks to Anne for advice, but the guidance she needs comes from a surprising source; a promising book proposal reunites rivals Kate and Sloane.</desc>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <date>20220111</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/c22004723ba55c4090085e1a04d3940a.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422203600 +0500" stop="20260422210200 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Bye Bye Goldie</sub-title>
+    <desc>Jenny and MCP face the consequences of mixing business with pleasure; Kate makes a tough choice at work; there's a bumpy legal road ahead for Lionel.</desc>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <date>20220118</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/9/gracenote/9366da46f5bb9a41d33dc71dfb265967.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422210200 +0500" stop="20260422212800 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>The Big One</sub-title>
+    <desc>Val invites her friends to plan her birthday; a conflict causes the party to go off the rails until Sloane turns things around.</desc>
+    <episode-num system="onscreen">S06E04</episode-num>
+    <date>20220125</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cd684703bd56babd0ddb0e1fd851bfef.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422212800 +0500" stop="20260422215300 +0500">
+    <title>Workin' Moms</title>
+    <sub-title>Jazz Addict</sub-title>
+    <desc>Kate urges Nathan Jr. to loosen up and discover his wild side; MCP tries to solve problems the quick way, but Jenny isn't willing to cut corners; Anne struggles to keep her trademark anger in check.</desc>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <date>20220201</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/86c07f0f47d2c4432c5f2c68993d39dc.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422215300 +0500" stop="20260422221900 +0500">
+    <title>Mr. D</title>
+    <sub-title>The Dwyer Way</sub-title>
+    <desc>Gerry adopts Dwyer's diet and decides the whole school should suffer with him.</desc>
+    <episode-num system="onscreen">S08E06</episode-num>
+    <date>20181205</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/2/gracenote/2e0108a059591fd4ebae035c817bd1c9.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422221900 +0500" stop="20260422224400 +0500">
+    <title>Mr. D</title>
+    <sub-title>A Wedding Story</sub-title>
+    <desc>Gerry turns to online dating with Bobbi and Robert's big day fast approaching.</desc>
+    <episode-num system="onscreen">S08E07</episode-num>
+    <date>20181212</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/b/gracenote/b0ed8ac0d6680549fea3844c1688dcf8.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422224400 +0500" stop="20260422231100 +0500">
+    <title>Mr. D</title>
+    <sub-title>Pilot</sub-title>
+    <desc>An under-qualified teacher tries to fake his way through his career.</desc>
+    <date>20120502</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/1/gracenote/1cdec1c9635b22b83822f6b7147f9b10.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422231100 +0500" stop="20260422233700 +0500">
+    <title>Son of a Critch</title>
+    <sub-title>The Last Stop</sub-title>
+    <desc>Mary takes a course but is mistaken for the instructor; Mike Sr. and Pop take an emotional train ride.</desc>
+    <episode-num system="onscreen">S04E09</episode-num>
+    <date>20250311</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ef8d2cc9e7fe6c69dc0624d6447caf39.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260422233700 +0500" stop="20260423000300 +0500">
+    <title>Son of a Critch</title>
+    <sub-title>Peace A Chord</sub-title>
+    <desc>Mark joins the Peace A Chord concert but takes the spotlight; the Fox family struggles with Susanne's engagement; Mary seeks support while Ritche struggles to earn his father's approval.</desc>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <date>20250318</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/d06bd7205f8cc2803a3f0a3cdb70d8e8.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260423000300 +0500" stop="20260423002900 +0500">
+    <title>Schitt's Creek</title>
+    <sub-title>Meet the Parents</sub-title>
+    <desc>While in town for the surprise party, Patrick's parents get a surprise of their own; Moira gets coaxed into going to a soap opera convention with Alexis.</desc>
+    <episode-num system="onscreen">S05E11</episode-num>
+    <date>20190319</date>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/edf8c9bb679778ca92d20ad259a1f4f6.jpg" />
+  </programme><programme channel="CBC-Comedy-CA" start="20260423002900 +0500" stop="20260423012900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423012900 +0500" stop="20260423022900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423022900 +0500" stop="20260423032900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423032900 +0500" stop="20260423042900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423042900 +0500" stop="20260423052900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423052900 +0500" stop="20260423062900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423062900 +0500" stop="20260423072900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423072900 +0500" stop="20260423082900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423082900 +0500" stop="20260423092900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423092900 +0500" stop="20260423102900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423102900 +0500" stop="20260423112900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423112900 +0500" stop="20260423122900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423122900 +0500" stop="20260423132900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423132900 +0500" stop="20260423142900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423142900 +0500" stop="20260423152900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423152900 +0500" stop="20260423162900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423162900 +0500" stop="20260423172900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423172900 +0500" stop="20260423182900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423182900 +0500" stop="20260423192900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423192900 +0500" stop="20260423202900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423202900 +0500" stop="20260423212900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423212900 +0500" stop="20260423222900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423222900 +0500" stop="20260423232900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="CBC-Comedy-CA" start="20260423232900 +0500" stop="20260424002900 +0500">
+    <title>CBC Comedy: Programme</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
   </programme>
 </tv>

@@ -3,1114 +3,7 @@
   <channel id="FX-East-US">
     <display-name>FX East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/FX-East-US.png" />
-  </channel><programme channel="FX-East-US" start="20260420000000 +0500" stop="20260420030000 +0500">
-    <title>Star Wars: The Force Awakens</title>
-    <sub-title />
-    <desc>Thirty years after the defeat of the Galactic Empire, the galaxy faces a new threat from the evil Kylo Ren (Adam Driver) and the First Order. When a defector named Finn crash-lands on a desert planet, he meets Rey (Daisy Ridley), a tough scavenger whose droid contains a top-secret map. Together, the young duo joins forces with Han Solo (Harrison Ford) to make sure the Resistance receives the intelligence concerning the whereabouts of Luke Skywalker (Mark Hamill), the last of the Jedi knights.</desc>
-    <credits>
-      <director>J.J. Abrams</director>
-      <actor>Harrison Ford</actor>
-      <actor>Mark Hamill</actor>
-      <actor>Carrie Fisher</actor>
-    </credits><date>2015</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Action</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10989070_v_h8_bb.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>U</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420030000 +0500" stop="20260420060000 +0500">
-    <title>The Avengers</title>
-    <sub-title />
-    <desc>When Thor's evil brother, Loki (Tom Hiddleston), gains access to the unlimited power of the energy cube called the Tesseract, Nick Fury (Samuel L. Jackson), director of S.H.I.E.L.D., initiates a superhero recruitment effort to defeat the unprecedented threat to Earth. Joining Fury's "dream team" are Iron Man (Robert Downey Jr.), Captain America (Chris Evans), the Hulk (Mark Ruffalo), Thor (Chris Hemsworth), the Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner).</desc>
-    <credits>
-      <director>Joss Whedon</director>
-      <actor>Robert Downey</actor>
-      <actor>Chris Evans</actor>
-      <actor>Mark Ruffalo</actor>
-    </credits><date>2012</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8815512_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420060000 +0500" stop="20260420093000 +0500">
-    <title>Captain America: Civil War</title>
-    <sub-title />
-    <desc>Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America (Chris Evans) believes superheroes should remain free to defend humanity without government interference. Iron Man (Robert Downey Jr.) sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow (Scarlett Johansson) and Hawkeye (Jeremy Renner) must pick a side.</desc>
-    <credits>
-      <director>Anthony Russo</director>
-      <director>Joe Russo</director>
-      <actor>Chris Evans</actor>
-      <actor>Robert Downey</actor>
-      <actor>Scarlett Johansson</actor>
-    </credits><date>2016</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10989225_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420093000 +0500" stop="20260420120000 +0500">
-    <title>The Incredible Hulk</title>
-    <sub-title />
-    <desc>Scientist Bruce Banner (Edward Norton) desperately seeks a cure for the gamma radiation that contaminated his cells and turned him into The Hulk. Cut off from his true love Betty Ross (Liv Tyler) and forced to hide from his nemesis, Gen. Thunderbolt Ross (William Hurt), Banner soon comes face-to-face with a new threat: a supremely powerful enemy known as The Abomination (Tim Roth).</desc>
-    <credits>
-      <director>Louis Leterrier</director>
-      <actor>Edward Norton</actor>
-      <actor>Liv Tyler</actor>
-      <actor>Tim Roth</actor>
-    </credits><date>2008</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p176337_v_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>14A</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>10</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420120000 +0500" stop="20260420123000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420123000 +0500" stop="20260420130000 +0500">
-    <title>2026 Proof Silver Eagle: America's 250th Anniversary Release</title>
-    <sub-title />
-    <desc>Join Mike Mezack for a historic release - the first-ever 1776-2026 dual-date Proof Silver Eagle with Liberty Bell privy mark, struck in .999 silver for America's 250th Anniversary. A one-year-only issue collectors won't want to miss.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32753687_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420130000 +0500" stop="20260420133000 +0500">
-    <title>Ready for a safer shower? Enjoy a one-day bath remodel with Jacuzzi.</title>
-    <sub-title />
-    <desc>Trusted brand Jacuzzi Bath Remodel and interior designer Christina Hall share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe, stylish space in 1 day! Call for a FREE quote &amp; installation.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30074472_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420133000 +0500" stop="20260420140000 +0500">
-    <title>Accident Compensation: Get Help Now!</title>
-    <sub-title />
-    <desc>Helping injured individuals get the compensation they are owed.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420140000 +0500" stop="20260420143000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420143000 +0500" stop="20260420150000 +0500">
-    <title>Car accident? Free Legal Consultation</title>
-    <sub-title />
-    <desc>Legal professionals standing by to answer your questions.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23642783_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420150000 +0500" stop="20260420153000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420153000 +0500" stop="20260420160000 +0500">
-    <title>2026 Silver Eagle is here &amp; it is a once-in-a-lifetime coin!</title>
-    <sub-title />
-    <desc>Join your hosts Kevin Cash &amp; Cory Cady as we discuss the 250th Anniversary of America with the official "America 250" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32414007_st_h10_ac.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260420160000 +0500" stop="20260420180000 +0500">
-    <title>Big</title>
-    <sub-title />
-    <desc>At a carnival, young Josh Baskin wishes he were big, only to wake up the next morning and discover his wish came true. But the more Josh experiences life as an adult, the more he longs for the simple joys of childhood.</desc>
-    <credits>
-      <director>Penny Marshall</director>
-      <actor>Tom Hanks</actor>
-      <actor>Elizabeth Perkins</actor>
-      <actor>Robert Loggia</actor>
-    </credits><date>1988</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Children</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10873_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="Medierådet">
-      <value>A</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420180000 +0500" stop="20260420200000 +0500">
-    <title>Bringing Down the House</title>
-    <sub-title />
-    <desc>Lawyer Peter Sanderson (Steve Martin) wants to dive back into dating after his divorce and has a hard time meeting the right women. But he lucks out with online dating and meets a fellow lawyer. The two agree to meet in the flesh, but the woman he meets -- an escaped African-American convict named Charlene (Queen Latifah) -- is not what he expected. Peter is freaked out, but Charlene convinces him to take her case and prove her innocence, and along the way they learn to become friends.</desc>
-    <credits>
-      <director>Adam Shankman</director>
-      <actor>Steve Martin</actor>
-      <actor>Queen Latifah</actor>
-      <actor>Eugene Levy</actor>
-    </credits><date>2003</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31618_v_h8_am.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420200000 +0500" stop="20260420223000 +0500">
-    <title>Me, Myself and Irene</title>
-    <sub-title />
-    <desc>Meet Charlie Baileygates, a 17-year veteran of the Rhode Island police force. Charlie is mild-mannered, hard-working, always helpful, and a devoted and loving father to three sons. Unfortunately, Charlie has Split Personality Disorder, and when he runs out of his medication ... Meet Hank Baileygates (Jim Carrey), Charlie's hyper-aggressive alter-ego. Hank's got a filthy mouth, drinks like a fish, breaks skulls and loves dirty, dirty sex.</desc>
-    <credits>
-      <director>Bobby Farrelly</director>
-      <director>Peter Farrelly</director>
-      <actor>Jim Carrey</actor>
-      <actor>Renée Zellweger</actor>
-      <actor>Chris Cooper</actor>
-    </credits><date>2000</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25564_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>18A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>18A</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>14</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>18A</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>16</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Medietilsynet">
-      <value>15 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260420223000 +0500" stop="20260421003000 +0500">
-    <title>Wild Hogs</title>
-    <sub-title />
-    <desc>Tired of their humdrum lives, some middle-aged friends decide to temporarily ditch their responsibilities and take a motorcycle trip. The freedom of the open road holds many surprises for the group, including an encounter with the Del Fuegos, a hardcore gang, who take a dim view of the novice bikers.</desc>
-    <credits>
-      <director>Walt Becker</director>
-      <actor>Tim Allen</actor>
-      <actor>John Travolta</actor>
-      <actor>Martin Lawrence</actor>
-    </credits><date>2007</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p163196_v_h8_ad.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421003000 +0500" stop="20260421023000 +0500">
-    <title>Date Night</title>
-    <sub-title />
-    <desc>Dragged down by the daily grind, suburbanites Phil (Steve Carell) and Claire (Tina Fey) try to invigorate their marriage by visiting a trendy Manhattan bistro. They get more than romance when mistaken identity hurtles them into an incredible adventure involving corrupt cops, a mob boss and a crazy cab driver.</desc>
-    <credits>
-      <director>Shawn Levy</director>
-      <actor>Steve Carell</actor>
-      <actor>Tina Fey</actor>
-      <actor>Mark Wahlberg</actor>
-    </credits><date>2010</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7876919_v_h8_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>14A</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>A</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421023000 +0500" stop="20260421050000 +0500">
-    <title>The Other Woman</title>
-    <sub-title />
-    <desc>New York lawyer Carly Whitten (Cameron Diaz) lives by strict rules when it comes to romantic relationships, but when she falls for suave, handsome Mark King (Nikolaj Coster-Waldau), she begins an affair with him. A surprise visit to Mark's home reveals that he is married to devoted housewife Kate (Leslie Mann). Carly and Kate direct their hurt and anger toward Mark, and when they discover yet a third woman (Kate Upton) caught in his web of lies, the three join forces for revenge.</desc>
-    <credits>
-      <director>Nick Cassavetes</director>
-      <actor>Cameron Diaz</actor>
-      <actor>Leslie Mann</actor>
-      <actor>Kate Upton</actor>
-    </credits><date>2014</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Romantic comedy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10231062_v_h8_as.jpg?w=960&amp;h=540" />
-    <rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>6</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K7</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 7 år</value>
-    </rating><rating system="映倫">
-      <value>PG12</value>
-    </rating><rating system="Medierådet">
-      <value>7</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="Medietilsynet">
-      <value>7 år</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421050000 +0500" stop="20260421073000 +0500">
-    <title>Twister</title>
-    <sub-title />
-    <desc>During the approach of the most powerful storm in decades, university professor Dr. Jo Harding (Helen Hunt) and an underfunded team of students prepares the prototype for Dorothy, a ground-breaking tornado data-gathering device conceived by her estranged husband, Bill (Bill Paxton). When Harding tells Bill that Dorothy is ready for testing -- and that their privately funded rival Dr. Jonas Miller (Cary Elwes) has stolen the idea and built his own -- Bill rejoins the team for one last mission.</desc>
-    <credits>
-      <director>Jan de Bont</director>
-      <actor>Helen Hunt</actor>
-      <actor>Bill Paxton</actor>
-      <actor>Cary Elwes</actor>
-    </credits><date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18026_v_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>F</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421073000 +0500" stop="20260421100000 +0500">
-    <title>Twister</title>
-    <sub-title />
-    <desc>During the approach of the most powerful storm in decades, university professor Dr. Jo Harding (Helen Hunt) and an underfunded team of students prepares the prototype for Dorothy, a ground-breaking tornado data-gathering device conceived by her estranged husband, Bill (Bill Paxton). When Harding tells Bill that Dorothy is ready for testing -- and that their privately funded rival Dr. Jonas Miller (Cary Elwes) has stolen the idea and built his own -- Bill rejoins the team for one last mission.</desc>
-    <credits>
-      <director>Jan de Bont</director>
-      <actor>Helen Hunt</actor>
-      <actor>Bill Paxton</actor>
-      <actor>Cary Elwes</actor>
-    </credits><date>1996</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p18026_v_h8_aj.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Consejo Nacional de Televisión">
-      <value>F</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421100000 +0500" stop="20260421120000 +0500">
-    <title>Deep Rising</title>
-    <sub-title />
-    <desc>A newly unveiled ocean liner, the Argonautica sets out on its first cruise, only to encounter dangers both on board and in the ocean depths. While the beautiful thief Trillian attempts to steal riches from the boat's wealthy passengers, the ship encounters major problems, most notably a giant murderous sea creature with tentacles. Eventually, a boat captained by John Finnegan comes across the Argonautica, and everyone struggles to survive the monster.</desc>
-    <credits>
-      <director>Stephen Sommers</director>
-      <actor>Treat Williams</actor>
-      <actor>Famke Janssen</actor>
-      <actor>Anthony Heald</actor>
-    </credits><date>1998</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Horror</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20494_v_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>R</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>15</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>R</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>C</value>
-    </rating><rating system="UK Content Provider">
-      <value>15</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>18+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating><star-rating>
-      <value>3.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421120000 +0500" stop="20260421123000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421123000 +0500" stop="20260421130000 +0500">
-    <title>Accident Compensation: Get Help Now!</title>
-    <sub-title />
-    <desc>Helping injured individuals get the compensation they are owed.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421130000 +0500" stop="20260421133000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421133000 +0500" stop="20260421140000 +0500">
-    <title>Paid Programming</title>
-    <sub-title />
-    <desc>Paid programming.</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>A</value>
-    </rating><rating system="Australian Classification Board">
-      <value>G</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>L</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260421140000 +0500" stop="20260421143000 +0500">
-    <title>POOF! Bye Bye Under Eye Bags!</title>
-    <sub-title />
-    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Medical</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421143000 +0500" stop="20260421150000 +0500">
-    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
-    <sub-title />
-    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421150000 +0500" stop="20260421153000 +0500">
-    <title>Inogen Portable Oxygen - No More Tanks!</title>
-    <sub-title />
-    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <category lang="en">Health</category>
-    <category lang="en">Consumer</category>
-    <category lang="en">Science</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Technology</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421153000 +0500" stop="20260421160000 +0500">
-    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <sub-title />
-    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Consumer</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="FX-East-US" start="20260421160000 +0500" stop="20260421163000 +0500">
-    <title>According to Jim</title>
-    <sub-title>We Have a Bingo</sub-title>
-    <desc>Jim feels guilty after cheating at a church's fund-raising bingo game.</desc>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <credits>
-      <director>Philip Charles MacKenzie</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260421163000 +0500" stop="20260421170000 +0500">
-    <title>According to Jim</title>
-    <sub-title>Getting to Know You</sub-title>
-    <desc>When Cheryl's friend gets expensive jewelry from her husband as gifts for no reason, Cheryl expects Jim to do the same; Jim finds these to be unreasonable requests and doubts the husband's intentions.</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <credits>
-      <director>Mark Cendrowski</director>
-      <actor>Jim Belushi</actor>
-      <actor>Courtney Thorne-Smith</actor>
-      <actor>Kimberly Williams-Paisley</actor>
-    </credits><date>2003</date>
-    <category lang="en">Series</category>
-    <category lang="en">Sitcom</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>0</value>
-    </rating><rating system="Kijkwijzer">
-      <value>6</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="FX-East-US" start="20260421170000 +0500" stop="20260421190000 +0500">
-    <title>Elektra</title>
-    <sub-title />
-    <desc>Assassin-for-hire Elektra works for a mysterious international organization known as the Hand, for which she kills her targets without question, and in a conspicuous red bustier, no less. When the Hand asks her to kill Mark Miller and his daughter, Abby, while they're on holiday, Elektra's conscience kicks in, and she decides to protect her targets rather than eliminate them. Of course, the Hand isn't so willing to let them off the hook.</desc>
-    <credits>
-      <director>Rob Bowman</director>
-      <actor>Jennifer Garner</actor>
-      <actor>Terence Stamp</actor>
-      <actor>Kirsten Prout</actor>
-    </credits><date>2005</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p35311_v_h10_ac.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>14A</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K16</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>16</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>15+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Medietilsynet">
-      <value>11 år</value>
-    </rating><star-rating>
-      <value>4.0/10</value>
-    </star-rating>
-  </programme><programme channel="FX-East-US" start="20260421190000 +0500" stop="20260421213000 +0500">
+  </channel><programme channel="FX-East-US" start="20260421190000 +0500" stop="20260421213000 +0500">
     <title>Daredevil</title>
     <sub-title />
     <desc>Attorney Matt Murdock (Ben Affleck) is blind, but his other four senses function with superhuman sharpness. By day, Murdock represents the downtrodden. At night, he is Daredevil, a masked vigilante, a relentless avenger of justice. When Wilson Fisk (Michael Clarke Duncan) hires Bullseye (Colin Farrell) to kill Daredevil, Murdock must rely on his own senses and search out the conspirators against justice -- which may include his own girlfriend, Elektra (Jennifer Garner).</desc>
@@ -1525,6 +418,1005 @@
       <value>11</value>
     </rating><star-rating>
       <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260422110000 +0500" stop="20260422113000 +0500">
+    <title>According to Jim</title>
+    <sub-title>The Lemonade Stand</sub-title>
+    <desc>Jim encourages Gracie and Ruby to open a lemonade stand but does not anticipate fierce competition from a neighbor kid's stand.</desc>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260422113000 +0500" stop="20260422120000 +0500">
+    <title>According to Jim</title>
+    <sub-title>ABC's &amp; 123's</sub-title>
+    <desc>Jim tells Ruby's teacher that his wife is illiterate in order to lighten his daughter's homework load.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260422120000 +0500" stop="20260422123000 +0500">
+    <title>Paid Programming</title>
+    <sub-title />
+    <desc>Paid programming.</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Shopping</category>
+    <category lang="en">Variety</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p459763_b_h8_bq.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Australian Classification Board">
+      <value>G</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260422123000 +0500" stop="20260422130000 +0500">
+    <title>Car accident? Free Legal Consultation</title>
+    <sub-title />
+    <desc>Legal professionals standing by to answer your questions.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23642783_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422130000 +0500" stop="20260422133000 +0500">
+    <title>POOF! Bye Bye Under Eye Bags!</title>
+    <sub-title />
+    <desc>Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
+    <category lang="en">Consumer</category>
+    <category lang="en">Health</category>
+    <category lang="en">How-to</category>
+    <category lang="en">Medical</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30715204_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422133000 +0500" stop="20260422140000 +0500">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <sub-title />
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422140000 +0500" stop="20260422143000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422143000 +0500" stop="20260422150000 +0500">
+    <title>Accident Compensation: Get Help Now!</title>
+    <sub-title />
+    <desc>Helping injured individuals get the compensation they are owed.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28560963_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422150000 +0500" stop="20260422153000 +0500">
+    <title>2026 Proof Silver Eagle: America's 250th Anniversary Release</title>
+    <sub-title />
+    <desc>Join Mike Mezack for a historic release - the first-ever 1776-2026 dual-date Proof Silver Eagle with Liberty Bell privy mark, struck in .999 silver for America's 250th Anniversary. A one-year-only issue collectors won't want to miss.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32753687_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422153000 +0500" stop="20260422160000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260422160000 +0500" stop="20260422183000 +0500">
+    <title>Independence Day: Resurgence</title>
+    <sub-title />
+    <desc>As the Fourth of July nears, satellite engineer David Levinson (Jeff Goldblum) investigates a 3,000-mile-wide mother ship that's approaching Earth. Fortunately, 20 years earlier, nations across the world started to use recovered extraterrestrial technology to develop an immense defense program. When the alien invaders attack with unprecedented force, the U.S. president, teams of scientists and brave fighter pilots spring into action to save the planet from a seemingly invincible enemy.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Liam Hemsworth</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Bill Pullman</actor>
+    </credits><date>2016</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10989373_v_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260422183000 +0500" stop="20260422210000 +0500">
+    <title>The Day the Earth Stood Still</title>
+    <sub-title />
+    <desc>Klaatu, an extraterrestrial visitor to planet Earth, becomes the herald of upheaval on a global scale. As the world's governments and scientists race to understand what is happening and how to stop it, Dr. Helen Benson and her stepson come to understand the chilling ramifications behind Klaatu's statement that he is a "friend to the Earth.".</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Jennifer Connelly</actor>
+      <actor>Kathy Bates</actor>
+    </credits><date>2008</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p176378_v_h8_bi.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260422210000 +0500" stop="20260423000000 +0500">
+    <title>Independence Day</title>
+    <sub-title />
+    <desc>In the epic adventure film "Independence Day," strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived; its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Will Smith</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Jeff Goldblum</actor>
+    </credits><date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18207_v_h10_az.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="영상물등급위원회">
+      <value>All</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>R</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423000000 +0500" stop="20260423023000 +0500">
+    <title>The Day After Tomorrow</title>
+    <sub-title />
+    <desc>After climatologist Jack Hall is largely ignored by U.N. officials when presenting his environmental concerns, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world; trying to get to his son, Sam, who is trapped in New York with his friend Laura and others, Jack and his crew must travel by foot from Philadelphia, braving the elements, to get to Sam before it's too late.</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Dennis Quaid</actor>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Ian Holm</actor>
+    </credits><date>2004</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Science fiction</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p34439_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>F</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423023000 +0500" stop="20260423050000 +0500">
+    <title>Twister</title>
+    <sub-title />
+    <desc>During the approach of the most powerful storm in decades, university professor Dr. Jo Harding (Helen Hunt) and an underfunded team of students prepares the prototype for Dorothy, a ground-breaking tornado data-gathering device conceived by her estranged husband, Bill (Bill Paxton). When Harding tells Bill that Dorothy is ready for testing -- and that their privately funded rival Dr. Jonas Miller (Cary Elwes) has stolen the idea and built his own -- Bill rejoins the team for one last mission.</desc>
+    <credits>
+      <director>Jan de Bont</director>
+      <actor>Helen Hunt</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Cary Elwes</actor>
+    </credits><date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18026_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>F</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423050000 +0500" stop="20260423083000 +0500">
+    <title>Avatar</title>
+    <sub-title />
+    <desc>On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora. Jake Sully (Sam Worthington), a paralyzed former Marine, becomes mobile again through one such Avatar and falls in love with a Na'vi woman (Zoe Saldana). As a bond with her grows, he is drawn into a battle for the survival of her world.</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Sam Worthington</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits><date>2009</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p3542039_v_h8_am.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Irish Film Classification Office">
+      <value>12A</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423083000 +0500" stop="20260423123000 +0500">
+    <title>Avatar: The Way of Water</title>
+    <sub-title />
+    <desc>Jake Sully, Neytiri and their children explore the mysterious lands of Pandora. When a familiar threat resurfaces, they must fight a difficult war to protect their planet.</desc>
+    <credits>
+      <director>James Cameron</director>
+      <actor>Sam Worthington</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Sigourney Weaver</actor>
+    </credits><date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Science fiction</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12460960_v_h8_an.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>14</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Statens medieråd">
+      <value>Barntillåten</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423123000 +0500" stop="20260423130000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Dana Dates Jim</sub-title>
+    <desc>Dana falls for a guy exactly like Jim but denies the similarities.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <credits>
+      <director>Leonard R Garner</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260423130000 +0500" stop="20260423133000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Scary Movie</sub-title>
+    <desc>Gracie and Ruby have nightmares after Jim takes them to a scary movie.</desc>
+    <episode-num system="onscreen">S3 E8</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260423133000 +0500" stop="20260423140000 +0500">
+    <title>According to Jim</title>
+    <sub-title>The Imaginary Friend</sub-title>
+    <desc>Jim invents an imaginary friend to avoid going to a couple's baby shower with Cheryl.</desc>
+    <episode-num system="onscreen">S3 E9</episode-num>
+    <credits>
+      <director>Philip Charles MacKenzie</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260423140000 +0500" stop="20260423143000 +0500">
+    <title>Inogen Portable Oxygen - No More Tanks!</title>
+    <sub-title />
+    <desc>Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
+    <category lang="en">Health</category>
+    <category lang="en">Consumer</category>
+    <category lang="en">Science</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Technology</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p17108681_b_h11_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260423143000 +0500" stop="20260423150000 +0500">
+    <title>NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <sub-title />
+    <desc>Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p29477991_b_h11_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260423150000 +0500" stop="20260423153000 +0500">
+    <title>1776 - 2026 250th Anniversary Quarter Celebration Program</title>
+    <sub-title />
+    <desc>2026 will be one of the most historic years ever in U.S. coinage; join your host Mike Mezack to learn about the incredible U.S. Quarter program and get a chance at an exclusive P&amp;D Roll!</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32501949_st_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260423153000 +0500" stop="20260423160000 +0500">
+    <title>Overwhelmed with IRS Debt? Keys to Resolving Tax Debt</title>
+    <sub-title />
+    <desc>See how one company is changing people's lives by helping them put their tax problems to rest.</desc>
+    <category lang="en">Consumer</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20254756_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="FX-East-US" start="20260423160000 +0500" stop="20260423163000 +0500">
+    <title>According to Jim</title>
+    <sub-title>Paintball</sub-title>
+    <desc>After Cheryl's cooking class choice proves to be a disaster, Jim gets to pick paintball as the next couple's activity.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Jim Belushi</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Kimberly Williams-Paisley</actor>
+    </credits><date>2003</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7895303_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>0</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="FX-East-US" start="20260423163000 +0500" stop="20260423190000 +0500">
+    <title>Twister</title>
+    <sub-title />
+    <desc>During the approach of the most powerful storm in decades, university professor Dr. Jo Harding (Helen Hunt) and an underfunded team of students prepares the prototype for Dorothy, a ground-breaking tornado data-gathering device conceived by her estranged husband, Bill (Bill Paxton). When Harding tells Bill that Dorothy is ready for testing -- and that their privately funded rival Dr. Jonas Miller (Cary Elwes) has stolen the idea and built his own -- Bill rejoins the team for one last mission.</desc>
+    <credits>
+      <director>Jan de Bont</director>
+      <actor>Helen Hunt</actor>
+      <actor>Bill Paxton</actor>
+      <actor>Cary Elwes</actor>
+    </credits><date>1996</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18026_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Consejo Nacional de Televisión">
+      <value>F</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423190000 +0500" stop="20260423223000 +0500">
+    <title>Ford v Ferrari</title>
+    <sub-title />
+    <desc>American automotive designer Carroll Shelby and fearless British race car driver Ken Miles battle corporate interference, the laws of physics and their own personal demons to build a revolutionary vehicle for the Ford Motor Co. Together, they plan to compete against the race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.</desc>
+    <credits>
+      <director>James Mangold</director>
+      <actor>Matt Damon</actor>
+      <actor>Christian Bale</actor>
+      <actor>Jon Bernthal</actor>
+    </credits><date>2019</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Biography</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p16843164_v_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>PG</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>PG</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>12+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>7.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260423223000 +0500" stop="20260424013000 +0500">
+    <title>Gran Turismo</title>
+    <sub-title />
+    <desc>The true story of a team of unlikely underdogs -- a working-class gamer, a former race car driver, and an idealistic motorsport executive -- who risk it all to take on the most elite sport in the world.</desc>
+    <credits>
+      <director>Neill Blomkamp</director>
+      <actor>David Harbour</actor>
+      <actor>Orlando Bloom</actor>
+      <actor>Archie Madekwe</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23813071_v_h10_ai.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12A</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="FX-East-US" start="20260424013000 +0500" stop="20260424040000 +0500">
+    <title>Gone in 60 Seconds</title>
+    <sub-title />
+    <desc>Randall "Memphis" Raines long ago abandoned his life of crime, but after an ominous visit from an old friend, he finds he has no choice but to return to what he does best -- stealing cars -- in order to save his brother's life. It all comes down to one night, 50 cars and a contract.</desc>
+    <credits>
+      <director>Dominic Sena</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Giovanni Ribisi</actor>
+    </credits><date>2000</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25612_v_h10_ae.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>PG</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>7</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating><rating system="Medierådet">
+      <value>15</value>
+    </rating><rating system="영상물등급위원회">
+      <value>15+</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>A</value>
+    </rating><star-rating>
+      <value>3.0/10</value>
     </star-rating>
   </programme>
 </tv>

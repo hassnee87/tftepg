@@ -1,137 +1,243 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="Discovery-Channel-IN">
-    <display-name>Discovery Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/Discovery-Channel-IN.png" />
-  </channel><programme channel="Discovery-Channel-IN" start="20260420060900 +0500" stop="20260420073800 +0500">
-    <title>Flame on or Flame Out-Naked and Afraid: Last One Standing</title>
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>Discovery Channel</display-name>
+  </channel><programme channel="Discovery-Channel-IN" start="20260422051400 +0500" stop="20260422064100 +0500">
+    <title>The Beauty and the Bro-Naked and Afraid</title>
     <sub-title />
-    <desc>Cheeny has a key advantage in a challenge, but her strategy puts her at risk. S03 E08.</desc>
+    <desc>A bachelor and a divorced woman endure 14 days of peril on an island in the Philippines. S18 E06.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420073800 +0500" stop="20260420084700 +0500">
-    <title>Three Dog Fight to the Finish-Naked and Afraid: Last One Standing</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422064100 +0500" stop="20260422072500 +0500">
+    <title>Seventeen Stitches-Naked and Afraid</title>
     <sub-title />
-    <desc>. S03 E09.</desc>
+    <desc>An extreme athlete and a risk-averse survivalist face 21 days in the Philippine jungle. S18 E04.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420084700 +0500" stop="20260420101600 +0500">
-    <title>Outback Trial by Fire-Naked and Afraid: Last One Standing</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422072500 +0500" stop="20260422085300 +0500">
+    <title>Toxic Redemption-Naked and Afraid</title>
     <sub-title />
-    <desc>A legend suffers a third-degree burn and faces immediate elimination. S03 E01.</desc>
+    <desc>Four men seek to redeem past failures on a forgotten lake deep in the Philippine jungle. S18 E08.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420101600 +0500" stop="20260420110000 +0500">
-    <title>Desert Survivor-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422085300 +0500" stop="20260422101400 +0500">
+    <title>No Legs, No Problem-Naked and Afraid</title>
     <sub-title />
-    <desc>Bear Grylls will have to skin and disembowel a camel in an attempt to stay alive. S02 E02.</desc>
+    <desc>A woman who is a double amputee and her ex-military partner take on the Belizean jungle. S18 E01.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420110000 +0500" stop="20260420114500 +0500">
-    <title>Desert Survivor-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422101400 +0500" stop="20260422110000 +0500">
+    <title>Ecuador-Man vs. Wild</title>
     <sub-title />
-    <desc>Bear Grylls will have to skin and disembowel a camel in an attempt to stay alive. S02 E02.</desc>
+    <desc>Grylls survives in Ecuador's jungles by building bamboo bridges and eating plants. S01 E14.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420114500 +0500" stop="20260420123000 +0500">
-    <title>Money Pit Payday-Gold Rush</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422110000 +0500" stop="20260422114400 +0500">
+    <title>Mexico-Man vs. Wild</title>
     <sub-title />
-    <desc>Parker battles to bring in his first Money Pit gold at Dominion Creek. S14 E12.</desc>
+    <desc>Bear Grylls demonstrates how to survive in Mexico's Copper Canyon. S01 E12.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420123000 +0500" stop="20260420131800 +0500">
+  </programme><programme channel="Discovery-Channel-IN" start="20260422114400 +0500" stop="20260422123100 +0500">
+    <title>Desperate Cry for Help-Gold Rush</title>
+    <sub-title />
+    <desc>Parker hurries to fix a burst dam and keep the big Dominion Creek gold weighs going. S14 E14.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422123100 +0500" stop="20260422132000 +0500">
     <title>18 Wheels Across India</title>
     <sub-title />
     <desc>A popular Polish lorry driver navigates India's notorious roads and explores the culture.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420131800 +0500" stop="20260420140900 +0500">
-    <title>Los Tuxtlas-Dual Survival Colombia</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422132000 +0500" stop="20260422141500 +0500">
+    <title>Cañón de Chicamocha-Dual Survival Mexico</title>
     <sub-title />
-    <desc>The dense Colombian Amazon rainforest is full of calamities for Felipe and Arnoby. S02 E02.</desc>
+    <desc>Fernanda and Palma start their mission trapped in the dark caverns in Chicamocha Canyon.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420140900 +0500" stop="20260420150000 +0500">
-    <title>Everglades-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422141500 +0500" stop="20260422150700 +0500">
+    <title>Kimberley, Australia-Man vs. Wild</title>
     <sub-title />
-    <desc>Bear Grylls shows all the skills required to stay alive in the dangerous Everglades. S01 E10.</desc>
+    <desc>Grylls survives in the Australian outback by avoiding sun stroke and deadly crocodiles. S01 E13.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420150000 +0500" stop="20260420152500 +0500">
-    <title>Talking Turkey: Frank Stallone-Man Eats Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422150700 +0500" stop="20260422153300 +0500">
+    <title>Up With the Gods: Himalayan Tahr-Man Eats Wild</title>
     <sub-title />
-    <desc>Mario teams up with Frank Stallone and ventures off to Kansas, searching Eastern turkeys. S02 E08.</desc>
+    <desc>Mario Kalpou's passion leads him to some of the most extreme environments on the planet. S01 E03.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420152500 +0500" stop="20260420155000 +0500">
-    <title>Backcountry Ice Man: Chuck Liddell-Man Eats Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422153300 +0500" stop="20260422155900 +0500">
+    <title>Outback Odyssey-Man Eats Wild</title>
     <sub-title />
-    <desc>Mario Kalpou's passion leads him to some of the most extreme environments on the planet. S02 E09.</desc>
+    <desc>Mario Kalpou's passion leads him to some of the most extreme environments on the planet. S01 E04.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420155000 +0500" stop="20260420164100 +0500">
+  </programme><programme channel="Discovery-Channel-IN" start="20260422155900 +0500" stop="20260422164900 +0500">
     <title>18 Wheels Across India</title>
     <sub-title />
     <desc>A popular Polish lorry driver navigates India's notorious roads and explores the culture.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420164100 +0500" stop="20260420173200 +0500">
-    <title>African Savannah-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422164900 +0500" stop="20260422171500 +0500">
+    <title>Getting Close to Black Death-Man Eats Wild</title>
     <sub-title />
-    <desc>Bear Grylls travels across Kenya to demonstrate how to survive the African savannah. S01 E07.</desc>
+    <desc>In the wilderness of Northern South Africa, Mario tries to harvest the Cape buffalo. S02 E06.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420173200 +0500" stop="20260420182100 +0500">
-    <title>Bears Top 25 Man Moments-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422171500 +0500" stop="20260422180700 +0500">
+    <title>Ecuador-Man vs. Wild</title>
     <sub-title />
-    <desc>A survival expert tries to survive the sweltering, crocodile-infested Northern Territory. S05 E02.</desc>
+    <desc>Grylls survives in Ecuador's jungles by building bamboo bridges and eating plants. S01 E14.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420182100 +0500" stop="20260420191500 +0500">
-    <title>Blackout-Dual Survival</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422180700 +0500" stop="20260422190500 +0500">
+    <title>Baja Guajira-Dual Survival Mexico</title>
     <sub-title />
-    <desc>EJ and Jeff face bears and dark cave in Georgia survival challenge. S09 E05.</desc>
+    <desc>The duo put their skills to the test in the driest area in Colombia. S01 E06.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420191500 +0500" stop="20260420200700 +0500">
-    <title>Inner Mongolia-Ed Stafford's Rite of Passage</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422190500 +0500" stop="20260422195700 +0500">
+    <title>Shaolin-Ed Stafford's Rite of Passage</title>
     <sub-title />
-    <desc>Ed participates in the annual rite of passage festival in order to prove his masculinity. S01 E04.</desc>
+    <desc>Ed travels to a Buddhist monastery to master kung fu and control his internal energy. S01 E06.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420200700 +0500" stop="20260420210000 +0500">
-    <title>Behind the Wild-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422195700 +0500" stop="20260422204800 +0500">
+    <title>Norway: Edge of Survival-Man vs. Wild</title>
     <sub-title />
-    <desc>A dedicated team follows Bear Grylls, capturing his struggles and challenges on camera. S05 E07.</desc>
+    <desc>Bear Grylls attempts to survive the conditions in Norway while equipped with the latest technology. S06 E03.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420210000 +0500" stop="20260420215000 +0500">
-    <title>Hitler's Treasure Hunters</title>
-    <sub-title />
-    <desc>Hitler's Treasure Hunters</desc>
-    <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420215000 +0500" stop="20260420224100 +0500">
-    <title>Downed and Out Part One-Dual Survival</title>
-    <sub-title />
-    <desc>Matt and Joe start at the site of a plane crash off the shore of a tropical island. S05 E03.</desc>
-    <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420224100 +0500" stop="20260420233100 +0500">
-    <title>Desert Survivor-Man vs. Wild</title>
-    <sub-title />
-    <desc>Bear Grylls will have to skin and disembowel a camel in an attempt to stay alive. S02 E02.</desc>
-    <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260420233100 +0500" stop="20260421002000 +0500">
-    <title>Georgiaeastern Europe-Man vs. Wild</title>
-    <sub-title />
-    <desc>Bear is in the Caucasus Mountains driving a snowmobile out the back of a helicopter. S05 E03.</desc>
-    <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260421002000 +0500" stop="20260421011200 +0500">
+  </programme><programme channel="Discovery-Channel-IN" start="20260422204800 +0500" stop="20260422213900 +0500">
     <title>18 Wheels Across India</title>
     <sub-title />
     <desc>Dawid hitchhikes to Kochi from Bengaluru and later, learns how anglers make a living.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260421011200 +0500" stop="20260421020400 +0500">
-    <title>Land of the Maori-Man vs. Wild</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422213900 +0500" stop="20260422220900 +0500">
+    <title>Boars and Prehistoric Fish-Man Eats Wild</title>
     <sub-title />
-    <desc>Bear Grylls navigates treacherous trails in New Zealand's volcanic North Island. S07 E05.</desc>
+    <desc>Mario returns to his Australia to assist a friend and to catch some prehistoric fish. S01 E07.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260421020400 +0500" stop="20260421025600 +0500">
-    <title>Ecuador-Ed Stafford's Rite of Passage</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422220900 +0500" stop="20260422230700 +0500">
+    <title>Selva de Ñambí-Dual Survival Mexico</title>
     <sub-title />
-    <desc>Ed travels to the heart of the Ecuadorian rainforest to live with the Waorani. S01 E05.</desc>
+    <desc>Fernanda and Palma must navigate fatal landslides and extreme humidity in Colombian woods. S01 E03.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260421025600 +0500" stop="20260421034800 +0500">
-    <title>Edge of Madness-Naked and Afraid</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260422230700 +0500" stop="20260423000300 +0500">
+    <title>Jungle-Man vs. Wild</title>
     <sub-title />
-    <desc>Two survivalists face the scorching and harsh environment of Guyana's equatorial savannah. S04 E04.</desc>
+    <desc>In the lethal jungle of Panama, Bear Grylls tackles some extreme survival challenges. S02 E04.</desc>
     <language>en</language>
-  </programme><programme channel="Discovery-Channel-IN" start="20260421034800 +0500" stop="20260421052400 +0500">
-    <title>Like, Subscribe, Survive-Naked and Afraid</title>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423000300 +0500" stop="20260423010000 +0500">
+    <title>Erongo Mountains-Marooned With Ed Stafford</title>
     <sub-title />
-    <desc>Strangers pair up to survive the dangers of the forest, naked and afraid. S19 E03.</desc>
+    <desc>Can Ed Stafford survive hundreds of kilometres of scorching, rocky desert?. S04 E03.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423010000 +0500" stop="20260423015600 +0500">
+    <title>Iceland: Fire and Ice-Man vs. Wild</title>
+    <sub-title />
+    <desc>Bear Grylls is dropped on an ice cap covering an active volcano during a blizzard. S07 E03.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423015600 +0500" stop="20260423025200 +0500">
+    <title>Man, Woman, Wild</title>
+    <sub-title />
+    <desc>The couple faces a perilous situation when a forest fire burns their camp down.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423025200 +0500" stop="20260423034800 +0500">
+    <title>Thieves in the Night-Naked and Afraid</title>
+    <sub-title />
+    <desc>A fashion producer and a paramedic face Mexico's hostile Mayan jungle. S09 E06.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423034800 +0500" stop="20260423044300 +0500">
+    <title>Burnt to a Crisp-Naked and Afraid</title>
+    <sub-title />
+    <desc>Lee and LeAnn head to Indio Maíz after a deadly hurricane hits Nicaragua. S09 E08.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423044300 +0500" stop="20260423054300 +0500">
+    <title>Forbidden Fruit-Naked and Afraid</title>
+    <sub-title />
+    <desc>Gary and Karra's skills are put to the test when one of them consumes an unripe fruit. S09 E04.</desc>
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423054300 +0500" stop="20260423064300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423064300 +0500" stop="20260423074300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423074300 +0500" stop="20260423084300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423084300 +0500" stop="20260423094300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423094300 +0500" stop="20260423104300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423104300 +0500" stop="20260423114300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423114300 +0500" stop="20260423124300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423124300 +0500" stop="20260423134300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423134300 +0500" stop="20260423144300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423144300 +0500" stop="20260423154300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423154300 +0500" stop="20260423164300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423164300 +0500" stop="20260423174300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423174300 +0500" stop="20260423184300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423184300 +0500" stop="20260423194300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423194300 +0500" stop="20260423204300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423204300 +0500" stop="20260423214300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423214300 +0500" stop="20260423224300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423224300 +0500" stop="20260423234300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="Discovery-Channel-IN" start="20260423234300 +0500" stop="20260424004300 +0500">
+    <title>Documentary Show</title>
+    <sub-title />
+    <desc />
     <language>en</language>
   </programme>
 </tv>

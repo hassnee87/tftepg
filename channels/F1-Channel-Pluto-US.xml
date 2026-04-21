@@ -1,54 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv>
   <channel id="F1-Channel-Pluto-US">
-    <display-name>F1 Channel</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/F1-Channel-Pluto-US.png" />
-  </channel><programme channel="F1-Channel-Pluto-US" start="20260420053000 +0500" stop="20260420080500 +0500">
+    <url>https://thefilmtuition.com/tv/</url>
+    <display-name>F1 Channel</display-name>
+  </channel><programme channel="F1-Channel-Pluto-US" start="20260421235100 +0500" stop="20260422024100 +0500">
     <title>Formula 1 Racing</title>
-    <sub-title>2023: Miami Grand Prix</sub-title>
-    <desc>From Miami International Autodrome in Miami, Florida.</desc>
+    <sub-title>2024: Hungarian Grand Prix</sub-title>
+    <desc>Classic Formula 1 racing action.</desc>
     <date>19700101</date>
     <category>Sports</category>
     <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420080500 +0500" stop="20260420103900 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2006: Bahrain Grand Prix</sub-title>
-    <desc>From Bahrain International Circuit in Sakhir, Bahrain.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420103900 +0500" stop="20260420131700 +0500">
-    <title>Formula 1 Racing</title>
-    <sub-title>2021: Bahrain Grand Prix</sub-title>
-    <desc>From March 28, 2021.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420131700 +0500" stop="20260420143900 +0500">
-    <title>Formula 3</title>
-    <sub-title>Silverstone, Sprint Race</sub-title>
-    <desc>From Silverstone Circuit in Northamptonshire, England, United Kingdom.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147896bc9410013408cda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420143900 +0500" stop="20260420162200 +0500">
-    <title>Formula 3</title>
-    <sub-title>Silverstone, Feature Race</sub-title>
-    <desc>From Silverstone Circuit in Northamptonshire, England, United Kingdom.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/663147896bc9410013408cda/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420162200 +0500" stop="20260420183700 +0500">
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422024100 +0500" stop="20260422045600 +0500">
     <title>Formula 1 Racing</title>
     <sub-title>1989: Japanese Grand Prix</sub-title>
     <desc>From Oct. 22, 1989.</desc>
@@ -57,25 +22,7 @@
     <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420183700 +0500" stop="20260420195200 +0500">
-    <title>1981 in Review</title>
-    <sub-title>Caesars Palace Grand Prix</sub-title>
-    <desc>Jones endures Vegas heat, battles to finish, and seizes F1 crown in a dramatic Caesars showdown.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/671fd44c132dfe001347052d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420195200 +0500" stop="20260420210700 +0500">
-    <title>1982 in Review</title>
-    <sub-title>Caesars Palace Grand Prix</sub-title>
-    <desc>Rosberg seals title in searing Vegas heat as Alboreto stuns with maiden win in a wild desert showdown.</desc>
-    <date>19700101</date>
-    <category>Sports</category>
-    <category>Series</category>
-    <language>en</language>
-    <icon src="https://images.pluto.tv/series/670422a97dcabd0013e7c94c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-  </programme><programme channel="F1-Channel-Pluto-US" start="20260420210700 +0500" stop="20260421000100 +0500">
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422045600 +0500" stop="20260422075000 +0500">
     <title>Formula 1 Racing</title>
     <sub-title>1996: Spanish Grand Prix</sub-title>
     <desc>From Circuit de Barcelona-Catalunya in Barcelona, Spain.</desc>
@@ -84,5 +31,214 @@
     <category>Series</category>
     <language>en</language>
     <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422075000 +0500" stop="20260422103300 +0500">
+    <title>Formula 1 Racing</title>
+    <sub-title>2024: Azerbaijan Grand Prix</sub-title>
+    <desc>From Sept. 15, 2024.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422103300 +0500" stop="20260422114600 +0500">
+    <title>F1 Academy</title>
+    <sub-title>Canada: Race 1</sub-title>
+    <desc>Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408c8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422114600 +0500" stop="20260422125200 +0500">
+    <title>F1 Academy</title>
+    <sub-title>Canada: Race 2</sub-title>
+    <desc>Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408c8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422125200 +0500" stop="20260422140500 +0500">
+    <title>F1 Academy</title>
+    <sub-title>Canada: Race 3</sub-title>
+    <desc>Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/663147896bc9410013408c8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422140500 +0500" stop="20260422163700 +0500">
+    <title>Formula 1 Racing</title>
+    <sub-title>2009: Japanese Grand Prix</sub-title>
+    <desc>From Oct. 4, 2009.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/6631478c6bc9410013409116/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422163700 +0500" stop="20260422175300 +0500">
+    <title>1981 in Review</title>
+    <sub-title>Austrian Grand Prix</sub-title>
+    <desc>The F1 Channel is the ultimate destination to catch up on all the action from F1, F2, F3 and F1 Academy races throughout the season, including analysis, replays and documentaries.</desc>
+    <date>19700101</date>
+    <category>Sports</category>
+    <category>Series</category>
+    <language>en</language>
+    <icon src="https://images.pluto.tv/series/671fd44c132dfe001347052d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422175300 +0500" stop="20260422185300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422185300 +0500" stop="20260422195300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422195300 +0500" stop="20260422205300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422205300 +0500" stop="20260422215300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422215300 +0500" stop="20260422225300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422225300 +0500" stop="20260422235300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260422235300 +0500" stop="20260423005300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423005300 +0500" stop="20260423015300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423015300 +0500" stop="20260423025300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423025300 +0500" stop="20260423035300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423035300 +0500" stop="20260423045300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423045300 +0500" stop="20260423055300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423055300 +0500" stop="20260423065300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423065300 +0500" stop="20260423075300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423075300 +0500" stop="20260423085300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423085300 +0500" stop="20260423095300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423095300 +0500" stop="20260423105300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423105300 +0500" stop="20260423115300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423115300 +0500" stop="20260423125300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423125300 +0500" stop="20260423135300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423135300 +0500" stop="20260423145300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423145300 +0500" stop="20260423155300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423155300 +0500" stop="20260423165300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423165300 +0500" stop="20260423175300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423175300 +0500" stop="20260423185300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423185300 +0500" stop="20260423195300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423195300 +0500" stop="20260423205300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423205300 +0500" stop="20260423215300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423215300 +0500" stop="20260423225300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423225300 +0500" stop="20260423235300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
+  </programme><programme channel="F1-Channel-Pluto-US" start="20260423235300 +0500" stop="20260424005300 +0500">
+    <title>F1 Channel: Show</title>
+    <sub-title />
+    <desc />
+    <language>en</language>
   </programme>
 </tv>

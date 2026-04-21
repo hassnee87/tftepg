@@ -3,1248 +3,7 @@
   <channel id="TNT-East-US">
     <display-name>TNT East</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/TNT-East-US.png" />
-  </channel><programme channel="TNT-East-US" start="20260420024500 +0500" stop="20260420053000 +0500">
-    <title>Live: NHL Hockey</title>
-    <sub-title />
-    <desc>Game 1 of the Eastern Conference First Round between the Montreal Canadiens and the Tampa Bay Lightning takes place at Benchmark International Arena. The regular-season series was closely contested, with both teams splitting their four meetings 2-2.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Playoff sports</category>
-    <category lang="en">Hockey</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032ZKFS.jpg?w=960&amp;h=540" />
-  </programme><programme channel="TNT-East-US" start="20260420053000 +0500" stop="20260420060000 +0500">
-    <title>NHL Post-Game on TNT</title>
-    <sub-title />
-    <desc>Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.</desc>
-    <credits>
-      <actor>Liam McHugh</actor>
-      <actor>Anson Carter</actor>
-      <actor>Paul Bissonnette</actor>
-    </credits><date>2023</date>
-    <category lang="en">Hockey</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p25755238_b_h8_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="TNT-East-US" start="20260420060000 +0500" stop="20260420095500 +0500">
-    <title>Avengers: Endgame</title>
-    <sub-title />
-    <desc>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos, the evil demigod who decimated the planet and the universe.</desc>
-    <credits>
-      <director>Anthony Russo</director>
-      <director>Joe Russo</director>
-      <actor>Robert Downey</actor>
-      <actor>Chris Evans</actor>
-      <actor>Mark Ruffalo</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15366809_v_h10_aw.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE+7</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="TNT-East-US" start="20260420095500 +0500" stop="20260420115500 +0500">
-    <title>Boy Band Confidential: A Hollywood Demons Event</title>
-    <sub-title>Breaking the Band</sub-title>
-    <desc>Boy band legends pull back the curtain on pop fame's darker side.</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Documentary</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p32704917_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>A14</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420115500 +0500" stop="20260420125700 +0500">
-    <title>Charmed</title>
-    <sub-title>The Truth Is Out There ... and It Hurts</sub-title>
-    <desc>The trio must stop an otherworldly killer (Brad Greenquist) before he takes his next victim; Prue hopes to clarify her relationship with Andy.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <credits>
-      <director>Jim Contner</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420125700 +0500" stop="20260420135900 +0500">
-    <title>Charmed</title>
-    <sub-title>The Witch Is Back</sub-title>
-    <desc>An ancestor, a witch burned at the stake in Salem, helps out when Prue is attacked by a 17th-century warlock.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <credits>
-      <director>Richard Denault</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1998</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420135900 +0500" stop="20260420150000 +0500">
-    <title>Charmed</title>
-    <sub-title>Wicca Envy</sub-title>
-    <desc>The Halliwell sisters fall under the control of Prue's boss, a warlock who uses astral projection to frame Prue for grand larceny.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <credits>
-      <director>Mel Damski</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420150000 +0500" stop="20260420160000 +0500">
-    <title>Charmed</title>
-    <sub-title>Feats of Clay</sub-title>
-    <desc>Phoebe's former beau arrives, hoping to reconcile; Prue tries to save the auction house from bankruptcy; Piper's use of witchcraft for matchmaking goes awry.</desc>
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <credits>
-      <director>Kevin Inch</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420160000 +0500" stop="20260420170000 +0500">
-    <title>Charmed</title>
-    <sub-title>The Wendigo</sub-title>
-    <desc>A vicious beast attacks Piper; Andy goes on a stakeout with an FBI agent who is also hunting for the beast; Phoebe has a vision of a car crash.</desc>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <credits>
-      <director>James L. Conway</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420170000 +0500" stop="20260420180000 +0500">
-    <title>Charmed</title>
-    <sub-title>From Fear to Eternity</sub-title>
-    <desc>A fierce demon has its eye on Prue and Phoebe; Piper's superstition about relationships starting on Friday the 13th has her frustrated.</desc>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <credits>
-      <director>Les Sheldon</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420180000 +0500" stop="20260420190000 +0500">
-    <title>Charmed</title>
-    <sub-title>Secrets &amp; Guys</sub-title>
-    <desc>Prue receives a plea for help from Max, a 13-year-old witch who has been kidnapped by a pair of vicious thugs.</desc>
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <credits>
-      <director>Jim Contner</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420190000 +0500" stop="20260420200100 +0500">
-    <title>Cold Case</title>
-    <sub-title>Mind Hunters</sub-title>
-    <desc>Lily discovers nine decapitated female bodies while investigating a case originally sent to the Missing Persons Division in 1985.</desc>
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <credits>
-      <director>Kevin Bray</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420200100 +0500" stop="20260420210200 +0500">
-    <title>Cold Case</title>
-    <sub-title>Discretions</sub-title>
-    <desc>When a prominent district attorney is posthumously linked to a scandal, Lilly reinvestigates his unsolved murder.</desc>
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <credits>
-      <director>Henry Robles</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2004</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420210200 +0500" stop="20260420220300 +0500">
-    <title>Cold Case</title>
-    <sub-title>Blank Generation</sub-title>
-    <desc>In light of a new fatality, a cult member's 1978 suicide is re-examined.</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <credits>
-      <director>David Barrett</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420220300 +0500" stop="20260420230400 +0500">
-    <title>Cold Case</title>
-    <sub-title>Yo, Adrian</sub-title>
-    <desc>A referee's deathbed confession leads to the reopening of a 1976 case in which an over-matched fighter died during a bout.</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <credits>
-      <director>James Whitmore</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260420230400 +0500" stop="20260421000500 +0500">
-    <title>Cold Case</title>
-    <sub-title>Time to Crime</sub-title>
-    <desc>A murder weapon is found during the city's gun recovery program, prompting detectives to take another look at the accidental 1987 drive-by shooting of a little girl.</desc>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <credits>
-      <director>Tim Hunter</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421000500 +0500" stop="20260421023500 +0500">
-    <title>Captain Marvel</title>
-    <sub-title />
-    <desc>Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her people and the Skrulls. Living on Earth in 1995, she keeps having recurring memories of another life as U.S. Air Force pilot Carol Danvers. With help from Nick Fury, Captain Marvel tries to uncover the secrets of her past while harnessing her special superpowers to end the war with the evil Skrulls.</desc>
-    <credits>
-      <director>Anna Boden</director>
-      <director>Ryan Fleck</director>
-      <actor>Brie Larson</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Ben Mendelsohn</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14060049_v_h10_ap.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE+7</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="TNT-East-US" start="20260421023500 +0500" stop="20260421063000 +0500">
-    <title>Avengers: Endgame</title>
-    <sub-title />
-    <desc>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos, the evil demigod who decimated the planet and the universe.</desc>
-    <credits>
-      <director>Anthony Russo</director>
-      <director>Joe Russo</director>
-      <actor>Robert Downey</actor>
-      <actor>Chris Evans</actor>
-      <actor>Mark Ruffalo</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p15366809_v_h10_aw.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12A</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE+7</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>SAM 13</value>
-    </rating><rating system="Irish Film Classification Office">
-      <value>12A</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><star-rating>
-      <value>7.0/10</value>
-    </star-rating>
-  </programme><programme channel="TNT-East-US" start="20260421063000 +0500" stop="20260421091500 +0500">
-    <title>Spider-Man: Homecoming</title>
-    <sub-title />
-    <desc>Thrilled by his experience with the Avengers, young Peter Parker returns home to live with his Aunt May. Under the watchful eye of mentor Tony Stark, Parker starts to embrace his newfound identity as Spider-Man. He also tries to return to his normal daily routine -- distracted by thoughts of proving himself to be more than just a friendly neighborhood superhero. Peter must soon put his powers to the test when the evil Vulture emerges to threaten everything that he holds dear.</desc>
-    <credits>
-      <director>Jon Watts</director>
-      <actor>Tom Holland</actor>
-      <actor>Michael Keaton</actor>
-      <actor>Robert Downey</actor>
-    </credits><date>2017</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Science fiction</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p12798844_v_h8_ab.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Ontario Film Authority">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Maritime Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Central Board of Film Certification">
-      <value>UA</value>
-    </rating><star-rating>
-      <value>6.0/10</value>
-    </star-rating>
-  </programme><programme channel="TNT-East-US" start="20260421091500 +0500" stop="20260421120000 +0500">
-    <title>Captain Marvel</title>
-    <sub-title />
-    <desc>Captain Marvel is an extraterrestrial Kree warrior who finds herself caught in the middle of an intergalactic battle between her people and the Skrulls. Living on Earth in 1995, she keeps having recurring memories of another life as U.S. Air Force pilot Carol Danvers. With help from Nick Fury, Captain Marvel tries to uncover the secrets of her past while harnessing her special superpowers to end the war with the evil Skrulls.</desc>
-    <credits>
-      <director>Anna Boden</director>
-      <director>Ryan Fleck</director>
-      <actor>Brie Larson</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Ben Mendelsohn</actor>
-    </credits><date>2019</date>
-    <category lang="en">Movie</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Science fiction</category>
-    <category lang="en">Fantasy</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p14060049_v_h10_ap.jpg?w=960&amp;h=540" />
-    <rating system="Motion Picture Association">
-      <value>PG-13</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Manitoba Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="B.C. Film Classification Office">
-      <value>PG</value>
-    </rating><rating system="Saskatchewan Film and Video Classification Board">
-      <value>PG</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Alberta's Film Classification Board">
-      <value>PG</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>12</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B</value>
-    </rating><rating system="UK Content Provider">
-      <value>12</value>
-    </rating><rating system="Consejo de Calificación Cinematográfica">
-      <value>TE+7</value>
-    </rating><rating system="British Board of Film Classification">
-      <value>12</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="映倫">
-      <value>G</value>
-    </rating><rating system="Statens medieråd">
-      <value>Från 11 år</value>
-    </rating><rating system="Medierådet">
-      <value>11</value>
-    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
-      <value>7</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="영상물등급위원회">
-      <value>12+</value>
-    </rating><rating system="Ministero della Cultura">
-      <value>T</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><star-rating>
-      <value>5.0/10</value>
-    </star-rating>
-  </programme><programme channel="TNT-East-US" start="20260421120000 +0500" stop="20260421130000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Debut</sub-title>
-    <desc>When a frazzled mother bursts into the Philadelphia Police Department claiming to know who might have killed her daughter at a 1968 debutante ball, Lilly reopens the case.</desc>
-    <episode-num system="onscreen">S3 E13</episode-num>
-    <credits>
-      <director>Tim Hunter</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2006</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421130000 +0500" stop="20260421140000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Dog Day Afternoons</sub-title>
-    <desc>Several banks are robbed, surfacing clues that might help Lilly and the team solve a bank teller's 2000 murder.</desc>
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <credits>
-      <director>Craig Ross</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2006</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>12</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421140000 +0500" stop="20260421150000 +0500">
-    <title>Charmed</title>
-    <sub-title>Is There a Woogy in the House?</sub-title>
-    <desc>An earthquake unleashes a shadow demon which turns Phoebe toward her dark side and against her family.</desc>
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <credits>
-      <director>John T. Kretchmer</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421150000 +0500" stop="20260421160000 +0500">
-    <title>Charmed</title>
-    <sub-title>Which Prue Is It, Anyway?</sub-title>
-    <desc>Prue's incantation to multiply her strength goes awry when Phoebe has a vision showing Prue being stabbed.</desc>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <credits>
-      <director>John Behring</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421160000 +0500" stop="20260421170000 +0500">
-    <title>Charmed</title>
-    <sub-title>That '70s Episode</sub-title>
-    <desc>To protect themselves from a power-stealing warlock, the sisters time travel to the 1970s where they encounter their family.</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <credits>
-      <director>Richard Compton</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421170000 +0500" stop="20260421180000 +0500">
-    <title>Charmed</title>
-    <sub-title>When Bad Warlocks Go Good</sub-title>
-    <desc>Prue meets a young man fighting against his destiny to become evil; Phoebe tries to help Piper make a love connection.</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <credits>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421180000 +0500" stop="20260421190000 +0500">
-    <title>Charmed</title>
-    <sub-title>Blind Sided</sub-title>
-    <desc>A demon steals innocent children in order to use their sight to spot forces of good; a reporter sees Prue using her powers.</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <credits>
-      <director>Craig Zisk</director>
-      <actor>Shannen Doherty</actor>
-      <actor>Holly Marie Combs</actor>
-      <actor>Alyssa Milano</actor>
-    </credits><date>1999</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
-      <value>B15</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Kijkwijzer">
-      <value>9</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421190000 +0500" stop="20260421200000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Revolution</sub-title>
-    <desc>Lilly reopens the case of a young woman found murdered in her lover's apartment after the victim's brother gathers more information and finds more than one suspect.</desc>
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <credits>
-      <director>Alex Zakrzewski</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421200000 +0500" stop="20260421210000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Wishing</sub-title>
-    <desc>When drawings depicting the murder of a child from 1993 are found next to the victim's grave, the detectives reopen the case, and the child's former caregiver becomes the prime suspect.</desc>
-    <episode-num system="onscreen">S2 E15</episode-num>
-    <credits>
-      <director>Emilio Estevez</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421210000 +0500" stop="20260421220000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Revenge</sub-title>
-    <desc>When a priest comes forward with a person's confession related to the death of a 9-year-old boy, police reopen the case, and the boy's uncle becomes a prime suspect.</desc>
-    <episode-num system="onscreen">S2 E16</episode-num>
-    <credits>
-      <director>David Von Ancken</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>16</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-12</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421220000 +0500" stop="20260421230000 +0500">
-    <title>Cold Case</title>
-    <sub-title>Schadenfreude</sub-title>
-    <desc>The rare ring of a long-dead Philadelphia woman is found on the finger of a dead junkie, prompting Rush and the team to reopen the 1984 murder case.</desc>
-    <episode-num system="onscreen">S2 E17</episode-num>
-    <credits>
-      <director>Tim Matheson</director>
-      <actor>Kathryn Morris</actor>
-      <actor>Danny Pino</actor>
-      <actor>John Finn</actor>
-    </credits><date>2005</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
-      <value>14</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Kijkwijzer">
-      <value>12</value>
-    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
-      <value>16</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
-      <value>ATP</value>
-    </rating><rating system="Arcom">
-      <value>-10</value>
-    </rating>
-  </programme><programme channel="TNT-East-US" start="20260421230000 +0500" stop="20260422000000 +0500">
+  </channel><programme channel="TNT-East-US" start="20260421230000 +0500" stop="20260422000000 +0500">
     <title>Cold Case</title>
     <sub-title>Ravaged</sub-title>
     <desc>The investigation into an accidental death reopens when the victim's sister asserts she may have been murdered by members of a fraternity.</desc>
@@ -1566,6 +325,1237 @@
       <value>-10</value>
     </rating><rating system="Central Board of Film Certification">
       <value>UA</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="TNT-East-US" start="20260422100000 +0500" stop="20260422110000 +0500">
+    <title>Cold Case</title>
+    <sub-title>One Night</sub-title>
+    <desc>Lilly and company use their unique expertise and interrogation skills to solve a killer's demented puzzle and save a young boy's life.</desc>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <credits>
+      <director>Nicole Kassell</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422110000 +0500" stop="20260422120000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Superstar</sub-title>
+    <desc>Lilly gets new evidence in the 1973 murder of a young female tennis player who had won her high-profile match against the school's best male player just before her death.</desc>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <credits>
+      <director>Bill Eagles</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422120000 +0500" stop="20260422130000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Willkommen</sub-title>
+    <desc>When a theater owner discovers a.38 slug in a piece of set furniture that is not being used as a prop, Lilly and Jeffries reinvestigate a case involving the shooting of a local cabaret singer.</desc>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <credits>
+      <director>Paris Barclay</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422130000 +0500" stop="20260422140000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Beautiful Little Fool</sub-title>
+    <desc>A woman researching her family history learns that her great-grandmother was murdered in 1929 and the case was never solved, prompting Lilly to take a look.</desc>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <credits>
+      <director>Kevin Bray</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422140000 +0500" stop="20260422150000 +0500">
+    <title>Charmed</title>
+    <sub-title>The Power of Two</sub-title>
+    <desc>On a visit to Alcatraz, Phoebe sees the ghost of a serial killer escape from the island to exact revenge on those responsible for his trip to the gas chamber.</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <credits>
+      <director>Elodie Keene</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422150000 +0500" stop="20260422160000 +0500">
+    <title>Charmed</title>
+    <sub-title>Love Hurts</sub-title>
+    <desc>Piper switches powers with Leo (Brian Krause) to try to save his life, but her spell changes her sisters' powers too.</desc>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <credits>
+      <director>James Whitmore</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422160000 +0500" stop="20260422170000 +0500">
+    <title>Charmed</title>
+    <sub-title>Deja Vu All Over Again</sub-title>
+    <desc>The devil's sorcerer (David Carradine) traps the witches in a deadly time-loop in order to defeat the Charmed Ones.</desc>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <credits>
+      <director>Les Sheldon</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892640_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422170000 +0500" stop="20260422180000 +0500">
+    <title>Charmed</title>
+    <sub-title>Witch Trial</sub-title>
+    <desc>The sisters face a demon who tries to destroy their power; Prue wrestles with guilt over Andy's death; Piper struggles to start a nightclub.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <credits>
+      <director>Craig Zisk</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892618_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>L</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422180000 +0500" stop="20260422190000 +0500">
+    <title>Charmed</title>
+    <sub-title>Morality Bites</sub-title>
+    <desc>The sisters travel to the future to change Phoebe's fate after she has a chilling premonition that she will be executed.</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <credits>
+      <director>John Behring</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892618_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422190000 +0500" stop="20260422200000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Kensington</sub-title>
+    <desc>Rush and the team reopen the case of an optimistic young mill worker who was murdered in a town filled with despair.</desc>
+    <episode-num system="onscreen">S2 E20</episode-num>
+    <credits>
+      <director>Bill Eagles</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>7</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422200000 +0500" stop="20260422210000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Creatures of the Night</sub-title>
+    <desc>Rush and Valens try to connect a murder from 1977 to a serial killer about to be released from prison on a legal technicality.</desc>
+    <episode-num system="onscreen">S2 E21</episode-num>
+    <credits>
+      <director>Alex Zakrzewski</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422210000 +0500" stop="20260422220000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Best Friends</sub-title>
+    <desc>When a truck containing human bones is retrieved from the Delaware River, Rush and Valens link the truck to a Prohibition bootlegger and believe the remains are those of a woman who went missing in 1932.</desc>
+    <episode-num system="onscreen">S2 E22</episode-num>
+    <credits>
+      <director>Mark Pellington</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422220000 +0500" stop="20260422230000 +0500">
+    <title>Cold Case</title>
+    <sub-title>The Woods</sub-title>
+    <desc>The discovery of nine human skulls prompts Rush to look again at a serial killer she was unable to put away months earlier, flushing him from hiding for a final showdown.</desc>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <credits>
+      <director>Nelson McCormick</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2005</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893189_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Arcom">
+      <value>-12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260422230000 +0500" stop="20260423011500 +0500">
+    <title>Horrible Bosses 2</title>
+    <sub-title />
+    <desc>Tired of always answering to others, Nick (Jason Bateman), Dale (Charlie Day) and Kurt (Jason Sudeikis) go into business for themselves. After demonstrating the prototype for an invention called the Shower Buddy, the guys attract the attention of Rex Hanson and his father, Bert. Bert invests in the trio's product, then cancels the order and steals their idea. Now heavily in debt and with no legal recourse, Nick, Dale and Kurt decide to kidnap Rex and use the ransom money to pay off their loans.</desc>
+    <credits>
+      <director>Sean Anders</director>
+      <actor>Jason Bateman</actor>
+      <actor>Charlie Day</actor>
+      <actor>Jason Sudeikis</actor>
+    </credits><date>2014</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10569481_v_h10_ba.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>18A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><star-rating>
+      <value>4.0/10</value>
+    </star-rating>
+  </programme><programme channel="TNT-East-US" start="20260423011500 +0500" stop="20260423033000 +0500">
+    <title>Horrible Bosses</title>
+    <sub-title />
+    <desc>Nick (Jason Bateman), Dale (Charlie Day) and Kurt (Jason Sudeikis) are workers who would like nothing better than to grind their oppressive employers into the dirt. Quitting their jobs is not an option, so -- fueled by alcohol and dubious advice from a criminal (Jamie Foxx) -- the men devise a complex and seemingly foolproof plan to permanently rid themselves of their terrible bosses. The problem is, any plan is only as clever as the brains behind it.</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Jason Bateman</actor>
+      <actor>Charlie Day</actor>
+      <actor>Jason Sudeikis</actor>
+    </credits><date>2011</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p8559570_v_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>R</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="B.C. Film Classification Office">
+      <value>14A</value>
+    </rating><rating system="Saskatchewan Film and Video Classification Board">
+      <value>14A</value>
+    </rating><rating system="Manitoba Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Ontario Film Authority">
+      <value>14A</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>15</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>14A</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>14</value>
+    </rating><rating system="UK Content Provider">
+      <value>15</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>MA 15+</value>
+    </rating><rating system="Ministero della Cultura">
+      <value>T</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 16</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>PG12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="영상물등급위원회">
+      <value>18+</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="TNT-East-US" start="20260423033000 +0500" stop="20260423040000 +0500">
+    <title>NHL on TNT Face Off</title>
+    <sub-title />
+    <desc>Wayne Gretzky, Liam McHugh, Anson Carter, and Paul Bissonnette present pregame coverage.</desc>
+    <date>2021</date>
+    <category lang="en">Hockey</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p20789172_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423040000 +0500" stop="20260423063000 +0500">
+    <title>Live: NHL Hockey</title>
+    <sub-title />
+    <desc>Eastern Conference First Round, Game 3.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Hockey</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032K33S.jpg?w=960&amp;h=540" />
+  </programme><programme channel="TNT-East-US" start="20260423063000 +0500" stop="20260423090000 +0500">
+    <title>Live: NHL Hockey</title>
+    <sub-title />
+    <desc>Western Conference First Round, Game 3.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Playoff sports</category>
+    <category lang="en">Hockey</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0032K4NM.jpg?w=960&amp;h=540" />
+  </programme><programme channel="TNT-East-US" start="20260423090000 +0500" stop="20260423093000 +0500">
+    <title>NHL Post-Game on TNT</title>
+    <sub-title />
+    <desc>Liam McHugh, Anson Carter and Paul Bissonnette recap the night in the NHL.</desc>
+    <credits>
+      <actor>Liam McHugh</actor>
+      <actor>Anson Carter</actor>
+      <actor>Paul Bissonnette</actor>
+    </credits><date>2023</date>
+    <category lang="en">Hockey</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p25755238_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="TNT-East-US" start="20260423093000 +0500" stop="20260423120000 +0500">
+    <title>Wonka</title>
+    <sub-title />
+    <desc>Armed with nothing but a hatful of dreams, young chocolatier Willy Wonka manages to change the world, one delectable bite at a time.</desc>
+    <credits>
+      <director>Paul King</director>
+      <actor>Timothée Chalamet</actor>
+      <actor>Calah Lane</actor>
+      <actor>Hugh Grant</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical comedy</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p23466024_v_h8_aj.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>10</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>0</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K7</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Medierådet">
+      <value>7</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>PG</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>A</value>
+    </rating><rating system="Kijkwijzer">
+      <value>6</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>U</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 7 år</value>
+    </rating><rating system="UK Content Provider">
+      <value>PG</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><star-rating>
+      <value>6.0/10</value>
+    </star-rating>
+  </programme><programme channel="TNT-East-US" start="20260423120000 +0500" stop="20260423130000 +0500">
+    <title>Cold Case</title>
+    <sub-title>Death Penalty: Final Appeal</sub-title>
+    <desc>Days before his scheduled execution, a man Jeffries arrested in 1994 begs him to re-examine the case.</desc>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <credits>
+      <director>Alex Zakrzewski</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423130000 +0500" stop="20260423140000 +0500">
+    <title>Cold Case</title>
+    <sub-title>The Hen House</sub-title>
+    <desc>A 1945 case involves an ambitious reporter demoted to writing trivial advice columns.</desc>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <credits>
+      <director>David Von Ancken</director>
+      <actor>Kathryn Morris</actor>
+      <actor>Danny Pino</actor>
+      <actor>John Finn</actor>
+    </credits><date>2006</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Mystery</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7893203_b_h10_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>ATP</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423140000 +0500" stop="20260423150000 +0500">
+    <title>Charmed</title>
+    <sub-title>The Painted World</sub-title>
+    <desc>Prue is sucked into another dimension, finding herself trapped inside a painting with a dangerous warlock; Phoebe tries to get funds for Piper's nightclub.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <credits>
+      <director>Kevin Inch</director>
+      <actor>Shannen Doherty</actor>
+      <actor>Holly Marie Combs</actor>
+      <actor>Alyssa Milano</actor>
+    </credits><date>1999</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p7892618_b_h8_ab.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Film &amp; Publication Board">
+      <value>13</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
+      <value>12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>9</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423150000 +0500" stop="20260423160000 +0500">
+    <title>FBI</title>
+    <sub-title>Doomsday</sub-title>
+    <desc>Maggie and OA investigate the death of a safety inspector and its possible connection to a leak at a nuclear power plant.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <credits>
+      <director>Fred Berner</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423160000 +0500" stop="20260423170000 +0500">
+    <title>FBI</title>
+    <sub-title>Family Man</sub-title>
+    <desc>After a senator's daughter is kidnapped and held for ransom, the FBI must find the little girl before their time limit expires; they must dig into the senator's past for clues to who did this to his family.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <credits>
+      <director>Jean De Segonzac</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423170000 +0500" stop="20260423180000 +0500">
+    <title>FBI</title>
+    <sub-title>Cops and Robbers</sub-title>
+    <desc>Maggie and OA hunt down a ruthless group of robbers who are posing as police officers to target armored trucks.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <credits>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423180000 +0500" stop="20260423190000 +0500">
+    <title>FBI</title>
+    <sub-title>This Land Is Your Land</sub-title>
+    <desc>Maggie and OA lead the search for an abducted former biological weapons chemist.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <credits>
+      <director>Charlotte Brändström</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423190000 +0500" stop="20260423200000 +0500">
+    <title>FBI</title>
+    <sub-title>Compromised</sub-title>
+    <desc>After a key witness and a U.S. marshal are ambushed and killed, Maggie and OA must find the man who leaked the information that led to their murders.</desc>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <credits>
+      <director>Ed Ornelas</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423200000 +0500" stop="20260423210000 +0500">
+    <title>FBI</title>
+    <sub-title>The Armorer's Faith</sub-title>
+    <desc>When an illegal arms broker-turned-informant is assassinated, OA assumes his identity and goes undercover to stop the sale of dangerous weapons, with help from Maggie and their former FBI instructor.</desc>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <credits>
+      <director>Nicole Rubio</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2018</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423210000 +0500" stop="20260423220000 +0500">
+    <title>FBI</title>
+    <sub-title>Identity Crisis</sub-title>
+    <desc>When a judge and her daughter are murdered after she sentences a man to life in prison, Maggie and OA search for the killer; Dana has a history with the victim and a vested interest in the case.</desc>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <credits>
+      <director>Norberto Barba</director>
+      <actor>Missy Peregrym</actor>
+      <actor>Zeeko Zaki</actor>
+      <actor>Ebonée Noel</actor>
+    </credits><date>2019</date>
+    <category lang="en">Series</category>
+    <category lang="en">Crime drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p15528073_b_h8_bc.jpg?w=960&amp;h=540" />
+    <rating system="Canadian Parental Rating">
+      <value>14+</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TV14</value>
+    </rating><rating system="Régie du cinéma">
+      <value>13+</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>16</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>16</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="방송통신심의위원회">
+      <value>15</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medietilsynet">
+      <value>15 år</value>
+    </rating>
+  </programme><programme channel="TNT-East-US" start="20260423220000 +0500" stop="20260424010000 +0500">
+    <title>The Flash</title>
+    <sub-title />
+    <desc>Worlds collide when the Flash uses his superpowers to travel back in time to change the events of the past. However, when his attempt to save his family inadvertently alters the future, he becomes trapped in a reality in which General Zod has returned, threatening annihilation. With no other superheroes to turn to, the Flash looks to coax a very different Batman out of retirement and rescue an imprisoned Kryptonian -- albeit not the one he's looking for.</desc>
+    <credits>
+      <director>Andy Muschietti</director>
+      <actor>Ezra Miller</actor>
+      <actor>Sasha Calle</actor>
+      <actor>Michael Shannon</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p12742479_v_h8_ad.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>14</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Consejo de Calificación Cinematográfica">
+      <value>TE+7</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><rating system="Medietilsynet">
+      <value>11 år</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
+    </rating><rating system="Instituto Nacional de Cine y Artes Audiovisuales">
+      <value>SAM 13</value>
+    </rating><rating system="Instituto de Cinematografía y de las Artes Visuales">
+      <value>12</value>
+    </rating><star-rating>
+      <value>5.0/10</value>
+    </star-rating>
+  </programme><programme channel="TNT-East-US" start="20260424010000 +0500" stop="20260424033000 +0500">
+    <title>Aquaman and the Lost Kingdom</title>
+    <sub-title />
+    <desc>After failing to defeat Aquaman the first time, Black Manta wields the power of the mythic Black Trident to unleash an ancient and malevolent force. Hoping to end his reign of terror, Aquaman forges an unlikely alliance with his brother, Orm, the former king of Atlantis. Setting aside their differences, they join forces to protect their kingdom and save the world from irreversible destruction.</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Jason Momoa</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Yahya Abdul-Mateen</actor>
+    </credits><date>2023</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Fantasy</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p18935685_v_h8_ae.jpg?w=960&amp;h=540" />
+    <rating system="Motion Picture Association">
+      <value>PG-13</value>
+    </rating><rating system="Alberta's Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
+      <value>K12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Maritime Film Classification Board">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>12</value>
+    </rating><rating system="Medierådet">
+      <value>11</value>
+    </rating><rating system="Dirección General de Radio, Televisión y Cinematografía">
+      <value>B</value>
+    </rating><rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating><rating system="British Board of Film Classification">
+      <value>12</value>
+    </rating><rating system="Central Board of Film Certification">
+      <value>UA</value>
+    </rating><rating system="Arcom">
+      <value>-10</value>
+    </rating><rating system="映倫">
+      <value>G</value>
+    </rating><rating system="UK Content Provider">
+      <value>12</value>
+    </rating><rating system="Statens medieråd">
+      <value>Från 11 år</value>
+    </rating><rating system="Krajowa Rada Radiofonii i Telewizji">
+      <value>12</value>
     </rating><star-rating>
       <value>4.0/10</value>
     </star-rating>
