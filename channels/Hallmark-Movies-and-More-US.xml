@@ -4,37 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Hallmark-Movies-and-More-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Hallmark Movies &amp; More</display-name>
-  </channel><programme channel="Hallmark-Movies-and-More-US" start="20260421233500 +0500" stop="20260422010900 +0500">
-    <title>Wedding March 3: Here Comes the Bride</title>
-    <sub-title />
-    <desc>It's a full Valentine's Day weekend at the inn when Olivia and Mick host their families.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5d48ea8ce1b056239a7e3793012f0828/rokuFeed/assets/338ffa200f065bed87fec3b5524d48a7.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422010900 +0500" stop="20260422024700 +0500">
-    <title>Wedding March 4: Something Old, Something New</title>
-    <sub-title />
-    <desc>Complications arise when a woman starts to have second thoughts about her wedding plans.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6fcc0a72aecb5a5da0f6cd5536b8cced/rokuFeed/assets/6e34c79a5c9f58ddbbffd736a18d1fcf.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422024700 +0500" stop="20260422042200 +0500">
-    <title>Wedding at Graceland</title>
-    <sub-title />
-    <desc>Hallmark Original Movie. Laurel &amp; Clay plan their wedding &amp; navigate their families at Graceland Chapel.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/04214c6fee5a5f4981898a3748723950/rokuFeed/assets/765cfeb4e47158879550de4c203652c7.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422042200 +0500" stop="20260422060200 +0500">
-    <title>Signed, Sealed, Delivered</title>
-    <sub-title />
-    <desc>Co-workers embark on a mission to deliver a letter from a dying woman to the man that she loves.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5f2d0ba6d10458668e692da05f4d218d/rokuFeed/assets/0c2de96ef84d5be7a2dd45cc6048ad23.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422060200 +0500" stop="20260422074100 +0500">
-    <title>Signed, Sealed, Delivered: From Paris With Love</title>
-    <sub-title />
-    <desc>The Postables explore the mysteries of true love when they deliver divorce papers to a couple.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d42529b2ce4652439b7ea0faaca120a2/images/gracenote/assets/p11527644_v_h10_aa.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422074100 +0500" stop="20260422091700 +0500">
+  </channel><programme channel="Hallmark-Movies-and-More-US" start="20260422074100 +0500" stop="20260422091700 +0500">
     <title>Signed, Sealed, Delivered: The Impossible Dream</title>
     <sub-title />
     <desc>The Postables race against time to reunite a soldier in Afghanistan with her family.</desc>
@@ -94,12 +64,6 @@
     <desc>A woman from a small Midwestern town lands a big promotion managing a store in Manhattan.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e40374842426565b8d16efd355e74390/images/gracenote/assets/p13053409_v_h10_aa.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260422223200 +0500" stop="20260423000900 +0500">
-    <title>Summer in the City</title>
-    <sub-title />
-    <desc>A woman from a small Midwestern town lands a big promotion managing a store in Manhattan.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e40374842426565b8d16efd355e74390/images/gracenote/assets/p13053409_v_h10_aa.jpg" />
   </programme><programme channel="Hallmark-Movies-and-More-US" start="20260423000900 +0500" stop="20260423014700 +0500">
     <title>At Home in Mitford</title>
     <sub-title />
@@ -128,6 +92,12 @@
     <title>Good Witch</title>
     <desc>On the eve of her wedding, Cassie's long-lost foster brother Vincent makes an unexpected appearance.</desc>
     <episode-num system="onscreen">S05E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260423073300 +0500" stop="20260423082300 +0500">
+    <title>Good Witch</title>
+    <desc>With the wedding only a day away, Grace realizes how much she misses her father.</desc>
+    <episode-num system="onscreen">S05E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
   </programme><programme channel="Hallmark-Movies-and-More-US" start="20260423073300 +0500" stop="20260423082300 +0500">
@@ -244,12 +214,6 @@
     <episode-num system="onscreen">S02E02</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
-  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260423235100 +0500" stop="20260424003900 +0500">
-    <title>Good Witch</title>
-    <desc>Cassie and John spend time together catching up but he may have romantic intentions; a talent.</desc>
-    <episode-num system="onscreen">S02E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
   </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424003900 +0500" stop="20260424012700 +0500">
     <title>Good Witch</title>
     <desc>An ex of Cassie's comes to Middleton looking for closure; an old friend digs up Cassie's past.</desc>
@@ -266,6 +230,72 @@
     <title>Good Witch</title>
     <desc>Sam and John surprise Cassie with fun outings as she works out her feelings toward both of them.</desc>
     <episode-num system="onscreen">S02E05</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424030500 +0500" stop="20260424035300 +0500">
+    <title>Good Witch</title>
+    <desc>Cassie could be ready to take a chance on her feelings for Sam; Grace goes on a magical mission.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424035300 +0500" stop="20260424044100 +0500">
+    <title>Good Witch</title>
+    <desc>Cassie decides to throw a surprise party for Martha and enlists the help of Stephanie and Abigail.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424044100 +0500" stop="20260424052900 +0500">
+    <title>Good Witch</title>
+    <desc>Cassie works her magic to help Sam make a tough decision; a tough choice.</desc>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424052900 +0500" stop="20260424061700 +0500">
+    <title>Good Witch</title>
+    <desc>Cassie begins to move in a new direction with Sam; Middleton has its annual Lights Festival.</desc>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424061700 +0500" stop="20260424070700 +0500">
+    <title>Good Witch</title>
+    <desc>Cassie reaches a decision about her future; Middleton needs some of Cassie's magic.</desc>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424070700 +0500" stop="20260424075500 +0500">
+    <title>Good Witch</title>
+    <desc>The whole town awaits the impending blooming of the Middleton Merriwick; Grace is anxious.</desc>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424075500 +0500" stop="20260424084300 +0500">
+    <title>Good Witch</title>
+    <desc>The Middleton Merriwick is still not in bloom; an old friend of Abigail's checks into Grey House.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424075500 +0500" stop="20260424084300 +0500">
+    <title>Good Witch</title>
+    <desc>The Middleton Merriwick is still not in bloom; an old friend of Abigail's checks into Grey House.</desc>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424084300 +0500" stop="20260424093100 +0500">
+    <title>Good Witch</title>
+    <desc>Two guests arrive at Grey House and are immediately at odds, Sam plans the perfect date for Cassie.</desc>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424093100 +0500" stop="20260424102100 +0500">
+    <title>Good Witch</title>
+    <desc>The whole town is caught up in romance; Martha's promises to the town are in jeopardy.</desc>
+    <episode-num system="onscreen">S03E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
+  </programme><programme channel="Hallmark-Movies-and-More-US" start="20260424102100 +0500" stop="20260424110900 +0500">
+    <title>Good Witch</title>
+    <desc>When a visiting chef is unable to relax, Cassie helps; the Merriwick Wish Book.</desc>
+    <episode-num system="onscreen">S03E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62c5765967b1538cb7a399dcaa82e8be/images/gracenote/assets/p11395425_b_h8_al.jpg" />
   </programme>

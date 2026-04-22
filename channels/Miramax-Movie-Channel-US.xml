@@ -4,39 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Miramax-Movie-Channel-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Miramax Movie Channel</display-name>
-  </channel><programme channel="Miramax-Movie-Channel-US" start="20260421232451 +0500" stop="20260422011428 +0500">
-    <title>The Warriors</title>
-    <sub-title />
-    <desc>The armies of the night number 100,000; they outnumber the police 5 to 1; tonight they’re after the Warriors.</desc>
-    <date>20250601</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a87dfcd4-21d3-4cf1-b1fb-5739adbcd3f3/MIRAMAX_VERTICAL_DEFAULT_ARTWORK__1__-_Gabe_Evans.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260422011428 +0500" stop="20260422031621 +0500">
-    <title>Four Brothers</title>
-    <sub-title />
-    <desc>At a funeral, four adopted brothers discover the woman who raised them was murdered and they seek revenge.</desc>
-    <date>20050701</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/a1f5aef7ea9f73251662f199556c0a0a.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260422031621 +0500" stop="20260422051413 +0500">
-    <title>Universal Soldier</title>
-    <sub-title />
-    <desc>A reporter discovers a Defense Department project to create androids from the bodies of Vietnam soldiers</desc>
-    <date>19920710</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/24f731de2886f19b28c76c202a6b7df7.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260422051413 +0500" stop="20260422065956 +0500">
-    <title>The Mechanic</title>
-    <sub-title />
-    <desc>Jason Statham is a mechanic—an elite assassin with a strict code and a talent for cleanly eliminating targets.</desc>
-    <date>20241001</date>
-    <category>Movie</category>
-    <language>en</language>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a87dfcd4-21d3-4cf1-b1fb-5739adbcd3f3/MIRAMAX_VERTICAL_DEFAULT_ARTWORK__1__-_Gabe_Evans.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260422065956 +0500" stop="20260422092014 +0500">
+  </channel><programme channel="Miramax-Movie-Channel-US" start="20260422065956 +0500" stop="20260422092014 +0500">
     <title>Sahara (2005)</title>
     <sub-title />
     <desc>2 thrill-seeking adventurers cross paths with a doctor &amp; find themselves on the ultimate hunt for a treasure.</desc>
@@ -100,117 +68,104 @@
     <category>Movie</category>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/hdrUL6bc38wvoah8t62F1IYT4VR.jpg" />
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423010813 +0500" stop="20260423020813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423010813 +0500" stop="20260423032008 +0500">
+    <title>Super 8</title>
+    <sub-title />
+    <desc>During the summer of 1979, a group of friends witness a train crash and investigate events in their town.</desc>
+    <date>20110609</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/ecefde9e390b8366fa2004da9cb65a57.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423032008 +0500" stop="20260423053439 +0500">
+    <title>Paycheck</title>
+    <sub-title />
+    <desc>Michael Jennings works on top-secret projects. After each job, his memory is erased.</desc>
+    <date>20031219</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6f405ed1c61cbed873a97fd94007a071.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423053439 +0500" stop="20260423073616 +0500">
+    <title>10 Cloverfield Lane</title>
+    <sub-title />
+    <desc>After a car crash, a woman wakes up in a survivalist’s bunker. He claims to have saved her</desc>
+    <date>20160310</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/7/gracenote/756faf2507dc2a2bd29902bd7058759e.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423073616 +0500" stop="20260423101008 +0500">
+    <title>The Island</title>
+    <sub-title />
+    <desc>A man goes on the run after he discovers that he is actually a "harvested being."</desc>
+    <date>20050720</date>
+    <category>Movie</category>
+    <language>en</language>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/0ffe5a242e688c42282fcaa6afb16e1f.jpg" />
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423101008 +0500" stop="20260423111008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423020813 +0500" stop="20260423030813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423111008 +0500" stop="20260423121008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423030813 +0500" stop="20260423040813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423121008 +0500" stop="20260423131008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423040813 +0500" stop="20260423050813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423131008 +0500" stop="20260423141008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423050813 +0500" stop="20260423060813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423141008 +0500" stop="20260423151008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423060813 +0500" stop="20260423070813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423151008 +0500" stop="20260423161008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423070813 +0500" stop="20260423080813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423161008 +0500" stop="20260423171008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423080813 +0500" stop="20260423090813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423171008 +0500" stop="20260423181008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423090813 +0500" stop="20260423100813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423181008 +0500" stop="20260423191008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423100813 +0500" stop="20260423110813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423191008 +0500" stop="20260423201008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423110813 +0500" stop="20260423120813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423201008 +0500" stop="20260423211008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423120813 +0500" stop="20260423130813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423211008 +0500" stop="20260423221008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423130813 +0500" stop="20260423140813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423221008 +0500" stop="20260423231008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423140813 +0500" stop="20260423150813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423150813 +0500" stop="20260423160813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423160813 +0500" stop="20260423170813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423170813 +0500" stop="20260423180813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423180813 +0500" stop="20260423190813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423190813 +0500" stop="20260423200813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423200813 +0500" stop="20260423210813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423210813 +0500" stop="20260423220813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423220813 +0500" stop="20260423230813 +0500">
-    <title>Miramax Movie Channel: Movie</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423230813 +0500" stop="20260424000813 +0500">
+  </programme><programme channel="Miramax-Movie-Channel-US" start="20260423231008 +0500" stop="20260424001008 +0500">
     <title>Miramax Movie Channel: Movie</title>
     <sub-title />
     <desc />

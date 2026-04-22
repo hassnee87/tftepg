@@ -3,156 +3,7 @@
   <channel id="ABC7-WABC-US">
     <display-name>WABC</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/ABC7-WABC-US.png" />
-  </channel><programme channel="ABC7-WABC-US" start="20260421230000 +0500" stop="20260422000000 +0500">
-    <title>Tamron Hall</title>
-    <sub-title>What's Your Aura?</sub-title>
-    <desc>The aura-maxxing trend; student manager for the McNeese State Cowboys Men's Basketball Team, Amir "Aura" Khan; Rosie Sparky and prof. Melvin Williams talk about aura points; author and podcast host Mystic Michaela breaks down what your aura color means; aura photographer Eileen Lee.</desc>
-    <episode-num system="onscreen">S7 E147</episode-num>
-    <credits>
-      <actor>Tamron Hall</actor>
-      <actor>Amir "Aura" Khan</actor>
-      <actor>Rosie Sparky</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p17197549_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating>
-  </programme><programme channel="ABC7-WABC-US" start="20260422000000 +0500" stop="20260422010000 +0500">
-    <title>General Hospital</title>
-    <sub-title />
-    <desc>Sonny takes a risk; Curtis confronts Isaiah; Ric is skeptical; Britt is thrown for a loop; Dante pays a visit to Cullum.</desc>
-    <episode-num system="onscreen">S63 E153</episode-num>
-    <credits>
-      <actor>Maurice Benard</actor>
-      <actor>Steve Burton</actor>
-      <actor>Michael Easton</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p183893_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC7-WABC-US" start="20260422010000 +0500" stop="20260422020000 +0500">
-    <title>Eyewitness News First at 4</title>
-    <sub-title />
-    <desc>Local and regional news coverage.</desc>
-    <date>2011</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&amp;h=540" />
-  </programme><programme channel="ABC7-WABC-US" start="20260422020000 +0500" stop="20260422030000 +0500">
-    <title>Eyewitness News at 5</title>
-    <sub-title />
-    <desc>Local and regional news.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="ABC7-WABC-US" start="20260422030000 +0500" stop="20260422033000 +0500">
-    <title>Eyewitness News at 6</title>
-    <sub-title />
-    <desc>Stay informed with the latest breaking news and headlines.</desc>
-    <date>2017</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&amp;h=540" />
-  </programme><programme channel="ABC7-WABC-US" start="20260422033000 +0500" stop="20260422040000 +0500">
-    <title>ABC World News Tonight With David Muir</title>
-    <sub-title />
-    <desc>Delivering the news that matters most.</desc>
-    <episode-num system="onscreen">E111</episode-num>
-    <credits>
-      <actor>David Muir</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
-  </programme><programme channel="ABC7-WABC-US" start="20260422040000 +0500" stop="20260422043000 +0500">
-    <title>Jeopardy!</title>
-    <sub-title />
-    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
-    <episode-num system="onscreen">S42 E162</episode-num>
-    <credits>
-      <actor>Ken Jennings</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating>
-  </programme><programme channel="ABC7-WABC-US" start="20260422043000 +0500" stop="20260422050000 +0500">
-    <title>Wheel of Fortune</title>
-    <sub-title>The Open Road</sub-title>
-    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
-    <episode-num system="onscreen">S43 E162</episode-num>
-    <credits>
-      <actor>Ryan Seacrest</actor>
-      <actor>Vanna White</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Game show</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p30972336_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating>
-  </programme><programme channel="ABC7-WABC-US" start="20260422050000 +0500" stop="20260422060000 +0500">
-    <title>Will Trent</title>
-    <sub-title>Our Last Dance</sub-title>
-    <desc>Reeling yet relentless, the team hunts Adelaide and searches for Antonio; Adelaide systematically eliminates her own acolytes; Will teeters on the edge, haunted by a grief so strong it could unravel the team.</desc>
-    <episode-num system="onscreen">S4 E16</episode-num>
-    <credits>
-      <actor>Ramón Rodríguez</actor>
-      <actor>Erika Christensen</actor>
-      <actor>Iantha Richardson</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Crime drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p23358611_b_h8_al.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Australian Classification Board">
-      <value>MA 15+</value>
-    </rating><rating system="방송통신심의위원회">
-      <value>15</value>
-    </rating><rating system="Régie du cinéma">
-      <value>13+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>16</value>
-    </rating>
-  </programme><programme channel="ABC7-WABC-US" start="20260422060000 +0500" stop="20260422070000 +0500">
+  </channel><programme channel="ABC7-WABC-US" start="20260422060000 +0500" stop="20260422070000 +0500">
     <title>R.J. Decker</title>
     <sub-title>Burn the Boats</sub-title>
     <desc>R.J. struggles with a difficult decision; Emi must contend with her family's secrets.</desc>
@@ -331,7 +182,7 @@
     </credits><date>2024</date>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
   </programme><programme channel="ABC7-WABC-US" start="20260422133000 +0500" stop="20260422150000 +0500">
     <title>Eyewitness News This Morning</title>
     <sub-title />
@@ -787,7 +638,7 @@
     </credits><date>2024</date>
     <category lang="en">News</category>
     <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p28311369_b_h8_ac.jpg?w=960&amp;h=540" />
   </programme><programme channel="ABC7-WABC-US" start="20260423133000 +0500" stop="20260423150000 +0500">
     <title>Eyewitness News This Morning</title>
     <sub-title />
@@ -948,5 +799,91 @@
     <category lang="en">News</category>
     <language>en</language>
     <icon src="http://dtil.tmsimg.com/assets/p8679870_b_h8_ad.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260424020000 +0500" stop="20260424030000 +0500">
+    <title>Eyewitness News at 5</title>
+    <sub-title />
+    <desc>Local and regional news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769033_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260424030000 +0500" stop="20260424033000 +0500">
+    <title>Eyewitness News at 6</title>
+    <sub-title />
+    <desc>Stay informed with the latest breaking news and headlines.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769035_b_h8_ab.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260424033000 +0500" stop="20260424040000 +0500">
+    <title>ABC World News Tonight With David Muir</title>
+    <sub-title />
+    <desc>Delivering the news that matters most.</desc>
+    <episode-num system="onscreen">E113</episode-num>
+    <credits>
+      <actor>David Muir</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p10880351_b_h8_ah.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260424040000 +0500" stop="20260424043000 +0500">
+    <title>Jeopardy!</title>
+    <sub-title />
+    <desc>The Emmy-winning quiz show features a unique answer-and-question format.</desc>
+    <episode-num system="onscreen">S42 E164</episode-num>
+    <credits>
+      <actor>Ken Jennings</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184056_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260424043000 +0500" stop="20260424050000 +0500">
+    <title>Wheel of Fortune</title>
+    <sub-title>The Open Road</sub-title>
+    <desc>In a classic game-show version of "Hangman," contestants solve word puzzles for cash and prizes.</desc>
+    <episode-num system="onscreen">S43 E164</episode-num>
+    <credits>
+      <actor>Ryan Seacrest</actor>
+      <actor>Vanna White</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Game show</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p30972336_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="Régie du cinéma">
+      <value>G</value>
+    </rating>
+  </programme><programme channel="ABC7-WABC-US" start="20260424050000 +0500" stop="20260424080000 +0500">
+    <title>Live: 2026 NFL Draft</title>
+    <sub-title>Round 1</sub-title>
+    <desc>From Pittsburgh.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Football</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p32350137_b_h8_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="ABC7-WABC-US" start="20260424080000 +0500" stop="20260424083500 +0500">
+    <title>Eyewitness News at 11</title>
+    <sub-title />
+    <desc>Breaking news.</desc>
+    <date>2017</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p13769039_b_h8_ab.jpg?w=960&amp;h=540" />
   </programme>
 </tv>

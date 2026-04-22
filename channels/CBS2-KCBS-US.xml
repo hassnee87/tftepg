@@ -3,216 +3,10 @@
   <channel id="CBS2-KCBS-US">
     <display-name>KCBS</display-name>
     <icon src="https://thefilmtuition.com/tvlogo/CBS2-KCBS-US.png" />
-  </channel><programme channel="CBS2-KCBS-US" start="20260421233000 +0500" stop="20260422003000 +0500">
-    <title>The Young and the Restless</title>
-    <sub-title />
-    <desc>Victor gives his enemies a warning shot; Danny helps Christine with a tough decision; Michael shares asecret with Lauren; Abby and Devon struggle to get on the same page.</desc>
-    <episode-num system="onscreen">S53 E135</episode-num>
-    <credits>
-      <actor>Peter Bergman</actor>
-      <actor>Eric Braeden</actor>
-      <actor>Christel Khalil</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p183904_b_h8_ai.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Film &amp; Publication Board">
-      <value>13</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422003000 +0500" stop="20260422010000 +0500">
-    <title>The Bold and the Beautiful</title>
-    <sub-title />
-    <desc>Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family; its company, Forrester Creations, is the leader in the fashion industry.</desc>
-    <episode-num system="onscreen">S39 E151</episode-num>
-    <credits>
-      <actor>Katherine Kelly Lang</actor>
-      <actor>Jacqueline MacInnes Wood</actor>
-      <actor>Thorsten Kaye</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31167565_b_h10_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating><rating system="Freiwillige Selbstkontrolle Fernsehen">
-      <value>12</value>
-    </rating><rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Mediakasvatus- ja kuvaohjelmayksikkö">
-      <value>K12</value>
-    </rating><rating system="Australian Classification Board">
-      <value>M 15+</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422010000 +0500" stop="20260422020000 +0500">
-    <title>Beyond the Gates</title>
-    <sub-title />
-    <desc>Nicole seeks out Joey for a tense exchange; Martin confides in Vernon, worried his past will ruin his political future; Tomas gets new intel about Lynette; Hayley covers her tracks.</desc>
-    <episode-num system="onscreen">S2 E75</episode-num>
-    <credits>
-      <actor>Clifton Davis</actor>
-      <actor>Tamara Tunie</actor>
-      <actor>Daphnee Duplaix</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Soap</category>
-    <category lang="en">Drama</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28339808_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TV14</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>14+</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422020000 +0500" stop="20260422023000 +0500">
-    <title>The Drew Barrymore Show</title>
-    <sub-title>Anne Hathaway</sub-title>
-    <desc>Anne Hathaway tells Drew about her new film "Mother Mary.".</desc>
-    <episode-num system="onscreen">S6 E283</episode-num>
-    <credits>
-      <actor>Drew Barrymore</actor>
-      <actor>Anne Hathaway</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422023000 +0500" stop="20260422030000 +0500">
-    <title>The Drew Barrymore Show</title>
-    <sub-title>Ramy Youssef</sub-title>
-    <desc>Ramy Youssef tells Drew about his upcoming comedy special on HBO and married life.</desc>
-    <episode-num system="onscreen">S6 E284</episode-num>
-    <credits>
-      <actor>Drew Barrymore</actor>
-      <actor>Ramy Youssef</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
-    <rating system="Régie du cinéma">
-      <value>G</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>G</value>
-    </rating><rating system="USA Parental Rating">
-      <value>TVG</value>
-    </rating><rating system="Australian Classification Board">
-      <value>PG</value>
-    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
-      <value>12</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422030000 +0500" stop="20260422033000 +0500">
-    <title>Judge Judy</title>
-    <sub-title>Drunk Sister Totals Car?; Pit Bull Picks Unfair Fight</sub-title>
-    <desc>A woman accuses her unlicensed sister of totaling her car; a pit bull is accused of breaking a little dog's leg.</desc>
-    <episode-num system="onscreen">S19 E171</episode-num>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-    </credits><date>2015</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422033000 +0500" stop="20260422040000 +0500">
-    <title>Judge Judy</title>
-    <sub-title>Sisters' Pepper Spray Fight!</sub-title>
-    <desc>A woman is accused of rubbing pepper spray in her twin's face and threatening her with a butcher knife.</desc>
-    <episode-num system="onscreen">S19 E83</episode-num>
-    <credits>
-      <actor>Judy Sheindlin</actor>
-    </credits><date>2014</date>
-    <category lang="en">Series</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
-    <rating system="USA Parental Rating">
-      <value>TVPG</value>
-    </rating><rating system="Canadian Parental Rating">
-      <value>PG</value>
-    </rating><rating system="Kijkwijzer">
-      <value>AL</value>
-    </rating>
-  </programme><programme channel="CBS2-KCBS-US" start="20260422040000 +0500" stop="20260422050000 +0500">
-    <title>CBS LA at 4pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260422050000 +0500" stop="20260422060000 +0500">
-    <title>CBS LA at 5pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260422060000 +0500" stop="20260422063000 +0500">
-    <title>CBS LA at 6pm</title>
-    <sub-title />
-    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260422063000 +0500" stop="20260422070000 +0500">
-    <title>CBS Evening News</title>
-    <sub-title />
-    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
-    <episode-num system="onscreen">E111</episode-num>
-    <credits>
-      <actor>Tony Dokoupil</actor>
-      <actor>Maurice DuBois</actor>
-      <actor>Jericka Duncan</actor>
-    </credits><date>2026</date>
-    <category lang="en">Series</category>
-    <category lang="en">News</category>
-    <language>en</language>
-    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
-  </programme><programme channel="CBS2-KCBS-US" start="20260422070000 +0500" stop="20260422073000 +0500">
+  </channel><programme channel="CBS2-KCBS-US" start="20260422070000 +0500" stop="20260422073000 +0500">
     <title>Inside Edition</title>
-    <sub-title />
-    <desc>A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <sub-title>AI Dog Scam</sub-title>
+    <desc>A family says they received a photo claiming their dog had been hit by a car - only to discover it was a scam.</desc>
     <episode-num system="onscreen">S38 E162</episode-num>
     <credits>
       <actor>Eva Pilgrim</actor>
@@ -360,6 +154,8 @@
       <value>12</value>
     </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
       <value>A14</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
     </rating>
   </programme><programme channel="CBS2-KCBS-US" start="20260422110000 +0500" stop="20260422113500 +0500">
     <title>CBS LA at 11pm</title>
@@ -371,8 +167,8 @@
     <icon src="http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&amp;h=540" />
   </programme><programme channel="CBS2-KCBS-US" start="20260422113500 +0500" stop="20260422123700 +0500">
     <title>The Late Show With Stephen Colbert</title>
-    <sub-title>Neil deGrasse Tyson; RAYE; Jon Stewart</sub-title>
-    <desc>Astrophysicist Neil deGrasse Tyson; RAYE performs; Late Show Home Shopping with Jon Stewart.</desc>
+    <sub-title>Neil deGrasse Tyson; RAYE; John Kerry</sub-title>
+    <desc>Astrophysicist Neil deGrasse Tyson; RAYE performs; former Secretary of State John Kerry.</desc>
     <episode-num system="onscreen">S11 E104</episode-num>
     <credits>
       <actor>Stephen Colbert</actor>
@@ -421,7 +217,7 @@
       <actor>Byron Allen</actor>
       <actor>Tommy Davidson</actor>
       <actor>Ryan Sickler</actor>
-    </credits><date>2024</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
     <language>en</language>
@@ -893,8 +689,8 @@
     <icon src="http://dtil.tmsimg.com/assets/p31308578_b_h10_aa.jpg?w=960&amp;h=540" />
   </programme><programme channel="CBS2-KCBS-US" start="20260423113500 +0500" stop="20260423123700 +0500">
     <title>The Late Show With Stephen Colbert</title>
-    <sub-title>Pete Buttigieg; Andy Serkis</sub-title>
-    <desc>Politician Pete Buttigieg; actor Andy Serkis.</desc>
+    <sub-title>Pete Buttigieg; Andy Serkis; Jon Stewart</sub-title>
+    <desc>Politician Pete Buttigieg; actor Andy Serkis; Late Show Home Shopping with Jon Stewart.</desc>
     <episode-num system="onscreen">S11 E105</episode-num>
     <credits>
       <actor>Stephen Colbert</actor>
@@ -943,7 +739,7 @@
       <actor>Byron Allen</actor>
       <actor>Jen Kober</actor>
       <actor>Jeremy Hotz</actor>
-    </credits><date>2024</date>
+    </credits><date>2023</date>
     <category lang="en">Series</category>
     <category lang="en">Comedy</category>
     <language>en</language>
@@ -1184,6 +980,197 @@
       <value>TV14</value>
     </rating><rating system="Canadian Parental Rating">
       <value>14+</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424020000 +0500" stop="20260424023000 +0500">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Zayn</sub-title>
+    <desc>Zayn tells Drew about his new album and then he and Drew get tattoos together.</desc>
+    <episode-num system="onscreen">S6 E287</episode-num>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>Zayn</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424023000 +0500" stop="20260424030000 +0500">
+    <title>The Drew Barrymore Show</title>
+    <sub-title>Will Taylor</sub-title>
+    <desc>It's a special Design by Drew with Will Taylor and Arhaus.</desc>
+    <episode-num system="onscreen">S6 E288</episode-num>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>Will Taylor</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31124897_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Régie du cinéma">
+      <value>G</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>G</value>
+    </rating><rating system="USA Parental Rating">
+      <value>TVG</value>
+    </rating><rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424030000 +0500" stop="20260424033000 +0500">
+    <title>Judge Judy</title>
+    <sub-title>Child Left in a Runaway Car?; Beer and Bones Over the Balcony!</sub-title>
+    <desc>A teacher denies leaving her child in her car, which somehow crashed into a co-worker's vehicle; a landlady accuses a tenant of throwing trash from her balcony.</desc>
+    <episode-num system="onscreen">S19 E173</episode-num>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424033000 +0500" stop="20260424040000 +0500">
+    <title>Judge Judy</title>
+    <sub-title>Yoga Promo Gone Bad!; Broken Tooth Tiff; Happy Dog Reunion!</sub-title>
+    <desc>A woman says a yoga studio owner she met in line at a restaurant gave her $2,000 for used gym equipment; a woman wants her boyfriend to repay her for a loan for dental work; a dog's new owners want to return him after learning he will need surgery.</desc>
+    <episode-num system="onscreen">S19 E174</episode-num>
+    <credits>
+      <actor>Judy Sheindlin</actor>
+    </credits><date>2015</date>
+    <category lang="en">Series</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Law</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184382_b_h8_af.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424040000 +0500" stop="20260424050000 +0500">
+    <title>CBS LA at 4pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31317859_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260424050000 +0500" stop="20260424060000 +0500">
+    <title>CBS LA at 5pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31308569_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260424060000 +0500" stop="20260424063000 +0500">
+    <title>CBS LA at 6pm</title>
+    <sub-title />
+    <desc>Join the CBS LA team for stories from communities around SoCal, breaking news from The Desk, and NEXT Weather from the Weathersphere.</desc>
+    <date>2025</date>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p31308575_b_h10_aa.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260424063000 +0500" stop="20260424070000 +0500">
+    <title>CBS Evening News</title>
+    <sub-title />
+    <desc>Tony Dokoupil shares the day's most important stories, delivering context and depth to bring greater understanding to one's world.</desc>
+    <episode-num system="onscreen">E113</episode-num>
+    <credits>
+      <actor>Tony Dokoupil</actor>
+      <actor>Maurice DuBois</actor>
+      <actor>Jericka Duncan</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">News</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p28807922_b_h8_ae.jpg?w=960&amp;h=540" />
+  </programme><programme channel="CBS2-KCBS-US" start="20260424070000 +0500" stop="20260424073000 +0500">
+    <title>Inside Edition</title>
+    <sub-title />
+    <desc>A syndicated newsmagazine includes investigative reports, interviews with newsmakers, human interest stories and celebrity and pop-culture features.</desc>
+    <episode-num system="onscreen">S38 E164</episode-num>
+    <credits>
+      <actor>Eva Pilgrim</actor>
+      <actor>Mary Calvi</actor>
+      <actor>Jim Moret</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Public affairs</category>
+    <category lang="en">Interview</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184110_b_h10_aa.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424073000 +0500" stop="20260424080000 +0500">
+    <title>Entertainment Tonight</title>
+    <sub-title />
+    <desc>News and features about performers, productions and the milieu.</desc>
+    <episode-num system="onscreen">S45 E201</episode-num>
+    <credits>
+      <actor>Kevin Frazier</actor>
+      <actor>Nischelle Turner</actor>
+      <actor>Rachel Smith</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">Entertainment</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p184256_b_h8_aa.jpg?w=960&amp;h=540" />
+    <rating system="Australian Classification Board">
+      <value>M 15+</value>
+    </rating>
+  </programme><programme channel="CBS2-KCBS-US" start="20260424080000 +0500" stop="20260424083100 +0500">
+    <title>Georgie &amp; Mandy's First Marriage</title>
+    <sub-title>A Country Club, a Yokel and a New Boss</sub-title>
+    <desc>Georgie's plan to make new clients at the local country club backfires when its outdated policies upset Audrey; Mandy struggles to prove herself at work.</desc>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Montana Jordan</actor>
+      <actor>Emily Osment</actor>
+      <actor>Dougie Baldwin</actor>
+    </credits><date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Sitcom</category>
+    <language>en</language>
+    <icon src="http://dtil.tmsimg.com/assets/p27322987_b_h8_ah.jpg?w=960&amp;h=540" />
+    <rating system="USA Parental Rating">
+      <value>TVPG</value>
+    </rating><rating system="Canadian Parental Rating">
+      <value>PG</value>
+    </rating><rating system="Freiwillige Selbstkontrolle der Filmwirtschaft">
+      <value>12</value>
+    </rating><rating system="Departamento de Justiça, Classificação, Títulos e Qualificação">
+      <value>12</value>
     </rating>
   </programme>
 </tv>
