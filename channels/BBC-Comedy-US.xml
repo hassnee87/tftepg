@@ -4,39 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/BBC-Comedy-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>BBC Comedy</display-name>
-  </channel><programme channel="BBC-Comedy-US" start="20260429113608 +0500" stop="20260429121142 +0500">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Huntin' Shootin' Fishin'</sub-title>
-    <desc>Eddy has splashed out on a weekend of country pursuits with Patsy.</desc>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <date>20031031</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/tPRXF7HsvIhEiHNlFLPC2mZDBO9.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260429121142 +0500" stop="20260429124429 +0500">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Birthin'</sub-title>
-    <desc>It's a big night for Patsy. She's about to host the Style Awards at the Royal Albert Hall.</desc>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <date>20031107</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/8hIWmveTvpte3eQBoRht9ZJ8QqH.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260429124429 +0500" stop="20260429132625 +0500">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Cold Turkey</sub-title>
-    <desc>Eddy wants to stay at home for Christmas this year, while Patsy is in a downward spiral.</desc>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <date>20031224</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/moxMXQkz96iT69UHjaietLmbp5X.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260429132625 +0500" stop="20260429135956 +0500">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Identity</sub-title>
-    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
-    <episode-num system="onscreen">S99E01</episode-num>
-    <date>20111225</date>
-    <language>en</language>
-    <icon src="https://image.tmdb.org/t/p/original/irhUoYxFmxivc02wP1usq048ZLH.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260429135956 +0500" stop="20260429143257 +0500">
+  </channel><programme channel="BBC-Comedy-US" start="20260429135956 +0500" stop="20260429143257 +0500">
     <title>Absolutely Fabulous</title>
     <sub-title>Job</sub-title>
     <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
@@ -308,67 +276,92 @@
     <date>19970207</date>
     <language>en</language>
     <icon src="https://image.tmdb.org/t/p/original/A7mctMeSEnXBYvRXgvpPDo6zsMd.jpg" />
-  </programme><programme channel="BBC-Comedy-US" start="20260430113913 +0500" stop="20260430123913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430113913 +0500" stop="20260430121030 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Blue</sub-title>
+    <desc>Lister is missing Rimmer, at least until Kryten steps in to help.</desc>
+    <episode-num system="onscreen">S07E05</episode-num>
+    <date>19970214</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/3Q1cQMH5a9XvLS7988kM2Cxpu0O.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260430121030 +0500" stop="20260430124317 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Beyond a Joke</sub-title>
+    <desc>In a hope to educate the crew Kochansky transports them to Pride and Prejudice World.</desc>
+    <episode-num system="onscreen">S07E06</episode-num>
+    <date>19970221</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/2opndGs6hr0ug4UWxHYIt0nlNR.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260430124317 +0500" stop="20260430131617 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Epideme</sub-title>
+    <desc>Lister is impregnated with a virus and he tries to talk his way out of the problem.</desc>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <date>19970228</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/gxVg1lpR6n01mMYvm4M8HFGpNu4.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260430131617 +0500" stop="20260430134912 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Nanarchy</sub-title>
+    <desc>The crew finally discover who stole Red Dwarf and why.</desc>
+    <episode-num system="onscreen">S07E08</episode-num>
+    <date>19970307</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/ej5lfF58aEGHzMMTCociUiSugnj.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260430134912 +0500" stop="20260430142136 +0500">
+    <title>Red Dwarf</title>
+    <sub-title>Back in the Red, Part 1</sub-title>
+    <desc>The nanobots have not only re-created Red Dwarf, they have also brought back the old crew.</desc>
+    <episode-num system="onscreen">S08E01</episode-num>
+    <date>19990218</date>
+    <language>en</language>
+    <icon src="https://image.tmdb.org/t/p/original/8M8WIWNYpQTlIA8VUAVXqI16Jyz.jpg" />
+  </programme><programme channel="BBC-Comedy-US" start="20260430142136 +0500" stop="20260430152136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430123913 +0500" stop="20260430133913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430152136 +0500" stop="20260430162136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430133913 +0500" stop="20260430143913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430162136 +0500" stop="20260430172136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430143913 +0500" stop="20260430153913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430172136 +0500" stop="20260430182136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430153913 +0500" stop="20260430163913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430182136 +0500" stop="20260430192136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430163913 +0500" stop="20260430173913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430192136 +0500" stop="20260430202136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430173913 +0500" stop="20260430183913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430202136 +0500" stop="20260430212136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430183913 +0500" stop="20260430193913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430212136 +0500" stop="20260430222136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430193913 +0500" stop="20260430203913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430222136 +0500" stop="20260430232136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430203913 +0500" stop="20260430213913 +0500">
-    <title>Comedy Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430213913 +0500" stop="20260430223913 +0500">
-    <title>Comedy Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430223913 +0500" stop="20260430233913 +0500">
-    <title>Comedy Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="BBC-Comedy-US" start="20260430233913 +0500" stop="20260501003913 +0500">
+  </programme><programme channel="BBC-Comedy-US" start="20260430232136 +0500" stop="20260501002136 +0500">
     <title>Comedy Show</title>
     <sub-title />
     <desc />
