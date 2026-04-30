@@ -4,52 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Korean-TV-IN.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Korean TV</display-name>
-  </channel><programme channel="Korean-TV-IN" start="20260430145606 +0500" stop="20260430152706 +0500">
-    <title>Unlock My Boss</title>
-    <sub-title />
-    <desc>As Founder And Ceo Of One Of The Country'S Largest It Companies, Kim Sun Joo Is A Name Everyone Knows. A True Genius In His Field, Sun Joo Has Everything In Life Going For Him.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2736551874_0_20260401T154517495Z_113_imageprocessorclient-tvplus-linear-796646965d-7rm2b.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430152706 +0500" stop="20260430155611 +0500">
-    <title>Kairos</title>
-    <sub-title />
-    <desc>On the day of Yuil Constuction's charity concert, the daughter of Seo-jin, the company's youngest director, goes missing. Seo-jin tries to find his daughter, but even the police aren't making much progress.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2736551867_0_20260401T154517455Z_111_imageprocessorclient-tvplus-linear-796646965d-7rm2b.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430155611 +0500" stop="20260430162511 +0500">
-    <title>W-Two Worlds Apart</title>
-    <sub-title />
-    <desc>A Love Story Between A Couple In Their Early Thirties. They Belong To The Same Era But Alternate Realities. A Surgical Resident Is Pulled Into The Webtoon World Of W, Which Was Created By Her Father, And Becomes Entangled In A Murder Mystery</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430162511 +0500" stop="20260430165631 +0500">
-    <title>King in the Love</title>
-    <sub-title />
-    <desc>Set in the Goryeo dynasty, it tells the story of a young and ambitious monarch Won (Im Si-wan) with a desire to conquer, and two people who shape his destiny  childhood friend Wang Rin (Hong Jong-hyun) and a beautiful young woman named San (Im Yoon-ah).</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656570573_0_20260313T115632111Z_127_imageprocessorclient-tvplus-linear-584c967455-9zm4d.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430165631 +0500" stop="20260430172911 +0500">
-    <title>Find me in Memory</title>
-    <sub-title />
-    <desc>A love story between a man who remembers every second of his life and a woman who forgot her painful past.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2773682879_0_20260410T120539487Z_1_imageprocessorclient-tvplus-linear-796646965d-qvq7l.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430172911 +0500" stop="20260430175501 +0500">
+  </channel><programme channel="Korean-TV-IN" start="20260430172911 +0500" stop="20260430175501 +0500">
     <title>Dear My First Love</title>
     <sub-title />
     <desc>A Group Of Yoon Tae Oh'S Friends Suddenly Move Into His House For Their Own Personal Reasons, Where They Experience Love, Friendships, And Struggles.</desc>
@@ -121,137 +76,143 @@
     <rating>
       <value>NA</value>
     </rating>
-  </programme><programme channel="Korean-TV-IN" start="20260430212756 +0500" stop="20260430222756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260430212756 +0500" stop="20260430215616 +0500">
+    <title>Kairos</title>
+    <sub-title />
+    <desc>On the day of Yuil Constuction's charity concert, the daughter of Seo-jin, the company's youngest director, goes missing. Seo-jin tries to find his daughter, but even the police aren't making much progress.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2736551867_0_20260401T154517455Z_111_imageprocessorclient-tvplus-linear-796646965d-7rm2b.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260430215616 +0500" stop="20260430222701 +0500">
+    <title>W-Two Worlds Apart</title>
+    <sub-title />
+    <desc>A Love Story Between A Couple In Their Early Thirties. They Belong To The Same Era But Alternate Realities. A Surgical Resident Is Pulled Into The Webtoon World Of W, Which Was Created By Her Father, And Becomes Entangled In A Murder Mystery</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_1975978342_0_20250926T132239854Z_63_imageprocessorclient-tvplus-linear-d7c8c765b-skvgr.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260430222701 +0500" stop="20260430225821 +0500">
+    <title>King in the Love</title>
+    <sub-title />
+    <desc>Set in the Goryeo dynasty, it tells the story of a young and ambitious monarch Won (Im Si-wan) with a desire to conquer, and two people who shape his destiny  childhood friend Wang Rin (Hong Jong-hyun) and a beautiful young woman named San (Im Yoon-ah).</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2656570573_0_20260313T115632111Z_127_imageprocessorclient-tvplus-linear-584c967455-9zm4d.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260430225821 +0500" stop="20260501035821 +0500">
+    <title>Find me in Memory</title>
+    <sub-title />
+    <desc>A love story between a man who remembers every second of his life and a woman who forgot her painful past.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQT620324A_2773682879_0_20260410T120539487Z_1_imageprocessorclient-tvplus-linear-796646965d-qvq7l.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme><programme channel="Korean-TV-IN" start="20260501035821 +0500" stop="20260501045821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260430222756 +0500" stop="20260430232756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501045821 +0500" stop="20260501055821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260430232756 +0500" stop="20260501002756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501055821 +0500" stop="20260501065821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501002756 +0500" stop="20260501012756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501065821 +0500" stop="20260501075821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501012756 +0500" stop="20260501022756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501075821 +0500" stop="20260501085821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501022756 +0500" stop="20260501032756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501085821 +0500" stop="20260501095821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501032756 +0500" stop="20260501042756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501095821 +0500" stop="20260501105821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501042756 +0500" stop="20260501052756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501105821 +0500" stop="20260501115821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501052756 +0500" stop="20260501062756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501115821 +0500" stop="20260501125821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501062756 +0500" stop="20260501072756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501125821 +0500" stop="20260501135821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501072756 +0500" stop="20260501082756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501135821 +0500" stop="20260501145821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501082756 +0500" stop="20260501092756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501145821 +0500" stop="20260501155821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501092756 +0500" stop="20260501102756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501155821 +0500" stop="20260501165821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501102756 +0500" stop="20260501112756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501165821 +0500" stop="20260501175821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501112756 +0500" stop="20260501122756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501175821 +0500" stop="20260501185821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501122756 +0500" stop="20260501132756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501185821 +0500" stop="20260501195821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501132756 +0500" stop="20260501142756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501195821 +0500" stop="20260501205821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501142756 +0500" stop="20260501152756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501205821 +0500" stop="20260501215821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501152756 +0500" stop="20260501162756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501215821 +0500" stop="20260501225821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501162756 +0500" stop="20260501172756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501225821 +0500" stop="20260501235821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501172756 +0500" stop="20260501182756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501182756 +0500" stop="20260501192756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501192756 +0500" stop="20260501202756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501202756 +0500" stop="20260501212756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501212756 +0500" stop="20260501222756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501222756 +0500" stop="20260501232756 +0500">
-    <title>Hindi Dubbed Korean Show</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="Korean-TV-IN" start="20260501232756 +0500" stop="20260502002756 +0500">
+  </programme><programme channel="Korean-TV-IN" start="20260501235821 +0500" stop="20260502005821 +0500">
     <title>Hindi Dubbed Korean Show</title>
     <sub-title />
     <desc />
