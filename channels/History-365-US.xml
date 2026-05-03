@@ -4,52 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/History-365-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>History 365</display-name>
-  </channel><programme channel="History-365-US" start="20260503053550 +0500" stop="20260503062622 +0500">
-    <title>The Machines That Built America</title>
-    <sub-title>Motorcycle Kings</sub-title>
-    <desc>William Harley and Arthur Davidson had a vision for a new form of transportation.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260503062622 +0500" stop="20260503071647 +0500">
-    <title>The Machines That Built America</title>
-    <sub-title>Telephone Wars</sub-title>
-    <desc>1870s: Letters took weeks, telegraphs pricey  Western Union gave prize.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260503071647 +0500" stop="20260503080903 +0500">
-    <title>The Machines That Built America</title>
-    <sub-title>Power Tool Showdown</sub-title>
-    <desc>20th century America shifts from farming to tech, fueling construction.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260503080903 +0500" stop="20260503090002 +0500">
-    <title>The Machines That Built America</title>
-    <sub-title>Tesla vs Marconi</sub-title>
-    <desc>In 1893, sending info across America is slow  two inventors plan to improve this.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260503090002 +0500" stop="20260503095226 +0500">
-    <title>The Machines That Built America</title>
-    <sub-title>Tractor Revolution</sub-title>
-    <desc>1870s farmers labor hard until the invention of iconic tractors like Caterpillar.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260503095226 +0500" stop="20260503104421 +0500">
+  </channel><programme channel="History-365-US" start="20260503095226 +0500" stop="20260503104421 +0500">
     <title>The Machines That Built America</title>
     <sub-title>Plane Pioneers</sub-title>
     <desc>1910: Airplanes are new, but two dreamers see a future of millions flying.</desc>
@@ -76,182 +31,202 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-  </programme><programme channel="History-365-US" start="20260503122623 +0500" stop="20260503132623 +0500">
+  </programme><programme channel="History-365-US" start="20260503122623 +0500" stop="20260503131648 +0500">
+    <title>The Machines That Built America</title>
+    <sub-title>Telephone Wars</sub-title>
+    <desc>1870s: Letters took weeks, telegraphs pricey  Western Union gave prize.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260503131648 +0500" stop="20260503140904 +0500">
+    <title>The Machines That Built America</title>
+    <sub-title>Power Tool Showdown</sub-title>
+    <desc>20th century America shifts from farming to tech, fueling construction.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260503140904 +0500" stop="20260503150000 +0500">
+    <title>The Machines That Built America</title>
+    <sub-title>Tesla vs Marconi</sub-title>
+    <desc>In 1893, sending info across America is slow  two inventors plan to improve this.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2089180044_1_20251028T095523308Z_123_imageprocessorclient-tvplus-linear-76c46fff7-zwq9w.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260503150000 +0500" stop="20260503160039 +0500">
+    <title>Battle 360</title>
+    <sub-title>Call to Duty</sub-title>
+    <desc>USS Enterprise, destined to become the most decorated ship of World War ll,</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260503160039 +0500" stop="20260503170009 +0500">
+    <title>Battle 360</title>
+    <sub-title>Vengeance at Midway</sub-title>
+    <desc>USS Enterprise, Yorktown, Hornet, key WWII ships, pivot Pacific War.</desc>
+    <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260503170009 +0500" stop="20260503180009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503132623 +0500" stop="20260503142623 +0500">
+  </programme><programme channel="History-365-US" start="20260503180009 +0500" stop="20260503190009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503142623 +0500" stop="20260503152623 +0500">
+  </programme><programme channel="History-365-US" start="20260503190009 +0500" stop="20260503200009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503152623 +0500" stop="20260503162623 +0500">
+  </programme><programme channel="History-365-US" start="20260503200009 +0500" stop="20260503210009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503162623 +0500" stop="20260503172623 +0500">
+  </programme><programme channel="History-365-US" start="20260503210009 +0500" stop="20260503220009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503172623 +0500" stop="20260503182623 +0500">
+  </programme><programme channel="History-365-US" start="20260503220009 +0500" stop="20260503230009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503182623 +0500" stop="20260503192623 +0500">
+  </programme><programme channel="History-365-US" start="20260503230009 +0500" stop="20260504000009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503192623 +0500" stop="20260503202623 +0500">
+  </programme><programme channel="History-365-US" start="20260504000009 +0500" stop="20260504010009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503202623 +0500" stop="20260503212623 +0500">
+  </programme><programme channel="History-365-US" start="20260504010009 +0500" stop="20260504020009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503212623 +0500" stop="20260503222623 +0500">
+  </programme><programme channel="History-365-US" start="20260504020009 +0500" stop="20260504030009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503222623 +0500" stop="20260503232623 +0500">
+  </programme><programme channel="History-365-US" start="20260504030009 +0500" stop="20260504040009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260503232623 +0500" stop="20260504002623 +0500">
+  </programme><programme channel="History-365-US" start="20260504040009 +0500" stop="20260504050009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504002623 +0500" stop="20260504012623 +0500">
+  </programme><programme channel="History-365-US" start="20260504050009 +0500" stop="20260504060009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504012623 +0500" stop="20260504022623 +0500">
+  </programme><programme channel="History-365-US" start="20260504060009 +0500" stop="20260504070009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504022623 +0500" stop="20260504032623 +0500">
+  </programme><programme channel="History-365-US" start="20260504070009 +0500" stop="20260504080009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504032623 +0500" stop="20260504042623 +0500">
+  </programme><programme channel="History-365-US" start="20260504080009 +0500" stop="20260504090009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504042623 +0500" stop="20260504052623 +0500">
+  </programme><programme channel="History-365-US" start="20260504090009 +0500" stop="20260504100009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504052623 +0500" stop="20260504062623 +0500">
+  </programme><programme channel="History-365-US" start="20260504100009 +0500" stop="20260504110009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504062623 +0500" stop="20260504072623 +0500">
+  </programme><programme channel="History-365-US" start="20260504110009 +0500" stop="20260504120009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504072623 +0500" stop="20260504082623 +0500">
+  </programme><programme channel="History-365-US" start="20260504120009 +0500" stop="20260504130009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504082623 +0500" stop="20260504092623 +0500">
+  </programme><programme channel="History-365-US" start="20260504130009 +0500" stop="20260504140009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504092623 +0500" stop="20260504102623 +0500">
+  </programme><programme channel="History-365-US" start="20260504140009 +0500" stop="20260504150009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504102623 +0500" stop="20260504112623 +0500">
+  </programme><programme channel="History-365-US" start="20260504150009 +0500" stop="20260504160009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504112623 +0500" stop="20260504122623 +0500">
+  </programme><programme channel="History-365-US" start="20260504160009 +0500" stop="20260504170009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504122623 +0500" stop="20260504132623 +0500">
+  </programme><programme channel="History-365-US" start="20260504170009 +0500" stop="20260504180009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504132623 +0500" stop="20260504142623 +0500">
+  </programme><programme channel="History-365-US" start="20260504180009 +0500" stop="20260504190009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504142623 +0500" stop="20260504152623 +0500">
+  </programme><programme channel="History-365-US" start="20260504190009 +0500" stop="20260504200009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504152623 +0500" stop="20260504162623 +0500">
+  </programme><programme channel="History-365-US" start="20260504200009 +0500" stop="20260504210009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504162623 +0500" stop="20260504172623 +0500">
+  </programme><programme channel="History-365-US" start="20260504210009 +0500" stop="20260504220009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504172623 +0500" stop="20260504182623 +0500">
+  </programme><programme channel="History-365-US" start="20260504220009 +0500" stop="20260504230009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504182623 +0500" stop="20260504192623 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504192623 +0500" stop="20260504202623 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504202623 +0500" stop="20260504212623 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504212623 +0500" stop="20260504222623 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504222623 +0500" stop="20260504232623 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504232623 +0500" stop="20260505002623 +0500">
+  </programme><programme channel="History-365-US" start="20260504230009 +0500" stop="20260505000009 +0500">
     <title>History Documentary</title>
     <sub-title />
     <desc />
