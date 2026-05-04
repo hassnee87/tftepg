@@ -4,39 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/CTV-Home-CA.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>CTV @Home</display-name>
-  </channel><programme channel="CTV-Home-CA" start="20260504124200 +0500" stop="20260504130805 +0500">
-    <title>One World Kitchen</title>
-    <sub-title>Moon Festival Menu</sub-title>
-    <desc>Host Mary Tang shows us how to celebrate the Moon Festival.</desc>
-    <episode-num system="onscreen">S03E20</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260504130805 +0500" stop="20260504133411 +0500">
-    <title>One World Kitchen</title>
-    <sub-title>Dim Yum!</sub-title>
-    <desc>Host Mary Tang cooks up traditional Cantonese dim sum recipes.</desc>
-    <episode-num system="onscreen">S03E21</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260504133411 +0500" stop="20260504140018 +0500">
-    <title>One World Kitchen</title>
-    <sub-title>Cantonese Seafood</sub-title>
-    <desc>Host Mary Tang shows us four easy Cantonese seafood recipes.</desc>
-    <episode-num system="onscreen">S03E22</episode-num>
-    <date>20260119</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260504140018 +0500" stop="20260504142624 +0500">
-    <title>One World Kitchen</title>
-    <sub-title>Vietnamese Food With a French Twist</sub-title>
-    <desc>Vietnamese dishes with French influence.</desc>
-    <episode-num system="onscreen">S03E23</episode-num>
-    <date>20260118</date>
-    <language>en</language>
-    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m38713_2024_2_28_408c200b-8568-4fd6-9b05-0a4ae02bdc0a_JPG_1920x1080.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260504142624 +0500" stop="20260504145231 +0500">
+  </channel><programme channel="CTV-Home-CA" start="20260504142624 +0500" stop="20260504145231 +0500">
     <title>Up The Dish</title>
     <sub-title>Dumplings</sub-title>
     <desc>Up the Dish's four chefs take a shot at dumplings, from classic Americana to upscale European!</desc>
@@ -436,62 +404,73 @@
     <date>20251006</date>
     <language>en</language>
     <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50922_2024_2_28_3844ab30-55ff-49d9-9a58-2ffe8cf7db7d_JPG_2000x1125.jpg" />
-  </programme><programme channel="CTV-Home-CA" start="20260505123630 +0500" stop="20260505133630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505123630 +0500" stop="20260505130236 +0500">
+    <title>Up The Dish</title>
+    <sub-title>Pad Thai</sub-title>
+    <desc>Up the Dish's four chefs begin in East Asia with classic Pad Thai then make twists inspired by the classic.</desc>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <date>20251006</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m50922_2024_2_28_3844ab30-55ff-49d9-9a58-2ffe8cf7db7d_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260505130236 +0500" stop="20260505132843 +0500">
+    <title>CombiNation Plates</title>
+    <sub-title>Italy/China</sub-title>
+    <desc>Bianca Osbourne combines the cuisines of Italy and China to create inventive dishes.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <date>20260114</date>
+    <language>en</language>
+    <icon src="https://d37lhv1m2qsipm.cloudfront.net/bctho/m49685_2024_2_28_8b5e75e2-3414-431f-8d81-e6282ea4d478_JPG_2000x1125.jpg" />
+  </programme><programme channel="CTV-Home-CA" start="20260505132843 +0500" stop="20260505142843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505133630 +0500" stop="20260505143630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505142843 +0500" stop="20260505152843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505143630 +0500" stop="20260505153630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505152843 +0500" stop="20260505162843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505153630 +0500" stop="20260505163630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505162843 +0500" stop="20260505172843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505163630 +0500" stop="20260505173630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505172843 +0500" stop="20260505182843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505173630 +0500" stop="20260505183630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505182843 +0500" stop="20260505192843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505183630 +0500" stop="20260505193630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505192843 +0500" stop="20260505202843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505193630 +0500" stop="20260505203630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505202843 +0500" stop="20260505212843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505203630 +0500" stop="20260505213630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505212843 +0500" stop="20260505222843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505213630 +0500" stop="20260505223630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505222843 +0500" stop="20260505232843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
     <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505223630 +0500" stop="20260505233630 +0500">
-    <title>CTV @Home: Programme</title>
-    <sub-title />
-    <desc />
-    <language>en</language>
-  </programme><programme channel="CTV-Home-CA" start="20260505233630 +0500" stop="20260506003630 +0500">
+  </programme><programme channel="CTV-Home-CA" start="20260505232843 +0500" stop="20260506002843 +0500">
     <title>CTV @Home: Programme</title>
     <sub-title />
     <desc />
