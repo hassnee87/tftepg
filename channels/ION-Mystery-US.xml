@@ -4,25 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/ION-Mystery-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>ION Mystery</display-name>
-  </channel><programme channel="ION-Mystery-US" start="20260504050000 +0500" stop="20260504060000 +0500">
-    <title>Hawaii Five-0</title>
-    <desc>Serial killer Dr. Madison Gray arrives at the HPD covered in blood that matches Alicia Brown's.</desc>
-    <episode-num system="onscreen">S07E17</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
-  </programme><programme channel="ION-Mystery-US" start="20260504060000 +0500" stop="20260504070000 +0500">
-    <title>Hawaii Five-0</title>
-    <desc>McGarrett and Danny find the missing uranium, which has been used to build a bomb in the jungle.</desc>
-    <episode-num system="onscreen">S07E18</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
-  </programme><programme channel="ION-Mystery-US" start="20260504070000 +0500" stop="20260504080000 +0500">
-    <title>Hawaii Five-0</title>
-    <desc>McGarrett and Kono suspect that an abused young girl may be the victim of a sex trafficking ring.</desc>
-    <episode-num system="onscreen">S07E19</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
-  </programme><programme channel="ION-Mystery-US" start="20260504080000 +0500" stop="20260504090000 +0500">
+  </channel><programme channel="ION-Mystery-US" start="20260504080000 +0500" stop="20260504090000 +0500">
     <title>Hawaii Five-0</title>
     <desc>The husband of a kidnapped woman may be hiding something; Rachel tells Danny she's getting divorced.</desc>
     <episode-num system="onscreen">S07E20</episode-num>
@@ -308,6 +290,24 @@
     <title>Hawaii Five-0</title>
     <desc>McGarrett learns what could have happened to the team had they taken a different path.</desc>
     <episode-num system="onscreen">S05E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
+  </programme><programme channel="ION-Mystery-US" start="20260506080000 +0500" stop="20260506090000 +0500">
+    <title>Hawaii Five-0</title>
+    <desc>Sons becomes the prime suspects in the murder of their parents; Aunt Deb returns to the island.</desc>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
+  </programme><programme channel="ION-Mystery-US" start="20260506090000 +0500" stop="20260506100000 +0500">
+    <title>Hawaii Five-0</title>
+    <desc>When a cowboy is poisoned, Max must work with a rival medical examiner.</desc>
+    <episode-num system="onscreen">S05E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
+  </programme><programme channel="ION-Mystery-US" start="20260506100000 +0500" stop="20260506110000 +0500">
+    <title>Hawaii Five-0</title>
+    <desc>A private detective helps solve the murder of a young woman who secretly worked as an escort.</desc>
+    <episode-num system="onscreen">S05E10</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/63f28b64ea7d5c44b4cb45bcbe7b06db/images/gracenote/assets/p8130405_b_h8_ay.jpg" />
   </programme>

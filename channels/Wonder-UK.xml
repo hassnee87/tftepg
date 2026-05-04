@@ -4,31 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Wonder-UK.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Wonder</display-name>
-  </channel><programme channel="Wonder-UK" start="20260504055530 +0500" stop="20260504064641 +0500">
-    <title>Mighty Trains</title>
-    <sub-title>The Shinkansen</sub-title>
-    <desc>Shinkansen: 177 MPH bullet train links Tokyo-Osaka, thriving despite quakes and harsh weather.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <date>20160101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260504064641 +0500" stop="20260504073847 +0500">
-    <title>Mighty Trains</title>
-    <sub-title>The Canadian</sub-title>
-    <desc>The Canadian: 2,800-mile scenic ride from Vancouver to Toronto through forests, prairies, and peaks.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <date>20160101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260504073847 +0500" stop="20260504083637 +0500">
-    <title>Building Big</title>
-    <sub-title>From Lumber to Lodgings</sub-title>
-    <desc>A house is built from tree to furnished home in just 2 days, a prefab construction done in record time</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <date>20210101</date>
-    <language>en</language>
-    <icon src="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Default_Thumbnail.jpg" />
-  </programme><programme channel="Wonder-UK" start="20260504083637 +0500" stop="20260504092837 +0500">
+  </channel><programme channel="Wonder-UK" start="20260504083637 +0500" stop="20260504092837 +0500">
     <title>Building Big</title>
     <sub-title>A Breezy Challenge</sub-title>
     <desc>A colossal offshore wind farm rises in record time 80 turbines installed (one per day) in harsh North Sea conditions</desc>

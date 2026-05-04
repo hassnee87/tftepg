@@ -4,19 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Movie-Hub-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Movie Hub</display-name>
-  </channel><programme channel="Movie-Hub-US" start="20260504022800 +0500" stop="20260504043500 +0500">
-    <title>I, Robot</title>
-    <sub-title />
-    <desc>A homicide detective (Will Smith) tracks a dangerous robot in 2035.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5046b819cb5c5d4fa3bf20880627e2d1/images/gracenote/assets/p34586_v_h8_aj.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260504043500 +0500" stop="20260504061700 +0500">
-    <title>This Means War</title>
-    <sub-title />
-    <desc>Two CIA agents turn their deadly skills against each other after both fall for the same woman.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8c71bb915f385e47a49661326105bc7b/images/gracenote/assets/p8787579_v_h10_an.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260504061700 +0500" stop="20260504081900 +0500">
+  </channel><programme channel="Movie-Hub-US" start="20260504061700 +0500" stop="20260504081900 +0500">
     <title>Obsessed</title>
     <sub-title />
     <desc>A stalker from the workplace threatens the idyllic life of a happily married man (Idris Elba).</desc>
@@ -76,12 +64,6 @@
     <desc>An art dealer teams up with a hit man and his boss for a money-laundering scheme.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cea909d2064a5a2cad9ae9174f88e22c/rokuFeed/assets/8d208030ed47572888f945f14eff3842.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260505012000 +0500" stop="20260505031000 +0500">
-    <title>The Kill Room</title>
-    <sub-title />
-    <desc>An art dealer teams up with a hit man and his boss for a money-laundering scheme.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cea909d2064a5a2cad9ae9174f88e22c/rokuFeed/assets/8d208030ed47572888f945f14eff3842.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260505031000 +0500" stop="20260505045200 +0500">
     <title>This Means War</title>
     <sub-title />
@@ -94,6 +76,12 @@
     <desc>A male stripper takes a rookie under his wing and instructs him in the finer points of their trade.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b6c7ecf732bf55b190ea22d320cd879f/rokuFeed/assets/b024dd6734225323b3524405e42c0853.jpg" />
+  </programme><programme channel="Movie-Hub-US" start="20260505065700 +0500" stop="20260505090900 +0500">
+    <title>Magic Mike XXL</title>
+    <sub-title />
+    <desc>Former stripper Mike Lane (Channing Tatum) comes out of retirement to perform with his old crew.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cb107ea95de55629a27474611334db6a/rokuFeed/assets/cc0d9da5de1e58199c6af59d59797bec.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260505065700 +0500" stop="20260505090900 +0500">
     <title>Magic Mike XXL</title>
     <sub-title />
@@ -160,12 +148,6 @@
     <desc>Long-divorced parents must pretend they're still happily married at their adopted son's wedding.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ea4be210baa5366abceae2f7f3cd70f/rokuFeed/assets/26faf5e69dbe5ac9adb4ab21847ddf5a.jpg" />
-  </programme><programme channel="Movie-Hub-US" start="20260506020800 +0500" stop="20260506035300 +0500">
-    <title>The Big Wedding</title>
-    <sub-title />
-    <desc>Long-divorced parents must pretend they're still happily married at their adopted son's wedding.</desc>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ea4be210baa5366abceae2f7f3cd70f/rokuFeed/assets/26faf5e69dbe5ac9adb4ab21847ddf5a.jpg" />
   </programme><programme channel="Movie-Hub-US" start="20260506035300 +0500" stop="20260506062300 +0500">
     <title>Selena</title>
     <sub-title />
@@ -178,5 +160,23 @@
     <desc>A woman tries to stop her best friend's marriage with another woman.</desc>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e15f7aea32fb5a279d4b9a71a934a989/rokuFeed/assets/1b03bb49b9605ad4a8becf4eacf65266.jpg" />
+  </programme><programme channel="Movie-Hub-US" start="20260506062300 +0500" stop="20260506082200 +0500">
+    <title>My Best Friend's Wedding</title>
+    <sub-title />
+    <desc>A woman tries to stop her best friend's marriage with another woman.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e15f7aea32fb5a279d4b9a71a934a989/rokuFeed/assets/1b03bb49b9605ad4a8becf4eacf65266.jpg" />
+  </programme><programme channel="Movie-Hub-US" start="20260506082200 +0500" stop="20260506100900 +0500">
+    <title>The Accidental Husband</title>
+    <sub-title />
+    <desc>A man plots revenge after a radio host tells his lover to end their relationship.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a8cda9fa7dec582195a9bb64aa3c277e/images/gracenote/assets/p171506_v_h10_ad.jpg" />
+  </programme><programme channel="Movie-Hub-US" start="20260506100900 +0500" stop="20260506120400 +0500">
+    <title>Elsa &amp; Fred</title>
+    <sub-title />
+    <desc>A feisty retiree (Shirley MacLaine) and an uptight widower (Christopher Plummer) fall in love.</desc>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/adef606fa9ca57f493480ff3430dcfed/images/gracenote/assets/p10728947_v_h10_aa.jpg" />
   </programme>
 </tv>
