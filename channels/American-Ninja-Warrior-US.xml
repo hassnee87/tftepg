@@ -4,25 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/American-Ninja-Warrior-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>American Ninja Warrior</display-name>
-  </channel><programme channel="American-Ninja-Warrior-US" start="20260504084000 +0500" stop="20260504092800 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>A return to Miami for the finals course includes new obstacles The Ledge Jump and Rolling Steel.</desc>
-    <episode-num system="onscreen">S05E13</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260504092800 +0500" stop="20260504101600 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top 30 competitors take on new obstacles like The Ledge Jump and Rolling Steel.</desc>
-    <episode-num system="onscreen">S05E14</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260504101600 +0500" stop="20260504110400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>The top 30 competitors take on new obstacles The Floating Stairs and The Pole Grasper.</desc>
-    <episode-num system="onscreen">S05E15</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260504110400 +0500" stop="20260504115300 +0500">
+  </channel><programme channel="American-Ninja-Warrior-US" start="20260504110400 +0500" stop="20260504115300 +0500">
     <title>American Ninja Warrior</title>
     <desc>The top 30 competitors in Denver continue to tackle The Grip Hang.</desc>
     <episode-num system="onscreen">S05E16</episode-num>
@@ -112,16 +94,16 @@
     <episode-num system="onscreen">S06E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260505053700 +0500" stop="20260505071400 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors face the finals course in St. Louis.</desc>
-    <episode-num system="onscreen">S06E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260505071400 +0500" stop="20260505085100 +0500">
     <title>American Ninja Warrior</title>
     <desc>Top competitors face Salmon Ladder, Floating Stairs, Mine Field and Spider Climb.</desc>
     <episode-num system="onscreen">S06E09</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260505085100 +0500" stop="20260505102800 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>The top competitors from the Denver qualifier face the Denver finals course.</desc>
+    <episode-num system="onscreen">S06E10</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260505085100 +0500" stop="20260505102800 +0500">
@@ -208,12 +190,6 @@
     <episode-num system="onscreen">S07E09</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
-  </programme><programme channel="American-Ninja-Warrior-US" start="20260506055500 +0500" stop="20260506073200 +0500">
-    <title>American Ninja Warrior</title>
-    <desc>Competitors tackling the Houston finals are faced with the Salmon Ladder and Crazy Cliffhanger.</desc>
-    <episode-num system="onscreen">S07E09</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260506073200 +0500" stop="20260506090900 +0500">
     <title>American Ninja Warrior</title>
     <desc>Thirty competitors face obstacles that include Salmon Ladder, Cannonball Alley and Helix Hang.</desc>
@@ -226,10 +202,22 @@
     <episode-num system="onscreen">S07E11</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260506090900 +0500" stop="20260506104600 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>Competitors face obstacles that include Salmon Ladder, Floating Monkey Bars and Door Knob Arch.</desc>
+    <episode-num system="onscreen">S07E11</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
   </programme><programme channel="American-Ninja-Warrior-US" start="20260506104600 +0500" stop="20260506122300 +0500">
     <title>American Ninja Warrior</title>
     <desc>Competitors face obstacles that include Salmon Ladder, Arm Rings, Doorknob Arch and Spider Climb.</desc>
     <episode-num system="onscreen">S07E12</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
+  </programme><programme channel="American-Ninja-Warrior-US" start="20260506122300 +0500" stop="20260506140000 +0500">
+    <title>American Ninja Warrior</title>
+    <desc>A jam-packed review includes the best moments of the season so far.</desc>
+    <episode-num system="onscreen">S07E13</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5fb092391aca5f5f9c5a59dc82a7856c/images/gracenote/assets/p7931557_b_h8_ai.jpg" />
   </programme>

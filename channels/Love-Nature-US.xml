@@ -4,25 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/Love-Nature-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>Love Nature</display-name>
-  </channel><programme channel="Love-Nature-US" start="20260504080600 +0500" stop="20260504090300 +0500">
-    <title>Croc and Hippo Watch with Steve Backshall</title>
-    <desc>Search for legendary monster crocs and encounter the granddaddy of them all.</desc>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/21423c1b22127a0ea18875cd5149c427/images/gracenote/assets/p28676421_b_h10_ab.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260504090300 +0500" stop="20260504100200 +0500">
-    <title>Wonders of Nature</title>
-    <desc>Competition is inevitable when it comes to surviving in Serengeti's horrific environment.</desc>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/68f0f0b4693d5e50b28e5155a85054e0/images/gracenote/assets/p19978453_b_h10_ab.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260504100200 +0500" stop="20260504110400 +0500">
-    <title>Planet Weird</title>
-    <desc>Discover how weirdness is baked into some animals' DNA from birth!</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f29596814cf4d2858c4ca8ac1b03dfb2/images/gracenote/assets/p29135317_b_h8_ag.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260504110400 +0500" stop="20260504120200 +0500">
+  </channel><programme channel="Love-Nature-US" start="20260504110400 +0500" stop="20260504120200 +0500">
     <title>Undiscovered Vistas</title>
     <desc>A feature on the Andean Altiplano, a rugged plain in Bolivia.</desc>
     <episode-num system="onscreen">S01E08</episode-num>
@@ -145,12 +127,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260505061300 +0500" stop="20260505071500 +0500">
-    <title>Deep Dive North America</title>
-    <desc>Embark on a journey as Lizzie traverses air, land and sea to encounter Alaskan wildlife.</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260505071500 +0500" stop="20260505081700 +0500">
     <title>Deep Dive North America</title>
     <desc>Trekking through the Canadian rainforest; looking up at dizzying redwood trees.</desc>
@@ -163,6 +139,12 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/88074e4e834451b3b84187b19e78732b/images/gracenote/assets/p21440519_b_h10_am.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260505091900 +0500" stop="20260505102000 +0500">
+    <title>Shadowlands</title>
+    <desc>Rare penguins are locked in a daily game of cat and mouse with giant New Zealand sea lions.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/956c5a9b4819502b8a92f59b52af98b1/images/gracenote/assets/p21017103_b_h8_ao.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260505091900 +0500" stop="20260505102000 +0500">
     <title>Shadowlands</title>
     <desc>Rare penguins are locked in a daily game of cat and mouse with giant New Zealand sea lions.</desc>
@@ -304,12 +286,6 @@
     <episode-num system="onscreen">S01E01</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f29596814cf4d2858c4ca8ac1b03dfb2/images/gracenote/assets/p29135317_b_h8_ag.jpg" />
-  </programme><programme channel="Love-Nature-US" start="20260506061900 +0500" stop="20260506072100 +0500">
-    <title>Planet Weird</title>
-    <desc>Discover how weirdness is baked into some animals' DNA from birth!</desc>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f29596814cf4d2858c4ca8ac1b03dfb2/images/gracenote/assets/p29135317_b_h8_ag.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260506072100 +0500" stop="20260506082000 +0500">
     <title>Africa's Hidden Kingdoms</title>
     <desc>How animals survive in the hostile Drakensberg Mountain range.</desc>
@@ -328,11 +304,35 @@
     <episode-num system="onscreen">S01E04</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260506091900 +0500" stop="20260506102100 +0500">
+    <title>Deep Dive North America</title>
+    <desc>Lizzie swims through coral reefs, digs for ancient fossils and treks through jungles.</desc>
+    <episode-num system="onscreen">S01E04</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
   </programme><programme channel="Love-Nature-US" start="20260506102100 +0500" stop="20260506112300 +0500">
     <title>Deep Dive North America</title>
     <desc>Tag along with Lizzie on her most dangerous Atlantic adventure yet; free diving with bull sharks.</desc>
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260506112300 +0500" stop="20260506122600 +0500">
+    <title>Deep Dive North America</title>
+    <desc>Lizzie heads north to tag sharks and witness first-hand the slow disappearance of sea ice.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/acc2ab38986e63c8adaed88460e5df7b/images/gracenote/assets/p30609730_b_h10_ai.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260506122600 +0500" stop="20260506132800 +0500">
+    <title>Hungry Games: Alaska's Big Bear Challenge</title>
+    <desc>As the competition begins, lean, mean and newly awakened bears brawl over spring resources.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/91a3404445eda543d7cf14f13ad35694/images/gracenote/assets/p27730902_b_h8_ab.jpg" />
+  </programme><programme channel="Love-Nature-US" start="20260506132800 +0500" stop="20260506143000 +0500">
+    <title>Animals Like Us</title>
+    <desc>Meeting a lovey-dovey penguin, a flamingo makeup artist and a badger making great escapes.</desc>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62abcefcc981554eb46d23e45641e1de/rokuFeed/assets/30922ff9e5e4527087a0b6ba9cec2a36.jpg" />
   </programme>
 </tv>

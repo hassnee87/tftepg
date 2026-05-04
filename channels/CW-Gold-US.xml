@@ -4,25 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/CW-Gold-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>CW Gold</display-name>
-  </channel><programme channel="CW-Gold-US" start="20260504090656 +0500" stop="20260504095749 +0500">
-    <title>NUMB3RS</title>
-    <desc>Don and the team investigate murders that are being copied from scenes in a new movie.</desc>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8b9c8126cd4558c85e37a3f7f3c75e9/rokuFeed/assets/eb90d12411eb5ab99218190e21166d45.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260504095749 +0500" stop="20260504104821 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team searches for a geneticist's daughter who they suspect was abducted by her unstable mother.</desc>
-    <episode-num system="onscreen">S06E05</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3684a6b7dbc945bbf1501269d2b0d5a/rokuFeed/assets/5dd1a74951c45edcb74368435ad8cc39.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260504104821 +0500" stop="20260504113852 +0500">
-    <title>NUMB3RS</title>
-    <desc>The team investigate a mysterious death at a decommissioned air base known for paranormal-like happenings.</desc>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b2df35813fcffc83b2acc739a9f89920/rokuFeed/assets/92a08e3c3ea75e88bdde73c6d048271a.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260504113852 +0500" stop="20260504122940 +0500">
+  </channel><programme channel="CW-Gold-US" start="20260504113852 +0500" stop="20260504122940 +0500">
     <title>Rookie Blue</title>
     <desc>After six months undercover, Nick &amp; Andy go missing. 15 Division scrambles in a rescue.</desc>
     <episode-num system="onscreen">S04E01</episode-num>
@@ -166,12 +148,6 @@
     <episode-num system="onscreen">S01E03</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/73dbd55f16b25c3ab7b1a249fb7a6625/rokuFeed/assets/ac61d4c4083d5abea355ac8ef005a656.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260505064814 +0500" stop="20260505073818 +0500">
-    <title>NUMB3RS</title>
-    <desc>Charlie's math insight may stop a deadly virus that may be bioterrorism.</desc>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/73dbd55f16b25c3ab7b1a249fb7a6625/rokuFeed/assets/ac61d4c4083d5abea355ac8ef005a656.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260505073818 +0500" stop="20260505082815 +0500">
     <title>NUMB3RS</title>
     <desc>Charlie convinces Don to investigate the apparent suicide of a student.</desc>
@@ -184,6 +160,12 @@
     <episode-num system="onscreen">S01E05</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b8b701590a795dfcb2f123adecbd1104/rokuFeed/assets/0d0ea1b8412f5d48b8a9a7cf5c9260c4.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260505091843 +0500" stop="20260505100726 +0500">
+    <title>NUMB3RS</title>
+    <desc>Don and Charlie probe a series of railroad accidents involving negligence.</desc>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/150e2261db99530fb6d7a4a3a5c216d5/rokuFeed/assets/5146291f403c5a2587a59ea20c9e3ab5.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260505091843 +0500" stop="20260505100726 +0500">
     <title>NUMB3RS</title>
     <desc>Don and Charlie probe a series of railroad accidents involving negligence.</desc>
@@ -346,12 +328,6 @@
     <episode-num system="onscreen">S03E08</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
-  </programme><programme channel="CW-Gold-US" start="20260506064637 +0500" stop="20260506073538 +0500">
-    <title>Scorpion</title>
-    <desc>Paige's estranged mother stumbles upon a forgotten nuclear reactor precariously close to exploding.</desc>
-    <episode-num system="onscreen">S03E08</episode-num>
-    <language>en</language>
-    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260506073538 +0500" stop="20260506082316 +0500">
     <title>Scorpion</title>
     <desc>Walter swims through the La Brea Tar Pits to save a woman. Paige's mother “helps” Ralph with his cookie sales.</desc>
@@ -376,11 +352,35 @@
     <episode-num system="onscreen">S03E13</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260506095706 +0500" stop="20260506104647 +0500">
+    <title>Scorpion</title>
+    <desc>When the team is duped into producing counterfeit money, Paige's mother's skills as a grifter saves them.</desc>
+    <episode-num system="onscreen">S03E13</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
   </programme><programme channel="CW-Gold-US" start="20260506104647 +0500" stop="20260506113548 +0500">
     <title>Scorpion</title>
     <desc>The team must save a man teetering on the edge of a sink hole that threatens to destroy the LA's water supply.</desc>
     <episode-num system="onscreen">S03E14</episode-num>
     <language>en</language>
     <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260506113548 +0500" stop="20260506122459 +0500">
+    <title>Scorpion</title>
+    <desc>The team's job finding sunken treasure goes awry. Walter &amp; Paige’s boat explodes; they're lost in the ocean.</desc>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/082e439b6b4f5dbeb0922f62980dfaa6/images/gracenote/assets/p10779263_b_h10_ah.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260506122459 +0500" stop="20260506131505 +0500">
+    <title>Wild Cards</title>
+    <desc>Max and Ellis investigate a mysterious murder among an eccentric family where everyone is a suspect.</desc>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dbabae34666a8acd3fc1408ce0db60b6/rokuFeed/assets/e3d0071a249759329b0a583142d637cb.jpg" />
+  </programme><programme channel="CW-Gold-US" start="20260506131505 +0500" stop="20260506140511 +0500">
+    <title>Wild Cards</title>
+    <desc>When Chief Li and Max are trapped as our wheels aren't gone. Ellis tries to find a way to get them out safely without letting emotion cloud his judgment.</desc>
+    <episode-num system="onscreen">S02E07</episode-num>
+    <language>en</language>
+    <icon src="https://images.sr.roku.com/idType/roku-trc/context/trc/id/03dc549a78321c02fe11bc0044a6b2c1/rokuFeed/assets/efec74a3a10058a785af18303398b37a.jpg" />
   </programme>
 </tv>
