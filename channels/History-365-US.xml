@@ -4,43 +4,7 @@
     <icon src="https://thefilmtuition.com/tvlogo/History-365-US.png" />
     <url>https://thefilmtuition.com/tv/</url>
     <display-name>History 365</display-name>
-  </channel><programme channel="History-365-US" start="20260504015918 +0500" stop="20260504030001 +0500">
-    <title>Battle 360</title>
-    <sub-title>The Grey Ghost</sub-title>
-    <desc>The Aircraft Carrier USS Enterprise was the most decorated ship of World War II.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260504030001 +0500" stop="20260504040040 +0500">
-    <title>Battle 360</title>
-    <sub-title>Call to Duty</sub-title>
-    <desc>USS Enterprise, destined to become the most decorated ship of World War ll,</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260504040040 +0500" stop="20260504050009 +0500">
-    <title>Battle 360</title>
-    <sub-title>Vengeance at Midway</sub-title>
-    <desc>USS Enterprise, Yorktown, Hornet, key WWII ships, pivot Pacific War.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260504050009 +0500" stop="20260504055925 +0500">
-    <title>Battle 360</title>
-    <sub-title>Jaws of the Enemy</sub-title>
-    <desc>The US Navy is on the offensive and the first strike is in the Solomon Islands.</desc>
-    <language>en</language>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme><programme channel="History-365-US" start="20260504055925 +0500" stop="20260504070001 +0500">
+  </channel><programme channel="History-365-US" start="20260504055925 +0500" stop="20260504070001 +0500">
     <title>Battle 360</title>
     <sub-title>Bloody Santa Cruz</sub-title>
     <desc>Part two of the deadly saga of the Solomons plays out at the Santa Cruz Islands.</desc>
@@ -67,26 +31,42 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-  </programme><programme channel="History-365-US" start="20260504090001 +0500" stop="20260504100001 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
+  </programme><programme channel="History-365-US" start="20260504090001 +0500" stop="20260504100040 +0500">
+    <title>Battle 360</title>
+    <sub-title>Call to Duty</sub-title>
+    <desc>USS Enterprise, destined to become the most decorated ship of World War ll,</desc>
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504100001 +0500" stop="20260504110001 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260504100040 +0500" stop="20260504110010 +0500">
+    <title>Battle 360</title>
+    <sub-title>Vengeance at Midway</sub-title>
+    <desc>USS Enterprise, Yorktown, Hornet, key WWII ships, pivot Pacific War.</desc>
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504110001 +0500" stop="20260504120001 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260504110010 +0500" stop="20260504115925 +0500">
+    <title>Battle 360</title>
+    <sub-title>Jaws of the Enemy</sub-title>
+    <desc>The US Navy is on the offensive and the first strike is in the Solomon Islands.</desc>
     <language>en</language>
-  </programme><programme channel="History-365-US" start="20260504120001 +0500" stop="20260504130001 +0500">
-    <title>History Documentary</title>
-    <sub-title />
-    <desc />
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme><programme channel="History-365-US" start="20260504115925 +0500" stop="20260504130001 +0500">
+    <title>Battle 360</title>
+    <sub-title>Bloody Santa Cruz</sub-title>
+    <desc>Part two of the deadly saga of the Solomons plays out at the Santa Cruz Islands.</desc>
     <language>en</language>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2840157197_0_20260426T022319155Z_60_imageprocessorclient-tvplus-linear-796646965d-nkkg2.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme><programme channel="History-365-US" start="20260504130001 +0500" stop="20260504140001 +0500">
     <title>History Documentary</title>
     <sub-title />
